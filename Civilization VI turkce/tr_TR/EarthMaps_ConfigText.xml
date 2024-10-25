@@ -2,17 +2,17 @@
 <GameData>
 	<LocalizedText>
 		<!-- Name and Description-->
-		<Replace Language="en_US" Tag="LOC_TSLEARTH_NAME">
-			<Text>Alkukotien Maa</Text>
+		<Replace Language="pl_PL" Tag="LOC_TSLEARTH_NAME">
+			<Text>Yeryüzü Ana</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_TSLEARTH_DESCRIPTION">
-			<Text>Kansakunnat aloittavat historiallisen pääkaupunkinsa sijainnista Maapallolla.</Text>
+		<Replace Language="pl_PL" Tag="LOC_TSLEARTH_DESCRIPTION">
+			<Text>Milletler, tarihi başkentlerinin konumundan Dünya'da başlar.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_EARTH_MAP_STANDARD_NAME">
-			<Text>Maa</Text>
+		<Replace Language="pl_PL" Tag="LOC_EARTH_MAP_STANDARD_NAME">
+			<Text>Dünya</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_EARTH_MAP_STANDARD_DESCRIPTION">
-			<Text>Mukaelma Maapallosta, jossa luonnonvarat, maasto ja maastonpiirteet heijastavat historiallisia sijaintejaan.</Text>
+		<Replace Language="pl_PL" Tag="LOC_EARTH_MAP_STANDARD_DESCRIPTION">
+			<Text>Dünya'nın bir temsili, kaynaklar, arazi ve özellikler tarihi konumlarını yansıtır.</Text>
 		</Replace>
 	</LocalizedText>
 </GameData>
