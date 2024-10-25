@@ -2,30 +2,30 @@
 <GameData>
 	<LocalizedText>
 		<!-- Main menu text -->
-		<Replace Language="en_US" Tag="LOC_BENCHMARK_GRAPHICS">
-			<Text>Grafiikan suorituskyky</Text>
+		<Replace Language="pl_PL" Tag="LOC_BENCHMARK_GRAPHICS">
+			<Text>Grafik performansı</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BENCHMARK_AI">
-			<Text>Tekoälyn suorituskyky</Text>
+		<Replace Language="pl_PL" Tag="LOC_BENCHMARK_AI">
+			<Text>Yapay zeka performansı</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BENCHMARK_GRAPHICS_TT">
-			<Text>Mittaa tietokoneesi grafiikan suorituskyky</Text>
+		<Replace Language="pl_PL" Tag="LOC_BENCHMARK_GRAPHICS_TT">
+			<Text>Bilgisayarınızın grafik performansını ölçer</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BENCHMARK_AI_TT">
-			<Text>Mittaa tietokoneesi tekoälyn suorituskyky</Text>
+		<Replace Language="pl_PL" Tag="LOC_BENCHMARK_AI_TT">
+			<Text>Bilgisayarınızın yapay zeka performansını ölçer</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BENCHMARK_AI_TT_ERROR">
-			<Text>[COLOR_RED]Asteekkien lisäosa tulee ottaa käyttöön, jotta mittaus voidaan suorittaa.[ENDCOLOR]</Text>
+		<Replace Language="pl_PL" Tag="LOC_BENCHMARK_AI_TT_ERROR">
+			<Text>[COLOR_RED]Ölçümün yapılabilmesi için Aztek DLC'si etkinleştirilmelidir.[ENDCOLOR]</Text>
 		</Replace>
 		<!-- Benchmarking UI text -->
-		<Replace Language="en_US" Tag="LOC_BENCHMARK_TIME">
-			<Text>Kesto:</Text>
+		<Replace Language="pl_PL" Tag="LOC_BENCHMARK_TIME">
+			<Text>Süre:</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BENCHMARK_TURN">
-			<Text>Vuoro:</Text>
+		<Replace Language="pl_PL" Tag="LOC_BENCHMARK_TURN">
+			<Text>Tur:</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BENCHMARK_AVG_TURN_TIME">
-			<Text>Vuoron kesto keskimäärin:</Text>
+		<Replace Language="pl_PL" Tag="LOC_BENCHMARK_AVG_TURN_TIME">
+			<Text>Ortalama tur süresi:</Text>
 		</Replace>
 	</LocalizedText>
 </GameData>
