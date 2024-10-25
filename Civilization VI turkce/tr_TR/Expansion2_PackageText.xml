@@ -1,34 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameData>
 	<LocalizedText>
-		<Replace Language="en_US" Tag="LOC_EXPANSION2_MOD_TITLE">
-			<Text>Laajennos: Kehkeytyvä myrsky</Text>
+		<Replace Language="tr_TR" Tag="LOC_EXPANSION2_MOD_TITLE">
+			<Text>Genişleme: Yükselen Fırtına</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_EXPANSION2_MOD_TEASER">
-			<Text>Pelin laajennos, joka tuo maailmankongressin, muuttuvan ympäristön ja katastrofit, sähkön, uusia kansakuntia ja hallitsijoita, sekä kovin paljon muuta!</Text>
+		<Replace Language="tr_TR" Tag="LOC_EXPANSION2_MOD_TEASER">
+			<Text>Dünya kongresi, değişen çevre koşulları ve felaketler, elektrik, yeni milletler ve liderler gibi birçok yenilik sunan bir oyun genişlemesi!</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_EXPANSION2_MOD_DESCRIPTION">
-			<Text>Peli käyttää Kehkytyvä myrsky -laajennosta, joka tuo peliin maailmankongressin, muuttuvan ympäristön ja katastrofit, sähkön ja muuta. Kykenetkö johtamaan kansasi lävitse muuttuvan maailman yllätysten, joka kestää ajasta iäisyyteen?</Text>
+		<Replace Language="tr_TR" Tag="LOC_EXPANSION2_MOD_DESCRIPTION">
+			<Text>Oyun, Yükselen Fırtına genişlemesini kullanır ve dünya kongresi, değişen çevre koşulları, felaketler, elektrik gibi özellikler ekler. Halkınızı değişen dünyadaki sürprizlerle başarıyla yönetip ölümsüz kılabilecek misiniz?</Text>
 		</Replace>
-		<!-- Black Death Scenario -->
-		<Replace Language="en_US" Tag="LOC_BLACKDEATH_MOD_TITLE">
-			<Text>Skenaario: Musta surma</Text>
+		<!-- Kara Veba Senaryosu -->
+		<Replace Language="tr_TR" Tag="LOC_BLACKDEATH_MOD_TITLE">
+			<Text>Senaryo: Kara Veba</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BLACKDEATH_SCENARIO_TOOLTIP">
-			<Text>Kykenetkö johdattamaan kansasi läpi taudin tuoman kärsimysten? 4 pelaajaa, 85 vuoroa.</Text>
+		<Replace Language="tr_TR" Tag="LOC_BLACKDEATH_SCENARIO_TOOLTIP">
+			<Text>Halkınızı vebanın getirdiği zorlukların içinden geçirebilecek misiniz? 4 oyuncu, 85 tur.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BLACKDEATH_SCENARIO_DESCRIPTION">
-			<Text>Tässä skenaariossa ohjastat keskiaikaista kansaa lävitse Mustan surman aikakauden, yrittäen pitää tieteen ja kulttuurin rattaat pyörimässä väen vähetessä ja uskon romahtaessa. Rutto leviää aaltoina ja kylvää tuhoa ruutuihin. Kykenetkö kestämään kyllin kauan saavuttaaksesi valistuneisuuden aikakauden vai näetkö kansakuntasi romahtavan uskottomuuteen ja epätoivoon?</Text>
+		<Replace Language="tr_TR" Tag="LOC_BLACKDEATH_SCENARIO_DESCRIPTION">
+			<Text>Bu senaryoda, Kara Veba çağında ortaçağ milletinizi yöneteceksiniz, nüfus azalırken ve inanç çökerken bilim ve kültürün ilerlemesini sağlamaya çalışacaksınız. Veba dalgalar halinde yayılıp haritayı tahrip ediyor. Aydınlanma Çağı'na kadar dayanabilecek misiniz, yoksa milletiniz inançsızlık ve umutsuzluk içinde mi çökecek?</Text>
 		</Replace>
-		<!-- War Machine Scenario -->
-		<Replace Language="en_US" Tag="LOC_WARMACHINE_MOD_TITLE">
-			<Text>Moninpeliskenaario: Sotakone</Text>
+		<!-- Savaş Makinesi Senaryosu -->
+		<Replace Language="tr_TR" Tag="LOC_WARMACHINE_MOD_TITLE">
+			<Text>Çok Oyunculu Senaryo: Savaş Makinesi</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_WARMACHINE_SCENARIO_TOOLTIP">
-			<Text>Kaksinpeliskenaario jossa Ensimmäisen maailmansodan alussa Saksa hyökkää Ranskaan.</Text>
+		<Replace Language="tr_TR" Tag="LOC_WARMACHINE_SCENARIO_TOOLTIP">
+			<Text>Birinci Dünya Savaşı'nın başında Almanya'nın Fransa'ya saldırdığı iki oyunculu senaryo.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_WARMACHINE_SCENARIO_DESCRIPTION">
-			<Text>Tässä skenaariossa komennat Ranskaa tahi Saksaa Ensimmäisen maailmansodan ensimmäisen kuukauden aikana. Hallitset valtavaa taisteluvalmista armeijaa, teollista valtakuntaa joka kykenee sitä tukemaan ja vain 40 vuoroa joiden aikana puolustaa tahi vallata Pariisi. Kykenetkö saavuttamaan voiton yhdessä suurimmista koitoksista maailmanhistoriassa, vai saavatko suuret mittasuhteet yliotteen sinusta?</Text>
+		<Replace Language="tr_TR" Tag="LOC_WARMACHINE_SCENARIO_DESCRIPTION">
+			<Text>Bu senaryoda, Birinci Dünya Savaşı'nın ilk ayında Fransa veya Almanya'yı yöneteceksiniz. Devasa savaş hazırlığındaki bir orduyu, onu destekleyen sanayi gücünü kontrol ediyor ve 40 turda Paris'i savunmaya veya ele geçirmeye çalışıyorsunuz. Tarihin en büyük mücadelelerinden birinde zafer kazanabilecek misiniz, yoksa bu muazzam çatışma sizi alt mı edecek?</Text>
 		</Replace>
 	</LocalizedText>
 </GameData>
