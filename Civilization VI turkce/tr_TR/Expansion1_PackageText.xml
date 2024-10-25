@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameData>
 	<LocalizedText>
-		<Replace Language="en_US" Tag="LOC_EXPANSION1_MOD_TITLE">
-			<Text>Laajennos: Nousu ja tuho</Text>
+		<Replace Language="tr_TR" Tag="LOC_EXPANSION1_MOD_TITLE">
+			<Text>Genişleme: Yükseliş ve Çöküş</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_EXPANSION1_MOD_TEASER">
-			<Text>Pelin laajennos, joka tuo kansakuntien vaihtuvat kaudet, uskollisuuden, käskynhaltijat, hätätilat, uusia kansoja ja hallitsijoita, ja kovin paljon muuta!</Text>
+		<Replace Language="tr_TR" Tag="LOC_EXPANSION1_MOD_TEASER">
+			<Text>Milletlerin değişen çağları, sadakat sistemi, valiler, acil durumlar, yeni milletler ve liderler gibi birçok yenilik getiren bir oyun genişlemesi!</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_EXPANSION1_MOD_DESCRIPTION">
-			<Text>Peli käyttää Nousu ja tuho -laajennosta, joka tuo peliin kansakuntien vaihtuvat kaudet, uskollisuuden, käskynhaltijat ja hätätilat. Kykenetkö johtamaan kansasi kultakauden kukoistukseen? Tai kohtaako kansasi synkän kauden tuomat haasteet?</Text>
+		<Replace Language="tr_TR" Tag="LOC_EXPANSION1_MOD_DESCRIPTION">
+			<Text>Oyun, Yükseliş ve Çöküş genişlemesini kullanır ve milletlerin değişen çağları, sadakat sistemi, valiler ve acil durumlar gibi özellikler ekler. Halkınızı altın çağın zirvesine taşıyabilecek misiniz? Yoksa karanlık çağın zorluklarıyla mı yüzleşeceksiniz?</Text>
 		</Replace>
 	</LocalizedText>
 </GameData>
