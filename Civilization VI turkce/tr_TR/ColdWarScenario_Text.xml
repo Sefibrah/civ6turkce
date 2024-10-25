@@ -2,61 +2,61 @@
 <GameData>
 	<LocalizedText>
 		<!-- Victories -->
-		<Replace Language="en_US" Tag="LOC_COLDWAR_PROXYWAR_VICTORY_TITLE">
-			<Text>Sijaissota</Text>
+		<Replace Language="pl_PL" Tag="LOC_COLDWAR_PROXYWAR_VICTORY_TITLE">
+			<Text>Vekâlet Savaşı</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_COLDWAR_PROXYWAR_VICTORY_DESC">
-			<Text>Valtaa kolme kaupunkivaltiota.</Text>
+		<Replace Language="pl_PL" Tag="LOC_COLDWAR_PROXYWAR_VICTORY_DESC">
+			<Text>Üç şehir devletini ele geçir.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_COLDWAR_PROXYWAR_VICTORY_BLURB">
-			<Text>Tässä on kylmän sodan strategiani: me voitamme, he häviävät. -  Ronald Reagan</Text>
+		<Replace Language="pl_PL" Tag="LOC_COLDWAR_PROXYWAR_VICTORY_BLURB">
+			<Text>İşte Soğuk Savaş stratejim: Biz kazanırız, onlar kaybeder. - Ronald Reagan</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_COLDWAR_ARMAGEDDON_VICTORY_TITLE">
-			<Text>Maailmanlopun herra</Text>
+		<Replace Language="pl_PL" Tag="LOC_COLDWAR_ARMAGEDDON_VICTORY_TITLE">
+			<Text>Kıyamet Efendisi</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_COLDWAR_ARMAGEDDON_VICTORY_DESC">
-			<Text>Jos jonkin kaupungin keskustaan isketään ydinaseella, iske useimpia kaupungin keskustoja vuororajoitukseen mennessä.</Text>
+		<Replace Language="pl_PL" Tag="LOC_COLDWAR_ARMAGEDDON_VICTORY_DESC">
+			<Text>Bir şehrin merkezine nükleer silah isabet ettikten sonra, tur sınırı bitmeden daha fazla şehir merkezini vur.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_COLDWAR_ARMAGEDDON_VICTORY_BLURB">
-			<Text>Ainut tapa voittaa on olla pelaamatta.</Text>
+		<Replace Language="pl_PL" Tag="LOC_COLDWAR_ARMAGEDDON_VICTORY_BLURB">
+			<Text>Kazanmanın tek yolu oynamamaktır.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_COLDWAR_TANKBANKER_VICTORY_TITLE">
-			<Text>Tankkipankkiiri</Text>
+		<Replace Language="pl_PL" Tag="LOC_COLDWAR_TANKBANKER_VICTORY_TITLE">
+			<Text>Tank Bankeri</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_COLDWAR_TANKBANKER_VICTORY_DESC">
-			<Text>Mikäli ainoankaan kaupungin keskustaan ei isketä ydinaseella, omista eniten panssarivaunuja vuororajoitukseen mennessä.</Text>
+		<Replace Language="pl_PL" Tag="LOC_COLDWAR_TANKBANKER_VICTORY_DESC">
+			<Text>Hiçbir şehre nükleer saldırı düzenlenmezse, tur sınırı dolduğunda en çok tank sende olsun.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_COLDWAR_TANKBANKER_VICTORY_BLURB">
-			<Text>Meillä on eniten panssarivaunuja pelin lopussa! Olemme voittaneet!</Text>
+		<Replace Language="pl_PL" Tag="LOC_COLDWAR_TANKBANKER_VICTORY_BLURB">
+			<Text>Oyunun sonunda en çok tank bizde! Kazandık!</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_COLDWAR_RULESET_TITLE">
-			<Text>Maailmanlaajuinen ydintalvisota</Text>
+		<Replace Language="pl_PL" Tag="LOC_COLDWAR_RULESET_TITLE">
+			<Text>Küresel Nükleer Kış Savaşı</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_COLDWAR_RULESET_DESCRIPTION"> <!-- Keep in sync with LOC_COLDWAR_MOD_DESCRIPTION -->
-			<Text>Kylmä sota käy kuumimmillaan tässä taistelupainotteisessa atomiajan skenaariossa. Kesto 50 vuoroa.[NEWLINE]Voittamisen ehdot[NEWLINE][ICON_Bullet]Maailmanlopun herra: Jos jonkin kaupungin keskustaan isketään ydinaseella, iske useimpia kaupungin keskustoja vuororajoitukseen mennessä.[NEWLINE][ICON_Bullet]Tankkipankkiiri: Mikäli ainoankaan kaupungin keskustaan ei isketä ydinaseella, omista eniten panssarivaunuja vuororajoitukseen mennessä.[NEWLINE][ICON_Bullet]Sijaissota: Valtaa kolme kaupunkivaltiota.[NEWLINE]Muutokset säännöissä[NEWLINE][ICON_Bullet]Yksiköt ja ydinaseet ovat halvempia rakentaa ja ylläpitää. Ne eivät vaadi strategisia luonnonvaroja.[NEWLINE][ICON_Bullet]Pidennetty massatuhoaseiden ja pommittajien kantama.[NEWLINE][ICON_Bullet]Rakentajilla on enemmän työstöjä.[NEWLINE][ICON_Bullet]Kartta on paljas alussa.[NEWLINE][ICON_Bullet]Ei heimokyliä.[NEWLINE][ICON_Bullet]Ei barbaareja.[NEWLINE][ICON_Bullet]Ei sotaväsymystä.</Text>
+		<Replace Language="pl_PL" Tag="LOC_COLDWAR_RULESET_DESCRIPTION">			<!-- Keep in sync with LOC_COLDWAR_MOD_DESCRIPTION -->
+			<Text>Soğuk Savaş, bu savaş odaklı atom çağı senaryosunda doruğa ulaşıyor. Süre: 50 tur.[NEWLINE]Zafer Koşulları[NEWLINE][ICON_Bullet]Kıyamet Efendisi: Bir şehrin merkezine nükleer saldırı düzenlendikten sonra, tur sınırı dolmadan en fazla şehir merkezini vur.[NEWLINE][ICON_Bullet]Tank Bankeri: Hiçbir şehre nükleer saldırı düzenlenmezse, tur sınırı dolduğunda en çok tank sende olsun.[NEWLINE][ICON_Bullet]Vekâlet Savaşı: Üç şehir devletini ele geçir.[NEWLINE]Kural Değişiklikleri[NEWLINE][ICON_Bullet]Birimler ve nükleer silahlar daha ucuzdur ve stratejik kaynak gerektirmez.[NEWLINE][ICON_Bullet]Kitle imha silahları ve bombardıman uçaklarının menzili uzatılmıştır.[NEWLINE][ICON_Bullet]İnşaatçılar daha fazla iş yapar.[NEWLINE][ICON_Bullet]Harita başlangıçta boştur.[NEWLINE][ICON_Bullet]Kabile köyleri yoktur.[NEWLINE][ICON_Bullet]Barbarlar yoktur.[NEWLINE][ICON_Bullet]Savaş yorgunluğu yoktur.</Text>
 		</Replace>
-		
+
 		<!-- Mod Package Text -->
-		<Replace Language="en_US" Tag="LOC_COLDWAR_MOD_TITLE">
-			<Text>Moninpeliskenaario: Maailmanlaajuinen ydintalvisota</Text>
+		<Replace Language="pl_PL" Tag="LOC_COLDWAR_MOD_TITLE">
+			<Text>Çok Oyunculu Senaryo: Küresel Nükleer Kış Savaşı</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_COLDWAR_MOD_TEASER">
-			<Text>Kylmä sota käy kuumimmillaan tässä taistelupainotteisessa atomiajan skenaariossa. Kesto 50 vuoroa.</Text>
+		<Replace Language="pl_PL" Tag="LOC_COLDWAR_MOD_TEASER">
+			<Text>Soğuk Savaş, bu savaş odaklı atom çağı senaryosunda doruğa ulaşıyor. Süre: 50 tur.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_COLDWAR_MOD_DESCRIPTION"> <!-- Keep in sync with LOC_COLDWAR_RULESET_DESCRIPTION -->
-			<Text>Kylmä sota käy kuumimmillaan tässä taistelupainotteisessa atomiajan skenaariossa. Kesto 50 vuoroa.[NEWLINE]Voittamisen ehdot[NEWLINE][ICON_Bullet]Maailmanlopun herra: Jos jonkin kaupungin keskustaan isketään ydinaseella, iske useimpia kaupungin keskustoja vuororajoitukseen mennessä.[NEWLINE][ICON_Bullet]Tankkipankkiiri: Mikäli ainoankaan kaupungin keskustaan ei isketä ydinaseella, omista eniten panssarivaunuja vuororajoitukseen mennessä.[NEWLINE][ICON_Bullet]Sijaissota: Valtaa kolme kaupunkivaltiota.[NEWLINE]Muutokset säännöissä[NEWLINE][ICON_Bullet]Yksiköt ja ydinaseet ovat halvempia rakentaa ja ylläpitää. Ne eivät vaadi strategisia luonnonvaroja.[NEWLINE][ICON_Bullet]Pidennetty massatuhoaseiden ja pommittajien kantama.[NEWLINE][ICON_Bullet]Rakentajilla on enemmän työstöjä.[NEWLINE][ICON_Bullet]Kartta on paljas alussa.[NEWLINE][ICON_Bullet]Ei heimokyliä.[NEWLINE][ICON_Bullet]Ei barbaareja.[NEWLINE][ICON_Bullet]Ei sotaväsymystä.</Text>
+		<Replace Language="pl_PL" Tag="LOC_COLDWAR_MOD_DESCRIPTION">			<!-- Keep in sync with LOC_COLDWAR_RULESET_DESCRIPTION -->
+			<Text>Soğuk Savaş, bu savaş odaklı atom çağı senaryosunda doruğa ulaşıyor. Süre: 50 tur.[NEWLINE]Zafer Koşulları[NEWLINE][ICON_Bullet]Kıyamet Efendisi: Bir şehrin merkezine nükleer saldırı düzenlendikten sonra, tur sınırı dolmadan en fazla şehir merkezini vur.[NEWLINE][ICON_Bullet]Tank Bankeri: Hiçbir şehre nükleer saldırı düzenlenmezse, tur sınırı dolduğunda en çok tank sende olsun.[NEWLINE][ICON_Bullet]Vekâlet Savaşı: Üç şehir devletini ele geçir.[NEWLINE]Kural Değişiklikleri[NEWLINE][ICON_Bullet]Birimler ve nükleer silahlar daha ucuzdur ve stratejik kaynak gerektirmez.[NEWLINE][ICON_Bullet]Kitle imha silahları ve bombardıman uçaklarının menzili uzatılmıştır.[NEWLINE][ICON_Bullet]İnşaatçılar daha fazla iş yapar.[NEWLINE][ICON_Bullet]Harita başlangıçta boştur.[NEWLINE][ICON_Bullet]Kabile köyleri yoktur.[NEWLINE][ICON_Bullet]Barbarlar yoktur.[NEWLINE][ICON_Bullet]Savaş yorgunluğu yoktur.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CW_GAME_TURN_LIMIT_REACHED_PROGRESS">
-			<Text>Vuororajoitus {ElapsedTurns}/{MinGameTurn} {StatusIcon}</Text>
+		<Replace Language="pl_PL" Tag="LOC_CW_GAME_TURN_LIMIT_REACHED_PROGRESS">
+			<Text>Tur sınırı {ElapsedTurns}/{MinGameTurn} {StatusIcon}</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_PROXYWAR_VICTORY_CAPTURE_CITY_STATES_PROGRESS">
-			<Text>Vallattuja kaupunkivaltioita {CurrentConquered}/{CityStatesConquered} {StatusIcon}</Text>
+		<Replace Language="pl_PL" Tag="LOC_PROXYWAR_VICTORY_CAPTURE_CITY_STATES_PROGRESS">
+			<Text>Ele geçirilen şehir devletleri {CurrentConquered}/{CityStatesConquered} {StatusIcon}</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_ARMAGEDDON_VICTORY_REQUIRES_PLAYER_HAS_MOST_WMD_DIRECT_CITY_HITS_PROGRESS">
-			<Text>Iskettyjä kaupungin keskuksia {NukedCityCenters} {NukeCountStatusIcon}[NEWLINE]Ydinisku on tapahtunut {NukeWarStatusIcon}</Text>
+		<Replace Language="pl_PL" Tag="LOC_ARMAGEDDON_VICTORY_REQUIRES_PLAYER_HAS_MOST_WMD_DIRECT_CITY_HITS_PROGRESS">
+			<Text>Vurulan şehir merkezleri {NukedCityCenters} {NukeCountStatusIcon}[NEWLINE]Nükleer saldırı gerçekleşti {NukeWarStatusIcon}</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_VICTORY_TANKBANKER_REQUIRES_PLAYER_HAS_MOST_TANKS_PROGRESS">
-			<Text>Panssareita omistuksessa {NumPromotionClass} {PromotionStatusIcon}[NEWLINE]Ei ydiniskuja kaupungin keskustoihin {NoNukeWarStatusIcon}</Text>
+		<Replace Language="pl_PL" Tag="LOC_VICTORY_TANKBANKER_REQUIRES_PLAYER_HAS_MOST_TANKS_PROGRESS">
+			<Text>Sahip olunan tanklar {NumPromotionClass} {PromotionStatusIcon}[NEWLINE]Şehir merkezlerine nükleer saldırı yapılmadı {NoNukeWarStatusIcon}</Text>
 		</Replace>
 	</LocalizedText>
 </GameData>
