@@ -1,74 +1,74 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <GameData>
 	<LocalizedText>
-		<Replace Language="en_US" Tag="LOC_AUTONARRATE_BUTTON_DONE">
-			<Text>Valmis</Text>
+		<Replace Language="pl_PL" Tag="LOC_AUTONARRATE_BUTTON_DONE">
+			<Text>Tamam</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_AUTONARRATE_CITY_FOUNDED">
-			<Text>{1_CivName} on perustanut kaupungin.</Text>
+		<Replace Language="pl_PL" Tag="LOC_AUTONARRATE_CITY_FOUNDED">
+			<Text>{1_CivName} yeni bir şehir kurdu.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_AUTONARRATE_WONDER_COMPLETED_BY">
-			<Text>{1_CivName} on rakentanut ihmeen.</Text>
+		<Replace Language="pl_PL" Tag="LOC_AUTONARRATE_WONDER_COMPLETED_BY">
+			<Text>{1_CivName} bir harika inşa etti.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_AUTONARRATE_PLAYER_DEFEATED_BY">
-			<Text>{2_CivName} on tuhonnut kansan {1_CivName}.</Text>
+		<Replace Language="pl_PL" Tag="LOC_AUTONARRATE_PLAYER_DEFEATED_BY">
+			<Text>{2_CivName}, {1_CivName} halkını yok etti.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_AUTONARRATE_PLAYER_DEFEATED">
-			<Text>{1_CivName} on hävitetty.</Text>
+		<Replace Language="pl_PL" Tag="LOC_AUTONARRATE_PLAYER_DEFEATED">
+			<Text>{1_CivName} yok edildi.</Text>
 		</Replace>
 		<!-- Victories -->
-		<Replace Language="en_US" Tag="LOC_AUTONARRATE_PLAYER_VICTORY">
-			<Text>{1_CivName} on voittanut pelin!</Text>
+		<Replace Language="pl_PL" Tag="LOC_AUTONARRATE_PLAYER_VICTORY">
+			<Text>{1_CivName} oyunu kazandı!</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_AUTONARRATE_PLAYER_VICTORY_CONQUEST">
-			<Text>{1_CivName} on voittanut maailmanherruuden!</Text>
+		<Replace Language="pl_PL" Tag="LOC_AUTONARRATE_PLAYER_VICTORY_CONQUEST">
+			<Text>{1_CivName} dünya hakimiyetini kazandı!</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_AUTONARRATE_PLAYER_VICTORY_CULTURE">
-			<Text>{1_CivName} on voittanut kulttuurilla!</Text>
+		<Replace Language="pl_PL" Tag="LOC_AUTONARRATE_PLAYER_VICTORY_CULTURE">
+			<Text>{1_CivName} kültürle kazandı!</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_AUTONARRATE_PLAYER_VICTORY_RELIGIOUS">
-			<Text>{1_CivName} on voittanut uskolla!</Text>
+		<Replace Language="pl_PL" Tag="LOC_AUTONARRATE_PLAYER_VICTORY_RELIGIOUS">
+			<Text>{1_CivName} inançla kazandı!</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_AUTONARRATE_PLAYER_VICTORY_SCORE">
-			<Text>{1_CivName} on voittanut pisteillä!</Text>
+		<Replace Language="pl_PL" Tag="LOC_AUTONARRATE_PLAYER_VICTORY_SCORE">
+			<Text>{1_CivName} puanla kazandı!</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_AUTONARRATE_PLAYER_VICTORY_TECHNOLOGY">
-			<Text>{1_CivName} on voittanut tieteellä!</Text>
+		<Replace Language="pl_PL" Tag="LOC_AUTONARRATE_PLAYER_VICTORY_TECHNOLOGY">
+			<Text>{1_CivName} bilimle kazandı!</Text>
 		</Replace>
 		<!-- -->
-		<Replace Language="en_US" Tag="LOC_AUTONARRATE_MAKE_PEACE">
-			<Text>{1_CivName} on tehnyt rauhan kansan {2_CivName} kanssa.</Text>
+		<Replace Language="pl_PL" Tag="LOC_AUTONARRATE_MAKE_PEACE">
+			<Text>{1_CivName}, {2_CivName} halkıyla barış yaptı.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_AUTONARRATE_DECLARE_WAR">
-			<Text>{1_CivName} on julistanut sodan kansalle {2_CivName}.</Text>
+		<Replace Language="pl_PL" Tag="LOC_AUTONARRATE_DECLARE_WAR">
+			<Text>{1_CivName}, {2_CivName} halkına savaş ilan etti.</Text>
 		</Replace>
 		<!-- Era Change -->
-		<Replace Language="en_US" Tag="LOC_AUTONARRATE_PLAYER_ERA_CHANGED">
-			<Text>{1_CivName} on edennyt uudelle aikakaudelle.</Text>
+		<Replace Language="pl_PL" Tag="LOC_AUTONARRATE_PLAYER_ERA_CHANGED">
+			<Text>{1_CivName} yeni bir çağa geçti.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_AUTONARRATE_PLAYER_ERA_ANCIENT">
-			<Text>{1_CivName} on edennyt muinaisuuteen.</Text>
+		<Replace Language="pl_PL" Tag="LOC_AUTONARRATE_PLAYER_ERA_ANCIENT">
+			<Text>{1_CivName} antik çağa geçti.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_AUTONARRATE_PLAYER_ERA_CLASSICAL">
-			<Text>{1_CivName} on edennyt antiikkiin.</Text>
+		<Replace Language="pl_PL" Tag="LOC_AUTONARRATE_PLAYER_ERA_CLASSICAL">
+			<Text>{1_CivName} klasik çağa geçti.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_AUTONARRATE_PLAYER_ERA_MEDIEVAL">
-			<Text>{1_CivName} on edennyt keskiajalle.</Text>
+		<Replace Language="pl_PL" Tag="LOC_AUTONARRATE_PLAYER_ERA_MEDIEVAL">
+			<Text>{1_CivName} orta çağa geçti.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_AUTONARRATE_PLAYER_ERA_RENAISSANCE">
-			<Text>{1_CivName} on edennyt renessanssiin.</Text>
+		<Replace Language="pl_PL" Tag="LOC_AUTONARRATE_PLAYER_ERA_RENAISSANCE">
+			<Text>{1_CivName} rönesans çağına geçti.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_AUTONARRATE_PLAYER_ERA_INDUSTRIAL">
-			<Text>{1_CivName} on edennyt teolliseen aikaan.</Text>
+		<Replace Language="pl_PL" Tag="LOC_AUTONARRATE_PLAYER_ERA_INDUSTRIAL">
+			<Text>{1_CivName} sanayi çağına geçti.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_AUTONARRATE_PLAYER_ERA_MODERN">
-			<Text>{1_CivName} on edennyt moderniin aikaan.</Text>
+		<Replace Language="pl_PL" Tag="LOC_AUTONARRATE_PLAYER_ERA_MODERN">
+			<Text>{1_CivName} modern çağa geçti.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_AUTONARRATE_PLAYER_ERA_ATOMIC">
-			<Text>{1_CivName} on edennyt atomiaikaan.</Text>
+		<Replace Language="pl_PL" Tag="LOC_AUTONARRATE_PLAYER_ERA_ATOMIC">
+			<Text>{1_CivName} atom çağına geçti.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_AUTONARRATE_PLAYER_ERA_INFORMATION">
-			<Text>{1_CivName} on edennyt informaatioaikaan.</Text>
+		<Replace Language="pl_PL" Tag="LOC_AUTONARRATE_PLAYER_ERA_INFORMATION">
+			<Text>{1_CivName} bilgi çağına geçti.</Text>
 		</Replace>
 	</LocalizedText>
 </GameData>
