@@ -2,34 +2,34 @@
 <GameData>
 	<LocalizedText>
 		<!-- Ruleset -->
-		<Replace Language="en_US" Tag="LOC_COMPSTOMP_RULESET_TITLE">
-			<Text>Tekoälyjästi</Text>
+		<Replace Language="pl_PL" Tag="LOC_COMPSTOMP_RULESET_TITLE">
+			<Text>Yapay Zeka Ezici</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_COMPSTOMP_RULESET_TEASER">
-			<Text>Murskaa tekoäly ystävien kera tässä taistelupainotteisessa skenaariossa. Päättyy kun jokainen tekoälypelaaja on voitettu.[NEWLINE]Voiton ehdot[NEWLINE]Päihitä kaikki tekoälyt! Pelin voittaa ihmispelaaja, jolla on eniten tekoälyltä kaapattuja kaupunkeja.</Text>
+		<Replace Language="pl_PL" Tag="LOC_COMPSTOMP_RULESET_TEASER">
+			<Text>Bu savaş odaklı senaryoda arkadaşlarınızla birlikte yapay zekayı ezin. Tüm yapay zeka oyuncuları yenildiğinde sona erer.[NEWLINE]Zafer Koşulları[NEWLINE]Tüm yapay zekaları yenin! Oyunu, yapay zekadan en çok şehir ele geçiren insan oyuncu kazanır.</Text>
 		</Replace>
 		<!-- Victories  -->
-		<Replace Language="en_US" Tag="LOC_COMPSTOMP_VICTORY_TITLE">
-			<Text>Tekoäly on jyrätty</Text>
+		<Replace Language="pl_PL" Tag="LOC_COMPSTOMP_VICTORY_TITLE">
+			<Text>Yapay Zeka Ezildi</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_COMPSTOMP_VICTORY_DESC">
-			<Text>Päihitä kaikki tekoälyt! Pelin voittaa ihmispelaaja, jolla on eniten tekoälyltä kaapattuja kaupunkeja.</Text>
+		<Replace Language="pl_PL" Tag="LOC_COMPSTOMP_VICTORY_DESC">
+			<Text>Tüm yapay zekaları yenin! Oyunu, yapay zekadan en çok şehir ele geçiren insan oyuncu kazanır.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_COMPSTOMP_VICTORY_WIN_BLURB">
-			<Text>"En pelkää tietokoneita: pelkään ettei niitä olisi." —Isaac Asimov</Text>
+		<Replace Language="pl_PL" Tag="LOC_COMPSTOMP_VICTORY_WIN_BLURB">
+			<Text>"I do not fear computers. I fear the lack of them." —Isaac Asimov</Text>
 		</Replace>
 		<!-- Mod Package Text -->
-		<Replace Language="en_US" Tag="LOC_COMPSTOMP_MOD_TITLE">
-			<Text>Moninpeliskenaario: tekoälyjästi</Text>
+		<Replace Language="pl_PL" Tag="LOC_COMPSTOMP_MOD_TITLE">
+			<Text>Çok Oyunculu Senaryo: Yapay Zeka Ezici</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_COMPSTOMP_MOD_TEASER">
-			<Text>Murskaa tekoäly ystävien kera tässä taistelupainotteisessa skenaariossa. Päättyy kun jokainen tekoälypelaaja on voitettu.</Text>
+		<Replace Language="pl_PL" Tag="LOC_COMPSTOMP_MOD_TEASER">
+			<Text>Bu savaş odaklı senaryoda arkadaşlarınızla birlikte yapay zekayı ezin. Tüm yapay zeka oyuncuları yenildiğinde sona erer.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_COMPSTOMP_MOD_DESCRIPTION">
-			<Text>Voiton ehdot[NEWLINE]Päihitä kaikki tekoälyt! Pelin voittaa ihmispelaaja, jolla on eniten tekoälyltä kaapattuja kaupunkeja.</Text>
+		<Replace Language="pl_PL" Tag="LOC_COMPSTOMP_MOD_DESCRIPTION">
+			<Text>Zafer Koşulları[NEWLINE]Tüm yapay zekaları yenin! Oyunu, yapay zekadan en çok şehir ele geçiren insan oyuncu kazanır.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_VICTORY_COMPSTOMP_PROGRESS">
-			<Text>Tekoälyltä kaapattuja kaupunkeja {AICitiesCaptured}/{TotalAICities} {CompStompIcon}</Text>
+		<Replace Language="pl_PL" Tag="LOC_VICTORY_COMPSTOMP_PROGRESS">
+			<Text>Yapay zekadan ele geçirilen şehirler {AICitiesCaptured}/{TotalAICities} {CompStompIcon}</Text>
 		</Replace>
 	</LocalizedText>
 </GameData>
