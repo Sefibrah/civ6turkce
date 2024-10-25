@@ -2,47 +2,47 @@
 <GameData>
 	<LocalizedText>
 		<!-- Natural Wonders -->
-		<Replace Language="en_US" Tag="LOC_UI_FEATURE_NATURAL_WONDER_DISCOVERY">
-			<Text>Luonnonihme on löytynyt</Text>
+		<Replace Language="pl_PL" Tag="LOC_UI_FEATURE_NATURAL_WONDER_DISCOVERY">
+			<Text>Doğal harika keşfedildi</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_FEATURE_NATURAL_WONDER_DESCRIPTION">
-			<Text>Luonnonihmeiden löytäminen antaa tiedustelijoille kokemusta. Pyhät paikat saavat luonnonihmeistä läheisyysetua. Kaikki viereiset ruudut saavat +2 houkuttelevuutta.</Text>
+		<Replace Language="pl_PL" Tag="LOC_FEATURE_NATURAL_WONDER_DESCRIPTION">
+			<Text>Doğal harikaların keşfi izciler için deneyim kazandırır. Kutsal alanlar doğal harikalardan yakınlık bonusu alır. Tüm bitişik kareler +2 cazibe kazanır.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_FEATURE_BARRIER_REEF_DESCRIPTION">
-			<Text>Kahden ruudun luonnonhime, jonka voi löytää rannikolta. Tarjoaa +3 [ICON_Food] ruokaa ja +2 [ICON_Science] tiedettä.</Text>
+		<Replace Language="pl_PL" Tag="LOC_FEATURE_BARRIER_REEF_DESCRIPTION">
+			<Text>Kıyıdan keşfedilebilen iki karelik doğal harika. +3 [ICON_Food] gıda ve +2 [ICON_Science] bilim sağlar.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_FEATURE_CLIFFS_DOVER_DESCRIPTION">
-			<Text>Kahden ruudun luonnonihme, joka löytyy veden lähellä olevalta kallioseinämältä. Tarjoaa +3 [ICON_Culture] kulttuuria ja +2 [ICON_Gold] kultaa.</Text>
+		<Replace Language="pl_PL" Tag="LOC_FEATURE_CLIFFS_DOVER_DESCRIPTION">
+			<Text>Su kenarındaki bir uçurumdan keşfedilebilen iki karelik doğal harika. +3 [ICON_Culture] kültür ve +2 [ICON_Gold] altın sağlar.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_FEATURE_CRATER_LAKE_DESCRIPTION">
-			<Text>Yhden ruudun luonnonihme, joka on kuten järvi. Tarjoaa +4 [ICON_Faith] uskoa, +1 [ICON_Science] tiedettä ja makeaa vettä.</Text>
+		<Replace Language="pl_PL" Tag="LOC_FEATURE_CRATER_LAKE_DESCRIPTION">
+			<Text>Göl gibi olan tek karelik doğal harika. +4 [ICON_Faith] inanç, +1 [ICON_Science] bilim ve tatlı su sağlar.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_FEATURE_DEAD_SEA_DESCRIPTION">
-			<Text>Kahden ruudun luonnonihme, joka on kuten järvi. Tarjoaa +2 [ICON_Faith] uskoa, +2 [ICON_Culture] kulttuuria ja makeaa vettä. Yksiköt hoivaantuvat yhdessä vuorossa kokonaan hoivatessaan itsensä Kuolleenmeren lähellä.</Text>
+		<Replace Language="pl_PL" Tag="LOC_FEATURE_DEAD_SEA_DESCRIPTION">
+			<Text>Göl gibi olan iki karelik doğal harika. +2 [ICON_Faith] inanç, +2 [ICON_Culture] kültür ve tatlı su sağlar. Birimler, Ölü Deniz'in yanında kendilerini iyileştirirken bir turda tamamen iyileşir.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_FEATURE_EVEREST_DESCRIPTION">
-			<Text>Kolmen ruudun kulkukelvoton luonnonihme, joka on kuten vuori. Tarjoaa +1 [ICON_Faith] uskoa viereisille ruuduille. Mount Everestin vierustalla käyvät uskonnolliset yksiköt eivät enää huomioi mäkiä.</Text>
+		<Replace Language="pl_PL" Tag="LOC_FEATURE_EVEREST_DESCRIPTION">
+			<Text>Dağ gibi olan üç karelik geçilmez doğal harika. Bitişik karelere +1 [ICON_Faith] inanç sağlar. Everest Dağı'nın yanında bulunan dini birimler artık tepeleri dikkate almaz.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_FEATURE_GALAPAGOS_DESCRIPTION">
-			<Text>Kahden ruudun kulkukelvoton luonnonihme, joka löytyy rannikolta. Tarjoaa +2 [ICON_Science] tiedettä viereisille ruuduille.</Text>
+		<Replace Language="pl_PL" Tag="LOC_FEATURE_GALAPAGOS_DESCRIPTION">
+			<Text>Kıyıdan keşfedilebilen iki karelik geçilmez doğal harika. Bitişik karelere +2 [ICON_Science] bilim sağlar.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_FEATURE_KILIMANJARO_DESCRIPTION">
-			<Text>Yhden ruudun kulkukelvoton luonnonhime, joka on kuten vuori. Tarjoaa +2 [ICON_Food] ruokaa viereisille ruuduille.</Text>
+		<Replace Language="pl_PL" Tag="LOC_FEATURE_KILIMANJARO_DESCRIPTION">
+			<Text>Dağ gibi olan tek karelik geçilmez doğal harika. Bitişik karelere +2 [ICON_Food] gıda sağlar.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_FEATURE_PANTANAL_DESCRIPTION">
-			<Text>Neljän ruudun luonnonihme, joka on kuten suo. Tarjoaa +2 [ICON_Food] ruokaa ja +2 [ICON_Culture] kulttuuria.</Text>
+		<Replace Language="pl_PL" Tag="LOC_FEATURE_PANTANAL_DESCRIPTION">
+			<Text>Bataklık gibi olan dört karelik doğal harika. +2 [ICON_Food] gıda ve +2 [ICON_Culture] kültür sağlar.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_FEATURE_PIOPIOTAHI_DESCRIPTION">
-			<Text>Kolmen ruudun kulkukelvoton luonnonhime. Tarjoaa +1 [ICON_Culture] kulttuuria ja +1 [ICON_Gold] kultaa viereisille ruuduille.</Text>
+		<Replace Language="pl_PL" Tag="LOC_FEATURE_PIOPIOTAHI_DESCRIPTION">
+			<Text>Üç karelik geçilmez doğal harika. Bitişik karelere +1 [ICON_Culture] kültür ve +1 [ICON_Gold] altın sağlar.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_FEATURE_TORRES_DEL_PAINE_DESCRIPTION">
-			<Text>Kahden ruudun kulkukelvoton luonnonhime. Kaksinkertaistaa kaikkien viereisten ruutujen tuotot.</Text>
+		<Replace Language="pl_PL" Tag="LOC_FEATURE_TORRES_DEL_PAINE_DESCRIPTION">
+			<Text>İki karelik geçilmez doğal harika. Tüm bitişik karelerin üretimlerini iki katına çıkarır.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_FEATURE_TSINGY_DESCRIPTION">
-			<Text>Yhden ruudun kulkukelvoton luonnonihme. Tarjoaa +1 [ICON_Culture] kulttuuria ja +1 [ICON_Science] tiedettä viereisille ruuduille.</Text>
+		<Replace Language="pl_PL" Tag="LOC_FEATURE_TSINGY_DESCRIPTION">
+			<Text>Tek karelik geçilmez doğal harika. Bitişik karelere +1 [ICON_Culture] kültür ve +1 [ICON_Science] bilim sağlar.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_FEATURE_YOSEMITE_DESCRIPTION">
-			<Text>Kahden ruudun kulkukelvoton luonnonihme. Tarjoaa +1 [ICON_Gold] kultaa ja +1 [ICON_Science] tiedettä viereisille ruuduille.</Text>
+		<Replace Language="pl_PL" Tag="LOC_FEATURE_YOSEMITE_DESCRIPTION">
+			<Text>İki karelik geçilmez doğal harika. Bitişik karelere +1 [ICON_Gold] altın ve +1 [ICON_Science] bilim sağlar.</Text>
 		</Replace>
 	</LocalizedText>
 </GameData>
