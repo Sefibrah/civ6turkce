@@ -2,38 +2,38 @@
 <GameData>
 	<LocalizedText>
 		<!-- Ruleset -->
-		<Replace Language="en_US" Tag="LOC_ANCIENT_RIVALS_RULESET_TITLE">
-			<Text>Muinaiset kilpailijat</Text>
+		<Replace Language="pl_PL" Tag="LOC_ANCIENT_RIVALS_RULESET_TITLE">
+			<Text>Antik Rakipler</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_ANCIENT_RIVALS_RULESET_TEASER">
-			<Text>Laajenna maailmaa ja sivistä tässä tutkimusmatkailuun ja kulttuuriin keskittyneessä muinaisuuden ajan skenaariossa, joka kestää 50 vuoroa.[NEWLINE]Voittamisen ehdot[NEWLINE]Vuororajoituksen kohdalla voitto annetaan pelaajalle, joka täyttää suurimman osan seuraavista ehdoista. Pisteisiin perustuvat tasapelit ovat mahdollisia.[NEWLINE][ICON_Bullet]Kulturelli - kehitä eniten normeja.[NEWLINE][ICON_Bullet]Tutki maailmaa - paljasta eniten ruutuja kartalla.[NEWLINE][ICON_Bullet]Muinainen ryöväri - tärvele eniten ruutuja.[NEWLINE][ICON_Bullet]Muinaisen ajan ihme - hallitse lukuisinta määrää ihmeitä.</Text>
+		<Replace Language="pl_PL" Tag="LOC_ANCIENT_RIVALS_RULESET_TEASER">
+			<Text>Bu keşif ve kültüre odaklanan antik çağ senaryosunda dünyayı genişletin ve medeniyet kurun, 50 tur sürer.[NEWLINE]Kazanma Koşulları[NEWLINE]Tur sınırında, zafer en fazla aşağıdaki koşulları yerine getiren oyuncuya verilir. Puanlara dayalı beraberlikler mümkündür.[NEWLINE][ICON_Bullet]Kültürel - en fazla normu geliştirin.[NEWLINE][ICON_Bullet]Dünyayı Keşfet - haritada en fazla kareyi açığa çıkarın.[NEWLINE][ICON_Bullet]Antik Yağmacı - en fazla kareyi yağmalayın.[NEWLINE][ICON_Bullet]Antik Çağ Harikası - en fazla harikaya sahip olun.</Text>
 		</Replace>
 		<!-- Victories  -->
-		<Replace Language="en_US" Tag="LOC_ANCIENT_RIVALS_VICTORY_TITLE">
-			<Text>Muinaiset kilpailijat</Text>
+		<Replace Language="pl_PL" Tag="LOC_ANCIENT_RIVALS_VICTORY_TITLE">
+			<Text>Antik Rakipler</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_ANCIENT_RIVALS_VICTORY_DESC">
-			<Text>Vuororajoituksen kohdalla voitto annetaan pelaajalle, joka täyttää suurimman osan seuraavista ehdoista. Pisteisiin perustuvat tasapelit ovat mahdollisia.[NEWLINE][ICON_Bullet]Kulturelli - kehitä eniten normeja.[NEWLINE][ICON_Bullet]Tutki maailmaa - paljasta eniten ruutuja kartalla.[NEWLINE][ICON_Bullet]Muinainen ryöväri - tärvele eniten ruutuja.[NEWLINE][ICON_Bullet]Muinaisen ajan ihme - hallitse lukuisinta määrää ihmeitä.[NEWLINE]</Text>
+		<Replace Language="pl_PL" Tag="LOC_ANCIENT_RIVALS_VICTORY_DESC">
+			<Text>Tur sınırında, zafer en fazla aşağıdaki koşulları yerine getiren oyuncuya verilir. Puanlara dayalı beraberlikler mümkündür.[NEWLINE][ICON_Bullet]Kültürel - en fazla normu geliştirin.[NEWLINE][ICON_Bullet]Dünyayı Keşfet - haritada en fazla kareyi açığa çıkarın.[NEWLINE][ICON_Bullet]Antik Yağmacı - en fazla kareyi yağmalayın.[NEWLINE][ICON_Bullet]Antik Çağ Harikası - en fazla harikaya sahip olun.[NEWLINE]</Text>
 		</Replace>
 		<!-- Victories -->
-		<Replace Language="en_US" Tag="LOC_ANCIENT_RIVALS_VICTORY_WIN_BLURB">
-			<Text>Anna minulle tarpeeksi pitkä vipuvarsi ja tukipiste, johon se tukea, niin liikutan maailmaa. -Arkhimedes</Text>
+		<Replace Language="pl_PL" Tag="LOC_ANCIENT_RIVALS_VICTORY_WIN_BLURB">
+			<Text>Bana yeterince uzun bir kaldıraç ve onu dayayacak bir yer verin, dünyayı yerinden oynatırım. -Arkhimedes</Text>
 		</Replace>
 		<!-- Scenario Package -->
-		<Replace Language="en_US" Tag="LOC_ANCIENT_RIVALS_MOD_TITLE">
-			<Text>Moninpeliskenaario: muinaiset kilpailijat</Text>
+		<Replace Language="pl_PL" Tag="LOC_ANCIENT_RIVALS_MOD_TITLE">
+			<Text>Çok Oyunculu Senaryo: Antik Rakipler</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_ANCIENT_RIVALS_MOD_TEASER">
-			<Text>Laajenna maailmaa ja sivistä tässä tutkimusmatkailuun ja kulttuuriin keskittyneessä muinaisuuden ajan skenaariossa, joka kestää 50 vuoroa.</Text>
+		<Replace Language="pl_PL" Tag="LOC_ANCIENT_RIVALS_MOD_TEASER">
+			<Text>Bu keşif ve kültüre odaklanan antik çağ senaryosunda dünyayı genişletin ve medeniyet kurun, 50 tur sürer.</Text>
 		</Replace>	
-		<Replace Language="en_US" Tag="LOC_ANCIENT_RIVALS_MOD_DESCRIPTION">
-			<Text>Vuororajoituksen kohdalla voitto annetaan pelaajalle, joka täyttää suurimman osan seuraavista ehdoista. Pisteisiin perustuvat tasapelit ovat mahdollisia.[NEWLINE][ICON_Bullet]Kulturelli - kehitä eniten normeja.[NEWLINE][ICON_Bullet]Tutki maailmaa - paljasta eniten ruutuja kartalla.[NEWLINE][ICON_Bullet]Muinainen ryöväri - tärvele eniten ruutuja.[NEWLINE][ICON_Bullet]Muinaisen ajan ihme - hallitse lukuisinta määrää ihmeitä.[NEWLINE]</Text>
+		<Replace Language="pl_PL" Tag="LOC_ANCIENT_RIVALS_MOD_DESCRIPTION">
+			<Text>Tur sınırında, zafer en fazla aşağıdaki koşulları yerine getiren oyuncuya verilir. Puanlara dayalı beraberlikler mümkündür.[NEWLINE][ICON_Bullet]Kültürel - en fazla normu geliştirin.[NEWLINE][ICON_Bullet]Dünyayı Keşfet - haritada en fazla kareyi açığa çıkarın.[NEWLINE][ICON_Bullet]Antik Yağmacı - en fazla kareyi yağmalayın.[NEWLINE][ICON_Bullet]Antik Çağ Harikası - en fazla harikaya sahip olun.[NEWLINE]</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_AR_GAME_TURN_LIMIT_REACHED_PROGRESS">
-			<Text>Vuororajoitus {ElapsedTurns}/{MinGameTurn} {StatusIcon}</Text>
+		<Replace Language="pl_PL" Tag="LOC_AR_GAME_TURN_LIMIT_REACHED_PROGRESS">
+			<Text>Tur Sınırı {ElapsedTurns}/{MinGameTurn} {StatusIcon}</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_VICTORY_ANCIENT_RIVALS_PLAYER_HAS_MOST_ANCIENT_RIVALS_POINTS_PROGRESS">
-			<Text>Voittopisteitä {VictoryPoints} {VictoryStatusIcon}[NEWLINE]Kartoitettuja ruutuja {HexesExplored} {ExploredStatusIcon}[NEWLINE]Tärveltyjä ruutuja {TilesPillaged} {PillagedStatusIcon}[NEWLINE]Normeja {CivicsCompleted} {CivicsStatusIcon}[NEWLINE]Ihmeitä {WondersPossessed} {WondersStatusIcon}</Text>
+		<Replace Language="pl_PL" Tag="LOC_VICTORY_ANCIENT_RIVALS_PLAYER_HAS_MOST_ANCIENT_RIVALS_POINTS_PROGRESS">
+			<Text>Zafer Puanları {VictoryPoints} {VictoryStatusIcon}[NEWLINE]Haritalanan Kareler {HexesExplored} {ExploredStatusIcon}[NEWLINE]Yağmalanan Kareler {TilesPillaged} {PillagedStatusIcon}[NEWLINE]Normlar {CivicsCompleted} {CivicsStatusIcon}[NEWLINE]Harikalar {WondersPossessed} {WondersStatusIcon}</Text>
 		</Replace>
 	</LocalizedText>
 </GameData>
