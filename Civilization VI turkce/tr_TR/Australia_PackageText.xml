@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameData>
 	<LocalizedText>
-		<Replace Language="en_US" Tag="LOC_AUSTRALIA_MOD_TITLE">
-			<Text>Lisäosa: Australia</Text>
+		<Replace Language="pl_PL" Tag="LOC_AUSTRALIA_MOD_TITLE">
+			<Text>Eklenti: Avustralya</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_AUSTRALIA_MOD_TEASER">
-			<Text>Uusi kansakunta ja hallitsija - Australian John Curtin</Text>
+		<Replace Language="pl_PL" Tag="LOC_AUSTRALIA_MOD_TEASER">
+			<Text>Yeni bir ulus ve lider - Avustralya'dan John Curtin</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_AUSTRALIA_MOD_DESCRIPTION">
-			<Text>Sisältää uuden kansakunnan ja hallitsijan.</Text>
+		<Replace Language="pl_PL" Tag="LOC_AUSTRALIA_MOD_DESCRIPTION">
+			<Text>Yeni bir ulus ve lider içerir.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_MOD_AUSTRALIA_SCENARIO_TITLE">
-			<Text>Skenaario: sisämaiden pohatta</Text>
+		<Replace Language="pl_PL" Tag="LOC_MOD_AUSTRALIA_SCENARIO_TITLE">
+			<Text>Senaryo: İç Bölgelerin Zengini</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_MOD_AUSTRALIA_SCENARIO_TEASER">
-			<Text>Mikä siirtokunnista saa eniten irti Australian luonnonrikkauksista?</Text>
+		<Replace Language="pl_PL" Tag="LOC_MOD_AUSTRALIA_SCENARIO_TEASER">
+			<Text>Kolonilerden hangisi Avustralya'nın doğal zenginliklerinden en iyi şekilde yararlanacak?</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_MOD_AUSTRALIA_SCENARIO_DESCRIPTION">
-			<Text>Tässä 60 vuoron skenaariossa pyritään vauhdilla tutkimaan Australiaa, löytämään sen luonnonvarat ja käyttämään ne siirtokunnan hyödyksi. Tässä kilpailullisessa taloudellisessa skenaariossa ei ole taistelua, korostaen siten tutkimusmatkailua ja alueiden laajentamista, joita käytetään vuorottaisen kultamäärän kasvattamiseen - tämä arvo heijastaa myös pisteitä.[NEWLINE][NEWLINE]Yksinpeli: kullakin vaikeustasolla on vuorottaisen kullan rajapyykki. Pelin voittaa ylittämällä sen ennen pelin loppua.[NEWLINE][NEWLINE]Moninpeli: vuororajoituksen täyttyessä suurimman vuorottaisen kultamäärän omaava pelaaja voittaa pelin.</Text>
+		<Replace Language="pl_PL" Tag="LOC_MOD_AUSTRALIA_SCENARIO_DESCRIPTION">
+			<Text>Bu 60 turluk senaryoda, hızla Avustralya'yı keşfetmeye, doğal kaynaklarını bulmaya ve koloninin yararına kullanmaya çalışıyorsunuz. Bu rekabetçi ekonomik senaryoda savaş yoktur, bu nedenle keşif ve genişleme vurgulanır, bu da tur başına altın miktarını artırmak için kullanılır - bu değer aynı zamanda puanları da yansıtır.[NEWLINE][NEWLINE]Tek oyunculu: her zorluk seviyesinde tur başına altın eşiği vardır. Oyunu, oyun bitmeden önce bu eşiği aşarak kazanırsınız.[NEWLINE][NEWLINE]Çok oyunculu: tur sınırı dolduğunda, en yüksek tur başına altın miktarına sahip oyuncu oyunu kazanır.</Text>
 		</Replace>
 	</LocalizedText>
 </GameData>
