@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameData>
 	<LocalizedText>
-		<Replace Language="en_US" Tag="LOC_INDONESIA_KHMER_MOD_TITLE">
-			<Text>Lisäosa: Khmer ja Indonesia</Text>
+		<Replace Language="tr_TR" Tag="LOC_INDONESIA_KHMER_MOD_TITLE">
+			<Text>Eklenti: Khmer ve Endonezya</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_INDONESIA_KHMER_MOD_TEASER">
-			<Text>Uusia kansoja ja hallitsijoita: Indonesian Sri Gitarja, sekä khmerien Jayavarman VII</Text>
+		<Replace Language="tr_TR" Tag="LOC_INDONESIA_KHMER_MOD_TEASER">
+			<Text>Yeni uluslar ve liderler: Endonezya’dan Sri Gitarja ve Khmerlerden Jayavarman VII</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_INDONESIA_KHMER_MOD_DESCRIPTION">
-			<Text>Sisältää kaksi uutta kansaa ja hallitsijaa, sekä maailmanihmeen ja kaksi karttaa.</Text>
+		<Replace Language="tr_TR" Tag="LOC_INDONESIA_KHMER_MOD_DESCRIPTION">
+			<Text>İki yeni ulus ve lider, bir dünya harikası ve iki harita içerir.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_MOD_INDONESIA_KHMER_SCENARIO_TITLE">
-			<Text>Skenaario: polku autuuteen</Text>
+		<Replace Language="tr_TR" Tag="LOC_MOD_INDONESIA_KHMER_SCENARIO_TITLE">
+			<Text>Senaryo: Mutluluk Yolu</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_MOD_INDONESIA_KHMER_SCENARIO_TEASER">
-			<Text>Levitä uskontosi kautta itäisen Aasian.</Text>
+		<Replace Language="tr_TR" Tag="LOC_MOD_INDONESIA_KHMER_SCENARIO_TEASER">
+			<Text>Dinini Doğu Asya'da yay.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_MOD_INDONESIA_KHMER_SCENARIO_DESCRIPTION">
-			<Text>Intianmeren maat kuhisevat uskontoja ja ihmisiä. Meidät on valittu taivaan toimesta tuomaan valo näille maille. Onko uskostamme vastaamaan tähän haasteeseen? Voimmeko vakuuttaa muut Kaakkois-Aasiassa uskontomme ylivertaisuudesta?</Text>
+		<Replace Language="tr_TR" Tag="LOC_MOD_INDONESIA_KHMER_SCENARIO_DESCRIPTION">
+			<Text>Hint Okyanusu'nun kıyıları dinler ve insanlarla kaynıyor. Cennetin ışığını bu topraklara getirmek için seçildik. İnancımız bu zorluğun üstesinden gelebilecek mi? Güneydoğu Asya'daki diğer ulusları dinimizin üstünlüğüne ikna edebilir miyiz?</Text>
 		</Replace>
 	</LocalizedText>
 </GameData>
