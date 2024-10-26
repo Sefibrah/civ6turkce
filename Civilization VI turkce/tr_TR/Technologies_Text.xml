@@ -1,455 +1,455 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameData>
 	<LocalizedText>
-		<Replace Language="en_US" Tag="LOC_TECH_POTTERY_DESCRIPTION">
-			<Text>Mahdollistaa maatilalla hyödynnettävien luonnonvarojen poiskorjuun.</Text>
+		<Replace Language="pl_PL" Tag="LOC_TECH_POTTERY_DESCRIPTION">
+			<Text>Çiftlik kaynaklarının toplanmasını sağlar.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_TECH_ANIMAL_HUSBANDRY_DESCRIPTION">
-			<Text>Mahdollistaa [ICON_RESOURCE_CATTLE] naudan, [ICON_RESOURCE_SHEEP] lampaan ja [ICON_RESOURCE_DEER] peuran poiskorjuun.</Text>
+		<Replace Language="pl_PL" Tag="LOC_TECH_ANIMAL_HUSBANDRY_DESCRIPTION">
+			<Text>[ICON_RESOURCE_CATTLE] Sığır, [ICON_RESOURCE_SHEEP] Koyun ve [ICON_RESOURCE_DEER] Geyik kaynaklarının toplanmasını sağlar.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_TECH_MINING_DESCRIPTION">
-			<Text>Mahdollistaa metsän poishakkuun ja [ICON_RESOURCE_Copper] kuparin poiskorjuun.</Text>
+		<Replace Language="pl_PL" Tag="LOC_TECH_MINING_DESCRIPTION">
+			<Text>Ormanları kesmeyi ve [ICON_RESOURCE_Copper] bakır madenini toplamayı sağlar.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_TECH_SAILING_DESCRIPTION">
-			<Text>Mahdollistaa rakentajien siirtymisen vesille.</Text>
+		<Replace Language="pl_PL" Tag="LOC_TECH_SAILING_DESCRIPTION">
+			<Text>İnşaatçıların sulara çıkmasını sağlar.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_TECH_IRRIGATION_DESCRIPTION">
-			<Text>Mahdollistaa suon ojittamisen ja [ICON_RESOURCE_BANANAS] banaanien poiskorjuun.</Text>
+		<Replace Language="pl_PL" Tag="LOC_TECH_IRRIGATION_DESCRIPTION">
+			<Text>Bataklıkları kurutmayı ve [ICON_RESOURCE_BANANAS] Muzların toplanmasını sağlar.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_TECH_MASONRY_DESCRIPTION">
-			<Text>Mahdollistaa [ICON_RESOURCE_STONE] kiven poiskorjuun.</Text>
+		<Replace Language="pl_PL" Tag="LOC_TECH_MASONRY_DESCRIPTION">
+			<Text>[ICON_RESOURCE_STONE] Taşın toplanmasını sağlar.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_TECH_BRONZE_WORKING_DESCRIPTION">
-			<Text>Mahdollistaa sademetsän poishakkuun. Paljastaa [ICON_RESOURCE_IRON] raudan.</Text>
+		<Replace Language="pl_PL" Tag="LOC_TECH_BRONZE_WORKING_DESCRIPTION">
+			<Text>Yağmur ormanlarının kesilmesini sağlar. [ICON_RESOURCE_IRON] Demir kaynağını ortaya çıkarır.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_TECH_SHIPBUILDING_DESCRIPTION">
-			<Text>Mahdollistaa kaikkien maayksiköiden siirtymisen vesille.</Text>
+		<Replace Language="pl_PL" Tag="LOC_TECH_SHIPBUILDING_DESCRIPTION">
+			<Text>Tüm kara birimlerinin sulara çıkmasını sağlar.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_TECH_CELESTIAL_NAVIGATION_DESCRIPTION">
-			<Text>Mahdollistaa kauppurien siirtymisen vesille sekä [ICON_RESOURCE_FISH] kalan ja [ICON_RESOURCE_CRABS] ravun poiskorjuun.</Text>
+		<Replace Language="pl_PL" Tag="LOC_TECH_CELESTIAL_NAVIGATION_DESCRIPTION">
+			<Text>Tüccarların sulara çıkmasını sağlar ve [ICON_RESOURCE_FISH] Balık ve [ICON_RESOURCE_CRABS] Yengeç kaynaklarının toplanmasını mümkün kılar.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_TECH_MATHEMATICS_DESCRIPTION">
-			<Text>+1 [ICON_Movement] liikkuvuutta kaikille meriyksiköille.</Text>
+		<Replace Language="pl_PL" Tag="LOC_TECH_MATHEMATICS_DESCRIPTION">
+			<Text>Tüm deniz birimlerine +1 [ICON_Movement] hareket kabiliyeti sağlar.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_TECH_STIRRUPS_DESCRIPTION">
-			<Text>+1 [ICON_Production] tuotantoa kaivoksista.</Text>
+		<Replace Language="pl_PL" Tag="LOC_TECH_STIRRUPS_DESCRIPTION">
+			<Text>Madenlerden +1 [ICON_Production] üretim sağlar.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_TECH_APPRENTICESHIP_DESCRIPTION">
-			<Text>Laitumet tuottavat +1 [ICON_Food] ruokaa.</Text>
+		<Replace Language="pl_PL" Tag="LOC_TECH_APPRENTICESHIP_DESCRIPTION">
+			<Text>Çayırlar +1 [ICON_Food] gıda sağlar.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_TECH_CASTLES_DESCRIPTION">
-			<Text>Kiinan muuri antaa [ICON_Culture] kulttuuria läheisyysetuna. Catherine de Medici saa ilmaisen vakoilijan.</Text>
+		<Replace Language="pl_PL" Tag="LOC_TECH_CASTLES_DESCRIPTION">
+			<Text>Çin Seddi, komşu faydası olarak [ICON_Culture] kültür sağlar. Catherine de Medici ücretsiz bir casus alır.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_TECH_CARTOGRAPHY_DESCRIPTION">
-			<Text>+2 [ICON_Gold] kultaa kalastajista. Kaikki meriyksiköt ja vesillä olevat yksiköt voivat mennä meriruutuihin.</Text>
+		<Replace Language="pl_PL" Tag="LOC_TECH_CARTOGRAPHY_DESCRIPTION">
+			<Text>Balıkçılardan +2 [ICON_Gold] altın sağlar. Tüm deniz ve su üzerindeki birimler okyanus karelerine girebilir.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_TECH_SQUARE_RIGGING_DESCRIPTION">
-			<Text>+1 [ICON_Movement] liikkuvuutta vesillä oleville yksiköille.</Text>
+		<Replace Language="pl_PL" Tag="LOC_TECH_SQUARE_RIGGING_DESCRIPTION">
+			<Text>Su üzerindeki birimlere +1 [ICON_Movement] hareket kabiliyeti sağlar.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_TECH_BANKING_DESCRIPTION">
-			<Text>+2 [ICON_Gold] kultaa louhoksista.</Text>
+		<Replace Language="pl_PL" Tag="LOC_TECH_BANKING_DESCRIPTION">
+			<Text>Taş ocaklarından +2 [ICON_Gold] altın sağlar.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_TECH_PRINTING_DESCRIPTION">
-			<Text>Kasvattaa diplomaattista näkyvyyden tasoa yhdellä muita kansakuntia kohtaan. Kaikki [ICON_Tourism] turismin tuotot [ICON_GreatWork_Writing] kirjallisuuden merkkiteoksista tuplataan.</Text>
+		<Replace Language="pl_PL" Tag="LOC_TECH_PRINTING_DESCRIPTION">
+			<Text>Diğer uluslara karşı diplomatik görünürlüğü bir seviye artırır. [ICON_Tourism] Turizm, [ICON_GreatWork_Writing] edebi başyapıtlardan iki katına çıkar.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_TECH_RADIO_DESCRIPTION">
-			<Text>Paljastaa [ICON_RESOURCE_ALUMINUM] alumiinin.</Text>
+		<Replace Language="pl_PL" Tag="LOC_TECH_RADIO_DESCRIPTION">
+			<Text>[ICON_RESOURCE_ALUMINUM] Alüminyumu ortaya çıkarır.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_TECH_INDUSTRIALIZATION_DESCRIPTION">
-			<Text>+1 [ICON_Production] tuotantoa kaivoksista.</Text>
+		<Replace Language="pl_PL" Tag="LOC_TECH_INDUSTRIALIZATION_DESCRIPTION">
+			<Text>Madenlerden +1 [ICON_Production] üretim sağlar.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_TECH_SCIENTIFIC_THEORY_DESCRIPTION">
-			<Text>Mahdollistaa tutkimussopimuksen diplomatiassa. +1 [ICON_Food] ruokaa plantaaseista.</Text>
+		<Replace Language="pl_PL" Tag="LOC_TECH_SCIENTIFIC_THEORY_DESCRIPTION">
+			<Text>Diplomaside araştırma anlaşmalarını mümkün kılar. Plantasyonlardan +1 [ICON_Food] gıda sağlar.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_TECH_SANITATION_DESCRIPTION">
-			<Text>Porraskaivot tarjoavat 1 [ICON_Housing] asumusta.</Text>
+		<Replace Language="pl_PL" Tag="LOC_TECH_SANITATION_DESCRIPTION">
+			<Text>Hammamlar +1 [ICON_Housing] konut sağlar.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_TECH_STEAM_POWER_DESCRIPTION">
-			<Text>+2 [ICON_Movement] liikkuvuutta vesillä oleville yksiköille.</Text>
+		<Replace Language="pl_PL" Tag="LOC_TECH_STEAM_POWER_DESCRIPTION">
+			<Text>Su üzerindeki birimlere +2 [ICON_Movement] hareket kabiliyeti sağlar.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_TECH_FLIGHT_DESCRIPTION">
-			<Text>Kaikki [ICON_Culture] kulttuuria tarjoavat rakenteet tarjoavat saman verran myös [ICON_Tourism] turismia.</Text>
+		<Replace Language="pl_PL" Tag="LOC_TECH_FLIGHT_DESCRIPTION">
+			<Text>[ICON_Culture] Kültür sağlayan yapılar, aynı miktarda [ICON_Tourism] turizm sağlar.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_TECH_REPLACEABLE_PARTS_DESCRIPTION">
-			<Text>Päivittää maatilat käyttämään koneellista maataloutta. +1 [ICON_Food] ruuan läheisyysetua maatiloille jokaisesta viereisestä maatilasta.</Text>
+		<Replace Language="pl_PL" Tag="LOC_TECH_REPLACEABLE_PARTS_DESCRIPTION">
+			<Text>Çiftliklerin makineleşmesini sağlar. Çiftliklerin her komşu çiftlikten +1 [ICON_Food] gıda bonusu almasını sağlar.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_TECH_STEEL_DESCRIPTION">
-			<Text>+1 [ICON_Production] tuotantoa sahoista. Mahdollistaa asutuskeskusten suojat, jotka antavat kaikille kaupungeille 400 linnoitusvoimakkuutta sekä kyvyn tulittaa. Kaikki aiemmat muurit vanhenevat ja piirittämisen tukiyksiköt ovat hyödyttömiä.</Text>
+		<Replace Language="pl_PL" Tag="LOC_TECH_STEEL_DESCRIPTION">
+			<Text>Kereste fabrikalarından +1 [ICON_Production] üretim sağlar. Tüm şehirler 400 savunma gücü alır ve ateş edebilme yeteneği kazanır.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_TECH_COMBUSTION_DESCRIPTION">
-			<Text>+1 [ICON_Movement] liikkuvuutta vesillä oleville yksiköille.</Text>
+		<Replace Language="pl_PL" Tag="LOC_TECH_COMBUSTION_DESCRIPTION">
+			<Text>Su üzerindeki birimlere +1 [ICON_Movement] hareket kabiliyeti sağlar.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_TECH_ROCKETRY_DESCRIPTION">
-			<Text>+1 [ICON_Production] tuotantoa louhoksista.</Text>
+		<Replace Language="pl_PL" Tag="LOC_TECH_ROCKETRY_DESCRIPTION">
+			<Text>Taş ocaklarından +1 [ICON_Production] üretim sağlar.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_TECH_PLASTICS_DESCRIPTION">
-			<Text>+1 [ICON_Food] ruokaa kalastusaluksista.</Text>
+		<Replace Language="pl_PL" Tag="LOC_TECH_PLASTICS_DESCRIPTION">
+			<Text>Balıkçı teknelerinden +1 [ICON_Food] gıda sağlar.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_TECH_COMPUTERS_DESCRIPTION">
-			<Text>Mahdollistaa kouluttaa yhden vakoilijan lisää. Kaikki tuotto [ICON_Tourism] turismista kaksinkertaistuu.</Text>
+		<Replace Language="pl_PL" Tag="LOC_TECH_COMPUTERS_DESCRIPTION">
+			<Text>Bir ekstra casus yetiştirilmesini sağlar. [ICON_Tourism] Turizm gelirleri iki katına çıkar.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_TECH_SYNTHETIC_MATERIALS_DESCRIPTION">
-			<Text>+1 [ICON_Gold] kultaa leireistä.</Text>
+		<Replace Language="pl_PL" Tag="LOC_TECH_SYNTHETIC_MATERIALS_DESCRIPTION">
+			<Text>Kamp alanlarından +1 [ICON_Gold] altın sağlar.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_TECH_ROBOTICS_DESCRIPTION">
-			<Text>+1 [ICON_Production] tuotantoa laitumista.</Text>
+		<Replace Language="pl_PL" Tag="LOC_TECH_ROBOTICS_DESCRIPTION">
+			<Text>Çayırlardan +1 [ICON_Production] üretim sağlar.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_TECH_FUTURE_TECH_DESCRIPTION">
-			<Text>Useamman kerran valmistettava tekniikka, joka kasvattaa pistevoiton pottia.</Text>
+		<Replace Language="pl_PL" Tag="LOC_TECH_FUTURE_TECH_DESCRIPTION">
+			<Text>Tekrar tekrar tamamlanabilen bir teknoloji olup puan kazanmanıza yardımcı olur.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_SAILING">
-			<Text>Perusta rantakaupunki.</Text>
+		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_SAILING">
+			<Text>Kıyı kenti kur.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_ASTROLOGY">
-			<Text>Löydä luonnonihme.</Text>
+		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_ASTROLOGY">
+			<Text>Doğal bir harika keşfet.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_IRRIGATION">
-			<Text>Hyödynnä luonnonvara rakentamalla maatila.</Text>
+		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_IRRIGATION">
+			<Text>Çiftlik kurarak kaynak kullan.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_ARCHERY">
-			<Text>Tuhoa yksikkö linkomiehellä.</Text>
+		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_ARCHERY">
+			<Text>Okçu birimle bir düşman birimini yok et.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_WRITING">
-			<Text>Kohtaa toinen kansakunta.</Text>
+		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_WRITING">
+			<Text>Başka bir medeniyetle tanış.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_MASONRY">
-			<Text>Rakenna louhos.</Text>
+		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_MASONRY">
+			<Text>Bir taş ocağı inşa et.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_BRONZE_WORKING">
-			<Text>Tuhoa kolme barbaaria.</Text>
+		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_BRONZE_WORKING">
+			<Text>Üç barbar yok et.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_THE_WHEEL">
-			<Text>Hyödynnä luonnanvara rakentamalla kaivos.</Text>
+		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_THE_WHEEL">
+			<Text>Madeni kullanarak bir maden inşa et.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_CELESTIAL_NAVIGATION">
-			<Text>Hyödynnä kaksi meren luonnonvaraa.</Text>
+		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_CELESTIAL_NAVIGATION">
+			<Text>İki deniz kaynağı kullan.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_CURRENCY">
-			<Text>Perusta [ICON_TradeRoute] kauppareitti.</Text>
+		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_CURRENCY">
+			<Text>[ICON_TradeRoute] Ticaret rotası kur.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_HORSEBACK_RIDING">
-			<Text>Rakenna laidun.</Text>
+		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_HORSEBACK_RIDING">
+			<Text>Bir çayır inşa et.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_IRON_WORKING">
-			<Text>Rakenna rautakaivos.</Text>
+		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_IRON_WORKING">
+			<Text>Bir demir madeni inşa et.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_SHIPBUILDING">
-			<Text>Omista kaksi kaleeria.</Text>
+		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_SHIPBUILDING">
+			<Text>İki kadırgaya sahip ol.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_MATHEMATICS">
-			<Text>Rakenna kolme erilaista kaupunkialuetta.</Text>
+		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_MATHEMATICS">
+			<Text>Üç farklı şehir bölgesi inşa et.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_CONSTRUCTION">
-			<Text>Rakenna vesimylly.</Text>
+		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_CONSTRUCTION">
+			<Text>Bir su değirmeni inşa et.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_ENGINEERING">
-			<Text>Rakenna muinainen muuri.</Text>
+		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_ENGINEERING">
+			<Text>Antik duvar inşa et.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_MILITARY_TACTICS">
-			<Text>Tuhoa yksikkö keihäsmiehellä.</Text>
+		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_MILITARY_TACTICS">
+			<Text>Birim yok etmek için bir mızrakçı kullan.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_APPRENTICESHIP">
-			<Text>Rakenna kolme kaivosta.</Text>
+		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_APPRENTICESHIP">
+			<Text>Üç maden inşa et.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_STIRRUPS">
-			<Text>Kehitä feodalismin normi.</Text>
+		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_STIRRUPS">
+			<Text>Feodalizm normunu geliştir.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_MACHINERY">
-			<Text>Omista kolme jousimiestä.</Text>
+		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_MACHINERY">
+			<Text>Üç okçuya sahip ol.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_EDUCATION">
-			<Text>Värvää merkittävä tieteentekijä.</Text>
+		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_EDUCATION">
+			<Text>Önemli bir bilim insanını işe al.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_MILITARY_ENGINEERING">
-			<Text>Rakenna akvedukti.</Text>
+		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_MILITARY_ENGINEERING">
+			<Text>Bir su kemeri inşa et.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_CASTLES">
-			<Text>Muodosta vähintään kuuden linjauksen hallitus.</Text>
+		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_CASTLES">
+			<Text>En az altı politika yuvası olan bir hükümet kur.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_CARTOGRAPHY">
-			<Text>Rakenna kaksi satamaa.</Text>
+		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_CARTOGRAPHY">
+			<Text>İki liman inşa et.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_MASS_PRODUCTION">
-			<Text>Rakenna saha.</Text>
+		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_MASS_PRODUCTION">
+			<Text>Bir kereste fabrikası inşa et.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_BANKING">
-			<Text>Kehitä kiltojen normi.</Text>
+		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_BANKING">
+			<Text>Loncalar normunu geliştir.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_GUNPOWDER">
-			<Text>Rakenna asevarasto.</Text>
+		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_GUNPOWDER">
+			<Text>Bir silah deposu inşa et.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_PRINTING">
-			<Text>Rakenna kaksi yliopistoa.</Text>
+		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_PRINTING">
+			<Text>İki üniversite inşa et.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_SQUARE_RIGGING">
-			<Text>Tuhoa yksikkö musketöörillä.</Text>
+		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_SQUARE_RIGGING">
+			<Text>Misket tüfeği birimiyle bir düşman yok et.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_ASTRONOMY">
-			<Text>Rakenna yliopisto vuoren viereen.</Text>
+		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_ASTRONOMY">
+			<Text>Bir üniversiteyi dağ yanında inşa et.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_METAL_CASTING">
-			<Text>Omista kaksi varsijousta.</Text>
+		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_METAL_CASTING">
+			<Text>İki arbalete sahip ol.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_SIEGE_TACTICS">
-			<Text>Omista kaksi bombardia.</Text>
+		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_SIEGE_TACTICS">
+			<Text>İki bombardımana sahip ol.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_INDUSTRIALIZATION">
-			<Text>Rakenna kolme työpajaa.</Text>
+		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_INDUSTRIALIZATION">
+			<Text>Üç atölye inşa et.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_SCIENTIFIC_THEORY">
-			<Text>Kehitä valistuneisuuden normi.</Text>
+		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_SCIENTIFIC_THEORY">
+			<Text>Aydınlanma normunu geliştir.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_BALLISTICS">
-			<Text>Omista kaksi linnaketta omilla mailla. Kummankin tulee olla sotilasinsinöörin rakentamia.</Text>
+		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_BALLISTICS">
+			<Text>Kendi topraklarında iki kale inşa et, ikisi de askeri mühendisler tarafından yapılmış olmalı.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_MILITARY_SCIENCE">
-			<Text>Tuhoa yksikkö ritarilla.</Text>
+		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_MILITARY_SCIENCE">
+			<Text>Bir şövalyeyle bir birimi yok et.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_STEAM_POWER">
-			<Text>Rakenna kaksi telakkaa.</Text>
+		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_STEAM_POWER">
+			<Text>İki tersane inşa et.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_SANITATION">
-			<Text>Rakenna kaksi lähiötä.</Text>
+		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_SANITATION">
+			<Text>İki mahalle inşa et.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_ECONOMICS">
-			<Text>Rakenna kaksi pankkia.</Text>
+		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_ECONOMICS">
+			<Text>İki banka inşa et.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_RIFLING">
-			<Text>Rakenna salpietarikaivos.</Text>
+		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_RIFLING">
+			<Text>Bir güherçile madeni inşa et.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_FLIGHT">
-			<Text>Rakenna teollisen tai myöhemmän ajan ihme.</Text>
+		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_FLIGHT">
+			<Text>Endüstri veya daha sonraki bir dönemin harikasını inşa et.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_REPLACEABLE_PARTS">
-			<Text>Omista kolme musketööriä.</Text>
+		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_REPLACEABLE_PARTS">
+			<Text>Üç misket tüfeği birimine sahip ol.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_STEEL">
-			<Text>Rakenna hiilikaivos ja panssarilaiva.</Text>
+		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_STEEL">
+			<Text>Bir kömür madeni ve bir zırhlı gemi inşa et.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_ELECTRICITY">
-			<Text>Omista kolme kaapparia.</Text>
+		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_ELECTRICITY">
+			<Text>Üç korsan gemisine sahip ol.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_RADIO">
-			<Text>Perusta luonnonpuisto.</Text>
+		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_RADIO">
+			<Text>Bir doğa parkı kur.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_CHEMISTRY">
-			<Text>Saata tutkimussopimus loppuun.</Text>
+		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_CHEMISTRY">
+			<Text>Bir araştırma anlaşmasını tamamla.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_COMBUSTION">
-			<Text>Kaivauta artefakti.</Text>
+		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_COMBUSTION">
+			<Text>Bir eser kazısı yap.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_ADVANCED_FLIGHT">
-			<Text>Rakenna kolme kaksitasoa.</Text>
+		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_ADVANCED_FLIGHT">
+			<Text>Üç çift kanatlı uçağa sahip ol.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_ADVANCED_BALLISTICS">
-			<Text>Rakenna kaksi voimalaitosta.</Text>
+		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_ADVANCED_BALLISTICS">
+			<Text>İki enerji santrali inşa et.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_COMBINED_ARMS">
-			<Text>Omista kolme armeijaa tai armadaa.</Text>
+		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_COMBINED_ARMS">
+			<Text>Üç ordu veya armadaya sahip ol.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_PLASTICS">
-			<Text>Rakenna poraustorni.</Text>
+		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_PLASTICS">
+			<Text>Bir sondaj kulesi inşa et.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_COMPUTERS">
-			<Text>Muodosta vähintään kahdeksan linjauksen hallitus.</Text>
+		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_COMPUTERS">
+			<Text>En az sekiz politika yuvasına sahip bir hükümet kur.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_SYNTHETIC_MATERIALS">
-			<Text>Rakenna kaksi lentoasemaa.</Text>
+		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_SYNTHETIC_MATERIALS">
+			<Text>İki havaalanı inşa et.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_TELECOMMUNICATIONS">
-			<Text>Rakenna kaksi lähetyskeskusta.</Text>
+		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_TELECOMMUNICATIONS">
+			<Text>İki yayın merkezi inşa et.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_GUIDANCE_SYSTEMS">
-			<Text>Tuhoa hävittäjäkone.</Text>
+		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_GUIDANCE_SYSTEMS">
+			<Text>Bir savaş uçağını yok et.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_COMPOSITES">
-			<Text>Omista kolme taisteluvaunua.</Text>
+		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_COMPOSITES">
+			<Text>Üç tank birimine sahip ol.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_ROBOTICS">
-			<Text>Kehitä globalisaation normi.</Text>
+		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_ROBOTICS">
+			<Text>Küreselleşme normunu geliştir.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_NANOTECHNOLOGY">
-			<Text>Rakenna alumiinikaivos.</Text>
+		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_NANOTECHNOLOGY">
+			<Text>Bir alüminyum madeni inşa et.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_MUST_STEAL">
-			<Text>Tehosta kehitystä merkittävällä tieteentekijällä tai vakoilijalla.</Text>
+		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_MUST_STEAL">
+			<Text>Gelişimi önemli bir bilim insanı veya casusla hızlandır.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_SAILING">
-			<Text>Rannikon kaupunki on antanut kansakunnallemme näkemystä siihen, kuinka vesillä voisi liikkua.</Text>
+		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_SAILING">
+			<Text>Kıyı şehri, halkımıza deniz yolculuğu konusunda ilham verdi.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_ASTROLOGY">
-			<Text>Luonnonihmeen löytäminen on innoittanut kansaamme universumin upeudesta.</Text>
+		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_ASTROLOGY">
+			<Text>Doğal bir harika keşfi, halkımızı evrenin büyüsüne hayran bıraktı.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_IRRIGATION">
-			<Text>Luonnonvaran hyödyntäminen maatilalla on saanut meidät arvostamaan viljelysten kastelun tärkeyttä.</Text>
+		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_IRRIGATION">
+			<Text>Bir çiftlikle doğal kaynakları kullanmak, sulamanın önemini anlamamızı sağladı.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_ARCHERY">
-			<Text>Eteemme on noussut kysymys kun viimein saimme tuhotuksi vihollisen linkomiehellä: olisiko olemassa tehokkaampi heittoase?</Text>
+		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_ARCHERY">
+			<Text>Düşmanı okçularla alt ettikten sonra daha etkili bir atış aracı arayışı başladı.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_WRITING">
-			<Text>Toisen kansakunnan kohtaaminen on saanut meidät huomaamaan uusien kommunikointitapojen tärkeyden.</Text>
+		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_WRITING">
+			<Text>Başka bir uygarlıkla karşılaşmamız, yeni iletişim yollarına olan ihtiyacı fark etmemizi sağladı.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_MASONRY">
-			<Text>Luonnonvaran louhinta on antanut meille raaka-aineet, jotta voisimme työllistää muurareita.</Text>
+		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_MASONRY">
+			<Text>Madencilik, duvar ustalarının ihtiyaç duyduğu malzemeleri sağlamamıza olanak tanıdı.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_BRONZE_WORKING">
-			<Text>Taistelumme barbaareja vastaan korostavat tehokkaampien aseiden tarvetta.</Text>
+		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_BRONZE_WORKING">
+			<Text>Barbarlara karşı mücadelemiz, daha iyi silahlar geliştirme ihtiyacını vurguladı.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_THE_WHEEL">
-			<Text>Kaivostoimintamme on antanut meille kyvyn luoda akselin. Seuraako pyörä perästä?</Text>
+		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_THE_WHEEL">
+			<Text>Madencilik, aks inşa etmemize olanak tanıdı. Sırada tekerlek mi var?</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_CELESTIAL_NAVIGATION">
-			<Text>Kalastajamme ovat alkaneet oppia, kuinka käyttää tähtitaivasta hyväkseen yöllisillä retkillään.</Text>
+		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_CELESTIAL_NAVIGATION">
+			<Text>Balıkçılarımız, gece yolculuklarında yıldızları kullanmayı öğrenmeye başladı.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_CURRENCY">
-			<Text>Muodostamamme [ICON_TradeRoute] kauppareitti sallii hyödykkeiden vaihtamisen, mutta kaupasta saisi jonkin yhteisen vaihtovälineen avulla joustavampaa.</Text>
+		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_CURRENCY">
+			<Text>[ICON_TradeRoute] Ticaret yolu, malların değişimini sağladı. Ancak ortak bir değişim aracı ticareti kolaylaştırabilir.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_HORSEBACK_RIDING">
-			<Text>Laiduneläinten avulla lienisi aika oppia ratsastamaan.</Text>
+		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_HORSEBACK_RIDING">
+			<Text>Hayvanlarımız sayesinde binicilik öğrenmenin vakti geldi.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_IRON_WORKING">
-			<Text>Säännöllinen raudan lähde on mahdollistanut parempien aseiden ja vahvempien haarniskojen luomisen.</Text>
+		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_IRON_WORKING">
+			<Text>Düzenli demir kaynağı, daha iyi silahlar ve güçlü zırhlar yapmamızı sağladı.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_SHIPBUILDING">
-			<Text>Useamman kaleerin valmistus on opettanut meille paljon suurempien laivojen rakentamisesta.</Text>
+		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_SHIPBUILDING">
+			<Text>Birden fazla kadırga yaparak daha büyük gemilerin yapımını öğrendik.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_MATHEMATICS">
-			<Text>Kaupunkisuunnittelijamme ovat ymmärtäneet geometrian alkeet. Kenties täysi matemaattinen järjetelmä seuraa perästä?</Text>
+		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_MATHEMATICS">
+			<Text>Şehir planlamacılarımız, geometriyi anlamaya başladı. Belki tam bir matematik sistemi yakındır?</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_CONSTRUCTION">
-			<Text>Työ vesimyllyllä on opettanut rakentajillemme lukuisia rakentamisen periaatteita.</Text>
+		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_CONSTRUCTION">
+			<Text>Su değirmenindeki çalışmalar, yapıcılarımıza birçok inşaat prensibini öğretti.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_ENGINEERING">
-			<Text>Muurien rakentaminen kaupungin ympärille on antanut ymmärryksen insinööritaidosta, jota vaadittaisiin akveduktien ja katapulttien tekoon.</Text>
+		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_ENGINEERING">
+			<Text>Şehir duvarlarının yapımı, su kemeri ve mancınık inşa etmek için gereken mühendislik bilgisini sağladı.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_MILITARY_TACTICS">
-			<Text>Keihäsmiehemme ovat osoittautuneet tehokkaiksi, mutta vastustajamme ovat entistä vahvempia ja nopeampia. Olisikohan aihetta valmistaa pidempi ase?</Text>
+		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_MILITARY_TACTICS">
+			<Text>Mızrakçılarımız güçlü ancak rakiplerimiz daha hızlı ve güçlü. Daha uzun bir silah yapmanın zamanı mı?</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_APPRENTICESHIP">
-			<Text>Kun nyt saamme raaka-aineita monenlaisista kaivoksista, niin voisi olla asiallista antaa parempaa koulutusta käsityöläisille.</Text>
+		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_APPRENTICESHIP">
+			<Text>Farklı madenlerden gelen kaynaklarla zanaatkârlarımızı eğitmek için hazırız.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_STIRRUPS">
-			<Text>Feodaaliherrat haluaisivat puolustajan maillensa. Josko haarniskoidun soturin asettaminen ratsaille riittäisi?</Text>
+		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_STIRRUPS">
+			<Text>Feodal beyler, topraklarını savunmak için süvariler ister. Zırhlı askerler bu ihtiyacı karşılayabilir mi?</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_MACHINERY">
-			<Text>Koneistus saattaisi tehostaa heittoasejoukkojemme toimintaa.</Text>
+		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_MACHINERY">
+			<Text>Mekanizasyon, okçularımızın verimliliğini artırabilir.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_EDUCATION">
-			<Text>Merkittävän tieteentekijämme opit ovat luoneet uutta intoa opiskeluun valtakunnassamme.</Text>
+		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_EDUCATION">
+			<Text>Önemli bilim insanımız, krallığımızda eğitim için yeni bir heves uyandırdı.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_MILITARY_ENGINEERING">
-			<Text>Sotilasjohtajamme seurasivat tarkoin edistymistämme akveduktin kanssa. He pohtivat uusia käyttötapoja näkemilleen insinööritaidoille.</Text>
+		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_MILITARY_ENGINEERING">
+			<Text>Su kemeri yapımını izleyen askeri liderler, öğrendikleri mühendislik becerilerini savaş için kullanmayı düşündüler.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_CASTLES">
-			<Text>Hallituksemme uusi puolustusministeri ehdottaa, jotta voisimme rakentaa vakuuttavat puolustusrakennelmat pääkaupunkimme suojaksi.</Text>
+		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_CASTLES">
+			<Text>Yeni savunma bakanımız, başkentimizi koruyacak güçlü yapılar inşa etmeyi önerdi.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_CARTOGRAPHY">
-			<Text>Monien laivojen lähtiessä satamistamme on noussut kaipaus kirjata matkat tarkemmin muistiin.</Text>
+		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_CARTOGRAPHY">
+			<Text>Limanlarımızdan birçok gemi kalktı ve seferleri kaydetme arzusu arttı.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_MASS_PRODUCTION">
-			<Text>Tarjolle tulleet yhdenmukaistetut lankut ovat saaneet kuljetusteollisuuteen vauhtia.</Text>
+		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_MASS_PRODUCTION">
+			<Text>Standart kereste tedariki, taşımacılık endüstrisine hız kazandırdı.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_BANKING">
-			<Text>Kasvavat kiltamme ovat muodostaneet suunnitelmia, jotka vaativat runsaasti varallisuutta. Kenties kykenemme mahdollistamaan lainaamisen?</Text>
+		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_BANKING">
+			<Text>Gelişen loncalarımız, büyük miktarda sermaye gerektiren planlar yapıyor. Belki kredi sistemi geliştirebiliriz?</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_GUNPOWDER">
-			<Text>Asevarastomme miehet pohtivat uudenlaista asetta, jolla yllättää vihollisemme.</Text>
+		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_GUNPOWDER">
+			<Text>Cephaneliğimizdeki adamlar, düşmanı şaşırtacak yeni bir silah düşünüyorlar.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_PRINTING">
-			<Text>Tarpeen vuoksi oppineemme pohtivat keinoja kopioida kirjoja nopeasti.</Text>
+		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_PRINTING">
+			<Text>Bilginlerimiz, kitapları hızlı bir şekilde çoğaltmanın yollarını arıyor.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_SQUARE_RIGGING">
-			<Text>Musketööriemme onnistumiset maalla on nostanut ilmoille ajatuksen, että voisimmeko sotia vastaavasti myös merellä?</Text>
+		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_SQUARE_RIGGING">
+			<Text>Misket tüfekçilerimizin başarısı, denizde de aynı başarıyı elde edip edemeyeceğimizi düşündürdü.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_ASTRONOMY">
-			<Text>Tieteentekijämme ramppaavat yhtenään vuorille nähdäkseen taivaan tarkemmin. Pysyvästä rakennelmasta saattaisi olla heille apua.</Text>
+		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_ASTRONOMY">
+			<Text>Bilim insanlarımız, gökyüzünü incelemek için dağlara gidiyor. Kalıcı bir yapı faydalı olabilir.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_METAL_CASTING">
-			<Text>Kovin monien varsijoustemme myötä meille on syntynyt monia heittoaseiden tuntijoita.</Text>
+		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_METAL_CASTING">
+			<Text>Çok sayıda arbalet, bize çeşitli silah uzmanları kazandırdı.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_SIEGE_TACTICS">
-			<Text>Bombardien valmistamisen myötä olemme havainneet linnojen olevan haavoittuvia - tarvitsemme vankkumattoman puolustuksen!</Text>
+		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_SIEGE_TACTICS">
+			<Text>Bombardimanların yapımı, kalelerin savunmasız olduğunu gösterdi. Daha sağlam savunmalar gerekli!</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_INDUSTRIALIZATION">
-			<Text>Valtakuntamme kiireiset työpajat vihjaavat tulevasta suuruudesta. Onko teollinen vallankumous jo nurkan takana?</Text>
+		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_INDUSTRIALIZATION">
+			<Text>Atölyelerimiz, büyük bir devrimin eşiğinde olduğumuzu gösteriyor. Sanayi devrimi kapıda mı?</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_SCIENTIFIC_THEORY">
-			<Text>Valistuneisuuden ajan myötä valtakunnassamme on runsaasti syvällistä keskustelua tieteellisistä menetelmistä.</Text>
+		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_SCIENTIFIC_THEORY">
+			<Text>Aydınlanma çağında bilimsel yöntemler üzerine derin tartışmalar başladı.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_BALLISTICS">
-			<Text>Kaupunkimme ovat lukuisten vallien suojaamia, mitäpä jos kanuunat voisivat puolustaa niitä?</Text>
+		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_BALLISTICS">
+			<Text>Şehirlerimiz surlarla korunuyor. Toplar, savunmamızı güçlendirebilir mi?</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_MILITARY_SCIENCE">
-			<Text>Urhollinen ritarimme on nujertanut vihollisen. Oppikaamme tästä voitosta ja alkakaamme sotilasasioiden oppijoiksi.</Text>
+		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_MILITARY_SCIENCE">
+			<Text>Cesur şövalyemiz düşmanı yendi. Bu zaferden ders alıp savaş sanatını öğrenelim.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_STEAM_POWER">
-			<Text>Käyttäkäämme teollinen ymmärryksemme tuoreiden telakoidemme hyväksi: höyrykäyttöiset laivat voisivat hallita meriä.</Text>
+		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_STEAM_POWER">
+			<Text>Kullanabileceğimiz sanayi bilgimizi yeni tersanelerimize aktaralım: buharlı gemiler denizleri fethedebilir.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_SANITATION">
-			<Text>Lähiöiden myötä kaupunkimme voivat kasvaa entistä suuremmiksi. Viemäröintisuunnitelman muodostamisesta on tullut elintärkeää.</Text>
+		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_SANITATION">
+			<Text>Banliyölerin gelişimiyle şehirlerimiz büyümeye başladı. Kanalizasyon sistemleri planlamak artık hayati önem taşıyor.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_ECONOMICS">
-			<Text>Pankkiemme valta on nousussa: on tullut aika tutkia mitkä seikat muodostavat kansallisen taloutemme.</Text>
+		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_ECONOMICS">
+			<Text>Bankalarımız güçleniyor: artık ulusal ekonomimizin yapı taşlarını inceleme zamanı geldi.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_RIFLING">
-			<Text>Salpietarin myötä tuliaseteollisuutemme on saavuttanut kokonaan uuden tason. On tullut aika parantaa aseidemme tarkkuutta.</Text>
+		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_RIFLING">
+			<Text>Barut üretimi, ateşli silah sanayimizi geliştirdi. Artık silahlarımızın doğruluğunu artırma vakti.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_FLIGHT">
-			<Text>Nykyaikaisen ihmeen valmistuminen on saanut insinöörimme varmoiksi siitä, että he kykenevät mihin tahansa. Eivät he kai pohdi lentämistä seuraavaksi?</Text>
+		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_FLIGHT">
+			<Text>Modern bir harikanın tamamlanması mühendislerimizi her şeyi başarabileceklerine inandırdı. Uçuş mu sırada?</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_REPLACEABLE_PARTS">
-			<Text>Asevalmistajamme ovat kyllästyneet työstämään kokonaisia musketteja käsin yksi toisensa jälkeen. Kenties olisi aiheellista järkevöittää ja yhtenäistää toimintaa?</Text>
+		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_REPLACEABLE_PARTS">
+			<Text>Silah üreticilerimiz tüfekleri tek tek yapmaktan bıktı. Üretimi standartlaştırmanın zamanı geldi mi?</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_STEEL">
-			<Text>Hiilikäyttöiset sulatusuunimme ja panssarilaivojen koeajot antavat meille pian kyvyn tehdä mitä hienointa terästä!</Text>
+		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_STEEL">
+			<Text>Kömürle çalışan fırınlarımız ve zırhlı gemilerimiz, yüksek kaliteli çelik üretmeye hazır!</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_ELECTRICITY">
-			<Text>Sähkövirran löytäminen on kirvoittanut kekseliäitä kaappareitamme pohtimaan vähemmän meluisia voimanlähteitä.</Text>
+		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_ELECTRICITY">
+			<Text>Elektrik akımının keşfi, korsanlarımızı daha sessiz güç kaynakları üzerinde düşünmeye yönlendirdi.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_RADIO">
-			<Text>Uusi luonnonpuistomme kaipaa kävijöitä. Auttaisikohan uudenlainen viestintätapa mainostamaan sen olemassaoloa?</Text>
+		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_RADIO">
+			<Text>Yeni milli parkımız ziyaretçi bekliyor. Onu tanıtmak için yeni iletişim yolları işe yarar mı?</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_CHEMISTRY">
-			<Text>Yhteistoiminta muiden kansojen kanssa on aloittanut tieteellisten läpimurtojen virran. Tapahtuisiko seuraava edistys kemian saralla?</Text>
+		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_CHEMISTRY">
+			<Text>Diğer uluslarla işbirliği, bilimsel atılımları tetikledi. Kimya alanında ilerlemeler yakın olabilir mi?</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_COMBUSTION">
-			<Text>Arkeologimme ovat havainneet maaöljyä tihkuvan kivistä. Olisikohan geologin aiheellista tutkia asiaa tarkemmin?</Text>
+		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_COMBUSTION">
+			<Text>Arkeologlarımız taşlardan sızan petrol keşfetti. Bir jeolog bu konuyu incelemeli mi?</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_ADVANCED_FLIGHT">
-			<Text>Laaja kokemuksemme kaksitasoista on johtanut lukuisiin ilmailun läpimurtoihin.</Text>
+		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_ADVANCED_FLIGHT">
+			<Text>İki kanatlı uçaklarla edindiğimiz deneyimler, havacılıkta birçok atılım sağladı.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_ADVANCED_BALLISTICS">
-			<Text>Uusien voimalaitosten kehittäminen on tuonut teollisia edistysaskelia, jotka saattavat auttaa aseiden tuotannossa.</Text>
+		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_ADVANCED_BALLISTICS">
+			<Text>Yeni enerji santrallerimizin gelişimi, silah üretimimizi destekleyebilir.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_COMBINED_ARMS">
-			<Text>Armeijamme kasvun myötä nousee kysymys: voisiko joukkojamme kehittää entisestään jonkin uuden keinon voimin?</Text>
+		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_COMBINED_ARMS">
+			<Text>Ordumuz büyüdükçe, birliklerimizi daha da geliştirmek için yeni yöntemler arıyoruz.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_PLASTICS">
-			<Text>Petrokemikaalien lähteen luulisi johtavan edistysaskeliin. Varsinkin muovautuvuus on erityisen kiinnostuksen kohde.</Text>
+		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_PLASTICS">
+			<Text>Petrokimya kaynakları, özellikle esneklik açısından yeni ilerlemelere yol açabilir.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_COMPUTERS">
-			<Text>Nykyinen hallitus vaatii runsaasti virkakoneistoa. Tiedonseurannan kehittäminen tehokkaaksi auttaisi valtavasti.</Text>
+		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_COMPUTERS">
+			<Text>Mevcut hükümetimiz çok fazla bürokrasi gerektiriyor. Etkin bilgi takibi büyük bir yardım olacaktır.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_SYNTHETIC_MATERIALS">
-			<Text>Useissa kaupungeissa sijaitsevien ilmailun rakennusten myötä lentoteollisuutemme on kasvamassa hyvää tahtia.</Text>
+		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_SYNTHETIC_MATERIALS">
+			<Text>Havacılık tesislerinin yaygınlaşması, havacılık sektörümüzü hızla büyütüyor.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_TELECOMMUNICATIONS">
-			<Text>Radion ja television pioneerien esimerkin myötä olemme kehittyneet erinomaisiksi nopeassa tiedonvälityksessä.</Text>
+		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_TELECOMMUNICATIONS">
+			<Text>Radyo ve televizyon öncüleri sayesinde hızlı iletişimde ustalaştık.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_GUIDANCE_SYSTEMS">
-			<Text>Armeijamme on päihittänyt viholliskoneen. On tullut aika rakentaa paras puolustus niitä vastaan.</Text>
+		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_GUIDANCE_SYSTEMS">
+			<Text>Ordumuz bir savaş uçağını yendi. Artık en iyi savunma sistemlerini inşa etme zamanı.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_COMPOSITES">
-			<Text>Panssarimme ovat olleet armeijamme tukiranka, joten tieteentekijämme hihkuvat kehittyneemmän mallin puolesta.</Text>
+		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_COMPOSITES">
+			<Text>Zırhlarımız ordumuzun belkemiği oldu, bilim insanlarımız ise daha gelişmiş modelleri sabırsızlıkla bekliyor.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_ROBOTICS">
-			<Text>Laaja tutkittavien metallien valikoima auttaa tieteentekijöitämme puskemaan uusille aloille.</Text>
+		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_ROBOTICS">
+			<Text>Geniş metal kaynakları, bilim insanlarımızı yeni ufuklara itiyor.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_NANOTECHNOLOGY">
-			<Text>Laaja tutkittavien metallien valikoima auttaa tieteentekijöitämme puskemaan uusille aloille.</Text>
+		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_NANOTECHNOLOGY">
+			<Text>Geniş metal kaynakları, bilim insanlarımızı yeni ufuklara itiyor.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_TEAM_MEMBER_OWNS_TECH">
-			<Text>Tiimimme jäsen on lähiaikoina saavuttamansa tekniikan myötä jakanut tutkimuksensa huomiot. Heidän innovaationsa kohentaa omaa edistystämme merkittävästi.</Text>
+		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_TEAM_MEMBER_OWNS_TECH">
+			<Text>Takım arkadaşımız yeni bir teknolojiyi keşfetti ve bulgularını bizimle paylaştı. Bu inovasyon, ilerlememizi hızlandıracak.</Text>
 		</Replace>
 	</LocalizedText>
 </GameData>
