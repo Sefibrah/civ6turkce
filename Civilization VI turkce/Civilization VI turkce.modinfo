@@ -495,7 +495,7 @@
 			<en_US>Turkish Language Pack</en_US>
 		</Text>
 		<Text id="LOC_MOD_DESCRIPTION">
-			<en_US>When you select the Polish language, and restart the game, you will see Turkish language! All translations are AI generated, using GPT-4o and GitHub's Copilot, and translated from the Finnish language. If anyone wants to make corrections to the translations, then make a PR to this GitHub repository: https://github.com/Sefibrah/civ6turkce</en_US>
+			<en_US>When you select the English language, and restart the game, you will see Turkish language! All translations are AI generated, using GPT-4o and GitHub's Copilot, and translated from the Finnish language. If anyone wants to make corrections to the translations, then make a PR to this GitHub repository: https://github.com/Sefibrah/civ6turkce</en_US>
 		</Text>
 		<Text id="LOC_MOD_AUTHORS">
 			<en_US>Ibrahim Sefer</en_US>
