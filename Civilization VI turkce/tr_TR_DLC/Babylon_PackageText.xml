@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameData>
 	<LocalizedText>
-		<Replace Language="en_US" Tag="LOC_BABYLON_MOD_TITLE">
-			<Text>Lisäosa: Babylon</Text>
+		<Replace Language="pl_PL" Tag="LOC_BABYLON_MOD_TITLE">
+			<Text>Eklenti: Babil</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BABYLON_MOD_TEASER">
-			<Text>Uusi kansa ja hallitsija: Babylonin Hammurabi</Text>
+		<Replace Language="pl_PL" Tag="LOC_BABYLON_MOD_TEASER">
+			<Text>Yeni bir ulus ve lider: Babil'in Hammurabi'si</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BABYLON_MOD_DESCRIPTION">
-			<Text>Sisältää uuden kansan ja hallitsijan, 6 uutta kaupunkivaltiota, 25 uutta merkittävää henkilöä sekä Sankarit ja legendat -pelimuodon.</Text>
+		<Replace Language="pl_PL" Tag="LOC_BABYLON_MOD_DESCRIPTION">
+			<Text>Yeni bir ulus ve lider, 6 yeni şehir devleti, 25 yeni büyük şahsiyet ve Kahramanlar ve Efsaneler oyun modunu içerir.</Text>
 		</Replace>
 	</LocalizedText>
 </GameData>
