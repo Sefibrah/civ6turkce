@@ -1,96 +1,96 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameData>
 	<LocalizedText>
-		<Replace Language="en_US" Tag="TXT_KEY_MY2K">
+		<Replace Language="pl_PL" Tag="TXT_KEY_MY2K">
 			<Text>my2K</Text>
-		</Replace>		
-		<!-- String needed for MY2K but not (yet) provided by the server system... -->
-		<Replace Language="en_US" Tag="TXT_KEY_MY2K_ADDITION_SIGN_UP_TITLE">
-			<Text>Luo my2K-tunnus</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="TXT_KEY_MY2K_ADDITION_CREATE_NEW_USER_MESSAGE">
-			<Text>Syötä alla olevaan kenttään toimiva sähköpostiosoite luodaksesi my2K-tunnuksen. Vahvistusviesti lähetetään sähköpostiin tunnuksen luonnin vahvistamiseksi.</Text>
+		<!-- Tekst potrzebny do my2K, ale jeszcze nieudostępniony przez system serwera -->
+		<Replace Language="pl_PL" Tag="TXT_KEY_MY2K_ADDITION_SIGN_UP_TITLE">
+			<Text>my2K hesabı oluştur</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="TXT_KEY_MY2K_ADDITION_LOGOUT_TITLE">
-			<Text>Kirjaudu ulos</Text>
+		<Replace Language="pl_PL" Tag="TXT_KEY_MY2K_ADDITION_CREATE_NEW_USER_MESSAGE">
+			<Text>Geçerli bir e-posta adresi girerek my2K hesabı oluşturun. Hesabı doğrulamak için bir onay e-postası gönderilecektir.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="TXT_KEY_MY2K_ADDITION_LOGOUT_MESSAGE">
-			<Text>Haluatko kirjautua ulos?</Text>
+		<Replace Language="pl_PL" Tag="TXT_KEY_MY2K_ADDITION_LOGOUT_TITLE">
+			<Text>Çıkış Yap</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="TXT_KEY_MY2K_ADDITION_YES">
-			<Text>Kyllä</Text>
+		<Replace Language="pl_PL" Tag="TXT_KEY_MY2K_ADDITION_LOGOUT_MESSAGE">
+			<Text>Çıkış yapmak istediğinize emin misiniz?</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="TXT_KEY_MY2K_ADDITION_NO">
-			<Text>En</Text>
+		<Replace Language="pl_PL" Tag="TXT_KEY_MY2K_ADDITION_YES">
+			<Text>Evet</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="TXT_KEY_MY2K_ADDITION_LOGIN_USER">
-			<Text>Kirjaudu</Text>
+		<Replace Language="pl_PL" Tag="TXT_KEY_MY2K_ADDITION_NO">
+			<Text>Hayır</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="TXT_KEY_MY2K_ADDITION_OK">
-			<Text>OK</Text>
+		<Replace Language="pl_PL" Tag="TXT_KEY_MY2K_ADDITION_LOGIN_USER">
+			<Text>Giriş Yap</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="TXT_KEY_MY2K_ADDITION_CANCEL">
-			<Text>Peruuta</Text>
+		<Replace Language="pl_PL" Tag="TXT_KEY_MY2K_ADDITION_OK">
+			<Text>Tamam</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="TXT_KEY_MY2K_ADDITION_READ">
-			<Text>Lue</Text>
+		<Replace Language="pl_PL" Tag="TXT_KEY_MY2K_ADDITION_CANCEL">
+			<Text>İptal</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="TXT_KEY_MY2K_ADDITION_CREATE_NEW_USER">
-			<Text>Luo uusi käyttäjä</Text>
+		<Replace Language="pl_PL" Tag="TXT_KEY_MY2K_ADDITION_READ">
+			<Text>Oku</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="TXT_KEY_MY2K_ADDITION_SIGN_UP">
-			<Text>Lue tunnus</Text>
+		<Replace Language="pl_PL" Tag="TXT_KEY_MY2K_ADDITION_CREATE_NEW_USER">
+			<Text>Yeni kullanıcı oluştur</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="TXT_KEY_MY2K_ADDITION_CONNECTION_ISSUE">
-			<Text>Yhteysvirhe</Text>
+		<Replace Language="pl_PL" Tag="TXT_KEY_MY2K_ADDITION_SIGN_UP">
+			<Text>Kayıt Ol</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="TXT_KEY_MY2K_ADDITION_FIRAXIS_LIVE_NOT_CONNECTED">
-			<Text>Yhteyttä Civilization VI:n kanssa ei voitu muodostaa. Civilization VI:n ominaisuudet eivät välttämättä toimi.</Text>
+		<Replace Language="pl_PL" Tag="TXT_KEY_MY2K_ADDITION_CONNECTION_ISSUE">
+			<Text>Bağlantı Sorunu</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="TXT_KEY_MOTD">
-			<Text>Tuleva lähetys</Text>
+		<Replace Language="pl_PL" Tag="TXT_KEY_MY2K_ADDITION_FIRAXIS_LIVE_NOT_CONNECTED">
+			<Text>Civilization VI ile bağlantı kurulamadı. Oyunun bazı özellikleri çalışmayabilir.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="TXT_KEY_MY2K_ADDITION_WELCOME_BACK_TITLE">
-			<Text>Tervetuloa takaisin!</Text>
+		<Replace Language="pl_PL" Tag="TXT_KEY_MOTD">
+			<Text>Yaklaşan Etkinlikler</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="TXT_KEY_MY2K_ADDITION_WELCOME_BACK_MESSAGE">
-			<Text>Kirjauduttu.</Text>
+		<Replace Language="pl_PL" Tag="TXT_KEY_MY2K_ADDITION_WELCOME_BACK_TITLE">
+			<Text>Tekrar Hoş Geldiniz!</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="TXT_KEY_MY2K_ADDITION_SILENT_LOGIN_FAILURE_TITLE">
-			<Text>Vaimennettu kirjautumisilmoitus</Text>
+		<Replace Language="pl_PL" Tag="TXT_KEY_MY2K_ADDITION_WELCOME_BACK_MESSAGE">
+			<Text>Başarıyla giriş yapıldı.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="TXT_KEY_MY2K_ADDITION_SILENT_LOGIN_FAILURE_MESSAGE">
-			<Text>Sinun tulee kirjautua my2K-tunnukseen omatoimisesti.</Text>
+		<Replace Language="pl_PL" Tag="TXT_KEY_MY2K_ADDITION_SILENT_LOGIN_FAILURE_TITLE">
+			<Text>Gizli Giriş Başarısız</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="TXT_KEY_MY2K_ADDITION_CONNECTION_RESTORED">
-			<Text>Yhteys palautettu</Text>
+		<Replace Language="pl_PL" Tag="TXT_KEY_MY2K_ADDITION_SILENT_LOGIN_FAILURE_MESSAGE">
+			<Text>my2K hesabınıza manuel olarak giriş yapmanız gerekmektedir.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="TXT_KEY_MY2K_ADDITION_LINK_TO_EXISTING">
-			<Text>Linkitys olemassaolevaan tunnukseen</Text>
+		<Replace Language="pl_PL" Tag="TXT_KEY_MY2K_ADDITION_CONNECTION_RESTORED">
+			<Text>Bağlantı Geri Yüklendi</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="TXT_KEY_MY2K_ADDITION_ALREADY_LINKED">
-			<Text>Järjestelmän tunnus on jo linkitetty my2K-tunnukseen.</Text>
+		<Replace Language="pl_PL" Tag="TXT_KEY_MY2K_ADDITION_LINK_TO_EXISTING">
+			<Text>Mevcut Hesaba Bağla</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="TXT_KEY_MY2K_ADDITION_UNABLE_TO_LINK_ACCOUNT">
-			<Text>Järjestelmän tunnusta ei kyetä linkittämään my2K-tunnukseen.</Text>
+		<Replace Language="pl_PL" Tag="TXT_KEY_MY2K_ADDITION_ALREADY_LINKED">
+			<Text>Sistem hesabı zaten bir my2K hesabına bağlı.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="TXT_KEY_MY2K_ADDITION_UNLINK_ACCOUNT_TITLE">
-			<Text>Poista linkitys</Text>
+		<Replace Language="pl_PL" Tag="TXT_KEY_MY2K_ADDITION_UNABLE_TO_LINK_ACCOUNT">
+			<Text>Sistem hesabı my2K hesabına bağlanamıyor.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="TXT_KEY_MY2K_ADDITION_LINK_ACCOUNT_TITLE">
-			<Text>Linkitä tunnus</Text>
+		<Replace Language="pl_PL" Tag="TXT_KEY_MY2K_ADDITION_UNLINK_ACCOUNT_TITLE">
+			<Text>Bağlantıyı Kaldır</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="TXT_KEY_MY2K_ADDITION_UNLINK_ACCOUNT">
-			<Text>Haluatko varmasti poistaa linkityksen my2K:hon? Voit hallita tunnustasi tai tarkastella tietosuojaselostetta verkossa osoitteessa www.2k.com</Text>
+		<Replace Language="pl_PL" Tag="TXT_KEY_MY2K_ADDITION_LINK_ACCOUNT_TITLE">
+			<Text>Hesabı Bağla</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="TXT_KEY_MY2K_MODE_ANONYMOUS">
-			<Text>Ei yhteyttä</Text>
+		<Replace Language="pl_PL" Tag="TXT_KEY_MY2K_ADDITION_UNLINK_ACCOUNT">
+			<Text>my2K ile bağlantıyı kaldırmak istediğinizden emin misiniz? Hesabınızı yönetmek veya gizlilik politikasını incelemek için www.2k.com adresini ziyaret edebilirsiniz.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="TXT_KEY_MY2K_MODE_LINKED_ONLINE">
-			<Text>Linkitetty (yhteydessä)</Text>
+		<Replace Language="pl_PL" Tag="TXT_KEY_MY2K_MODE_ANONYMOUS">
+			<Text>Bağlı Değil</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="TXT_KEY_MY2K_MODE_LINKED_OFFLINE">
-			<Text>Linkitetty (ei yhteyttä)</Text>
+		<Replace Language="pl_PL" Tag="TXT_KEY_MY2K_MODE_LINKED_ONLINE">
+			<Text>Bağlı (Çevrimiçi)</Text>
+		</Replace>
+		<Replace Language="pl_PL" Tag="TXT_KEY_MY2K_MODE_LINKED_OFFLINE">
+			<Text>Bağlı (Çevrimdışı)</Text>
 		</Replace>
 	</LocalizedText>
 </GameData>
