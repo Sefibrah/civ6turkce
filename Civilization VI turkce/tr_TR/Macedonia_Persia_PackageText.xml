@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameData>
 	<LocalizedText>
-		<Replace Language="en_US" Tag="LOC_MACEDONIA_PERSIA_MOD_TITLE">
-			<Text>Lisäosa: Persia ja Makedonia</Text>
+		<Replace Language="tr_TR" Tag="LOC_MACEDONIA_PERSIA_MOD_TITLE">
+			<Text>Genişleme Paketi: Pers ve Makedonya</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_MACEDONIA_PERSIA_MOD_TEASER">
-			<Text>Uusia kansoja ja hallitsijoita: Makedonian Aleksanteri Suuri, sekä Persian Kyyros</Text>
+		<Replace Language="tr_TR" Tag="LOC_MACEDONIA_PERSIA_MOD_TEASER">
+			<Text>Yeni uygarlıklar ve liderler: Makedonya'dan Büyük İskender ve Perslerden Kiros</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_MACEDONIA_PERSIA_MOD_DESCRIPTION">
-			<Text>Sisältää kaksi uutta kansaa ja hallitsijaa, sekä kaksi uutta maailmanihmettä.</Text>
+		<Replace Language="tr_TR" Tag="LOC_MACEDONIA_PERSIA_MOD_DESCRIPTION">
+			<Text>İki yeni uygarlık ve lider, ayrıca iki yeni dünya harikası içerir.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_MOD_ALEXANDER_SCENARIO_TITLE">
-			<Text>Skenaario: Aleksanterin valloitukset</Text>
+		<Replace Language="tr_TR" Tag="LOC_MOD_ALEXANDER_SCENARIO_TITLE">
+			<Text>Senaryo: İskender’in Fetihleri</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_MOD_ALEXANDER_SCENARIO_TEASER">
-			<Text>Kykenetkö valtaamaan valtakunnan, joka on Aleksanteri Suuren veroinen? Kestää korkeintaan 60 vuoroa.</Text>
+		<Replace Language="tr_TR" Tag="LOC_MOD_ALEXANDER_SCENARIO_TEASER">
+			<Text>İskender kadar büyük bir imparatorluk kurabilir misin? En fazla 60 tur süren bir meydan okuma seni bekliyor.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_MOD_ALEXANDER_SCENARIO_DESCRIPTION">
-			<Text>Tässä yksinpeliskenaariossa sinun tulee laajentaa valtakuntaa ansaitaksesi nimen "Aleksanteri Suuri." Skenaario painottaa taistelua, maiden valtaamista ja rinnallasi taistelevien merkittävien kenraalien harkittua käyttöä.[NEWLINE][NEWLINE]Voittaaksesi valtaa jokainen kartan kaupunki vaikeustason mukaisessa määrässä vuoroja:[NEWLINE][NEWLINE]Uudisasuttaja: 60 vuoroa[NEWLINE]Sotaherra tai heimopäällikkö: 55 vuoroa[NEWLINE]Kuningas tai prinssi: 50 vuoroa[NEWLINE]Kuolematon tai keisari: 45 vuoroa[NEWLINE]Jumalainen: 37 vuoroa</Text>
+		<Replace Language="tr_TR" Tag="LOC_MOD_ALEXANDER_SCENARIO_DESCRIPTION">
+			<Text>Bu tek oyunculu senaryoda, "Büyük İskender" unvanını hak etmek için imparatorluğunu genişletmen gerekiyor. Senaryo savaş, toprak kazanımı ve yanında savaşan önemli generalleri stratejik olarak kullanmaya odaklanır.[NEWLINE][NEWLINE]Zafer için her şehir ele geçirilmelidir ve zorluk seviyesine göre belirli tur sayısında tamamlanmalıdır:[NEWLINE][NEWLINE]Yerleşimci: 60 tur[NEWLINE]Savaş Lordu veya Kabile Şefi: 55 tur[NEWLINE]Kral veya Prens: 50 tur[NEWLINE]Ölümsüz veya İmparator: 45 tur[NEWLINE]Tanrısal: 37 tur</Text>
 		</Replace>
 	</LocalizedText>
 </GameData>
