@@ -1,38 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameData>
 	<LocalizedText>
-		<Replace Language="en_US" Tag="LOC_SURPRISE_WAR_NAME">
-			<Text>Yllätyssota</Text>
+		<Replace Language="pl_PL" Tag="LOC_SURPRISE_WAR_NAME">
+			<Text>Sürpriz Savaşı</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_FORMAL_WAR_NAME">
-			<Text>Virallinen sota</Text>
+		<Replace Language="pl_PL" Tag="LOC_FORMAL_WAR_NAME">
+			<Text>Resmi Savaş</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_HOLY_WAR_NAME">
-			<Text>Pyhä sota</Text>
+		<Replace Language="pl_PL" Tag="LOC_HOLY_WAR_NAME">
+			<Text>Kutsal Savaş</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_RECONQUEST_WAR_NAME">
-			<Text>Takaisinvaltaussota</Text>
+		<Replace Language="pl_PL" Tag="LOC_RECONQUEST_WAR_NAME">
+			<Text>Yeniden Fetih Savaşı</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_LIBERATION_WAR_NAME">
-			<Text>Vapautussota</Text>
+		<Replace Language="pl_PL" Tag="LOC_LIBERATION_WAR_NAME">
+			<Text>Kurtuluş Savaşı</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_DEFENSIVE_PACT_NAME">
-			<Text>Puolustussopimus</Text>
+		<Replace Language="pl_PL" Tag="LOC_DEFENSIVE_PACT_NAME">
+			<Text>Savunma Paktı</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_JOINT_WAR_NAME">
-			<Text>Yhteissota</Text>
+		<Replace Language="pl_PL" Tag="LOC_JOINT_WAR_NAME">
+			<Text>Ortak Savaş</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_SUZERAIN_WAR_NAME">
-			<Text>Herruussota</Text>
+		<Replace Language="pl_PL" Tag="LOC_SUZERAIN_WAR_NAME">
+			<Text>Egemenlik Savaşı</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_PROTECTORATE_WAR_NAME">
-			<Text>Suojelussota</Text>
+		<Replace Language="pl_PL" Tag="LOC_PROTECTORATE_WAR_NAME">
+			<Text>Himaye Savaşı</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_COLONIAL_WAR_NAME">
-			<Text>Siirtomaasota</Text>
+		<Replace Language="pl_PL" Tag="LOC_COLONIAL_WAR_NAME">
+			<Text>Sömürge Savaşı</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_TERRITORIAL_WAR_NAME">
-			<Text>Aluelaajennossota</Text>
+		<Replace Language="pl_PL" Tag="LOC_TERRITORIAL_WAR_NAME">
+			<Text>Toprak Genişletme Savaşı</Text>
 		</Replace>
 	</LocalizedText>
 </GameData>
