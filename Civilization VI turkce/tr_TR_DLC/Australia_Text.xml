@@ -28,246 +28,246 @@
 			<Text>Melbourne, günümüzde Canberra</Text>
 		</Replace>
 		<!-- City Names -->
-		<Replace Language="en_US" Tag="LOC_CITY_NAME_CANBERRA">
+		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_CANBERRA">
 			<Text>Canberra</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CITY_NAME_SYDNEY">
+		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_SYDNEY">
 			<Text>Sydney</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CITY_NAME_MELBOURNE">
+		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_MELBOURNE">
 			<Text>Melbourne</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CITY_NAME_BRISBANE">
+		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_BRISBANE">
 			<Text>Brisbane</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CITY_NAME_ADELAIDE">
+		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_ADELAIDE">
 			<Text>Adelaide</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CITY_NAME_PERTH">
+		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_PERTH">
 			<Text>Perth</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CITY_NAME_HOBART">
+		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_HOBART">
 			<Text>Hobart</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CITY_NAME_GEELONG">
+		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_GEELONG">
 			<Text>Geelong</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CITY_NAME_LAUNCESTON">
+		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_LAUNCESTON">
 			<Text>Launceston </Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CITY_NAME_BALLAARAT">
+		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_BALLAARAT">
 			<Text>Ballaarat</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CITY_NAME_ROCKHAMPTON">
+		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_ROCKHAMPTON">
 			<Text>Rockhampton</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CITY_NAME_TOOWOOMBA">
+		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_TOOWOOMBA">
 			<Text>Toowoomba</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CITY_NAME_TOWNSVILLE">
+		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_TOWNSVILLE">
 			<Text>Townsville</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CITY_NAME_BENDIGO">
+		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_BENDIGO">
 			<Text>Bendigo</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CITY_NAME_BROKEN_HILL">
+		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_BROKEN_HILL">
 			<Text>Broken Hill</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CITY_NAME_MAITLAND">
+		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_MAITLAND">
 			<Text>Maitland</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CITY_NAME_WOLLONGONG">
+		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_WOLLONGONG">
 			<Text>Wollongong</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CITY_NAME_CAIRNS">
+		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_CAIRNS">
 			<Text>Cairns</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CITY_NAME_DARWIN">
+		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_DARWIN">
 			<Text>Darwin</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CITY_NAME_GOULBURN">
+		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_GOULBURN">
 			<Text>Goulburn</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CITY_NAME_BUNDABERG">
+		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_BUNDABERG">
 			<Text>Bundaberg</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CITY_NAME_WAGGA_WAGGA">
+		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_WAGGA_WAGGA">
 			<Text>Wagga Wagga</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CITY_NAME_LISMORE">
+		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_LISMORE">
 			<Text>Lismore</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CITY_NAME_LITHGOW">
+		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_LITHGOW">
 			<Text>Lithgow</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CITY_NAME_MARYBOROUGH">
+		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_MARYBOROUGH">
 			<Text>Maryborough</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CITY_NAME_ALBURY">
+		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_ALBURY">
 			<Text>Albury</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CITY_NAME_ORANGE">
+		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_ORANGE">
 			<Text>Orange</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CITY_NAME_FREMANTLE">
+		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_FREMANTLE">
 			<Text>Fremantle</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CITY_NAME_TWEED_HEADS">
+		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_TWEED_HEADS">
 			<Text>Tweed Heads</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CITY_NAME_COFFS_HARBOUR">
+		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_COFFS_HARBOUR">
 			<Text>Coffs Harbour</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CITY_NAME_HERVEY_BAY">
+		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_HERVEY_BAY">
 			<Text>Hervey Bay</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CITY_NAME_KALGOORLIE">
+		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_KALGOORLIE">
 			<Text>Kalgoorlie</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CITY_NAME_PORT_MACQUARIE">
+		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_PORT_MACQUARIE">
 			<Text>Port Macquarie</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CITY_NAME_ALICE_SPRINGS">
+		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_ALICE_SPRINGS">
 			<Text>Alice Springs</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CITY_NAME_BATHURST">
+		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_BATHURST">
 			<Text>Bathurst</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CITY_NAME_GLADSTONE">
+		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_GLADSTONE">
 			<Text>Gladstone</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CITY_NAME_QUEANBEYAN">
+		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_QUEANBEYAN">
 			<Text>Queanbeyan</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CITY_NAME_PORT_PIRIE">
+		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_PORT_PIRIE">
 			<Text>Port Pirie</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CITY_NAME_BOOMAHNOOMOONAH">
+		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_BOOMAHNOOMOONAH">
 			<Text>Boomahnoomoonah</Text>
 		</Replace>
 		<!-- Citizen Names -->
-		<Replace Language="en_US" Tag="LOC_CITIZEN_AUSTRALIA_MALE_1">
+		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AUSTRALIA_MALE_1">
 			<Text>Anatjari</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CITIZEN_AUSTRALIA_MALE_2">
+		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AUSTRALIA_MALE_2">
 			<Text>Colebee</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CITIZEN_AUSTRALIA_MALE_3">
+		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AUSTRALIA_MALE_3">
 			<Text>Djalu</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CITIZEN_AUSTRALIA_MALE_4">
+		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AUSTRALIA_MALE_4">
 			<Text>Gurumarra</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CITIZEN_AUSTRALIA_MALE_5">
+		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AUSTRALIA_MALE_5">
 			<Text>Jarli</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CITIZEN_AUSTRALIA_MALE_6">
+		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AUSTRALIA_MALE_6">
 			<Text>Mandawuy</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CITIZEN_AUSTRALIA_MALE_7">
+		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AUSTRALIA_MALE_7">
 			<Text>Toba</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CITIZEN_AUSTRALIA_MALE_8">
+		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AUSTRALIA_MALE_8">
 			<Text>Yarran</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CITIZEN_AUSTRALIA_MALE_9">
+		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AUSTRALIA_MALE_9">
 			<Text>Warrin</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CITIZEN_AUSTRALIA_MALE_10">
+		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AUSTRALIA_MALE_10">
 			<Text>Waku</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CITIZEN_AUSTRALIA_FEMALE_1">
+		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AUSTRALIA_FEMALE_1">
 			<Text>Bindi</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CITIZEN_AUSTRALIA_FEMALE_2">
+		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AUSTRALIA_FEMALE_2">
 			<Text>Kalinda</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CITIZEN_AUSTRALIA_FEMALE_3">
+		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AUSTRALIA_FEMALE_3">
 			<Text>Kirra</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CITIZEN_AUSTRALIA_FEMALE_4">
+		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AUSTRALIA_FEMALE_4">
 			<Text>Ellin</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CITIZEN_AUSTRALIA_FEMALE_5">
+		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AUSTRALIA_FEMALE_5">
 			<Text>Jedda</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CITIZEN_AUSTRALIA_FEMALE_6">
+		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AUSTRALIA_FEMALE_6">
 			<Text>Lenah</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CITIZEN_AUSTRALIA_FEMALE_7">
+		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AUSTRALIA_FEMALE_7">
 			<Text>Marindah</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CITIZEN_AUSTRALIA_FEMALE_8">
+		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AUSTRALIA_FEMALE_8">
 			<Text>Parara</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CITIZEN_AUSTRALIA_FEMALE_9">
+		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AUSTRALIA_FEMALE_9">
 			<Text>Tatali</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CITIZEN_AUSTRALIA_FEMALE_10">
+		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AUSTRALIA_FEMALE_10">
 			<Text>Wintjiya</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CITIZEN_AUSTRALIA_MODERN_MALE_1">
+		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AUSTRALIA_MODERN_MALE_1">
 			<Text>James</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CITIZEN_AUSTRALIA_MODERN_MALE_2">
+		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AUSTRALIA_MODERN_MALE_2">
 			<Text>Luke</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CITIZEN_AUSTRALIA_MODERN_MALE_3">
+		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AUSTRALIA_MODERN_MALE_3">
 			<Text>Jackson</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CITIZEN_AUSTRALIA_MODERN_MALE_4">
+		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AUSTRALIA_MODERN_MALE_4">
 			<Text>Cody</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CITIZEN_AUSTRALIA_MODERN_MALE_5">
+		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AUSTRALIA_MODERN_MALE_5">
 			<Text>Mitch</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CITIZEN_AUSTRALIA_MODERN_MALE_6">
+		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AUSTRALIA_MODERN_MALE_6">
 			<Text>Blake</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CITIZEN_AUSTRALIA_MODERN_MALE_7">
+		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AUSTRALIA_MODERN_MALE_7">
 			<Text>Hugo</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CITIZEN_AUSTRALIA_MODERN_MALE_8">
+		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AUSTRALIA_MODERN_MALE_8">
 			<Text>Brenden</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CITIZEN_AUSTRALIA_MODERN_MALE_9">
+		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AUSTRALIA_MODERN_MALE_9">
 			<Text>Jordan</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CITIZEN_AUSTRALIA_MODERN_MALE_10">
+		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AUSTRALIA_MODERN_MALE_10">
 			<Text>Michael</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CITIZEN_AUSTRALIA_MODERN_FEMALE_1">
+		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AUSTRALIA_MODERN_FEMALE_1">
 			<Text>Nicole</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CITIZEN_AUSTRALIA_MODERN_FEMALE_2">
+		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AUSTRALIA_MODERN_FEMALE_2">
 			<Text>Olivia</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CITIZEN_AUSTRALIA_MODERN_FEMALE_3">
+		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AUSTRALIA_MODERN_FEMALE_3">
 			<Text>Zoe</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CITIZEN_AUSTRALIA_MODERN_FEMALE_4">
+		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AUSTRALIA_MODERN_FEMALE_4">
 			<Text>Holly</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CITIZEN_AUSTRALIA_MODERN_FEMALE_5">
+		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AUSTRALIA_MODERN_FEMALE_5">
 			<Text>Paige</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CITIZEN_AUSTRALIA_MODERN_FEMALE_6">
+		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AUSTRALIA_MODERN_FEMALE_6">
 			<Text>Kathleen</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CITIZEN_AUSTRALIA_MODERN_FEMALE_7">
+		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AUSTRALIA_MODERN_FEMALE_7">
 			<Text>Louisa</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CITIZEN_AUSTRALIA_MODERN_FEMALE_8">
+		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AUSTRALIA_MODERN_FEMALE_8">
 			<Text>Michele</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CITIZEN_AUSTRALIA_MODERN_FEMALE_9">
+		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AUSTRALIA_MODERN_FEMALE_9">
 			<Text>Elizabeth</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CITIZEN_AUSTRALIA_MODERN_FEMALE_10">
+		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AUSTRALIA_MODERN_FEMALE_10">
 			<Text>Alicia</Text>
 		</Replace>
 		<!-- Feature Info-->
-		<Replace Language="en_US" Tag="LOC_FEATURE_ULURU_NAME">
+		<Replace Language="pl_PL" Tag="LOC_FEATURE_ULURU_NAME">
 			<Text>Uluru</Text>
 		</Replace>
 		<Replace Language="pl_PL" Tag="LOC_FEATURE_ULURU_DESCRIPTION">

@@ -2,110 +2,110 @@
 <GameData>
 	<LocalizedText>
 		<!--Indonesia-->
-		<Replace Language="en_US" Tag="LOC_LOADING_INFO_LEADER_GITARJA">
-			<Text>Arvon Gitarja, Majapahitin tuhansien saarien kuningatar, Indonesian meret ovat suurin voimavaranne. Kolmen maailman ylistettynä jumalattarena tulette levittämään jumalaisen vaikutuksenne kaikille auringon koskettamille vesille. Luottakaan uskolliseen laivastoonne, rohkea kuningatar! Kohottakaa hirmuisa myrsky heille, jotka kehtaavat tuoda selkkauksia Indonesian rannoille.</Text>
+		<Replace Language="pl_PL" Tag="LOC_LOADING_INFO_LEADER_GITARJA">
+			<Text>Majapahit'in binlerce adasının kraliçesi Yüce Gitarja, Endonezya'nın denizleri en büyük gücünüzdür. Üç dünyanın yüceltilmiş tanrıçası olarak ilahi etkinizi güneşin vurduğu tüm sulara yayacaksınız. Sadık donanmanıza güvenin, cesur kraliçe! Endonezya'nın kıyılarına çatışma getirmeye cüret edenlere korkunç bir fırtına çıkarın.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVILIZATION_INDONESIA_NAME">
-			<Text>Indonesia|indonesialaisten</Text>
+		<Replace Language="pl_PL" Tag="LOC_CIVILIZATION_INDONESIA_NAME">
+			<Text>Endonezya|Endonezyalıların</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVILIZATION_INDONESIA_DESCRIPTION">
-			<Text>Indonesian valtakunta|Indonesian</Text>
+		<Replace Language="pl_PL" Tag="LOC_CIVILIZATION_INDONESIA_DESCRIPTION">
+			<Text>Endonezya Krallığı|Endonezya'nın</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_KAMPUNG_NAME">
-			<Text>Kampung|kampung|kampungin</Text>
+		<Replace Language="pl_PL" Tag="LOC_IMPROVEMENT_KAMPUNG_NAME">
+			<Text>Kampung|kampung|kampung'un</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_KAMPUNG_DESCRIPTION">
-			<Text>Sallii rakentajan rakentaa kampungin, joka on Indonesialle ominainen.[NEWLINE][NEWLINE]+1 [ICON_PRODUCTION] tuottavuutta ja +1 [ICON_Housing] asumusta. +1 [ICON_FOOD] ruokaa jokaisesta viereisestä kalastajasta. Lisää [ICON_PRODUCTION] tuottavuutta, [ICON_Housing] asumuksia ja [ICON_TOURISM] turismia edettäessä tekniikassa ja normeissa. Tulee sijoittaa rannikon tai järven ruutuun lähelle vesialueiden luonnonvaraa.</Text>
+		<Replace Language="pl_PL" Tag="LOC_IMPROVEMENT_KAMPUNG_DESCRIPTION">
+			<Text>Bir inşaatçıya Endonezya'ya özgü kampung'u inşa etme izni verir.[NEWLINE][NEWLINE]+1 [ICON_PRODUCTION] üretim ve +1 [ICON_Housing] konut sağlar. Her bitişik balıkçıdan +1 [ICON_FOOD] yiyecek verir. Teknoloji ve vatandaşlık geliştikçe [ICON_PRODUCTION] üretim, [ICON_Housing] konut ve [ICON_TOURISM] turizm artar. Kampung, kıyı veya göl karosuna, su kaynaklarına yakın yerleştirilmelidir.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_LEADER_GITARJA_NAME">
+		<Replace Language="pl_PL" Tag="LOC_LEADER_GITARJA_NAME">
 			<Text>Gitarja</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_KAMPUNG_NAME">
-			<Text>Indonesian oma rakenne: Kampung</Text>
+		<Replace Language="pl_PL" Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_KAMPUNG_NAME">
+			<Text>Endonezya'nın Özgün Yapısı: Kampung</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_INDONESIA_NUSANTARA_NAME">
-			<Text>Suuri Nusantara</Text>
+		<Replace Language="pl_PL" Tag="LOC_TRAIT_CIVILIZATION_INDONESIA_NUSANTARA_NAME">
+			<Text>Büyük Nusantara</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_INDONESIA_NUSANTARA_DESCRIPTION">
-			<Text>Rannikko ja järvet antavat pienen läheisyysedun pyhille paikoille, kampuksille, teollisuusalueille ja teatteriaukioille. +1 [ICON_AMENITIES] elintasoa viihteestä jokaiselle viihdekompleksille, joka on rannikon tai järven vieressä.</Text>
+		<Replace Language="pl_PL" Tag="LOC_TRAIT_CIVILIZATION_INDONESIA_NUSANTARA_DESCRIPTION">
+			<Text>Kıyılar ve göller, kutsal alanlara, kampüslere, endüstri bölgelerine ve tiyatro meydanlarına hafif bir yakınlık avantajı sağlar. Kıyı veya göl kenarındaki her eğlence kompleksi için +1 [ICON_AMENITIES] yaşam kalitesi sağlar.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_UNIT_INDONESIAN_JONG_NAME">
-			<Text>Indonesian oma yksikkö: Jong</Text>
+		<Replace Language="pl_PL" Tag="LOC_TRAIT_CIVILIZATION_UNIT_INDONESIAN_JONG_NAME">
+			<Text>Endonezya'nın Özgün Birimi: Jong</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_EXALTED_GODDESS_NAME">
-			<Text>Kolmen maailman ylistetty jumalatar</Text>
+		<Replace Language="pl_PL" Tag="LOC_TRAIT_LEADER_EXALTED_GODDESS_NAME">
+			<Text>Üç Dünyanın Yüceltilmiş Tanrıçası</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_EXALTED_GODDESS_DESCRIPTION">
-			<Text>Meriyksiköitä voi ostaa [ICON_FAITH] uskolla. Uskon yksiköt voivat siirtyä vesille ja rantautua maksutta. +2[ICON_FAITH] uskoa kaupungin keskuksille, jotka ovat rannikolla tai järven vieressä.</Text>
+		<Replace Language="pl_PL" Tag="LOC_TRAIT_LEADER_EXALTED_GODDESS_DESCRIPTION">
+			<Text>Deniz birimleri [ICON_FAITH] inanç ile satın alınabilir. İnanç birimleri suya çıkabilir ve ücretsiz olarak karaya çıkar. Kıyı veya göl kenarındaki şehir merkezlerine +2 [ICON_FAITH] inanç sağlar.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNIT_INDONESIAN_JONG_NAME">
-			<Text>Jong|jong|jongin|jongiksi</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNIT_INDONESIAN_JONG_NAME">
+			<Text>Jong|jong|jong'un|jong olarak</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNIT_INDONESIAN_JONG_DESCRIPTION">
-			<Text>Indonesian oma keskiajan yksikkö, joka korvaa fregatin. Muodostelman yksiköt saavat saattajan [ICON_Movement] liikkumisnopeuden ja +5 [ICON_Strength] taisteluvoimakkuutta muodostelmassa.</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNIT_INDONESIAN_JONG_DESCRIPTION">
+			<Text>Endonezya'ya özgü ortaçağ birimi, fırkateynin yerini alır. Formasyon birimleri eskort birimin [ICON_Movement] hareket hızına sahip olur ve formasyon halinde +5 [ICON_Strength] savaş gücü kazanır.</Text>
 		</Replace>
 		<!--Khmer-->
-		<Replace Language="en_US" Tag="LOC_LOADING_INFO_LEADER_JAYAVARMAN">
-			<Text>Viisas Jayavarman, seitsemäs nimenkantaja, khmerit arvostavat antaumustanne heidän hyvinvointiinsa. Makeiden vesienne hallintanne mahdollistaa nälkäisen kansanne ruokinnan ja tuo teidät lähemmäs taivasta. Kulkekaa edemmäs jumalallisen arkkitehti! Rakentakaa valtakunta, joka lähentelee täydellisyyttä — ja kohdatkoon vihollisemme loppunsa mahtavien sotanorsujemme ikeessä.</Text>
+		<Replace Language="pl_PL" Tag="LOC_LOADING_INFO_LEADER_JAYAVARMAN">
+			<Text>Bilge Jayavarman VII, Khmer halkı, refahlarına olan bağlılığınızı takdir ediyor. Tatlı sularınızın kontrolü, aç halkınızı beslemenize ve sizi göğe yaklaştırmanıza olanak tanır. İlerleyin ilahi mimar! Mükemmelliğe yaklaşan bir imparatorluk inşa edin ve düşmanlarımız, güçlü savaş fillerinizin altında sonlarını bulsun.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BUILDING_PRASAT_NAME">
-			<Text>Prasat|prasat|prasatin</Text>
+		<Replace Language="pl_PL" Tag="LOC_BUILDING_PRASAT_NAME">
+			<Text>Prasat|prasat|prasat'ın</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BUILDING_PRASAT_DESCRIPTION">
-			<Text>Khmerien oma rakennus. Korvaa temppelin. Vaaditaan apostolien ja inkvisiittorien ostamiseen [ICON_Faith] uskolla. Kaupungissa ostetut lähetyssaarnaajat saavat marttyyrikyvyn, joka antaa [ICON_GreatWork_Relic] muinaisjäännöksen lähetyssaarnaajan kuollessa uskontaiston seurauksena.</Text>
+		<Replace Language="pl_PL" Tag="LOC_BUILDING_PRASAT_DESCRIPTION">
+			<Text>Khmerlerin özgün binası, tapınağın yerini alır. [ICON_Faith] inançla apostol ve engizitör satın almayı gerektirir. Bu şehirde satın alınan misyonerler, öldüklerinde [ICON_GreatWork_Relic] kalıntı üreten şehit yeteneği kazanır.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVILIZATION_KHMER_NAME">
-			<Text>Khmer|khmerien</Text>
+		<Replace Language="pl_PL" Tag="LOC_CIVILIZATION_KHMER_NAME">
+			<Text>Khmer|Khmerlerin</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVILIZATION_KHMER_DESCRIPTION">
-			<Text>Khmer-valtakunta|Khmerien</Text>
+		<Replace Language="pl_PL" Tag="LOC_CIVILIZATION_KHMER_DESCRIPTION">
+			<Text>Khmer İmparatorluğu|Khmer'in</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_LEADER_JAYAVARMAN_NAME">
+		<Replace Language="pl_PL" Tag="LOC_LEADER_JAYAVARMAN_NAME">
 			<Text>Jayavarman VII</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_BUILDING_PRASAT_NAME">
-			<Text>Khmerien oma rakennus: Prasat</Text>
+		<Replace Language="pl_PL" Tag="LOC_TRAIT_CIVILIZATION_BUILDING_PRASAT_NAME">
+			<Text>Khmerlerin Özgün Binası: Prasat</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_KHMER_BARAYS_NAME">
-			<Text>Suurbarayt</Text>
+		<Replace Language="pl_PL" Tag="LOC_TRAIT_CIVILIZATION_KHMER_BARAYS_NAME">
+			<Text>Büyük Baraylar</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_KHMER_BARAYS_DESCRIPTION">
-			<Text>+3 [ICON_FAITH] uskoa ja  +1 [ICON_AMENITIES] elintasoa viihteistä jokaiselle kaupungille, jolla on akvedukti. Akveduktin vieressä olevat maatilat tarjoavat +2 [ICON_FOOD] ruokaa.</Text>
+		<Replace Language="pl_PL" Tag="LOC_TRAIT_CIVILIZATION_KHMER_BARAYS_DESCRIPTION">
+			<Text>Her su kemerine sahip şehir için +3 [ICON_FAITH] inanç ve +1 [ICON_AMENITIES] yaşam kalitesi sağlar. Su kemeri yanındaki tarlalar +2 [ICON_FOOD] yiyecek verir.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_UNIT_KHMER_DOMREY_NAME">
-			<Text>Khmerien oma yksikkö: Domrey</Text>
+		<Replace Language="pl_PL" Tag="LOC_TRAIT_CIVILIZATION_UNIT_KHMER_DOMREY_NAME">
+			<Text>Khmerlerin Özgün Birimi: Domrey</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_MONASTERIES_KING_NAME">
-			<Text>Kuninkaan luostarit</Text>
+		<Replace Language="pl_PL" Tag="LOC_TRAIT_LEADER_MONASTERIES_KING_NAME">
+			<Text>Manastırların Kralı</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_MONASTERIES_KING_DESCRIPTION">
-			<Text>Pyhät paikat tarjoavat +2 [ICON_FOOD] ruokaa ja +1 [ICON_HOUSING] asumusta joen varrella. Pyhät paikat aiheuttavat kulttuuripommin.</Text>
+		<Replace Language="pl_PL" Tag="LOC_TRAIT_LEADER_MONASTERIES_KING_DESCRIPTION">
+			<Text>Nehir kenarındaki kutsal alanlar +2 [ICON_FOOD] yiyecek ve +1 [ICON_HOUSING] konut sağlar. Kutsal alanlar kültür bombası etkisi yaratır.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNIT_KHMER_DOMREY_NAME">
-			<Text>Domrey|domrey|domreyn|domreyksi</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNIT_KHMER_DOMREY_NAME">
+			<Text>Domrey|domrey|domrey'nin|domrey olarak</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNIT_KHMER_DOMREY_DESCRIPTION">
-			<Text>Khmerien oma keskiajan piiritysyksikkö. Voi liikkua ja ampua samalla vuorolla ja hallitsee ympäröivää aluetta.</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNIT_KHMER_DOMREY_DESCRIPTION">
+			<Text>Khmerlerin özgün ortaçağ kuşatma birimi. Aynı turda hareket edip ateş edebilir ve çevresini kontrol eder.</Text>
 		</Replace>
 		<!--Map-->
-		<Replace Language="en_US" Tag="LOC_MAP_TSLEAST_ASIA_STANDARD_NAME">
-			<Text>Oikeiden alkukotien Itä-Aasia</Text>
+		<Replace Language="pl_PL" Tag="LOC_MAP_TSLEAST_ASIA_STANDARD_NAME">
+			<Text>Doğru Başkentler Doğu Asya</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_MAP_TSLEAST_ASIA_STANDARD_DESCRIPTION">
-			<Text>Kansat aloittavat historiallisesta pääkaupungistaan Aasian kartalla.</Text>
+		<Replace Language="pl_PL" Tag="LOC_MAP_TSLEAST_ASIA_STANDARD_DESCRIPTION">
+			<Text>Medeniyetler, Asya haritasında tarihsel başkentlerinden başlar.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_MAP_EAST_ASIA_STANDARD_NAME">
-			<Text>Itä-Aasia</Text>
+		<Replace Language="pl_PL" Tag="LOC_MAP_EAST_ASIA_STANDARD_NAME">
+			<Text>Doğu Asya</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_MAP_EAST_ASIA_STANDARD_DESCRIPTION">
-			<Text>Mukaelma Itä-Aasiasta, jossa luonnonvarat, maasto ja piirteet edustavat historiallisia sijaintejaan.</Text>
+		<Replace Language="pl_PL" Tag="LOC_MAP_EAST_ASIA_STANDARD_DESCRIPTION">
+			<Text>Doğu Asya'nın bir tasviri; doğal kaynaklar, arazi ve özellikler tarihsel konumlarına göre yerleştirilmiştir.</Text>
 		</Replace>
 		<!-- Natural Wonders -->
-		<Replace Language="en_US" Tag="LOC_FEATURE_HA_LONG_BAY_NAME">
-			<Text>Hạ Longin lahti</Text>
+		<Replace Language="pl_PL" Tag="LOC_FEATURE_HA_LONG_BAY_NAME">
+			<Text>Hạ Long Körfezi</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_FEATURE_HA_LONG_BAY_DESCRIPTION">
-			<Text>Kahden ruudun luonnonihme, joka sijaitsee rannikolla ja tarjoaa +3 [ICON_FOOD] ruokaa, +1 [ICON_PRODUCTION] tuottavuutta ja +1 [ICON_CULTURE] kulttuuria. +15 [ICON_Strength] taisteluvoimakkuutta ruutua puolustettaessa.</Text>
+		<Replace Language="pl_PL" Tag="LOC_FEATURE_HA_LONG_BAY_DESCRIPTION">
+			<Text>Kıyıda bulunan iki karelik bir doğal harika. +3 [ICON_FOOD] yiyecek, +1 [ICON_PRODUCTION] üretim ve +1 [ICON_CULTURE] kültür sağlar. Savunmada +15 [ICON_Strength] savaş gücü verir.</Text>
 		</Replace>
 	</LocalizedText>
 </GameData>

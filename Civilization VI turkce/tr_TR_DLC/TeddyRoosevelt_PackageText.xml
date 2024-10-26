@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameData>
     <LocalizedText>
-		<Replace Language="en_US" Tag="LOC_TEDDY_ROOSEVELT_MOD_TITLE">
-			<Text>Lisäosa: Teddy Roosevelt</Text>
+		<Replace Language="pl_PL" Tag="LOC_TEDDY_ROOSEVELT_MOD_TITLE">
+			<Text>Eklenti: Teddy Roosevelt</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_TEDDY_ROOSEVELT_MOD_TEASER">
-			<Text>Persoonat Teddy Roosevelt (edistyspuolue) ja Teddy Roosevelt (rosoratsu)</Text>
+		<Replace Language="pl_PL" Tag="LOC_TEDDY_ROOSEVELT_MOD_TEASER">
+			<Text>Kişilikler Teddy Roosevelt (ilerici parti) ve Teddy Roosevelt (kaba kuvvet)</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_TEDDY_ROOSEVELT_MOD_DESCRIPTION">
-			<Text>Sisältää persoonat Teddy Roosevelt (edistyspuolue) ja Teddy Roosevelt (rosoratsu) joilla on erilainen ulkonäkö, erilaiset kyvyt ja eri pelityyli.</Text>
+		<Replace Language="pl_PL" Tag="LOC_TEDDY_ROOSEVELT_MOD_DESCRIPTION">
+			<Text>Farklı görünüm, farklı yetenekler ve farklı oyun tarzına sahip Teddy Roosevelt (ilerici parti) ve Teddy Roosevelt (kaba kuvvet) kişiliklerini içerir.</Text>
 		</Replace>
    </LocalizedText>
 </GameData>

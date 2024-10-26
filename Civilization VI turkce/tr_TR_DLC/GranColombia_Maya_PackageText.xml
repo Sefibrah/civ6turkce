@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameData>
     <LocalizedText>
-		<Replace Language="en_US" Tag="LOC_GRANCOLOMBIA_MAYA_MOD_TITLE">
-			<Text>Lisäosa: Mayat ja Suur-Kolumbia</Text>
+		<Replace Language="pl_PL" Tag="LOC_GRANCOLOMBIA_MAYA_MOD_TITLE">
+			<Text>Eklenti: Maya ve Büyük Kolombiya</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GRANCOLOMBIA_MAYA_MOD_TEASER">
-			<Text>Uudet kansat ja hallitsijat: Mayojen Kuustaivastar ja Suur-Kolumbian Simón Bolívar</Text>
+		<Replace Language="pl_PL" Tag="LOC_GRANCOLOMBIA_MAYA_MOD_TEASER">
+			<Text>Yeni milletler ve liderler: Mayaların Ay Yıldızı ve Büyük Kolombiya'nın Simón Bolívar'ı</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GRANCOLOMBIA_MAYA_MOD_DESCRIPTION">
-			<Text>Sisältää kaksi uutta kansaa ja hallitsijaa, kuusi uutta kaupunkivaltiota, kaksi uutta luonnonvaraa, kolme uutta luonnonihmettä, uusia katastrofeja sekä Maailmanloppu-pelimuodon.</Text>
+		<Replace Language="pl_PL" Tag="LOC_GRANCOLOMBIA_MAYA_MOD_DESCRIPTION">
+			<Text>İki yeni millet ve lider, altı yeni şehir devleti, iki yeni kaynak, üç yeni doğa harikası, yeni felaketler ve Kıyamet oyun modunu içerir.</Text>
 		</Replace>
    </LocalizedText>
 </GameData>
