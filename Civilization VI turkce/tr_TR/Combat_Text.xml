@@ -1,230 +1,230 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameData>
 	<LocalizedText>
-		<Replace Language="tr_TR" Tag="LOC_CITY_MAKE_RANGED_ATTACK">
+		<Replace Language="pl_PL" Tag="LOC_CITY_MAKE_RANGED_ATTACK">
 			<Text>Şehirle Saldır!</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_COMBAT_YOU_KILLED_ENEMY_UNIT">
+		<Replace Language="pl_PL" Tag="LOC_COMBAT_YOU_KILLED_ENEMY_UNIT">
 			<Text>{2_UnitName} ({5_Num} hasar) {3_EnemyAdjective} {4_EnemyUnitName[3]}'yi savunurken yok etti!</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_COMBAT_YOU_KILLED_ENEMY_UNIT_DEFENDING_CITY">
+		<Replace Language="pl_PL" Tag="LOC_COMBAT_YOU_KILLED_ENEMY_UNIT_DEFENDING_CITY">
 			<Text>{2_CityName} ({5_Num} hasar) {3_EnemyAdjective} {4_EnemyUnitName[3]}'yi savunurken yok etti!</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_COMBAT_YOUR_CITY_WAS_CAPTURED">
+		<Replace Language="pl_PL" Tag="LOC_COMBAT_YOUR_CITY_WAS_CAPTURED">
 			<Text>{1_CityName} düşman {2_UnitName[3]} tarafından ele geçirildi!</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_COMBAT_YOUR_UNIT_CAPTURED_ENEMY_CITY">
+		<Replace Language="pl_PL" Tag="LOC_COMBAT_YOUR_UNIT_CAPTURED_ENEMY_CITY">
 			<Text>{1_UnitName} ({2_Num} hasar) düşman şehri {3_CityName}'yi ele geçirdi!</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_COMBAT_YOUR_UNIT_CAPTURED_ENEMY_UNIT">
+		<Replace Language="pl_PL" Tag="LOC_COMBAT_YOUR_UNIT_CAPTURED_ENEMY_UNIT">
 			<Text>{1_UnitName}, düşmanın {2_UnitName[3]}'sini ele geçirdi!</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_COMBAT_YOUR_UNIT_WAS_CAPTURED_BY_ENEMY_UNIT">
+		<Replace Language="pl_PL" Tag="LOC_COMBAT_YOUR_UNIT_WAS_CAPTURED_BY_ENEMY_UNIT">
 			<Text>{1_UnitName}, düşman {2_UnitName[3]} tarafından ele geçirildi!</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_COMBAT_YOUR_UNIT_DESTROYED_ENEMY">
+		<Replace Language="pl_PL" Tag="LOC_COMBAT_YOUR_UNIT_DESTROYED_ENEMY">
 			<Text>{1_UnitName} ({2_Num} hasar) düşman {3_UnitName[3]}'yi yok etti!</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_COMBAT_YOUR_UNIT_DIED_ATTACKING_ANTI_AIR">
+		<Replace Language="pl_PL" Tag="LOC_COMBAT_YOUR_UNIT_DIED_ATTACKING_ANTI_AIR">
 			<Text>{1_UnitName} düşman {2_EnUName[3]}'ye saldırırken öldü!</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_COMBAT_YOUR_UNIT_DIED_ATTACKING_INTERCEPTED">
+		<Replace Language="pl_PL" Tag="LOC_COMBAT_YOUR_UNIT_DIED_ATTACKING_INTERCEPTED">
 			<Text>{1_UnitName} düşman {2_EnUName[3]} ({3_Num} hasar) tarafından engellenirken öldü!</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_COMBAT_YOUR_UNIT_DIED_ATTACKING">
+		<Replace Language="pl_PL" Tag="LOC_COMBAT_YOUR_UNIT_DIED_ATTACKING">
 			<Text>{1_UnitName} düşman {2_EnUName[3]} ({3_Num} hasar) ile savaşırken öldü!</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_COMBAT_YOUR_UNIT_DIED_ATTACKING_CITY">
+		<Replace Language="pl_PL" Tag="LOC_COMBAT_YOUR_UNIT_DIED_ATTACKING_CITY">
 			<Text>{1_UnitName} düşman şehri {2_EnUName} ({3_Num} hasar) saldırısında öldü!</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_COMBAT_YOUR_UNIT_WITHDREW_ANTI_AIR">
+		<Replace Language="pl_PL" Tag="LOC_COMBAT_YOUR_UNIT_WITHDREW_ANTI_AIR">
 			<Text>{2_UnitName} ({3_Num} hasar), {4_EnemyAdjective} {5_EnemyUnitName[3]} tarafından saldırıya uğradı!</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_COMBAT_YOUR_UNIT_WITHDREW_INTERCEPTED">
+		<Replace Language="pl_PL" Tag="LOC_COMBAT_YOUR_UNIT_WITHDREW_INTERCEPTED">
 			<Text>{2_UnitName} ({3_Num} hasar), {4_EnemyAdjective} {5_EnemyUnitName[3]} ({6_Num} hasar) tarafından engellendi!</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_COMBAT_YOUR_UNIT_WITHDREW">
+		<Replace Language="pl_PL" Tag="LOC_COMBAT_YOUR_UNIT_WITHDREW">
 			<Text>{1_UnitName} ({2_Num} hasar) düşman {3_EnUName[3]} ({4_Num} hasar) ile savaşırken geri çekildi!</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_COMBAT_YOUR_UNIT_WITHDREW_CITY">
+		<Replace Language="pl_PL" Tag="LOC_COMBAT_YOUR_UNIT_WITHDREW_CITY">
 			<Text>{1_UnitName} ({2_Num} hasar) düşman şehri {3_CityName} ({4_Num} hasar) saldırısından çekildi!</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_COMBAT_FRIENDLY_UNIT_WITHDREW">
+		<Replace Language="pl_PL" Tag="LOC_COMBAT_FRIENDLY_UNIT_WITHDREW">
 			<Text>{1_UnitName} düşman yakın dövüş saldırısından kaçtı.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_COMBAT_ENEMY_UNIT_WITHDREW">
+		<Replace Language="pl_PL" Tag="LOC_COMBAT_ENEMY_UNIT_WITHDREW">
 			<Text>{1_UnitName} ({2_Num} hasar), düşman {3_EnUName[3]} ({4_Num} hasar) saldırısına karşı savunma yaptı!</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_COMBAT_ENEMY_UNIT_WITHDREW_INTERCEPTING">
+		<Replace Language="pl_PL" Tag="LOC_COMBAT_ENEMY_UNIT_WITHDREW_INTERCEPTING">
 			<Text>{1_UnitName} ({2_Num} hasar) düşman {3_EnUName[3]} ({4_Num} hasar) saldırısını püskürttü!</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_COMBAT_YOUR_UNIT_DIED_INTERCEPTING">
+		<Replace Language="pl_PL" Tag="LOC_COMBAT_YOUR_UNIT_DIED_INTERCEPTING">
 			<Text>{2_UnitName}, {4_EnemyAdjective} {5_EnemyUnitName[3]} ({6_Num} hasar) saldırısını engellerken yok oldu!</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_COMBAT_YOUR_UNIT_DIED_DEFENDING">
+		<Replace Language="pl_PL" Tag="LOC_COMBAT_YOUR_UNIT_DIED_DEFENDING">
 			<Text>{2_UnitName}, {3_EnemyAdjective} {4_EnemyUnitName[3]} ({5_Num} hasar) saldırısında yok oldu!</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_COMBAT_YOUR_UNIT_STRAFED_ENEMY">
+		<Replace Language="pl_PL" Tag="LOC_COMBAT_YOUR_UNIT_STRAFED_ENEMY">
 			<Text>{1_UnitName}, düşman {2_EnUName[3]}'yi ateş altına aldı ve {3_Num} hasar verdi!</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_COMBAT_YOUR_UNIT_DAMAGED_ENEMY">
+		<Replace Language="pl_PL" Tag="LOC_COMBAT_YOUR_UNIT_DAMAGED_ENEMY">
 			<Text>{1_UnitName}, düşman {2_EnUName[3]}'ye saldırarak {3_Num} hasar verdi!</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_COMBAT_YOUR_UNIT_BOMBED_ENEMY">
+		<Replace Language="pl_PL" Tag="LOC_COMBAT_YOUR_UNIT_BOMBED_ENEMY">
 			<Text>{1_UnitName}, düşman {2_EnUName[3]}'yi bombalayarak {3_Num} hasar verdi!</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_COMBAT_YOUR_UNIT_WAS_STRAFED_BY_ENEMY">
+		<Replace Language="pl_PL" Tag="LOC_COMBAT_YOUR_UNIT_WAS_STRAFED_BY_ENEMY">
 			<Text>{1_UnitName}, düşman {2_EnUName[3]} tarafından bombalanarak {3_Num} hasar aldı!</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_COMBAT_YOUR_UNIT_BOMBARDED_ENEMY">
+		<Replace Language="pl_PL" Tag="LOC_COMBAT_YOUR_UNIT_BOMBARDED_ENEMY">
 			<Text>{1_UnitName}, düşman {2_EnUName[3]}'yi top ateşine tuttu ve {3_Num} hasar verdi!</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_COMBAT_YOUR_UNIT_WAS_BOMBARDED_BY_ENEMY">
+		<Replace Language="pl_PL" Tag="LOC_COMBAT_YOUR_UNIT_WAS_BOMBARDED_BY_ENEMY">
 			<Text>{1_UnitName}, düşman {2_EnUName[3]} tarafından bombardımana uğrayarak {3_Num} hasar aldı!</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_COMBAT_YOUR_WMD_SUCCEEDED">
+		<Replace Language="pl_PL" Tag="LOC_COMBAT_YOUR_WMD_SUCCEEDED">
 			<Text>{1_UnitName} tarafından yapılan kitle imha saldırısı başarıyla gerçekleşti!</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_COMBAT_YOUR_WMD_FAILED_HIGH_DAMAGE">
+		<Replace Language="pl_PL" Tag="LOC_COMBAT_YOUR_WMD_FAILED_HIGH_DAMAGE">
 			<Text>{1_UnitName}, yüksek hasar nedeniyle kitle imha saldırısında başarısız oldu.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_COMBAT_ENEMY_WMD_SUCCEEDED">
+		<Replace Language="pl_PL" Tag="LOC_COMBAT_ENEMY_WMD_SUCCEEDED">
 			<Text>{1_EnemyAdjective} {2_EnemyUnitName[3]} tarafından yapılan kitle imha saldırısı engellenemedi!</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_COMBAT_ENEMY_WMD_FAILED_HIGH_DAMAGE">
+		<Replace Language="pl_PL" Tag="LOC_COMBAT_ENEMY_WMD_FAILED_HIGH_DAMAGE">
 			<Text>{1_EnemyAdjective} {2_EnemyUnitName[3]} tarafından yapılan kitle imha saldırısı engellendi ve {3_Num} hasar verildi!</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_MISC_YOUR_UNIT_DIED_BY_UNKNOWN">
+		<Replace Language="pl_PL" Tag="LOC_MISC_YOUR_UNIT_DIED_BY_UNKNOWN">
 			<Text>{1_UnitName}, gizli {2_EnUName[3]} tarafından yok edildi ({3_Num} hasar)!</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_COMBAT_YOUR_UNIT_ATTACKED_ENEMY_DISTRICT">
+		<Replace Language="pl_PL" Tag="LOC_COMBAT_YOUR_UNIT_ATTACKED_ENEMY_DISTRICT">
 			<Text>{2_Name}, {1_UnitName[3]} tarafından yapılan saldırıda {3_Num} hasar aldı!</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_COMBAT_YOUR_DISTRICT_WAS_ATTACKED_BY_ENEMY">
+		<Replace Language="pl_PL" Tag="LOC_COMBAT_YOUR_DISTRICT_WAS_ATTACKED_BY_ENEMY">
 			<Text>{2_Name}, düşman {1_UnitName[3]} saldırısında {3_Num} hasar aldı!</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_COMBAT_YOUR_UNIT_ATTACKED_ENEMY_DISTRICT_DEFENSES">
+		<Replace Language="pl_PL" Tag="LOC_COMBAT_YOUR_UNIT_ATTACKED_ENEMY_DISTRICT_DEFENSES">
 			<Text>{2_Name}, {1_UnitName[3]} saldırısında {3_Num} hasar aldı ve savunması {4_Num} hasar gördü!</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_COMBAT_YOUR_DISTRICT_DEFENSE_WAS_ATTACKED_BY_ENEMY">
+		<Replace Language="pl_PL" Tag="LOC_COMBAT_YOUR_DISTRICT_DEFENSE_WAS_ATTACKED_BY_ENEMY">
 			<Text>{1_Name}, düşman {2_EnUName[3]} saldırısında {4_Num} savunma hasarı aldı ve {3_Num} hasar verdi!</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_COMBAT_YOUR_DISTRICT_DESTROYED_ENEMY">
+		<Replace Language="pl_PL" Tag="LOC_COMBAT_YOUR_DISTRICT_DESTROYED_ENEMY">
 			<Text>{1_Name}, düşman {2_EnUName[3]}'yi ateş altında yok etti! ({3_Damage} hasar)</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_COMBAT_YOUR_DISTRICT_BOMBARDED_ENEMY">
+		<Replace Language="pl_PL" Tag="LOC_COMBAT_YOUR_DISTRICT_BOMBARDED_ENEMY">
 			<Text>{1_Name}, düşman {2_EnUName[3]}'ye bombardıman yaptı! ({3_Damage} hasar)</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_COMBAT_YOUR_UNIT_WAS_BOMBARDED_BY_ENEMY_DISTRICT">
+		<Replace Language="pl_PL" Tag="LOC_COMBAT_YOUR_UNIT_WAS_BOMBARDED_BY_ENEMY_DISTRICT">
 			<Text>{2_EnUName}, {1_Name[3]}'ye bombardıman yaparak {3_Num} hasar verdi!</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_COMBAT_ICBM_DESTROYED">
+		<Replace Language="pl_PL" Tag="LOC_COMBAT_ICBM_DESTROYED">
 			<Text>Kıtalararası füze engellendi ve yok edildi.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_PLUNDER_UNIT_HEALED">
+		<Replace Language="pl_PL" Tag="LOC_PLUNDER_UNIT_HEALED">
 			<Text>{1_Name} yağmalama sırasında kendini iyileştirdi.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_PLUNDER_CULTURE">
+		<Replace Language="pl_PL" Tag="LOC_PLUNDER_CULTURE">
 			<Text>Yağmadan {1_Num} [ICON_Culture] kültür kazandık.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_PLUNDER_FAITH">
+		<Replace Language="pl_PL" Tag="LOC_PLUNDER_FAITH">
 			<Text>Yağmadan {1_Num} [ICON_Faith] inanç kazandık.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_PLUNDER_GOLD">
+		<Replace Language="pl_PL" Tag="LOC_PLUNDER_GOLD">
 			<Text>Yağmadan {1_Num} [ICON_Gold] altın kazandık.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_PLUNDER_SCIENCE">
+		<Replace Language="pl_PL" Tag="LOC_PLUNDER_SCIENCE">
 			<Text>Yağmadan {1_Num} [ICON_Science] bilim kazandık.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_KILL_CULTURE">
+		<Replace Language="pl_PL" Tag="LOC_KILL_CULTURE">
 			<Text>[COLOR_FLOAT_CULTURE]+{1_Num} [ICON_Culture][ENDCOLOR]</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_KILL_FAITH">
+		<Replace Language="pl_PL" Tag="LOC_KILL_FAITH">
 			<Text>[COLOR_FLOAT_FAITH]+{1_Num} [ICON_Faith][ENDCOLOR]</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_KILL_FAITH_PLUS">
+		<Replace Language="pl_PL" Tag="LOC_KILL_FAITH_PLUS">
 			<Text>[COLOR_FLOAT_FAITH]+{1_Num} {2_Religion}[ENDCOLOR]</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_KILL_FAITH_MINUS">
+		<Replace Language="pl_PL" Tag="LOC_KILL_FAITH_MINUS">
 			<Text>[COLOR_RED]-{1_Num} {2_Religion}[ENDCOLOR]</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_KILL_GOLD">
+		<Replace Language="pl_PL" Tag="LOC_KILL_GOLD">
 			<Text>[COLOR_FLOAT_GOLD]+{1_Num} [ICON_Gold][ENDCOLOR]</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_KILL_SCIENCE">
+		<Replace Language="pl_PL" Tag="LOC_KILL_SCIENCE">
 			<Text>[COLOR_FLOAT_SCIENCE]+{1_Num} [ICON_Science][ENDCOLOR]</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_KILL_GREATPERSON_BONUS">
+		<Replace Language="pl_PL" Tag="LOC_KILL_GREATPERSON_BONUS">
 			<Text>[COLOR_FLOAT_FOOD]+{1_Num} {2_GreatPerson[3]} puanı[ENDCOLOR]</Text>
 		</Replace>
 		<!-- Damage Message -->
-		<Replace Language="tr_TR" Tag="LOC_WORLD_DISTRICT_GARRISON_DAMAGE_DECREASE_FLOATER">
+		<Replace Language="pl_PL" Tag="LOC_WORLD_DISTRICT_GARRISON_DAMAGE_DECREASE_FLOATER">
 			<Text>[COLOR_GREEN]+{1_Num}[ENDCOLOR] dayanıklılık</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_WORLD_DISTRICT_GARRISON_DAMAGE_INCREASE_FLOATER">
+		<Replace Language="pl_PL" Tag="LOC_WORLD_DISTRICT_GARRISON_DAMAGE_INCREASE_FLOATER">
 			<Text>[COLOR_RED]{1_Num}[ENDCOLOR] dayanıklılık</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_WORLD_DISTRICT_DEFENSE_DAMAGE_DECREASE_FLOATER">
+		<Replace Language="pl_PL" Tag="LOC_WORLD_DISTRICT_DEFENSE_DAMAGE_DECREASE_FLOATER">
 			<Text>[COLOR_GREEN]+{1_Num}[ENDCOLOR] savunma</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_WORLD_DISTRICT_DEFENSE_DAMAGE_INCREASE_FLOATER">
+		<Replace Language="pl_PL" Tag="LOC_WORLD_DISTRICT_DEFENSE_DAMAGE_INCREASE_FLOATER">
 			<Text>[COLOR_RED]{1_Num}[ENDCOLOR] savunma</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_RAZE_CITY_HEADER">
+		<Replace Language="pl_PL" Tag="LOC_RAZE_CITY_HEADER">
 			<Text>ŞEHİR ELE GEÇİRİLDİ</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_RAZE_CITY_TRADED">
+		<Replace Language="pl_PL" Tag="LOC_RAZE_CITY_TRADED">
 			<Text>ŞEHİR TAKAS EDİLDİ</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_RAZE_CITY_NAME_LABEL">
+		<Replace Language="pl_PL" Tag="LOC_RAZE_CITY_NAME_LABEL">
 			<Text>Şehir Adı:</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_RAZE_CITY_POPULATION_LABEL">
+		<Replace Language="pl_PL" Tag="LOC_RAZE_CITY_POPULATION_LABEL">
 			<Text>Nüfus:</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_RAZE_CITY_DISTRICTS_LABEL">
+		<Replace Language="pl_PL" Tag="LOC_RAZE_CITY_DISTRICTS_LABEL">
 			<Text>Şehir Bölgeleri:</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_RAZE_CITY_LIBERATE_EXPLANATION">
+		<Replace Language="pl_PL" Tag="LOC_RAZE_CITY_LIBERATE_EXPLANATION">
 			<Text>Şehrin özgür bırakılması, önceki sahibine iade edilmesini sağlar ve muhtemelen ulusu oyuna geri döndürür.[NEWLINE][NEWLINE]{1_WarmongerInfo}</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_RAZE_CITY_LIBERATE_WARMONGER_EXPLANATION">
+		<Replace Language="pl_PL" Tag="LOC_RAZE_CITY_LIBERATE_WARMONGER_EXPLANATION">
 			<Text>Şehrin özgür bırakılması, önceden alınan savaş çığırtkanlığı zararlarını [COLOR_MEDIUM_GREEN]ÖNEMLİ ÖLÇÜDE AZALTIR[ENDCOLOR].</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_RAZE_CITY_KEEP_EXPLANATION">
+		<Replace Language="pl_PL" Tag="LOC_RAZE_CITY_KEEP_EXPLANATION">
 			<Text>Şehri imparatorluğumuzun bir parçası olarak tut. Müzakere edilen barış anlaşmasına kadar işgal altındaki bir şehir olarak daha az verimli kalacaktır.[NEWLINE][NEWLINE]{1_WarmongerInfo}</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_RAZE_CITY_KEEP_EXPLANATION_TRADED">
+		<Replace Language="pl_PL" Tag="LOC_RAZE_CITY_KEEP_EXPLANATION_TRADED">
 			<Text>Şehri imparatorluğumuzun bir parçası olarak tut.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_RAZE_CITY_KEEP_WARMONGER_EXPLANATION">
+		<Replace Language="pl_PL" Tag="LOC_RAZE_CITY_KEEP_WARMONGER_EXPLANATION">
 			<Text>Bu şehri tutmanın savaş çığırtkanlığı maliyeti: {1_WarmongerLevel}[NEWLINE][NEWLINE]Şehrin kaderine göre savaş sona erdiğinde bu maliyet kaldırılabilir veya iki katına çıkabilir.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_RAZE_CITY_KEEP_LAST_CITY_EXPLANATION">
+		<Replace Language="pl_PL" Tag="LOC_RAZE_CITY_KEEP_LAST_CITY_EXPLANATION">
 			<Text>Bir oyuncunun son şehrini elinde tutmanın savaş çığırtkanlığı maliyeti, çağın sürpriz savaş cezasına dayanır. Bu değer, [COLOR_RED]İKİ KATINA[ENDCOLOR] çıkarak ulusu yok eder (şehir devletleri hariç).</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_RAZE_CITY_RAZE_EXPLANATION">
+		<Replace Language="pl_PL" Tag="LOC_RAZE_CITY_RAZE_EXPLANATION">
 			<Text>Şehri yakarak tüm bölgelerini ve yapıları haritadan sil. Bu seçim şehrin ele geçirildiği turda yapılmalıdır.[NEWLINE][NEWLINE]{1_WarmongerInfo}</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_RAZE_CITY_RAZE_WARMONGER_EXPLANATION">
+		<Replace Language="pl_PL" Tag="LOC_RAZE_CITY_RAZE_WARMONGER_EXPLANATION">
 			<Text>[COLOR_RED]Şehri yakmak önemli bir savaş çığırtkanlığı cezasına neden olabilir![ENDCOLOR][NEWLINE][NEWLINE]Bu şehri yakmanın maliyeti: {1_WarmongerLevel}</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_RAZE_CITY_RAZE_LAST_CITY_EXPLANATION">
+		<Replace Language="pl_PL" Tag="LOC_RAZE_CITY_RAZE_LAST_CITY_EXPLANATION">
 			<Text>Eğer bu oyuncunun son şehrini yakarsak, savaş cezası çağın resmi savaş cezasının [COLOR_RED]ÜÇ KATI[ENDCOLOR] olur.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_RAZE_CITY_RAZE_DISABLED_EXPLANATION">
+		<Replace Language="pl_PL" Tag="LOC_RAZE_CITY_RAZE_DISABLED_EXPLANATION">
 			<Text>Bir ulusun orijinal başkentini veya bizim ya da müttefikimizin savaş başlangıcında kurduğu ya da sahip olduğu bir şehri yakamayız.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_RAZE_CITY_LIBERATE_FOUNDER_BUTTON_LABEL">
+		<Replace Language="pl_PL" Tag="LOC_RAZE_CITY_LIBERATE_FOUNDER_BUTTON_LABEL">
 			<Text>Kurucusuna Özgür Bırak ({1_CivName})</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_RAZE_CITY_LIBERATE_PREWAR_OWNER_BUTTON_LABEL">
+		<Replace Language="pl_PL" Tag="LOC_RAZE_CITY_LIBERATE_PREWAR_OWNER_BUTTON_LABEL">
 			<Text>Savaş Öncesi Sahibine Özgür Bırak ({1_CivName})</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_RAZE_CITY_KEEP_BUTTON_LABEL">
+		<Replace Language="pl_PL" Tag="LOC_RAZE_CITY_KEEP_BUTTON_LABEL">
 			<Text>Şehri Tut</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_RAZE_CITY_RAZE_BUTTON_LABEL">
+		<Replace Language="pl_PL" Tag="LOC_RAZE_CITY_RAZE_BUTTON_LABEL">
 			<Text>Şehri Yak</Text>
 		</Replace>
 	</LocalizedText>

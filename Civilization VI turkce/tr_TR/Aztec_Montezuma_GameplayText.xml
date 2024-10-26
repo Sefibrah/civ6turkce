@@ -1,226 +1,226 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameData>
 	<LocalizedText>
-		<Replace Language="tr_TR" Tag="LOC_LOADING_INFO_LEADER_MONTEZUMA">
+		<Replace Language="pl_PL" Tag="LOC_LOADING_INFO_LEADER_MONTEZUMA">
 			<Text>Tlatoani Montezuma, kartal savaşçılarını mutlu ve tok tut ki onlar senin için sonsuza dek savaşsınlar. Aztek İmparatorluğu dünyalar arasında ilerlerken duvarlar inşa etmeyi umursamazsın, çünkü çevrendeki diğerlerini fethederken sana sadık yeni işçilerle kutsanacaksın. Şimdi yola çık; Huitzilopochtli çağırıyor.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_CITIZEN_AZTEC_MALE_1">
+		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AZTEC_MALE_1">
 			<Text>Acamapichtli</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_CITIZEN_AZTEC_MALE_2">
+		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AZTEC_MALE_2">
 			<Text>Chimalli</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_CITIZEN_AZTEC_MALE_3">
+		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AZTEC_MALE_3">
 			<Text>Cuauhtemoc</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_CITIZEN_AZTEC_MALE_4">
+		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AZTEC_MALE_4">
 			<Text>Huitzilli</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_CITIZEN_AZTEC_MALE_5">
+		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AZTEC_MALE_5">
 			<Text>Itzcoatl</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_CITIZEN_AZTEC_MALE_6">
+		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AZTEC_MALE_6">
 			<Text>Nochehuatl</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_CITIZEN_AZTEC_MALE_7">
+		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AZTEC_MALE_7">
 			<Text>Tlaloc</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_CITIZEN_AZTEC_MALE_8">
+		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AZTEC_MALE_8">
 			<Text>Xiuhpilli</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_CITIZEN_AZTEC_MALE_9">
+		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AZTEC_MALE_9">
 			<Text>Yaotl</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_CITIZEN_AZTEC_MALE_10">
+		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AZTEC_MALE_10">
 			<Text>Zolin</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_CITIZEN_AZTEC_FEMALE_1">
+		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AZTEC_FEMALE_1">
 			<Text>Centehua</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_CITIZEN_AZTEC_FEMALE_2">
+		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AZTEC_FEMALE_2">
 			<Text>Chalchiuitl</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_CITIZEN_AZTEC_FEMALE_3">
+		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AZTEC_FEMALE_3">
 			<Text>Chicomecoatl</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_CITIZEN_AZTEC_FEMALE_4">
+		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AZTEC_FEMALE_4">
 			<Text>Chimalma</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_CITIZEN_AZTEC_FEMALE_5">
+		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AZTEC_FEMALE_5">
 			<Text>Citlalli</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_CITIZEN_AZTEC_FEMALE_6">
+		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AZTEC_FEMALE_6">
 			<Text>Cozamalotl</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_CITIZEN_AZTEC_FEMALE_7">
+		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AZTEC_FEMALE_7">
 			<Text>Tlacotl</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_CITIZEN_AZTEC_FEMALE_8">
+		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AZTEC_FEMALE_8">
 			<Text>Xilonen</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_CITIZEN_AZTEC_FEMALE_9">
+		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AZTEC_FEMALE_9">
 			<Text>Xochitl</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_CITIZEN_AZTEC_FEMALE_10">
+		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AZTEC_FEMALE_10">
 			<Text>Yaretzi</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_CITIZEN_AZTEC_MODERN_MALE_1">
+		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AZTEC_MODERN_MALE_1">
 			<Text>Carlos</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_CITIZEN_AZTEC_MODERN_MALE_2">
+		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AZTEC_MODERN_MALE_2">
 			<Text>Estévan</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_CITIZEN_AZTEC_MODERN_MALE_3">
+		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AZTEC_MODERN_MALE_3">
 			<Text>Ignacio</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_CITIZEN_AZTEC_MODERN_MALE_4">
+		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AZTEC_MODERN_MALE_4">
 			<Text>José</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_CITIZEN_AZTEC_MODERN_MALE_5">
+		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AZTEC_MODERN_MALE_5">
 			<Text>Montago</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_CITIZEN_AZTEC_MODERN_MALE_6">
+		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AZTEC_MODERN_MALE_6">
 			<Text>Niguel</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_CITIZEN_AZTEC_MODERN_MALE_7">
+		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AZTEC_MODERN_MALE_7">
 			<Text>Pedro</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_CITIZEN_AZTEC_MODERN_MALE_8">
+		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AZTEC_MODERN_MALE_8">
 			<Text>Richardo</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_CITIZEN_AZTEC_MODERN_MALE_9">
+		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AZTEC_MODERN_MALE_9">
 			<Text>Teyo</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_CITIZEN_AZTEC_MODERN_MALE_10">
+		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AZTEC_MODERN_MALE_10">
 			<Text>Tino</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_CITIZEN_AZTEC_MODERN_FEMALE_1">
+		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AZTEC_MODERN_FEMALE_1">
 			<Text>Amorita</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_CITIZEN_AZTEC_MODERN_FEMALE_2">
+		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AZTEC_MODERN_FEMALE_2">
 			<Text>Bellona</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_CITIZEN_AZTEC_MODERN_FEMALE_3">
+		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AZTEC_MODERN_FEMALE_3">
 			<Text>Eldora</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_CITIZEN_AZTEC_MODERN_FEMALE_4">
+		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AZTEC_MODERN_FEMALE_4">
 			<Text>Guadalupe</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_CITIZEN_AZTEC_MODERN_FEMALE_5">
+		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AZTEC_MODERN_FEMALE_5">
 			<Text>Luminosa</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_CITIZEN_AZTEC_MODERN_FEMALE_6">
+		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AZTEC_MODERN_FEMALE_6">
 			<Text>Orlena</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_CITIZEN_AZTEC_MODERN_FEMALE_7">
+		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AZTEC_MODERN_FEMALE_7">
 			<Text>Perdita</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_CITIZEN_AZTEC_MODERN_FEMALE_8">
+		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AZTEC_MODERN_FEMALE_8">
 			<Text>Pilar</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_CITIZEN_AZTEC_MODERN_FEMALE_9">
+		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AZTEC_MODERN_FEMALE_9">
 			<Text>Senalda</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_CITIZEN_AZTEC_MODERN_FEMALE_10">
+		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AZTEC_MODERN_FEMALE_10">
 			<Text>Zola</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_CITY_NAME_TENOCHTITLAN">
+		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_TENOCHTITLAN">
 			<Text>Tenochtitlan</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_CITY_NAME_TEXCOCO">
+		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_TEXCOCO">
 			<Text>Texcoco</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_CITY_NAME_ATZCAPOTZALCO">
+		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_ATZCAPOTZALCO">
 			<Text>Atzcapotzalco</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_CITY_NAME_TEOTIHUACAN">
+		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_TEOTIHUACAN">
 			<Text>Teotihuacán</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_CITY_NAME_TLACOPAN">
+		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_TLACOPAN">
 			<Text>Tlacopán</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_CITY_NAME_XOCHICALCO">
+		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_XOCHICALCO">
 			<Text>Xochicalco</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_CITY_NAME_MALINALCO">
+		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_MALINALCO">
 			<Text>Malinalco</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_CITY_NAME_TEAYO">
+		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_TEAYO">
 			<Text>Teayo</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_CITY_NAME_CEMPOALA">
+		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_CEMPOALA">
 			<Text>Cempoala</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_CITY_NAME_CHALCO">
+		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_CHALCO">
 			<Text>Chalco</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_CITY_NAME_IXTAPALUCA">
+		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_IXTAPALUCA">
 			<Text>Ixtapaluca</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_CITY_NAME_TENAYUCA">
+		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_TENAYUCA">
 			<Text>Tenayuca</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_CITY_NAME_HUEXOTLA">
+		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_HUEXOTLA">
 			<Text>Huexotla</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_CITY_NAME_CHAPULTEPEC">
+		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_CHAPULTEPEC">
 			<Text>Chapultepec</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_CITY_NAME_TEPEXPAN">
+		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_TEPEXPAN">
 			<Text>Tepexpan</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_CITY_NAME_ZITLALTEPEC">
+		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_ZITLALTEPEC">
 			<Text>Zitlaltepec</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_CITY_NAME_XALAPA">
+		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_XALAPA">
 			<Text>Xalapa</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_CITY_NAME_TAMUIN">
+		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_TAMUIN">
 			<Text>Tamuín</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_CITY_NAME_TELOLOAPAN">
+		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_TELOLOAPAN">
 			<Text>Teloloapan</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_CITY_NAME_MITLA">
+		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_MITLA">
 			<Text>Mixquic</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_CITY_NAME_TLATELOLCO">
+		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_TLATELOLCO">
 			<Text>Tlatelolco</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_CITY_NAME_COYOTEPEC">
+		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_COYOTEPEC">
 			<Text>Coyotepec</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_CITY_NAME_ZACATULA">
+		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_ZACATULA">
 			<Text>Zacatula</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_CITY_NAME_YUCUNUDAHUI">
+		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_YUCUNUDAHUI">
 			<Text>Yucuñudahui</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_CITY_NAME_ECATEPEC">
+		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_ECATEPEC">
 			<Text>Ecatepec</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_CITY_NAME_MAZATAN">
+		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_MAZATAN">
 			<Text>Mazatán</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_CITY_NAME_IZTAPALAPA">
+		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_IZTAPALAPA">
 			<Text>Iztapalapa</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_CITY_NAME_TLALMANALCO">
+		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_TLALMANALCO">
 			<Text>Tlalmanalco</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_CITY_NAME_HUAXYACAC">
+		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_HUAXYACAC">
 			<Text>Huaxyacac</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_CITY_NAME_ACATITLAN">
+		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_ACATITLAN">
 			<Text>Acatitlan</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_CIVILIZATION_AZTEC_DESCRIPTION">
+		<Replace Language="pl_PL" Tag="LOC_CIVILIZATION_AZTEC_DESCRIPTION">
 			<Text>Aztek İmparatorluğu|Azteklerin</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_CIVILIZATION_AZTEC_ADJECTIVE">
+		<Replace Language="pl_PL" Tag="LOC_CIVILIZATION_AZTEC_ADJECTIVE">
 			<Text>Aztek</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_CIVINFO_AZTEC_LOCATION">
+		<Replace Language="pl_PL" Tag="LOC_CIVINFO_AZTEC_LOCATION">
 			<Text>Kuzey Amerika</Text>
 		</Replace>
 		<Replace Language="pl_PL" Tag="LOC_CIVINFO_AZTEC_SIZE">
@@ -253,94 +253,94 @@
 		<Replace Language="pl_PL" Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AZTEC_CHAPTER_HISTORY_PARA_5">
 			<Text>Hayat sakin devam etti, ta ki Azcapotzalcotların kralı Tezozomoc 1426'da aniden ölene kadar. Kısa bir iç savaş patlak verdi ve Aztekler, önceki kralın desteklediği Tayhuahia’yı destekledi. Ancak Tayhuahia, en iyi seçenek olmadığını kanıtladı çünkü kardeşi Maxtla savaşı kazandı ve Tayhuahia'yı destekleyen herkesi cezalandırdı. Bu kargaşanın ortasında, Aztek kralı muhtemelen Maxtla’nın emriyle öldürüldü. Yeni kral Itzcoatl, direnişe devam etmeye karar verdi. Maxtla, şehri kuşatarak adayı dış dünyadan izole etti ve tam teslimiyet talep etti.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AZTEC_CHAPTER_HISTORY_PARA_6">
-			<Text>tr_TR Simultaneously, Maztla turned on the Alcohua in Texcoco, for whom he had no great love either. The Texcoco ruler Nezahualcoyotl fled into exile and made his way to join Itzcoatl. And the dissident Azcapotzalco city Tlacopan threw its support to Itzcoatl. Thus was formed the famed Triple Alliance: three city-states with a common goal, the overthrow of Maxtla, which was accomplished by the end of 1427. Having smashed the Azcapotzalco completely, the three kings agreed to live “in accord.” Their first act was to divvy up the lands of the defeated; somehow Tenochtitlan got the lion’s share. So pleased were they all by this success that the three cities formalized their alliance. Under its provisions, all tribute was to be divided, and all three would participate in future wars of conquest with all sharing the spoils. The kings each took the title huetlatoani (“elder speaker”) in rotation, in effect serving as emperor of the allied realm.</Text>
+		<Replace Language="pl_PL" Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AZTEC_CHAPTER_HISTORY_PARA_6">
+			<Text>Aynı zamanda Maztla, Texcoco'daki Alcohua'ya karşı harekete geçti. Texcoco'nun hükümdarı Nezahualcoyotl sürgüne kaçtı ve Itzcoatl'a katıldı. Azcapotzalco'nun muhalif şehri Tlacopan da Itzcoatl'ın tarafına geçti. Böylece ünlü Üçlü İttifak kuruldu: Ortak hedefi Maxtla'yı devirmek olan üç şehir-devlet, 1427'nin sonunda bunu başardı. Azcapotzalco tamamen yıkıldıktan sonra, üç kral "uyum içinde" yaşamaya karar verdi. İlk adımları, fethedilen toprakları paylaşmak oldu; en büyük payı Tenochtitlan aldı. Bu başarıdan memnun kalan şehirler ittifaklarını resmileştirdi. Anlaşmaya göre tüm haraçlar paylaşılacak ve gelecekteki fetih savaşlarında ganimetler ortaklaşa bölüşülecekti. Krallar sırayla "huetlatoani" (kıdemli konuşmacı) unvanını alarak fiilen ittifakın imparatoru olarak görev yaptılar.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AZTEC_CHAPTER_HISTORY_PARA_7">
-			<Text>tr_TR Over the next century, under a series of able elder speakers, the Aztec Alliance would thrive, mainly by stomping on its neighbors until it reached from the Atlantic to the Pacific across Mesoamerica. In fact, this “empire” existed in a near-constant state of war, either for social or perhaps religious necessity. In the Aztec Weltanschaung (to mix tongues), death was instrumental to the perpetuation of life, and in the natural order of things both gods and humans had to sacrifice to keep creation in balance. And blood – human, as animal blood didn’t seem to work – kept the sun from falling. Since the citizens weren’t keen on being the ones to bleed, it was natural to use the lesser folk – prisoners (hence the need for lots of combat), slaves, servants, and the poor. The scale of the sacrifices was staggering; at the dedication of the Templo Mayor (Great Pyramid) in Tenochtitlan in 1487 for instance, historians have estimated between 10 and 80 thousand were killed, usually by beheading.</Text>
+		<Replace Language="pl_PL" Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AZTEC_CHAPTER_HISTORY_PARA_7">
+			<Text>Sonraki yüzyılda, bir dizi yetenekli kıdemli konuşmacı yönetiminde Aztek İttifakı gelişti. İmparatorluk, Atlantik'ten Pasifik'e kadar Mesoamerika'nın büyük bir kısmına yayıldı. Aslında, bu “imparatorluk” sürekli bir savaş hali içindeydi; sosyal ya da dini bir zorunluluk olarak. Aztek dünyagörüşüne göre, yaşamın devamı için ölüm gerekliydi ve hem tanrılar hem de insanlar dengeyi korumak için fedakarlık yapmalıydı. Kan – özellikle insan kanı – güneşin düşmesini engelliyordu. Vatandaşlar kan vermeye istekli olmadığından, esirler, köleler ve fakirler kurban ediliyordu. 1487'de Tenochtitlan'daki Templo Mayor'un (Büyük Piramit) adanışı sırasında 10 ila 80 bin kişinin başı kesilerek kurban edildiği tahmin ediliyor.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AZTEC_CHAPTER_HISTORY_PARA_8">
-			<Text>tr_TR When the Aztecs weren’t celebrating with bloody rituals, they developed a culture and science unmatched in the Americas. For instance, the sophisticated Aztec calendar was the equal to any evolved in Europe or Asia. The tonalpohualli (“day count”) consisted of a 260-day cycle, each day signified by a number one through thirteen and one of 20 day signs; the xiuhpohualli or “year count” divided the year in 18 periods of 20 days each. Thus, a year consisted of 360 named days and five unnamed ones; these unnamed days were thought unlucky (certainly for those who got sacrificed on them to counter the bad karma). It is thought that this calendar arose from their intense study of the heavens, for they developed astronomy to an art form. And the Aztecs wrote it all down on amate, a bark paper, in their distinctive ideographic system.</Text>
+		<Replace Language="pl_PL" Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AZTEC_CHAPTER_HISTORY_PARA_8">
+			<Text>Aztekler kanlı ritüellerle meşgul olmadıklarında, Amerika kıtasında benzersiz bir kültür ve bilim geliştirdiler. Örneğin, karmaşık Aztek takvimi, Avrupa veya Asya'daki herhangi bir takvimle eşdeğerdi. Tonalpohualli (gün sayısı), 13 sayı ve 20 günlük işaretlerle işaretlenmiş 260 günlük bir döngüden oluşuyordu; xiuhpohualli veya "yıl sayısı" ise yılı 18 dönemden oluşan 20 günlük döngülere ayırıyordu. Böylece, bir yıl 360 isimli gün ve beş isimsiz gün içeriyordu; bu isimsiz günlerin uğursuz olduğuna inanılıyordu (bu günlerde kurban edilenlerin kötü kaderini engellemek için). Bu takvimin, gökleri inceleme tutkusundan doğduğu düşünülüyor. Aztekler tüm bu bilgileri, kendi karakteristik ideografik sistemleriyle amate (ağaç kabuğu) kağıdına yazdılar.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AZTEC_CHAPTER_HISTORY_PARA_9">
-			<Text>tr_TR When Itzcoatl passed away in 1440, he was replaced by his nephew Montezuma (the first, not to be confused with the less-able second). Montezuma’s older half-brother, Tlacaelel, was made Cihuacoatl, roughly the equivalent of a European prime minister. The two then proceeded to make Tenochtitlan the dominant partner in the alliance, in effect formalizing an Aztec Empire. Montezuma handled the conquering part – overrunning the Huastecs, the Totonacs, the Mixtecs, the Cosamaloapans, the Orizabas and the Cotaxtlas. Tlacaelel handled reshaping the Aztec civilization to his own vision.</Text>
+		<Replace Language="pl_PL" Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AZTEC_CHAPTER_HISTORY_PARA_9">
+			<Text>Itzcoatl 1440 yılında öldüğünde, yerine yeğeni Montezuma (ilk Montezuma, daha yeteneksiz olan ikinci Montezuma ile karıştırılmamalıdır) geçti. Montezuma'nın üvey ağabeyi Tlacaelel, Avrupa'daki bir başbakana denk olan Cihuacoatl olarak atandı. İkili, Tenochtitlan'ı ittifakın baskın ortağı yaparak Aztek İmparatorluğu'nu fiilen resmileştirdi. Montezuma, Huastec, Totonac, Mixtec, Cosamaloapan, Orizaba ve Cotaxtla şehirlerini fethederek yayılmacı politikayı sürdürdü. Tlacaelel ise Aztek uygarlığını kendi vizyonuna göre şekillendirdi.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AZTEC_CHAPTER_HISTORY_PARA_10">
-			<Text>tr_TR While Montezuma was busy waging war, Tlacaelel literally rewrote the Aztec past and future, according to some sources ordering the burning of hundreds of texts because of “historical inaccuracies.” Under Tlacaelel, the revamped Aztec religion held that the Aztecs were a chosen people, destined to be above all others. Tlacaelel also emphasized the importance of militarism and ritual sacrifice in the “new” Aztec theology. And he oversaw the construction of a host of temples and religious buildings, including the Templo Mayor in Tenochtitlan, consecrated (with a lot of sacrifices) to the newly paramount deity Huitzilopochtli.</Text>
+		<Replace Language="pl_PL" Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AZTEC_CHAPTER_HISTORY_PARA_10">
+			<Text>Montezuma savaşlarla meşgulken, Tlacaelel Aztek tarihini ve geleceğini yeniden yazdı. Bazı kaynaklara göre, yüzlerce metin “tarihsel yanlışlıklar” nedeniyle Tlacaelel'in emriyle yakıldı. Tlacaelel'in revize ettiği Aztek dini, Azteklerin seçilmiş bir halk olduğunu ve diğer tüm milletlerin üzerinde olduğunu öğretiyordu. Yeni dini doktrin, militarizm ve ritüel kurbanların önemini vurguluyordu. Tlacaelel, Templo Mayor da dahil olmak üzere birçok tapınak ve dini yapı inşa ettirdi.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AZTEC_CHAPTER_HISTORY_PARA_11">
-			<Text>tr_TR The Aztecs thrived under the brothers for three decades. With Montezuma, the empire spanned a hundred thousand square miles, and about five million subjects were subject to its rule. With Tlacaelel, the subject tribes were largely left to their own devices, so long as the requisite tribute (which included sacrificial donations of course) and military forces were supplied on demand. Tenochtitlan became the center of a great trading network, and Aztec merchants happily did business with allies and enemies alike. Lacking any currency, trade was based upon barter. Possessing no draft animals or wheeled conveyances, Tlacaelel oversaw the construction of an extensive road system designed for foot traffic, since everything had to be carried from one place to another by humans. The roads were in constant use, guarded by the Aztec military, making them safe enough for even women to travel alone. He also had government-funded telpochcalli (schools) built in every neighborhood where boys received religious instruction and military training.</Text>
+		<Replace Language="pl_PL" Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AZTEC_CHAPTER_HISTORY_PARA_11">
+			<Text>Kardeşlerin yönetiminde Aztekler otuz yıl boyunca refah içinde yaşadılar. Montezuma döneminde imparatorluk, yüz bin mil karelik bir alana yayıldı ve yaklaşık beş milyon kişiyi kontrol altına aldı. Tlacaelel'in yönetiminde ise bağlı kabileler kendi hallerine bırakıldı, yeter ki haraç ve asker sağlasınlar. Tenochtitlan, büyük bir ticaret ağı haline geldi. Para birimi olmadan, ticaret takas yoluyla yapılıyordu. Taşıma için yük hayvanları ve tekerlekli araçlar olmadan, Tlacaelel insan gücüne dayalı geniş bir yol ağı inşa ettirdi. Aztek askerleri yolları güvenli hale getirerek, kadınların bile yalnız seyahat etmesine olanak tanıdı. Ayrıca her mahallede erkek çocuklara dini eğitim ve askeri eğitim verilen telpochcalli (okullar) inşa ettirdi.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AZTEC_CHAPTER_HISTORY_PARA_12">
-			<Text>tr_TR Montezuma I passed away in 1468 AD and was succeeded by his son Axayacatl, who spent his 13 years consolidating his father’s conquests, putting down various rebellions and fending off the uppity Tarascan Empire. (Tlacaelel died in 1487, much to the relief of many, no doubt.) When Axayacatl died, he was replaced by his brother, the monumentally incompetent Tizoc, who was assassinated by his nobles after just five years. He was followed by another brother – Ahuitzotl – in 1486, who proved better; he conquered the city-state of Otzoma, whose population disappeared (either killed or sacrificed en masse), and began building a line of fortresses along several contested borderlands. Ahuitzotl died in the Year 10 Rabbit (to make use of the convoluted Aztec calendar). His nephew, Montezuma II, was elevated to the throne.</Text>
+		<Replace Language="pl_PL" Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AZTEC_CHAPTER_HISTORY_PARA_12">
+			<Text>Montezuma I, 1468 yılında öldü ve yerine oğlu Axayacatl geçti. Axayacatl, babasının fetihlerini pekiştirmek ve ayaklanmaları bastırmak için on üç yılını harcadı. 1487'de Tlacaelel öldü. Axayacatl'ın ölümüyle, yerini beceriksiz kardeşi Tizoc aldı. Ancak Tizoc, beş yıl içinde soylular tarafından öldürüldü. Yerine diğer kardeşi Ahuitzotl geçti. Ahuitzotl, Otzoma şehir-devletini fethederek nüfusunu ya katletti ya da toplu olarak kurban etti ve tartışmalı sınır bölgelerine kaleler inşa etmeye başladı. Ahuitzotl, Tavşan Yılı'nda (karmaşık Aztek takvimine göre) öldü ve taht, yeğeni Montezuma II'ye geçti.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AZTEC_CHAPTER_HISTORY_PARA_13">
-			<Text>tr_TR The new Montezuma’s reign started out inauspiciously … and then went downhill. He removed the more competent of Ahuitzotl’s advisors, having most of them executed. He then abolished the quauhpilli class – a sort of semi-noble stage – in Aztec society, destroying any chance for commoners to advance their family. The unwashed masses thus had no incentive to serve the empire militarily or in any other manner. Having angered the most powerful noble families and alienated the commoners, Montezuma was, needless-to-say, ill-prepared to meet the challenge of greedy Spaniards, who showed up on the Aztec doorstep in February 1519.</Text>
+		<Replace Language="pl_PL" Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AZTEC_CHAPTER_HISTORY_PARA_13">
+			<Text>Yeni Montezuma'nın yönetimi kötü başladı ve daha da kötüleşti. Ahuitzotl'un yetenekli danışmanlarını görevden alarak birçoğunu idam ettirdi. Aztek toplumundaki quauhpilli sınıfını – bir tür yarı soylu sınıfı – ortadan kaldırdı ve halkın sosyal olarak ilerlemesini engelledi. Halkın artık imparatorluğa askeri ya da başka bir şekilde hizmet etme motivasyonu kalmamıştı. Soylularla ve halkla arası açılan Montezuma, 1519'da açgözlü İspanyollar geldiğinde hazırlıksız yakalandı.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AZTEC_CHAPTER_HISTORY_PARA_14">
-			<Text>tr_TR Earlier that year, an expedition under the command of Hernando Cortes – consisting of some 11 ships, 630 men, 13 horses and a few small cannon – landed in the Yucatan, part of the Mayan Empire. In point of fact, the charter for Cortes’ expedition had been revoked by the Spanish governor of Cuba before his departure from port, but Cortes ignored his orders in an act of open mutiny and sailed anyway (guess fortune really does “favor the fool-hearty”). After a few adventures, the conquistadors ended up sailing to and seizing the small native settlement at Veracruz, where they met a couple of Aztec governors of tributary states. These two agreed to set up a meet between Cortes and Montezuma II.</Text>
+		<Replace Language="pl_PL" Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AZTEC_CHAPTER_HISTORY_PARA_14">
+			<Text>Aynı yılın başlarında, Hernando Cortes'in komutasındaki bir keşif ekibi – 11 gemi, 630 adam, 13 at ve birkaç küçük toptan oluşan – Mayaların topraklarına, Yucatan'a indi. Aslında, Cortes'in seferi için verilen yetki, Küba valisi tarafından iptal edilmişti ancak Cortes, emirleri hiçe sayarak sefere çıktı. Veracruz'daki bir Aztek yerleşimini ele geçirerek oradaki Aztek valileriyle tanıştı. Bu valiler, Cortes ile Montezuma II arasında bir görüşme ayarlamayı kabul etti.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AZTEC_CHAPTER_HISTORY_PARA_15">
-			<Text>tr_TR Montezuma stubbornly refused to accept the Spanish “envoy” however, so Cortes set out for Tenochtitlan uninvited. Like most unwelcome guests, the Spanish left chaos in their wake. Marching towards the capital with a host of native warriors – looking for adventure, loot or revenge – joining his troupe, Cortes arrived in the large city of Cholula. There his merry band massacred thousands of unarmed members of the local Aztec nobility gathered in the square before the Great Pyramid there (the largest pyramid by volume in the world). Then for good measure, the Spaniards burned the city. So impressed by all the bloodshed were the downtrodden Aztec vassals that more joined the expedition. By the time Cortes reached Tenochtitlan, he had quite a following.</Text>
+		<Replace Language="pl_PL" Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AZTEC_CHAPTER_HISTORY_PARA_15">
+			<Text>Montezuma, İspanyol "elçiyi" kabul etmeyi reddetti, bu yüzden Cortes, davetsiz bir şekilde Tenochtitlan'a yöneldi. Cortes, yerel savaşçılarla birleşerek başkente doğru ilerledi ve Cholula'ya ulaştı. Orada, binlerce silahsız Aztek asilzadesi, Büyük Piramit'in önünde katledildi. Ardından İspanyollar şehri yaktılar. Bu kanlı olay, daha fazla Aztek vassalını Cortes'in tarafına çekti ve Tenochtitlan'a vardığında Cortes'in önemli bir takipçi grubu oluşmuştu.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AZTEC_CHAPTER_HISTORY_PARA_16">
-			<Text>tr_TR Bowing to the inevitable, Montezuma II welcomed the Spaniards into the city peacefully to meet and talk. Whereupon Cortes made him prisoner. To make a long story short, eventually the Aztecs stoned Montezuma to death and drove the Spanish out of their capital. But Cortes returned with reinforcements, laying siege to Tenochtitlan. What with all the firearms and cannon and horses (which the Aztecs were most impressed by), the city soon fell and was razed … and in August 1521 Cuauhtémoc, the last ruler of the Aztecs, was captured and later executed.</Text>
+		<Replace Language="pl_PL" Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AZTEC_CHAPTER_HISTORY_PARA_16">
+			<Text>Kaçınılmazı kabul eden Montezuma II, İspanyolları barışçıl bir şekilde karşılayarak konuşmak üzere davet etti. Ancak Cortes, Montezuma'yı tutsak aldı. Sonunda, Aztekler Montezuma'yı taşlayarak öldürdü ve İspanyolları başkentten kovdu. Fakat Cortes, takviye güçlerle geri döndü ve Tenochtitlan'ı kuşattı. Ateşli silahlar, toplar ve atlar (Azteklerin çok etkilendiği unsurlar) ile şehir kısa sürede düştü ve yerle bir edildi. Ağustos 1521'de, Azteklerin son hükümdarı Cuauhtémoc yakalandı ve daha sonra idam edildi.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AZTEC_CHAPTER_HISTORY_PARA_17">
-			<Text>tr_TR The bloody Aztec overlords were gone, and the empire shattered into separate city-states again, now under Spanish suzerainty.</Text>
+		<Replace Language="pl_PL" Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AZTEC_CHAPTER_HISTORY_PARA_17">
+			<Text>Kanlı Aztek egemenliği sona erdi ve imparatorluk, İspanyol hakimiyetinde tekrar bağımsız şehir-devletlere bölündü.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MONTEZUMA_TITLE">
+		<Replace Language="pl_PL" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MONTEZUMA_TITLE">
 			<Text>Montezuma I</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MONTEZUMA_SUBTITLE">
+		<Replace Language="pl_PL" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MONTEZUMA_SUBTITLE">
 			<Text>Tenochtitlan'ın huetlatoani, Azteklerin beşinci tlatoani</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MONTEZUMA_QUOTE">
+		<Replace Language="pl_PL" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MONTEZUMA_QUOTE">
 			<Text>Güneş doğar doğmaz sıcak değildir; ancak yolculuğunu tamamladıktan sonra sıcak olur.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MONTEZUMA_CHAPTER_HISTORY_PARA_1">
-			<Text>tr_TR Motecuhzoma Ilhuicamina (a mouthful in any language) was the fifth tlatoani (“emperor elect”) of the Aztecs. During his 29-year reign, he made his city of Tenochtitlan the dominant power in the region, through maintaining the favorable alliance with nearby Tlacopan and Texcoco. Together, the three would proceed to beat up on all their neighbors – in no particular order: the Huastecs, the Totonacs, the Mixtecs, the Cosamaloapans, the Orizabas and the Cotaxtlas. By the terms of the triple alliance, Tenochtitlan received 40% or so of the conquered lands; by the end of Montezuma’s life, the Aztec empire had expanded well beyond the Valley of Mexico all the way to the Gulf Coast.</Text>
+		<Replace Language="pl_PL" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MONTEZUMA_CHAPTER_HISTORY_PARA_1">
+			<Text>Motecuhzoma Ilhuicamina (her dilde söylenmesi zor bir isim), Azteklerin beşinci tlatoani'si ("seçilmiş imparator") idi. 29 yıllık hükümdarlığı sırasında, Tenochtitlan'ı Tlacopan ve Texcoco ile olan ittifakı güçlendirerek bölgedeki en güçlü şehir haline getirdi. Üçlü ittifak, Huastec, Totonac, Mixtec, Cosamaloapan, Orizaba ve Cotaxtla gibi komşularına saldırarak bu gücünü kanıtladı. İttifakın şartlarına göre, fethedilen toprakların yaklaşık %40'ı Tenochtitlan'a verildi. Montezuma'nın yaşamının sonunda, Aztek imparatorluğu Meksika Vadisi'ni aşarak Meksika Körfezi'ne kadar genişledi.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MONTEZUMA_CHAPTER_HISTORY_PARA_2">
-			<Text>tr_TR Montezuma (whose name means, somewhat, “he frowns like a lord”) came from good stock. His father Huitzilihuitl was the king of Tenochtitlan, and his mother Miahuaxihuitl was the daughter of the ruler of the city of Cuauhnahuac. He was one of four brothers, including his elder Tlacaelel I. Following his father’s death in 1417 AD, Montezuma’s uncle Itzcoatl was elected tlatoani; Tlacaelel I was made one of Itzcoatl’s advisors – in fact, Nahuati, or “First Advisor” – while Montezuma served as a general in the Aztec army.</Text>
+		<Replace Language="pl_PL" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MONTEZUMA_CHAPTER_HISTORY_PARA_2">
+			<Text>Montezuma (ismi kabaca “bir lord gibi kaşlarını çatan” anlamına gelir), soylu bir aileden geliyordu. Babası Huitzilihuitl, Tenochtitlan'ın kralıydı; annesi Miahuaxihuitl ise Cuauhnahuac'ın hükümdarının kızıydı. Dört erkek kardeşten biriydi ve ağabeyi Tlacaelel I ile yakın bir ilişkisi vardı. Babasının 1417 yılında ölmesinin ardından, Montezuma'nın amcası Itzcoatl tlatoani seçildi. Tlacaelel I, Itzcoatl'ın danışmanlarından biri oldu ve Nahuati, yani “Baş Danışman” unvanını aldı. Montezuma ise Aztek ordusunda general olarak görev yaptı.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MONTEZUMA_CHAPTER_HISTORY_PARA_3">
-			<Text>tr_TR Following Itzcoatl's death in 1440, Montezuma was elected emperor. Tlacaelel I did not seem at all unhappy about being bypassed (perhaps he thought he'd live longer if he didn’t wear the crown), and by all accounts he served his brother faithfully. Besides, Tlacaelel I was too busy with religious affairs. Among other things, he recast the legends of the Aztecs as a chosen people, elevated the minor deity Huitzilopochtli (god of war and the sun, and soon enough patron of Tenochtitlan), and coupled militarism to faith. Oh yeah, and he increased the scope and frequency of human sacrifice to the gods – especially during times of troubles (which seemed to be most of the time).</Text>
+		<Replace Language="pl_PL" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MONTEZUMA_CHAPTER_HISTORY_PARA_3">
+			<Text>Itzcoatl 1440 yılında öldüğünde, Montezuma imparator seçildi. Tlacaelel I, tahta geçemediği için mutsuz görünmüyordu (belki de tacı giymemenin ömrünü uzatacağını düşündü) ve kardeşine sadık bir şekilde hizmet etti. Ayrıca, Tlacaelel I dini işlerle fazlasıyla meşguldü. Azteklerin efsanelerini seçilmiş bir halk olarak yeniden yazdı, savaş ve güneş tanrısı Huitzilopochtli'yi Tenochtitlan'ın hamisi olarak yüceltti ve militarizmi dine bağladı. Zorlukların sıkça yaşandığı zamanlarda insan kurbanlarının sayısını ve sıklığını da artırdı.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MONTEZUMA_CHAPTER_HISTORY_PARA_4">
-			<Text>tr_TR Montezuma, meanwhile, was living relatively modestly, despite being an emperor. He lived, according to the Codex Mendoza created just 14 years after the Spanish Conquest of the Aztecs, in a “simple” palace with “just a few wives.” In fact, it is recorded that he eventually had ten harems, three inherited from his brother Huehue Zaca. His first wife, at least in rank and prestige, was the comely Chichimecacihuatzin, his cousin and mother of perhaps three of his children, including two princes, although things are a bit hazy as to who bore which Montezuma offspring. When not engaged in religious duties or procreation or affairs of state, he supposedly enjoyed lengthy conversations with his friends and advisors.</Text>
+		<Replace Language="pl_PL" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MONTEZUMA_CHAPTER_HISTORY_PARA_4">
+			<Text>Montezuma ise imparator olmasına rağmen mütevazı bir yaşam sürüyordu. İspanyol fethinden sadece 14 yıl sonra oluşturulan Codex Mendoza'ya göre, “basit” bir sarayda yaşıyor ve “sadece birkaç eşi” vardı. Ancak, sonunda on haremi olduğu, üçünün kardeşi Huehue Zaca'dan miras kaldığı kaydedilmiştir. İlk eşi olan Chichimecacihuatzin, kuzeni ve en az üç çocuğunun annesiydi. Montezuma, dini görevleri ve devlet işlerinin yanı sıra arkadaşları ve danışmanlarıyla uzun sohbetlerden hoşlanıyordu.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MONTEZUMA_CHAPTER_HISTORY_PARA_5">
-			<Text>tr_TR Much of this talk seems to have been centered on how to improve the Aztec city and newly-conquered lands. One of these, the construction of a double aqueduct to supply Tenochtitlan with plentiful fresh water, is considered the greatest engineering feat of the Aztec Empire. Of course as the sprawling city grew, it also required ever greater amounts of food to sustain its hungry population. Since Central America lacked domestic draft animals, every morsel had to be transported to the city on somebody's back (the burden of their many slaves – those not ritually sacrificed, that is). Montezuma’s government employed state inspectors to ensure that every scrap of arable land within walking distance was cultivated efficiently. And the emperor ordered the construction of dikes to alleviate flooding and to reclaim even more farmland from marshland.</Text>
+		<Replace Language="pl_PL" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MONTEZUMA_CHAPTER_HISTORY_PARA_5">
+			<Text>Bu sohbetlerin çoğu, Aztek şehri ve fethedilen toprakların nasıl geliştirileceği üzerine odaklanmıştı. Bunlardan biri olan Tenochtitlan'a bol miktarda tatlı su sağlamak için inşa edilen çift su kemeri, Aztek İmparatorluğu'nun en büyük mühendislik başarısı olarak kabul edilir. Ancak, büyüyen şehir, nüfusunu beslemek için giderek daha fazla yiyeceğe ihtiyaç duyuyordu. Orta Amerika'da yük hayvanları bulunmadığından, tüm yiyecekler kölelerin sırtında taşınıyordu (ritüel kurban edilmeyenler, tabii). Montezuma'nın hükümeti, her bir tarım arazisinin verimli bir şekilde işlendiğinden emin olmak için devlet müfettişleri görevlendirdi ve taşkınları önlemek ve bataklıkları tarım arazisine dönüştürmek için setler inşa edilmesini emretti.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MONTEZUMA_CHAPTER_HISTORY_PARA_6">
-			<Text>tr_TR At the urging of his brother Tlacaelel I, Montezuma instituted sumptuary laws – traditionally regulations meant to limit extravagance in consumption of goods, particularly luxuries – which codified and reinforced the already-stratified Aztec class system. An Aztec’s station in life determined what he or she could wear and how he or she could speak. For instance, under Montezuma’s new laws the poor were not allowed to wear cotton cloth, sandals or any clothing that extended below the knee. Only the nobility could live in homes of greater than one story. Crimes were punished by slavery or by being sacrificed, so adherence was nigh universal. </Text>
+		<Replace Language="pl_PL" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MONTEZUMA_CHAPTER_HISTORY_PARA_6">
+			<Text>Kardeşi Tlacaelel I'ın teşvikiyle, Montezuma, tüketim mallarına – özellikle lükslere – sınırlamalar getiren yasalar çıkardı. Bu yasalar, Aztek sınıf sistemini pekiştiriyordu. Bir Aztek'in toplumsal statüsü, ne giyebileceğini ve nasıl konuşabileceğini belirliyordu. Örneğin, Montezuma'nın yeni yasalarına göre fakirlerin pamuklu giysiler, sandaletler veya dizlerinin altına kadar uzanan kıyafetler giymesi yasaktı. Sadece soylular birden fazla katlı evlerde yaşayabiliyordu. Suçlar ya kölelikle ya da kurban edilmekle cezalandırıldığından, bu yasalara uyum neredeyse evrenseldi.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MONTEZUMA_CHAPTER_HISTORY_PARA_7">
-			<Text>tr_TR Montezuma and his pious elder brother set about building a lot of temples about the countryside, including a new temple to Huitzilopochtli. The temple of Huitzilopochtli was “consecrated” in 1455 AD with the sacrifice of hundreds of Huaxtec prisoners of war (it has been argued by some historians that the need for prisoners to sacrifice became one of the major threads in Aztec foreign policy). Tlacaele also got busy rewriting Aztec religious tracts, ordering the destruction of previous ones that disagreed with his own interpretations of history and faith.</Text>
+		<Replace Language="pl_PL" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MONTEZUMA_CHAPTER_HISTORY_PARA_7">
+			<Text>Montezuma ve dindar ağabeyi, kırsal bölgelerde birçok tapınak inşa etti. Bunlardan biri, Huitzilopochtli için yapılan yeni tapınaktı. Huitzilopochtli tapınağı, 1455 yılında yüzlerce Huaxtec savaş esirinin kurban edilmesiyle “kutsandı”. Bazı tarihçilere göre, kurban edilecek esirlere duyulan ihtiyaç, Aztek dış politikasının önemli bir unsuru haline gelmişti. Tlacaelel ayrıca Aztek dini metinlerini yeniden yazdı ve kendi tarih ve inanç yorumlarına uymayan önceki metinlerin yok edilmesini emretti.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MONTEZUMA_CHAPTER_HISTORY_PARA_8">
-			<Text>tr_TR But Montezuma’s growing empire is known primarily for its near constant, and successful, state of war. Some historians theorize that he conquered nearby tribes for tribute, hoping to ensure a continuous food supply for Tenochtitlan which, despite his best efforts, continued to suffer from periodic famine. Another, more pessimistic, theory is that the empire conducted frequent wars so as to feed its bloody state-religion’s chronic need for someone to sacrifice on the abundance of alters. Yet another theory is that Montezuma was at war a lot because that’s just what Aztecs did … conquer stuff. As with much of history, no one really knows why things happened.</Text>
+		<Replace Language="pl_PL" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MONTEZUMA_CHAPTER_HISTORY_PARA_8">
+			<Text>Bununla birlikte, Montezuma'nın büyüyen imparatorluğu, sürekli savaş haliyle tanınır. Bazı tarihçiler, Montezuma'nın komşu kabileleri fethederek Tenochtitlan'ın gıda arzını güvence altına almayı amaçladığını öne sürer. Diğer, daha kötümser bir teoriye göre ise imparatorluk, kanlı devlet dininin kurban ihtiyaçlarını karşılamak için sık sık savaşlar yapıyordu. Bir başka teori de, Azteklerin fetih yapmayı sevdiği için savaşların çok sık yaşandığıdır. Tarihin birçok noktasında olduğu gibi, olayların neden yaşandığı kesin olarak bilinmez.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MONTEZUMA_CHAPTER_HISTORY_PARA_9">
-			<Text>tr_TR Montezuma I died in 1469 AD, the unknown cause buried under the detritus of history. He was succeeded by his 19-year-old son Axayacatl, later father to the unfortunate Montezuma II who managed to lose everything to Cortes and a bunch of rag-tag conquistadors in just two years.</Text>
+		<Replace Language="pl_PL" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MONTEZUMA_CHAPTER_HISTORY_PARA_9">
+			<Text>Montezuma I, 1469 yılında bilinmeyen bir nedenle öldü. Yerine 19 yaşındaki oğlu Axayacatl geçti. Axayacatl, şanssız Montezuma II'nin babasıydı. Montezuma II, Cortes ve bir grup düzensiz fatih karşısında iki yıl içinde her şeyi kaybetti.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MONTEZUMA_CHAPTER_CAPSULE_BODY">
+		<Replace Language="pl_PL" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MONTEZUMA_CHAPTER_CAPSULE_BODY">
 			<Text>Montezuma, mevcut tüm lüksleri ele geçirmek için krallığını genişleten agresif bir liderdir.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MONTEZUMA_CHAPTER_DETAILED_BODY">
-			<Text>tr_TR The Aztecs will be a warmonger throughout the game, but they should have plenty of [ICON_Amenities] Amenities to handle any war weariness that develops. Their initial push will be to defeat enemies with their Eagle Warriors, allowing those enemy units to morph into Aztec Builders. These Builders then serve as fuel for a rapid expansion of Aztec cities, utilizing their unique ability to use Builder charges on district construction. Ultimately they want as wide an empire as possible since any extra Luxuries they can capture will increase their [ICON_Amenities] Amenities further and provide stronger attack boosts.</Text>
+		<Replace Language="pl_PL" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MONTEZUMA_CHAPTER_DETAILED_BODY">
+			<Text>Aztekler oyun boyunca sürekli savaş peşinde olacaklar, ancak ortaya çıkan savaş yorgunluğunu giderecek bol miktarda [ICON_Amenities] yaşam standardına sahip olacaklar. Başlangıçta, Düşmanlarını Kartal Savaşçıları ile yenerek bu düşman birliklerini Aztek İnşaatçılarına dönüştürecekler. Bu İnşaatçılar, Aztek şehirlerinin hızlı genişlemesine yakıt sağlayarak, ilçelerin inşasında benzersiz yeteneklerini kullanacak. Nihai hedefleri, mümkün olduğunca geniş bir imparatorluk kurmaktır, çünkü ele geçirdikleri her ekstra Lüks, [ICON_Amenities] yaşam standardını artıracak ve saldırı güçlerini daha da kuvvetlendirecektir.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_AZTEC_EAGLE_WARRIOR_CHAPTER_HISTORY_PARA_1">
-			<Text>tr_TR One of the two elite class of infantry (the other being the Jaguar Warriors) in the Aztec army, the Eagle Warriors were the bravest young men of noble birth and/or those who had taken the most prisoners in battle. Like the Jaguars, the Eagles used the atlatl, bow, spear and macuahuitl (wooden swords set with obsidian shards); unlike the Jaguars, the Eagles decorated their armor with eagle feathers and wore a headdress shaped like the head of an eagle with the beak wide open. And they had a hilltop temple in Malinalco. Upon taking 20 prisoners – intact enough to serve as human sacrifice – a young warrior was eligible to become an Eagle Warrior, no doubt making his family very proud. Until the Spanish arrived with their cannons, muskets, and horses, the Eagle and Jaguar warriors were the toughest bullies on the Mesoamerican block.</Text>
+		<Replace Language="pl_PL" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_AZTEC_EAGLE_WARRIOR_CHAPTER_HISTORY_PARA_1">
+			<Text>Aztek ordusunun iki elit piyade sınıfından biri olan Kartal Savaşçıları (diğeri Jaguar Savaşçıları), soylu doğmuş veya savaşta en fazla esiri ele geçirmiş cesur gençlerden oluşuyordu. Jaguarlar gibi, Kartallar da atlatl, yay, mızrak ve macuahuitl (obsidyen parçalarıyla kaplanmış ahşap kılıç) kullanıyordu; ancak Jaguarların aksine, Kartallar zırhlarını kartal tüyleriyle süslüyor ve gagası açık bir kartal kafası şeklindeki başlıkları takıyordu. Ayrıca Malinalco'da bir tepe tapınakları vardı. 20 esir alarak – insan kurbanı olarak kullanılabilecek kadar sağlam olan – genç bir savaşçı, Kartal Savaşçısı olmaya hak kazanıyordu ve bu, ailesini şüphesiz çok gururlandırıyordu. İspanyolların toplar, tüfekler ve atlarla gelmesine kadar, Kartal ve Jaguar savaşçıları, Mezoamerika'nın en korkulan savaşçılarıydı.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_MONTEZUMA_ANY">
+		<Replace Language="pl_PL" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_MONTEZUMA_ANY">
 			<Text>Azteklerin dostu değilsin. Bu onur kazanılmalıdır.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_DIPLO_MODIFIER_TLATOANI_HAS_DESIRED_LUXURY">
+		<Replace Language="pl_PL" Tag="LOC_DIPLO_MODIFIER_TLATOANI_HAS_DESIRED_LUXURY">
 			<Text>Montezuma, sahip olmadığı lükslerimizi saldırı için olgun bir hedef olarak görüyor</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_DIPLO_MODIFIER_TLATOANI_HAS_NO_DESIRED_LUXURY">
+		<Replace Language="pl_PL" Tag="LOC_DIPLO_MODIFIER_TLATOANI_HAS_NO_DESIRED_LUXURY">
 			<Text>Montezuma, sahip olduğumuz lükslerden memnun</Text>
 		</Replace>
 		<Replace Language="pl_PL" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_MONTEZUMA_ANY">
@@ -430,8 +430,8 @@
 		<Replace Language="pl_PL" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_MONTEZUMA_ANY">
 			<Text>Krallığımıza sürpriz yapamazsınız. Saldırınızı görüyoruz. Bir an önce geri çekilmezseniz ilk biz vururuz.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_TLACHTLI_CHAPTER_HISTORY_PARA_1">
-			<Text>tr_TR For over 2700 years the Mesoamericans played their traditional “ballgame” – Ollamaliztli in Nahuatl – in (not surprisingly) “ball courts.” Somewhat similar in play to team racquetball, these “sporting events” had significant ritual overtones, given that the losers (and sometimes the winners) were often sacrificed after the game, usually by decapitation. Explicit depictions of human sacrifice after a game can be found in many Mayan ball courts such as those at El Tajin and at Chichen Itza. Although the sport had somewhat different rules in different places and different times, it spread throughout Mesoamerica, as far south as Nicaragua and north as Arizona. Built in a pattern that changed little over two-and-a-half millennia, the ball courts were stone constructs of a long, narrow playing field between high sloped walls with open-ended (later enclosed) wider goal areas. Painted and decorated, these stadiums were the epitome of the Mesoamerican civilization … until the Spanish showed up and introduced the natives to other games.</Text>
+		<Replace Language="pl_PL" Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_TLACHTLI_CHAPTER_HISTORY_PARA_1">
+			<Text>Mezoamerikalılar, 2700 yılı aşkın bir süredir geleneksel "top oyunlarını" – Nahuatl dilinde Ollamaliztli – oynuyorlardı ve (şaşırtıcı olmayan bir şekilde) bu oyunları "top sahalarında" yapıyorlardı. Oyunun kuralları, takım raketboluna biraz benzese de, bu "spor etkinliklerinin" belirgin ritüel boyutları vardı; çünkü kaybedenler (ve bazen kazananlar) genellikle oyun sonrası kurban edilir, çoğu zaman başları kesilerek infaz edilirdi. Oyundan sonra gerçekleşen insan kurbanlarına dair açık tasvirler, El Tajin ve Chichen Itza gibi birçok Maya top sahasında görülebilir. Spor, farklı yerlerde ve zamanlarda biraz farklı kurallara sahip olmasına rağmen, Mezoamerika genelinde yayılmış ve güneyde Nikaragua'ya, kuzeyde Arizona'ya kadar ulaşmıştır. İki buçuk binyıl boyunca neredeyse hiç değişmeyen bir düzende inşa edilen top sahaları, yüksek eğimli duvarların arasında uzun ve dar bir oyun alanı ve açık uçlu (daha sonra kapalı) geniş gol bölgelerinden oluşuyordu. Boyanıp süslenen bu stadyumlar, Mezoamerikan uygarlığının zirvesini temsil ediyordu ... ta ki İspanyollar gelip yerli halka başka oyunlar tanıtana kadar.</Text>
 		</Replace>
 	</LocalizedText>
 </GameData>

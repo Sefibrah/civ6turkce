@@ -3572,55 +3572,55 @@
 			<Text>Sonbahar</Text>
 		</Replace>
 		<!-- ==================== Diplomacy Text ==================== -->
-		<Replace Language="tr_TR" Tag="LOC_DIPLOMACY_HIDDEN_AGENDAS">
+		<Replace Language="pl_PL" Tag="LOC_DIPLOMACY_HIDDEN_AGENDAS">
 			<Text>[COLOR_Grey]{1} {2_Agendas : plural 2?gizli gündem; other?gizli gündemler;}</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_DIPLOMACY_HIDDEN_AGENDAS_TT">
+		<Replace Language="pl_PL" Tag="LOC_DIPLOMACY_HIDDEN_AGENDAS_TT">
 				<Text>Erişilebilirlik seviyesinde [ICON_VisSecret] AÇIK olan gizli gündemleri görebiliriz.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_DECLARE_WAR">
+		<Replace Language="pl_PL" Tag="LOC_DECLARE_WAR">
 				<Text>Annen bir hamsterdi ve baban mürver meyvesine benzedi.[NEWLINE]Şimdi savaştayız.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_REFUSE_PEACE">
+		<Replace Language="pl_PL" Tag="LOC_REFUSE_PEACE">
 				<Text>Sonuna kadar savaşacağım;[NEWLINE]Cehennemin kalbinden seni vuracağım;[NEWLINE]Öfkemle son nefesimi sana üfleyeceğim.[NEWLINE]Başka bir deyişle: Hayır.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_ACCEPT_WAR">
+		<Replace Language="pl_PL" Tag="LOC_ACCEPT_WAR">
 				<Text>Molon labe.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_DIPLOPANEL_PANEL_HEADER">
+		<Replace Language="pl_PL" Tag="LOC_DIPLOPANEL_PANEL_HEADER">
 				<Text>{1_CivName} halkıyla ilişkiler</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_DIPLOPANEL_CIV_HEADER">
+		<Replace Language="pl_PL" Tag="LOC_DIPLOPANEL_CIV_HEADER">
 				<Text>MİLLET</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_DIPLOPANEL_CAPITAL_HEADER">
+		<Replace Language="pl_PL" Tag="LOC_DIPLOPANEL_CAPITAL_HEADER">
 				<Text>BAŞKENT</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_DIPLOPANEL_GOVERNMENT_HEADER">
+		<Replace Language="pl_PL" Tag="LOC_DIPLOPANEL_GOVERNMENT_HEADER">
 				<Text>HÜKÜMET</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_DIPLOPANEL_RELATION_HEADER">
+		<Replace Language="pl_PL" Tag="LOC_DIPLOPANEL_RELATION_HEADER">
 				<Text>İLİŞKİ DURUMU</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_DIPLOPANEL_VISIBILITY_HEADER">
+		<Replace Language="pl_PL" Tag="LOC_DIPLOPANEL_VISIBILITY_HEADER">
 				<Text>GÖRÜNÜRLÜK DÜZEYİ</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_DIPLOPANEL_SCORE_HEADER">
+		<Replace Language="pl_PL" Tag="LOC_DIPLOPANEL_SCORE_HEADER">
 				<Text>PUAN</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_DIPLOPANEL_AT_WAR">
+		<Replace Language="pl_PL" Tag="LOC_DIPLOPANEL_AT_WAR">
 				<Text>[COLOR_RED]Savaşta![ENDCOLOR]</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_DIPLOPANEL_AT_PEACE">
+		<Replace Language="pl_PL" Tag="LOC_DIPLOPANEL_AT_PEACE">
 				<Text>Barışta</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_DIPLOPANEL_AT_WAR_TURNS">
+		<Replace Language="pl_PL" Tag="LOC_DIPLOPANEL_AT_WAR_TURNS">
 				<Text>[COLOR_RED]Savaşta![ENDCOLOR] (barış {1_Turns} turda mümkün)</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_DIPLOPANEL_AT_PEACE_TURNS">
+		<Replace Language="pl_PL" Tag="LOC_DIPLOPANEL_AT_PEACE_TURNS">
 				<Text>Barışta (savaş {1_Turns} turda mümkün)</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_DIPLOPANEL_UNMET_PLAYER">
+		<Replace Language="pl_PL" Tag="LOC_DIPLOPANEL_UNMET_PLAYER">
 				<Text>Karşılaşılmamış oyuncu</Text>
 		</Replace>
 		<!-- ==================== ChooseArtifactPopup ==================== -->

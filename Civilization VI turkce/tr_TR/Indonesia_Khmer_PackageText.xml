@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameData>
 	<LocalizedText>
-		<Replace Language="tr_TR" Tag="LOC_INDONESIA_KHMER_MOD_TITLE">
+		<Replace Language="pl_PL" Tag="LOC_INDONESIA_KHMER_MOD_TITLE">
 			<Text>Eklenti: Khmer ve Endonezya</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_INDONESIA_KHMER_MOD_TEASER">
+		<Replace Language="pl_PL" Tag="LOC_INDONESIA_KHMER_MOD_TEASER">
 			<Text>Yeni uluslar ve liderler: Endonezya’dan Sri Gitarja ve Khmerlerden Jayavarman VII</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_INDONESIA_KHMER_MOD_DESCRIPTION">
+		<Replace Language="pl_PL" Tag="LOC_INDONESIA_KHMER_MOD_DESCRIPTION">
 			<Text>İki yeni ulus ve lider, bir dünya harikası ve iki harita içerir.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_MOD_INDONESIA_KHMER_SCENARIO_TITLE">
+		<Replace Language="pl_PL" Tag="LOC_MOD_INDONESIA_KHMER_SCENARIO_TITLE">
 			<Text>Senaryo: Mutluluk Yolu</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_MOD_INDONESIA_KHMER_SCENARIO_TEASER">
+		<Replace Language="pl_PL" Tag="LOC_MOD_INDONESIA_KHMER_SCENARIO_TEASER">
 			<Text>Dinini Doğu Asya'da yay.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_MOD_INDONESIA_KHMER_SCENARIO_DESCRIPTION">
+		<Replace Language="pl_PL" Tag="LOC_MOD_INDONESIA_KHMER_SCENARIO_DESCRIPTION">
 			<Text>Hint Okyanusu'nun kıyıları dinler ve insanlarla kaynıyor. Cennetin ışığını bu topraklara getirmek için seçildik. İnancımız bu zorluğun üstesinden gelebilecek mi? Güneydoğu Asya'daki diğer ulusları dinimizin üstünlüğüne ikna edebilir miyiz?</Text>
 		</Replace>
 	</LocalizedText>

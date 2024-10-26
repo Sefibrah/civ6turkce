@@ -1552,159 +1552,159 @@
 		<Replace Language="pl_PL" Tag="LOC_MAP_START_POSITION_DESCRIPTION">
 			<Text>Başlangıç pozisyonunun değerini değiştirir.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_MAP_START_POSITION_BALANCED_DESCRIPTION">
+		<Replace Language="pl_PL" Tag="LOC_MAP_START_POSITION_BALANCED_DESCRIPTION">
 			<Text>Tüm oyunculara eşit başlangıç noktaları verilir.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_MAP_START_POSITION_STANDARD_DESCRIPTION">
+		<Replace Language="pl_PL" Tag="LOC_MAP_START_POSITION_STANDARD_DESCRIPTION">
 			<Text>Standart başlangıç noktaları.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_MAP_START_POSITION_LEGENDARY_DESCRIPTION">
+		<Replace Language="pl_PL" Tag="LOC_MAP_START_POSITION_LEGENDARY_DESCRIPTION">
 			<Text>Tüm oyunculara iyi ama eşit olmayan başlangıçlar sunulur.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_MAP_START_POSITION_MIRRORED_DESCRIPTION">
+		<Replace Language="pl_PL" Tag="LOC_MAP_START_POSITION_MIRRORED_DESCRIPTION">
 			<Text>Her oyuncu kendi bölgesinde tam olarak aynı konumdan başlar.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_GAME_START_ERA">
+		<Replace Language="pl_PL" Tag="LOC_GAME_START_ERA">
 			<Text>Başlangıç Dönemi</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_KICK_VOTE">
+		<Replace Language="pl_PL" Tag="LOC_KICK_VOTE">
 			<Text>Oyuncu Çıkarma Oylaması</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_KICK_VOTE_TT">
+		<Replace Language="pl_PL" Tag="LOC_KICK_VOTE_TT">
 			<Text>Oyuncu çıkarma oylamasında en çok oyu alan karar uygulanır.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_MAP_SCRIPT">
+		<Replace Language="pl_PL" Tag="LOC_MAP_SCRIPT">
 			<Text>Harita</Text>
 		</Replace>
 		<!-- Tutorial Select Screen-->
-		<Replace Language="tr_TR" Tag="LOC_SETUP_TUTORIAL_TITLE">
+		<Replace Language="pl_PL" Tag="LOC_SETUP_TUTORIAL_TITLE">
 			<Text>Civilization'a Hoş Geldiniz</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_SETUP_TUTORIAL_DESCRIPTION">
+		<Replace Language="pl_PL" Tag="LOC_SETUP_TUTORIAL_DESCRIPTION">
 			<Text>Burada krallığımızı sıfırdan büyütme yolculuğuna başlıyoruz ve böylece kendi tarihimize yön veriyoruz.[NEWLINE][NEWLINE]Dünyayı büyük savaşlarla mı fethedeceksiniz yoksa halkınızı yıldızlara mı göndereceksiniz? Kültürünüzle mi dünyayı etkileyeceksiniz yoksa inançlarınız mı dünyanın her köşesine yayılacak?[NEWLINE][NEWLINE]Sadece zaman gösterecek...[NEWLINE][NEWLINE]Tüm büyük uygarlıklar büyük bir liderden doğmuştur. Bu tanıtım boyunca oynamak istediğiniz ulusu seçin.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_SETUP_TUTORIAL_LEADER_1">
+		<Replace Language="pl_PL" Tag="LOC_SETUP_TUTORIAL_LEADER_1">
 			<Text>Mısır'ın Kleopatra'sı güçlü müttefiklere ve şehir kurucularına sahip bir halkı yönetir.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_SETUP_TUTORIAL_LEADER_2">
+		<Replace Language="pl_PL" Tag="LOC_SETUP_TUTORIAL_LEADER_2">
 			<Text>Sümerli Gilgameş geniş alanları kontrol eder ve saygı duyulan bir fatih olarak bilinir.</Text>
 		</Replace>
 		<!-- Loading Screen / Dawn of man -->
-		<Replace Language="tr_TR" Tag="LOC_LOADING_DOMAIN_LAND">
+		<Replace Language="pl_PL" Tag="LOC_LOADING_DOMAIN_LAND">
 			<Text>Kara Birimi</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_LOADING_DOMAIN_SEA">
+		<Replace Language="pl_PL" Tag="LOC_LOADING_DOMAIN_SEA">
 			<Text>Deniz Birimi</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_LOADING_DOMAIN_AIR">
+		<Replace Language="pl_PL" Tag="LOC_LOADING_DOMAIN_AIR">
 			<Text>Hava Birimi</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_LOADING_PLEASE_WAIT">
+		<Replace Language="pl_PL" Tag="LOC_LOADING_PLEASE_WAIT">
 			<Text>Birkaç saniye bekleyin, yükleniyor...</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_LOADING_DISTRICT_BUILDING">
+		<Replace Language="pl_PL" Tag="LOC_LOADING_DISTRICT_BUILDING">
 			<Text>{1_DistrictName} (şehir alanı binası)</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_LOADING_UNIQUE_BUILDING">
+		<Replace Language="pl_PL" Tag="LOC_LOADING_UNIQUE_BUILDING">
 			<Text>Özel Bina</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_LOADING_UNIQUE_DISTRICT">
+		<Replace Language="pl_PL" Tag="LOC_LOADING_UNIQUE_DISTRICT">
 			<Text>Özel Şehir Alanı</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_LOADING_UNIQUE_IMPROVEMENT">
+		<Replace Language="pl_PL" Tag="LOC_LOADING_UNIQUE_IMPROVEMENT">
 			<Text>Özel Yapı</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_LOADING_JOIN_THE_WORLD_STAGE">
+		<Replace Language="pl_PL" Tag="LOC_LOADING_JOIN_THE_WORLD_STAGE">
 			<Text>dünya sahnesine katılıyor</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_LOADING_FEATURES_ABILITIES">
+		<Replace Language="pl_PL" Tag="LOC_LOADING_FEATURES_ABILITIES">
 			<Text>Özellikler &amp; Yetenekler</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_LOADING_START_GAME">
+		<Replace Language="pl_PL" Tag="LOC_LOADING_START_GAME">
 			<Text>Oyuna Başla</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_LOADING_CONTINUE_GAME">
+		<Replace Language="pl_PL" Tag="LOC_LOADING_CONTINUE_GAME">
 			<Text>Oyuna Devam Et</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_LOADING_INFO_LEADER_DEFAULT">
+		<Replace Language="pl_PL" Tag="LOC_LOADING_INFO_LEADER_DEFAULT">
 			<Text>Kendi uygarlığınıza liderlik etmek ve onu çağlardan çağlara taşıyacak bir medeniyet haline getirmek sizin elinizde.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_LOADING_INFO_LEADER_BARBAROSSA">
+		<Replace Language="pl_PL" Tag="LOC_LOADING_INFO_LEADER_BARBAROSSA">
 			<Text>Kahraman Fredrik, Almanların Kralı, göreviniz çevredeki bağımsız şehir devletlerinden bir imparatorluk kurmaktır. Savaş sanatında ustasınız – bu yeteneğinizi şehirleri egemenliğiniz altına almak için kullanın ki ticaret ve sanayi merkezleri haline gelsinler. Kızıl sakalıyla Fredrik, gelecekte en büyük Kutsal Roma İmparatoru olarak anılacak.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_LOADING_INFO_LEADER_CATHERINE_DE_MEDICI">
+		<Replace Language="pl_PL" Tag="LOC_LOADING_INFO_LEADER_CATHERINE_DE_MEDICI">
 			<Text>Değerli Catherine de' Medici, bilgiyi ve sanatı kullanarak halkınızı birleştirmek sizin elinizde. Fransa'nın kraliçe annesi olarak bu zor zamanlarda dikkatli yönetin. Dünyanın dört bir yanından ziyaretçiler çekecek büyük harikalar inşa edeceksiniz. Görünen ve görünmeyeni bilmek krallığınızı zamanın sınavından geçirerek kalıcı kılacak.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_LOADING_INFO_LEADER_CLEOPATRA">
+		<Replace Language="pl_PL" Tag="LOC_LOADING_INFO_LEADER_CLEOPATRA">
 			<Text>Kleopatra, sizi hafife alanlar var, ancak zekisiniz ve hilelerinizi biliyorsunuz. Cazibenizle dünyanın en güçlü hükümdarlarıyla güçlü ittifaklar kuracaksınız. Dostlarınızı yakın tutun ve Mısır’ın ihtişamı dünyayı fethederken dokunulmaz olacaksınız.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_LOADING_INFO_LEADER_GANDHI">
+		<Replace Language="pl_PL" Tag="LOC_LOADING_INFO_LEADER_GANDHI">
 			<Text>Sevgili Gandhi Bapu, dostluk dolu çevrelerle karşılaşacaksınız, eğer nazik olursanız. Hint halkını güvende tutun ve sınırları güçlü fil savaşçılarıyla koruyun. İnancınız sizi barış ve uyuma taşıyacak. Zihninizi açık tutun ve dünyada görmek istediğiniz değişimin kendisi olun.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_LOADING_INFO_LEADER_GILGAMESH">
+		<Replace Language="pl_PL" Tag="LOC_LOADING_INFO_LEADER_GILGAMESH">
 			<Text>Kral Gilgamesh, omuzlarınızda büyük bir yük var. Halkınız ve dünyanın birçok halkı sizi lider olarak görüyor. Ancak siz sıradan bir adam değilsiniz; dünyanın yükü sizi asla sarsamayacak. Sümer halkını zengin nehir kenarlarına yerleşmeye teşvik edin ve müttefiklerinizi dikkatle seçin, çünkü gücünüzden pay almak isteyenler çok. Destansı hikayeniz şimdi başlıyor.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_LOADING_INFO_LEADER_GORGO">
+		<Replace Language="pl_PL" Tag="LOC_LOADING_INFO_LEADER_GORGO">
 			<Text>Sparta’nın Kraliçesi Gorgo; onur size ve sadık hoplit ordularınıza! Yunanistan, her zaferle beraber gelen Ares’in lütfuna sahiptir. Halkınız dikkatli yönetiminizi ve kültürel harikalarınızı övgüyle anacak. Yunan mirası uğruna dik durun, başarılarınız nesilden nesile anlatılacak.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_LOADING_INFO_LEADER_HARDRADA">
+		<Replace Language="pl_PL" Tag="LOC_LOADING_INFO_LEADER_HARDRADA">
 			<Text>Norveç Kralı Harald, Kuzey’in Yıldırımı! Gemilerinizin gelişi korkuyla beklenir. Uzun gemileriniz dalgalara hükmeder ve her an kıyılara berserk orduları bırakmaya hazırdır. Odin krallığınızı kutsasın ve skaldlar, büyük savaşçılarınızın zaferlerini şarkılarla anlatsın.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_LOADING_INFO_LEADER_HOJO">
+		<Replace Language="pl_PL" Tag="LOC_LOADING_INFO_LEADER_HOJO">
 			<Text>Budizmin büyük dalgası sizinle, Japonya’nın şikkeni Hojo Tokimune. Halkınız dengeyi nasıl sağlayacağını çok iyi bilir ve samuraylarınız en bilge ve ruhen güçlü savaşçılardır. Güçlü olun, kutsal rüzgârın esmesine izin verin ve aydınlanmaya ulaşın.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_LOADING_INFO_LEADER_MVEMBA">
+		<Replace Language="pl_PL" Tag="LOC_LOADING_INFO_LEADER_MVEMBA">
 			<Text>Kral Mvemba a Nzinga, Yeryüzü Ana size birçok armağan sunuyor. Halkınız, evlerindeki sık ormanları ve yağmur ormanlarını rahatlıkla tanır. Uzak diyarlardan gelen seyyahların hediyeleri de büyüktür. Zihninizi açık tutun, çünkü dünyadan ilham almak halkımıza güçlü ve asil sanatlar yaratma yeteneği kazandıracak.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_LOADING_INFO_LEADER_PEDRO">
+		<Replace Language="pl_PL" Tag="LOC_LOADING_INFO_LEADER_PEDRO">
 			<Text>Yüce Pedro III, halkınız sizi Brezilya’yı dünya sahnesine taşımaya bekliyor. Sanatı, bilimi ve mühendisliği destekleyerek büyük zihinleri bereketli topraklarımıza çekin; yaşam dolu yağmur ormanları halkımızı büyütecek! Karnavallarda, halkınız büyük başarılarınızı kutlarken samba yaparken onları göreceksiniz, Yüce Gönüllü Pedro.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_LOADING_INFO_LEADER_PERICLES">
+		<Replace Language="pl_PL" Tag="LOC_LOADING_INFO_LEADER_PERICLES">
 			<Text>Söz sanatını ustaca kullanmanız, Perikles, Yunan halkının lideri olarak büyük bir armağandır. Bu yetenekle sadık bir devletler birliği kurabilir, güçlerini arkanızda toplayabilirsiniz. Yunanistan’ın kayalık kıyılarına kültürel alanlar inşa ederek halkınızı bir araya getirin. İşler yolunda gittiğinde, sirenler Perikles'in mirasını şarkılarla anlatacak!</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_LOADING_INFO_LEADER_PETER_GREAT">
+		<Replace Language="pl_PL" Tag="LOC_LOADING_INFO_LEADER_PETER_GREAT">
 			<Text>Ülkenizin dondurucu rüzgârlarını kucaklayın, Büyük Çar Petro. Bilim ve sanata olan ilginiz büyük bir armağandır ve yurtdışına gönderdiğiniz elçilikler sayesinde çok şey öğreneceksiniz. Liderliğiniz altında Rusya büyüyecek, genişleyecek ve belki de en büyük kara imparatorluğunu yaratacaktır.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_LOADING_INFO_LEADER_PHILIP_II">
+		<Replace Language="pl_PL" Tag="LOC_LOADING_INFO_LEADER_PHILIP_II">
 			<Text>Bütün İspanya dualarınıza yanıt vermeye hazır, dindar Kral II. Filip. El Escorial Sarayı'ndan elçiler, havariler ve konkistadorlar gönderebilirsiniz; onlar denizleri aşarak kutsal krallığınızın mesajını yaymaya hazırlar. Buldukları zenginlikler dünyayı bir inanç ve güç altında birleştirecek; böylece siz en dindar kral olacaksınız.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_LOADING_INFO_LEADER_QIN">
+		<Replace Language="pl_PL" Tag="LOC_LOADING_INFO_LEADER_QIN">
 			<Text>Halkınızda büyük bir güç yatıyor, İmparator Qin Shi Huang. Dünyanın dört bir yanından insanlar, muhteşem surlarınız ve etkileyici harikalarınızla birleşen Çin'i görmek için gelecek. Halkınız, en muazzam yapıları inşa etmek için yorulmadan çalışacak. Onları koruyun, böylece ebedi olacak bir miras bırakın.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_LOADING_INFO_LEADER_SALADIN">
+		<Replace Language="pl_PL" Tag="LOC_LOADING_INFO_LEADER_SALADIN">
 			<Text>Bilim ve inanç arasında denge kurmak ustalık gerektirir, ama bunu başardınız, büyük Saladin. Bilgiye ve anlayışa verdiğiniz değer takdire şayandır ve halkınız sizi derin bir sevgiyle anacaktır. Ancak aceleye gerek yok; zamanla, yaşamın büyük sorularının cevapları Arabistan’a geri dönecek.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_LOADING_INFO_LEADER_TOMYRIS">
+		<Replace Language="pl_PL" Tag="LOC_LOADING_INFO_LEADER_TOMYRIS">
 			<Text>Tomyris, büyük savaşçı kraliçe; herkes size hayranlık ve korkuyla bakıyor. İskitleri yönetiyor, halkınızı at sırtında izliyorsunuz. Savaş meydanlarının ön saflarındaki süvari savaşçılarınız efsanelere dönüşüyor – ve siz onların liderisiniz. İlerle, cesur kraliçe; gerçek dostlarınız düşmanlarınızın zaaflarında ortaya çıkacak.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_LOADING_INFO_LEADER_TRAJAN">
+		<Replace Language="pl_PL" Tag="LOC_LOADING_INFO_LEADER_TRAJAN">
 			<Text>İmparator Trajanus, muazzam Roma İmparatorluğu’nun lideri olarak ağınızı genişletin. Lejyonlarınız, tarihin gördüğü en büyük imparatorluğu kurmak için hazır bekliyor. Tüm yolları Roma’ya götürdüğünüzde, halkınız sizi en iyi lider olarak ilan edecek ve Optimus Princeps unvanını alacaksınız.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_LOADING_INFO_LEADER_T_ROOSEVELT">
+		<Replace Language="pl_PL" Tag="LOC_LOADING_INFO_LEADER_T_ROOSEVELT">
 			<Text>Theodore Roosevelt, geniş omuzlarınıza büyük bir sorumluluk yüklendi. Halkınız için hak ettikleri fırsatları yaratmak üzere askerî gücünüzü kullanın. Bu, Amerika Birleşik Devletleri'ni sahneye taşıyacak ve dünyayı topraklarınıza hayran bırakacak. Size başarılar, Sayın Başkan.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_LOADING_INFO_LEADER_VICTORIA">
+		<Replace Language="pl_PL" Tag="LOC_LOADING_INFO_LEADER_VICTORIA">
 			<Text>Majesteleri Kraliçe Victoria, İngiltere’nin sınırlarını dünyaya açın. Sadık kırmızı ceketlileriniz ve üstün donanmanız tüm zorlukların üstesinden gelecektir. Sakin ve dengeli yönetiminizle tüm dünyayı İngiltere’nin hâkimiyeti altına alın ve gerçek bir Pax Britannica yaratın.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_ERA_ANCIENT_DESCRIPTION">
+		<Replace Language="pl_PL" Tag="LOC_ERA_ANCIENT_DESCRIPTION">
 			<Text>Yaşamın sular altında başlamasından ve insanın ilk adımlarından bu yana uzun bir yol kat edildi… Şimdi ise en büyük yolculuk başlıyor: ilkel uygarlığın beşiğinden uzak yıldızlara doğru bir macera.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_ERA_CLASSICAL_DESCRIPTION">
+		<Replace Language="pl_PL" Tag="LOC_ERA_CLASSICAL_DESCRIPTION">
 			<Text>Mütevazı başlangıçlarımızdan bu yana büyük bir gelişim gösterdik. Artık bronzdan demire geçme ve atlarla, kılıçlarla hükmetme zamanı geldi. Gökyüzü sırlarını açığa çıkarmaya başlıyor ve bu sırlar kalplerimizi bilinmeyen diyarlara yönlendiriyor.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_ERA_MEDIEVAL_DESCRIPTION">
+		<Replace Language="pl_PL" Tag="LOC_ERA_MEDIEVAL_DESCRIPTION">
 			<Text>Taştan görkemli şehirler inşa ettiniz ve krallıkların yükselişine ve çöküşüne tanık oldunuz. Kısa süre içinde kalelerinizin gölgelerinde, şövalyelerinizle birlikte duracaksınız. Yakında ulusumuzun hikâyesi yazılacak. Dünyadaki yerimizi tıpkı kılıcını öğrenen bir çırak gibi öğreneceğiz.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_ERA_RENAISSANCE_DESCRIPTION">
+		<Replace Language="pl_PL" Tag="LOC_ERA_RENAISSANCE_DESCRIPTION">
 			<Text>Müsketlerin gücü ve gökyüzündeki yıldızların ışığı egemenlik kazanıyor. Küçük kelimeler bile kağıda döküldüğünde büyük değişimler getirebilir. Başta geniş ve bilinmeyen dünya, şimdi daha tanıdık hale geldi. Ancak hâlâ cevap bekleyen sorular, test edilecek inançlar ve oluşturulacak ulusal kimlikler var.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_ERA_INDUSTRIAL_DESCRIPTION">
+		<Replace Language="pl_PL" Tag="LOC_ERA_INDUSTRIAL_DESCRIPTION">
 			<Text>Makinelerin sürekli uğultusu, dumanın keskin kokusu ve külle kaplı gökyüzü... Değişim zamanları bunlarla işaretlenir. Bilim ve kültürdeki ilerleme ulusun motorudur. İnsan ile doğa, savaş ile barış arasındaki dengeyi sağlamak, en büyük sınavımızdır.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_ERA_MODERN_DESCRIPTION">
+		<Replace Language="pl_PL" Tag="LOC_ERA_MODERN_DESCRIPTION">
 			<Text>Zamanın başlangıcında uçan insanlar hakkında efsaneler vardı. Şimdi bu efsaneler gerçeğe dönüşüyor. Uçuş ve yeni iletişim yöntemleriyle dünya küçülüyor, daha samimi hale geliyor. Ancak bu gelişmenin bir bedeli var: Farklı ideolojiler arasındaki çatışma, uluslararası arenada gerginlik yaratıyor. Yükselen bu ideolojik rekabet içinde yolumuzu seçmek zorundayız.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_ERA_ATOMIC_DESCRIPTION">
+		<Replace Language="pl_PL" Tag="LOC_ERA_ATOMIC_DESCRIPTION">
 			<Text>Yeni keşifler ufkumuzu genişletiyor; atomun gizemlerinden uzayın uçsuz bucaksızlığına kadar. Eski sırlar açığa çıkıyor ve daha önce görünmeyen gerçekler şekilleniyor. Bu bilgiyi nasıl kullanacağımızı seçmek bizim elimizde. Böylece insanlığın karşılaştığı en büyük karanlığı yenebiliriz.</Text>
 		</Replace>
 		<Replace Language="pl_PL" Tag="LOC_ERA_INFORMATION_DESCRIPTION">

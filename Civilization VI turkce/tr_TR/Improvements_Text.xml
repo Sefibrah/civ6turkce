@@ -123,7 +123,7 @@
 			<Text>[COLOR_FLOAT_FAITH]+{1_Num} [ICON_Faith][ENDCOLOR]</Text>
 		</Replace>
 		<!--Nuclear -->
-		<Replace Language="tr_TR" Tag="LOC_IMPROVEMENT_MISSILE_SILO_DESCRIPTION">
+		<Replace Language="pl_PL" Tag="LOC_IMPROVEMENT_MISSILE_SILO_DESCRIPTION">
 			<Text>Askerî mühendisin füze silosu inşa etmesine olanak tanır.[NEWLINE][NEWLINE]Nükleer ve hidrojen bombaları için fırlatma platformu görevi görür.</Text>
 		</Replace>
 	</LocalizedText>

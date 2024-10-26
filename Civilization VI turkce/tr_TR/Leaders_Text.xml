@@ -2,696 +2,696 @@
 <GameData>
 	<LocalizedText>
 		<!--Leader Names-->
-		<Replace Language="tr_TR" Tag="LOC_REPRESENTATIVE">
+		<Replace Language="pl_PL" Tag="LOC_REPRESENTATIVE">
 			<Text>temsilci|temsilcinin</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_LEADER_BARBAROSSA_NAME">
+		<Replace Language="pl_PL" Tag="LOC_LEADER_BARBAROSSA_NAME">
 			<Text>I. Friedrich Barbarossa|I. Friedrich Barbarossa'nın</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_LEADER_CATHERINE_DE_MEDICI_NAME">
+		<Replace Language="pl_PL" Tag="LOC_LEADER_CATHERINE_DE_MEDICI_NAME">
 			<Text>Catherine de' Medici|Catherine de' Medici'nin</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_LEADER_CLEOPATRA_NAME">
+		<Replace Language="pl_PL" Tag="LOC_LEADER_CLEOPATRA_NAME">
 			<Text>Kleopatra|Kleopatra'nın</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_LEADER_GANDHI_NAME">
+		<Replace Language="pl_PL" Tag="LOC_LEADER_GANDHI_NAME">
 			<Text>Gandhi|Gandhi'nin</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_LEADER_GILGAMESH_NAME">
+		<Replace Language="pl_PL" Tag="LOC_LEADER_GILGAMESH_NAME">
 			<Text>Gılgamış|Gılgamış'ın</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_LEADER_GORGO_NAME">
+		<Replace Language="pl_PL" Tag="LOC_LEADER_GORGO_NAME">
 			<Text>Gorgo|Gorgo'nun</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_LEADER_HARDRADA_NAME">
+		<Replace Language="pl_PL" Tag="LOC_LEADER_HARDRADA_NAME">
 			<Text>Harald Hardrada|Harald Hardrada'nın</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_LEADER_HOJO_NAME">
+		<Replace Language="pl_PL" Tag="LOC_LEADER_HOJO_NAME">
 			<Text>Hojo Tokimune|Hojo Tokimune'nin</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_LEADER_MVEMBA_NAME">
+		<Replace Language="pl_PL" Tag="LOC_LEADER_MVEMBA_NAME">
 			<Text>Afonso I|Afonso I'in</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_LEADER_PEDRO_NAME">
+		<Replace Language="pl_PL" Tag="LOC_LEADER_PEDRO_NAME">
 			<Text>Pedro II|Pedro II'nin</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_LEADER_PERICLES_NAME">
+		<Replace Language="pl_PL" Tag="LOC_LEADER_PERICLES_NAME">
 			<Text>Perikles|Perikles'in</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_LEADER_PETER_GREAT_NAME">
+		<Replace Language="pl_PL" Tag="LOC_LEADER_PETER_GREAT_NAME">
 			<Text>Büyük Petro|Büyük Petro'nun</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_LEADER_PHILIP_II_NAME">
+		<Replace Language="pl_PL" Tag="LOC_LEADER_PHILIP_II_NAME">
 			<Text>II. Felipe|II. Felipe'nin</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_LEADER_QIN_NAME">
+		<Replace Language="pl_PL" Tag="LOC_LEADER_QIN_NAME">
 			<Text>Qin Shi Huang|Qin Shi Huang'ın</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_LEADER_SALADIN_NAME">
+		<Replace Language="pl_PL" Tag="LOC_LEADER_SALADIN_NAME">
 			<Text>Selahaddin|Selahaddin'in</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_LEADER_TOMYRIS_NAME">
+		<Replace Language="pl_PL" Tag="LOC_LEADER_TOMYRIS_NAME">
 			<Text>Tomris|Tomris'in</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_LEADER_TRAJAN_NAME">
+		<Replace Language="pl_PL" Tag="LOC_LEADER_TRAJAN_NAME">
 			<Text>Trajan|Trajan'ın</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_LEADER_T_ROOSEVELT_NAME">
+		<Replace Language="pl_PL" Tag="LOC_LEADER_T_ROOSEVELT_NAME">
 			<Text>Teddy Roosevelt|Teddy Roosevelt'in</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_LEADER_VICTORIA_NAME">
+		<Replace Language="pl_PL" Tag="LOC_LEADER_VICTORIA_NAME">
 			<Text>Kraliçe Victoria|Kraliçe Victoria'nın</Text>
 		</Replace>
 		<!--Agenda Names-->
-		<Replace Language="tr_TR" Tag="LOC_AGENDA_ALLY_OF_ENKIDU_NAME">
+		<Replace Language="pl_PL" Tag="LOC_AGENDA_ALLY_OF_ENKIDU_NAME">
 			<Text>Enkidu'nun müttefiki</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_AGENDA_AYYUBID_DYNASTY_NAME">
+		<Replace Language="pl_PL" Tag="LOC_AGENDA_AYYUBID_DYNASTY_NAME">
 			<Text>Eyyubiler Hanedanı</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_AGENDA_BACKSTAB_AVERSE_NAME">
+		<Replace Language="pl_PL" Tag="LOC_AGENDA_BACKSTAB_AVERSE_NAME">
 			<Text>Sırtından vuranlardan hoşlanmaz</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_AGENDA_BIG_STICK_POLICY_NAME">
+		<Replace Language="pl_PL" Tag="LOC_AGENDA_BIG_STICK_POLICY_NAME">
 			<Text>Büyük sopa politikası</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_AGENDA_BLACK_QUEEN_NAME">
+		<Replace Language="pl_PL" Tag="LOC_AGENDA_BLACK_QUEEN_NAME">
 			<Text>Siyah Kraliçe</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_AGENDA_BUSHIDO_NAME">
+		<Replace Language="pl_PL" Tag="LOC_AGENDA_BUSHIDO_NAME">
 			<Text>Buşido</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_AGENDA_CITY_STATE_ALLY_NAME">
+		<Replace Language="pl_PL" Tag="LOC_AGENDA_CITY_STATE_ALLY_NAME">
 			<Text>Şehir devleti müttefiki</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_AGENDA_COUNTER_REFORMER_NAME">
+		<Replace Language="pl_PL" Tag="LOC_AGENDA_COUNTER_REFORMER_NAME">
 			<Text>Karşı-reformcu</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_AGENDA_DELIAN_LEAGUE_NAME">
+		<Replace Language="pl_PL" Tag="LOC_AGENDA_DELIAN_LEAGUE_NAME">
 			<Text>Delos Birliği</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_AGENDA_ENTHUSIASTIC_DISCIPLE_NAME">
+		<Replace Language="pl_PL" Tag="LOC_AGENDA_ENTHUSIASTIC_DISCIPLE_NAME">
 			<Text>Hevesli mürit</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_AGENDA_GREAT_PERSON_OBSESSED_NAME">
+		<Replace Language="pl_PL" Tag="LOC_AGENDA_GREAT_PERSON_OBSESSED_NAME">
 			<Text>Büyük kişilerin hayranı</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_AGENDA_IRON_CROWN_NAME">
+		<Replace Language="pl_PL" Tag="LOC_AGENDA_IRON_CROWN_NAME">
 			<Text>Demir Taç</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_AGENDA_LAST_VIKING_KING_NAME">
+		<Replace Language="pl_PL" Tag="LOC_AGENDA_LAST_VIKING_KING_NAME">
 			<Text>Son Viking Kralı</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_AGENDA_OPTIMUS_PRINCEPS_NAME">
+		<Replace Language="pl_PL" Tag="LOC_AGENDA_OPTIMUS_PRINCEPS_NAME">
 			<Text>Optimus Princeps</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_AGENDA_PARANOID_NAME">
+		<Replace Language="pl_PL" Tag="LOC_AGENDA_PARANOID_NAME">
 			<Text>Paranoyak</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_AGENDA_PEACEKEEPER_NAME">
+		<Replace Language="pl_PL" Tag="LOC_AGENDA_PEACEKEEPER_NAME">
 			<Text>Barış koruyucusu</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_AGENDA_QUEEN_OF_THE_NILE_NAME">
+		<Replace Language="pl_PL" Tag="LOC_AGENDA_QUEEN_OF_THE_NILE_NAME">
 			<Text>Nil'in Kraliçesi</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_AGENDA_SUN_NEVER_SETS_NAME">
+		<Replace Language="pl_PL" Tag="LOC_AGENDA_SUN_NEVER_SETS_NAME">
 			<Text>Güneş batmaz</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_AGENDA_TLATOANI_NAME">
+		<Replace Language="pl_PL" Tag="LOC_AGENDA_TLATOANI_NAME">
 			<Text>Tlatoani</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_AGENDA_WESTERNIZER_NAME">
+		<Replace Language="pl_PL" Tag="LOC_AGENDA_WESTERNIZER_NAME">
 			<Text>Batılılaştırıcı</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_AGENDA_WITH_YOUR_SHIELD_OR_ON_IT_NAME">
+		<Replace Language="pl_PL" Tag="LOC_AGENDA_WITH_YOUR_SHIELD_OR_ON_IT_NAME">
 			<Text>Kalkanınla ya da onun üstünde</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_AGENDA_WONDER_OBSESSED_NAME">
+		<Replace Language="pl_PL" Tag="LOC_AGENDA_WONDER_OBSESSED_NAME">
 			<Text>10.000 li duvarı</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_AGENDA_AIRPOWER_NAME">
+		<Replace Language="pl_PL" Tag="LOC_AGENDA_AIRPOWER_NAME">
 			<Text>Hava gücü</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_AGENDA_BARBARIAN_LOVER_NAME">
+		<Replace Language="pl_PL" Tag="LOC_AGENDA_BARBARIAN_LOVER_NAME">
 			<Text>Barbar hayranı</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_AGENDA_CITY_STATE_PROTECTOR_NAME">
+		<Replace Language="pl_PL" Tag="LOC_AGENDA_CITY_STATE_PROTECTOR_NAME">
 			<Text>Şehir devleti koruyucusu</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_AGENDA_CIVILIZED_NAME">
+		<Replace Language="pl_PL" Tag="LOC_AGENDA_CIVILIZED_NAME">
 			<Text>Medeniyet yanlısı</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_AGENDA_CULTURED_NAME">
+		<Replace Language="pl_PL" Tag="LOC_AGENDA_CULTURED_NAME">
 			<Text>Kültürlü</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_AGENDA_DARWINIST_NAME">
+		<Replace Language="pl_PL" Tag="LOC_AGENDA_DARWINIST_NAME">
 			<Text>Doğal seçilim savunucusu</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_AGENDA_DEVOUT_NAME">
+		<Replace Language="pl_PL" Tag="LOC_AGENDA_DEVOUT_NAME">
 			<Text>Dindar</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_AGENDA_ENVIRONMENTALIST_NAME">
+		<Replace Language="pl_PL" Tag="LOC_AGENDA_ENVIRONMENTALIST_NAME">
 			<Text>Çevreci</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_AGENDA_EXPLOITATIVE_NAME">
+		<Replace Language="pl_PL" Tag="LOC_AGENDA_EXPLOITATIVE_NAME">
 			<Text>Faydacı</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_AGENDA_EXPLORER_NAME">
+		<Replace Language="pl_PL" Tag="LOC_AGENDA_EXPLORER_NAME">
 			<Text>Kaşif</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_AGENDA_FUN_LOVING_NAME">
+		<Replace Language="pl_PL" Tag="LOC_AGENDA_FUN_LOVING_NAME">
 			<Text>Eğlence sever</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_AGENDA_GREAT_PERSON_ADVOCATE_NAME">
+		<Replace Language="pl_PL" Tag="LOC_AGENDA_GREAT_PERSON_ADVOCATE_NAME">
 			<Text>Önemli şahısların savunucusu</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_AGENDA_IDEOLOGUE_NAME">
+		<Replace Language="pl_PL" Tag="LOC_AGENDA_IDEOLOGUE_NAME">
 			<Text>Pratik olmayan idealist</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_AGENDA_INDUSTRIALIST_NAME">
+		<Replace Language="pl_PL" Tag="LOC_AGENDA_INDUSTRIALIST_NAME">
 			<Text>Sanayici</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_AGENDA_MONEY_GRUBBER_NAME">
+		<Replace Language="pl_PL" Tag="LOC_AGENDA_MONEY_GRUBBER_NAME">
 			<Text>Para düşkünü</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_AGENDA_NATURALIST_NAME">
+		<Replace Language="pl_PL" Tag="LOC_AGENDA_NATURALIST_NAME">
 			<Text>Doğa bilimci</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_AGENDA_NUKE_LOVER_NAME">
+		<Replace Language="pl_PL" Tag="LOC_AGENDA_NUKE_LOVER_NAME">
 			<Text>Nükleer silah hayranı</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_AGENDA_POPULOUS_NAME">
+		<Replace Language="pl_PL" Tag="LOC_AGENDA_POPULOUS_NAME">
 			<Text>Nüfus yanlısı</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_AGENDA_STANDING_ARMY_NAME">
+		<Replace Language="pl_PL" Tag="LOC_AGENDA_STANDING_ARMY_NAME">
 			<Text>Daimi ordu</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_AGENDA_TECHNOPHILE_NAME">
+		<Replace Language="pl_PL" Tag="LOC_AGENDA_TECHNOPHILE_NAME">
 			<Text>Teknoloji tutkunu</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_AGENDA_WONDER_ADVOCATE_NAME">
+		<Replace Language="pl_PL" Tag="LOC_AGENDA_WONDER_ADVOCATE_NAME">
 			<Text>Harika yanlısı</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_AGENDA_ZEALOT_NAME">
+		<Replace Language="pl_PL" Tag="LOC_AGENDA_ZEALOT_NAME">
 			<Text>Fanatik</Text>
 		</Replace>
 		<!--Agenda Description-->
-		<Replace Language="tr_TR" Tag="LOC_AGENDA_ALLY_OF_ENKIDU_DESCRIPTION">
+		<Replace Language="pl_PL" Tag="LOC_AGENDA_ALLY_OF_ENKIDU_DESCRIPTION">
 			<Text>Uzun süreli ittifaklar kuran ulusları sever. Arkadaşlarını ve müttefiklerini kınayan ya da onlara saldıranlardan hoşlanmaz.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_AGENDA_AYYUBID_DYNASTY_DESCRIPTION">
+		<Replace Language="pl_PL" Tag="LOC_AGENDA_AYYUBID_DYNASTY_DESCRIPTION">
 			<Text>Birçok şehrinde kendi ibadet binasına sahip olmayı ister ve bu yapıya sahip ulusları sever. Farklı dine sahip olanlardan ve inancına sahip olanlara savaş açanlardan hoşlanmaz.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_AGENDA_BACKSTAB_AVERSE_DESCRIPTION">
+		<Replace Language="pl_PL" Tag="LOC_AGENDA_BACKSTAB_AVERSE_DESCRIPTION">
 			<Text>Onunla dostluk ilan eden ulusları sever. Sırtından vuranlardan veya sürpriz savaş ilan edenlerden hoşlanmaz.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_AGENDA_BIG_STICK_POLICY_DESCRIPTION">
+		<Replace Language="pl_PL" Tag="LOC_AGENDA_BIG_STICK_POLICY_DESCRIPTION">
 			<Text>Kendi kıtasında bir şehre sahip barışçıl ulusları sever. Kıtasındaki şehirlere veya şehir devletlerine savaş açanlardan nefret eder.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_AGENDA_BLACK_QUEEN_DESCRIPTION">
+		<Replace Language="pl_PL" Tag="LOC_AGENDA_BLACK_QUEEN_DESCRIPTION">
 			<Text>Elinden geldiğince çok casus ve diplomatik bilgi edinir. Casusluk ve istihbarata yatırım yapmayan ulusları sevmez.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_AGENDA_BUSHIDO_DESCRIPTION">
+		<Replace Language="pl_PL" Tag="LOC_AGENDA_BUSHIDO_DESCRIPTION">
 			<Text>Hem güçlü bir orduya hem de yüksek [ICON_Faith] inanç ve [ICON_Culture] kültür üretimine sahip ulusları sever. Güçlü ordusu olup düşük inanç veya kültür üretimi olanlardan hoşlanmaz.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_AGENDA_CITY_STATE_ALLY_DESCRIPTION">
+		<Replace Language="pl_PL" Tag="LOC_AGENDA_CITY_STATE_ALLY_DESCRIPTION">
 			<Text>Aynı şehir devletleri için rekabet etmeyen ulusları sever. Aynı şehir devletleri için doğrudan rekabet edenlerden hoşlanmaz.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_AGENDA_COUNTER_REFORMER_DESCRIPTION">
+		<Replace Language="pl_PL" Tag="LOC_AGENDA_COUNTER_REFORMER_DESCRIPTION">
 			<Text>Kendi dinine sahip ulusları sever ve tüm şehirlerinin aynı dine sahip olmasını ister. Kendi topraklarına başka din yaymaya çalışanlardan nefret eder.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_AGENDA_DELIAN_LEAGUE_DESCRIPTION">
+		<Replace Language="pl_PL" Tag="LOC_AGENDA_DELIAN_LEAGUE_DESCRIPTION">
 			<Text>Aynı şehir devletleri için rekabet etmeyen ulusları sever. Aynı şehir devletleri için doğrudan rekabet edenlerden hoşlanmaz.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_AGENDA_ENTHUSIASTIC_DISCIPLE_DESCRIPTION">
+		<Replace Language="pl_PL" Tag="LOC_AGENDA_ENTHUSIASTIC_DISCIPLE_DESCRIPTION">
 			<Text>Dinlerini Kongo'ya getiren ulusları sever. Dini olup da bunu Kongo şehirlerine yaymayanlardan hoşlanmaz.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_AGENDA_GREAT_PERSON_OBSESSED_DESCRIPTION">
+		<Replace Language="pl_PL" Tag="LOC_AGENDA_GREAT_PERSON_OBSESSED_DESCRIPTION">
 			<Text>Olabildiğince çok [ICON_GreatPerson] önemli şahsiyet toplar ve bu konuda rekabet etmeyen ulusları sever. Önemli bir şahsiyeti başka bir ulusa kaptırdığında kızar.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_AGENDA_IRON_CROWN_DESCRIPTION">
+		<Replace Language="pl_PL" Tag="LOC_AGENDA_IRON_CROWN_DESCRIPTION">
 			<Text>Şehir devletlerine karışmayan ulusları sever. Şehir devletleri üzerinde güç sahibi olanlardan ve onları ele geçirenlerden hoşlanmaz.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_AGENDA_LAST_VIKING_KING_DESCRIPTION">
+		<Replace Language="pl_PL" Tag="LOC_AGENDA_LAST_VIKING_KING_DESCRIPTION">
 			<Text>Büyük bir donanma kurar ve aynı şekilde hareket eden ulusları sever. Az sayıda gemiye sahip olanlardan hoşlanmaz.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_AGENDA_OPTIMUS_PRINCEPS_DESCRIPTION">
+		<Replace Language="pl_PL" Tag="LOC_AGENDA_OPTIMUS_PRINCEPS_DESCRIPTION">
 			<Text>Olabildiğince çok toprak elde etmeye çalışır. Küçük topraklara sahip uluslardan hoşlanmaz.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_AGENDA_PARANOID_DESCRIPTION">
+		<Replace Language="pl_PL" Tag="LOC_AGENDA_PARANOID_DESCRIPTION">
 			<Text>Zararsız ulusları sever. Güçlü ordusu veya yakınında şehirleri olan uluslardan hoşlanmaz.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_AGENDA_QUEEN_OF_THE_NILE_DESCRIPTION">
+		<Replace Language="pl_PL" Tag="LOC_AGENDA_QUEEN_OF_THE_NILE_DESCRIPTION">
 			<Text>Güçlü orduları olan ulusları sever ve onlarla müttefik olmayı tercih eder. Zayıf ordusu olan uluslardan hoşlanmaz.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_AGENDA_PEACEKEEPER_DESCRIPTION">
+		<Replace Language="pl_PL" Tag="LOC_AGENDA_PEACEKEEPER_DESCRIPTION">
 			<Text>Savaş ilan etmekten kaçınır ve barışı koruyan uluslarla dost olmaya çalışır. Savaş kışkırtıcılarından nefret eder.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_AGENDA_SUN_NEVER_SETS_DESCRIPTION">
+		<Replace Language="pl_PL" Tag="LOC_AGENDA_SUN_NEVER_SETS_DESCRIPTION">
 			<Text>Kendi kıtasındaki ulusları sever ve tüm kıtalara yayılmak ister. İngiltere'nin şehir kurmadığı kıtalardaki uluslardan hoşlanmaz.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_AGENDA_TLATOANI_DESCRIPTION">
+		<Replace Language="pl_PL" Tag="LOC_AGENDA_TLATOANI_DESCRIPTION">
 			<Text>Kendisinde olan lüks kaynaklara sahip ulusları sever ve tüm lüks kaynakları ele geçirmeye çalışır. Sahip olmadığı lüks kaynağa sahip uluslardan hoşlanmaz.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_AGENDA_WESTERNIZER_DESCRIPTION">
+		<Replace Language="pl_PL" Tag="LOC_AGENDA_WESTERNIZER_DESCRIPTION">
 			<Text>[ICON_Science] Bilimde veya [ICON_Culture] kültürde kendisinden ileride olan uluslara dostça yaklaşır. Bu alanlarda geride kalan uluslardan hoşlanmaz.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_AGENDA_WITH_YOUR_SHIELD_OR_ON_IT_DESCRIPTION">
+		<Replace Language="pl_PL" Tag="LOC_AGENDA_WITH_YOUR_SHIELD_OR_ON_IT_DESCRIPTION">
 			<Text>Barış şartlarında asla taviz vermez ve aynı şekilde davranan ulusları sever. Teslim olan veya hiç savaşmayanlardan hoşlanmaz.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_AGENDA_WONDER_OBSESSED_DESCRIPTION">
+		<Replace Language="pl_PL" Tag="LOC_AGENDA_WONDER_OBSESSED_DESCRIPTION">
 			<Text>Harikaların yapımını kendisine bırakmayı tercih eden ulusları sever. Burnunun dibinden harika kapan uluslardan hoşlanmaz.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_AGENDA_BARBARIAN_LOVER_DESCRIPTION">
+		<Replace Language="pl_PL" Tag="LOC_AGENDA_BARBARIAN_LOVER_DESCRIPTION">
 			<Text>Barbarlara karşı anlayışlıdır. Barbar kamplarını yok eden uluslardan hoşlanmaz.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_AGENDA_CIVILIZED_DESCRIPTION">
+		<Replace Language="pl_PL" Tag="LOC_AGENDA_CIVILIZED_DESCRIPTION">
 			<Text>Barbarlardan nefret eder. Barbar kamplarını yok eden ulusları sever, görmezden gelenlerden hoşlanmaz.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_AGENDA_CULTURED_DESCRIPTION">
+		<Replace Language="pl_PL" Tag="LOC_AGENDA_CULTURED_DESCRIPTION">
 			<Text>[ICON_Culture] Kültür üretmeye çalışır ve aynı şekilde kültüre odaklanan ulusları sever.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_AGENDA_DARWINIST_DESCRIPTION">
+		<Replace Language="pl_PL" Tag="LOC_AGENDA_DARWINIST_DESCRIPTION">
 			<Text>Ulusların savaş halinde olmasını ister ve sürekli mücadeleye inanır.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_AGENDA_FUN_LOVING_DESCRIPTION">
+		<Replace Language="pl_PL" Tag="LOC_AGENDA_FUN_LOVING_DESCRIPTION">
 			<Text>Şehir sakinlerini olabildiğince mutlu etmeye çalışır. Aynı şekilde gelişen ulusları sever.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_AGENDA_INDUSTRIALIST_DESCRIPTION">
+		<Replace Language="pl_PL" Tag="LOC_AGENDA_INDUSTRIALIST_DESCRIPTION">
 			<Text>Sanayileşmeye çalışır ve yüksek [ICON_Production] üretimi olan ulusları sever.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_AGENDA_MONEY_GRUBBER_DESCRIPTION">
+		<Replace Language="pl_PL" Tag="LOC_AGENDA_MONEY_GRUBBER_DESCRIPTION">
 			<Text>[ICON_Gold] Altın gelirini en üst düzeye çıkarmaya çalışır ve yüksek gelire sahip ulusları sever.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_AGENDA_NATURALIST_DESCRIPTION">
+		<Replace Language="pl_PL" Tag="LOC_AGENDA_NATURALIST_DESCRIPTION">
 			<Text>Tüm doğal harikaları bulmaya çalışır. Ormanları ve yağmur ormanlarını koruyan, milli parklar kuran ulusları sever.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_AGENDA_NUKE_LOVER_DESCRIPTION">
+		<Replace Language="pl_PL" Tag="LOC_AGENDA_NUKE_LOVER_DESCRIPTION">
 			<Text>Nükleer silahları kullanmaktan çekinmez ve güçlerini bu silahlarla gösteren ulusları takdir eder.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_AGENDA_POPULOUS_DESCRIPTION">
+		<Replace Language="pl_PL" Tag="LOC_AGENDA_POPULOUS_DESCRIPTION">
 			<Text>En yüksek nüfusa ulaşmayı amaçlar ve yüksek nüfuslu ulusları sever.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_AGENDA_STANDING_ARMY_DESCRIPTION">
+		<Replace Language="pl_PL" Tag="LOC_AGENDA_STANDING_ARMY_DESCRIPTION">
 			<Text>Sürekli büyük bir ordu bulundurur ve büyük ordulara sahip ulusları sever.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_AGENDA_TECHNOPHILE_DESCRIPTION">
+		<Replace Language="pl_PL" Tag="LOC_AGENDA_TECHNOPHILE_DESCRIPTION">
 			<Text>[ICON_Science] Bilime odaklanır ve bilimsel gelişime önem veren ulusları sever.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_AGENDA_AIRPOWER_DESCRIPTION">
+		<Replace Language="pl_PL" Tag="LOC_AGENDA_AIRPOWER_DESCRIPTION">
 			<Text>Güçlü bir hava kuvveti inşa etmeye çalışır. Güçlü hava kuvvetlerine sahip ulusları takdir eder, zayıf olanlardan hoşlanmaz.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_AGENDA_CITY_STATE_PROTECTOR_DESCRIPTION">
+		<Replace Language="pl_PL" Tag="LOC_AGENDA_CITY_STATE_PROTECTOR_DESCRIPTION">
 			<Text>Koruma savaşlarını vurgular. Şehir devletlerini savunan ulusları sever, onlara saldıranlardan hoşlanmaz.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_AGENDA_EXPLOITATIVE_DESCRIPTION">
+		<Replace Language="pl_PL" Tag="LOC_AGENDA_EXPLOITATIVE_DESCRIPTION">
 			<Text>Tüm arazi özelliklerini kaldırır ve her kareyi inşa eder. Çok sayıda inşa edilmiş kareye sahip ulusları sever. İnşaat yapmayan veya milli parklar kuranlardan hoşlanmaz.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_AGENDA_ENVIRONMENTALIST_DESCRIPTION">
+		<Replace Language="pl_PL" Tag="LOC_AGENDA_ENVIRONMENTALIST_DESCRIPTION">
 			<Text>Milli parklar kurar, araziyi korur ve ormanlar diker. Ağaç diken veya milli parklar kuran ulusları sever, arazi özelliklerini kaldıranlardan hoşlanmaz.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_AGENDA_IDEOLOGUE_DESCRIPTION">
+		<Replace Language="pl_PL" Tag="LOC_AGENDA_IDEOLOGUE_DESCRIPTION">
 			<Text>Aynı hükümet biçimine sahip ulusları sever. Farklı hükümet biçimlerine sahip olanlardan hoşlanmaz, özellikle aynı çağda farklı yönetim biçimi benimseyenlerden nefret eder.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_AGENDA_DEVOUT_DESCRIPTION">
+		<Replace Language="pl_PL" Tag="LOC_AGENDA_DEVOUT_DESCRIPTION">
 			<Text>[ICON_Faith] İnanç üretmeye çalışır ve inanca odaklanan ulusları sever.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_AGENDA_EXPLORER_DESCRIPTION">
+		<Replace Language="pl_PL" Tag="LOC_AGENDA_EXPLORER_DESCRIPTION">
 			<Text>Tüm haritayı keşfetmeyi amaçlar. Ondan daha az harita keşfetmiş ulusları sever, daha fazla keşfedenlerden hoşlanmaz.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_AGENDA_ZEALOT_DESCRIPTION">
+		<Replace Language="pl_PL" Tag="LOC_AGENDA_ZEALOT_DESCRIPTION">
 			<Text>Dini zafer kazanmaya çalışır ve dinini kabul eden ulusları sever.</Text>
 		</Replace>
 		<!-- City-State Traits-->
-		<Replace Language="tr_TR" Tag="LOC_MINOR_CIV_SMALL_INFLUENCE_ENVOYS">
+		<Replace Language="pl_PL" Tag="LOC_MINOR_CIV_SMALL_INFLUENCE_ENVOYS">
 			<Text>1 [ICON_Envoy] elçi:</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_MINOR_CIV_MEDIUM_INFLUENCE_ENVOYS">
+		<Replace Language="pl_PL" Tag="LOC_MINOR_CIV_MEDIUM_INFLUENCE_ENVOYS">
 			<Text>3 [ICON_Envoy] elçi:</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_MINOR_CIV_LARGE_INFLUENCE_ENVOYS">
+		<Replace Language="pl_PL" Tag="LOC_MINOR_CIV_LARGE_INFLUENCE_ENVOYS">
 			<Text>6 [ICON_Envoy] elçi:</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_MINOR_CIV_SCIENTIFIC_TRAIT_NAME">
+		<Replace Language="pl_PL" Tag="LOC_MINOR_CIV_SCIENTIFIC_TRAIT_NAME">
 			<Text>Bilimsel Şehir Devleti</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_MINOR_CIV_SCIENTIFIC_TRAIT_DESCRIPTION">
+		<Replace Language="pl_PL" Tag="LOC_MINOR_CIV_SCIENTIFIC_TRAIT_DESCRIPTION">
 			<Text>{LOC_MINOR_CIV_SMALL_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_SCIENTIFIC_TRAIT_SMALL_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_MEDIUM_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_SCIENTIFIC_TRAIT_MEDIUM_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_LARGE_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_SCIENTIFIC_TRAIT_LARGE_INFLUENCE_BONUS}</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_MINOR_CIV_SCIENTIFIC_TRAIT_SMALL_INFLUENCE_BONUS">
+		<Replace Language="pl_PL" Tag="LOC_MINOR_CIV_SCIENTIFIC_TRAIT_SMALL_INFLUENCE_BONUS">
 			<Text>+2 [ICON_Science] bilim [ICON_Capital] başkent için.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_MINOR_CIV_SCIENTIFIC_TRAIT_MEDIUM_INFLUENCE_BONUS">
+		<Replace Language="pl_PL" Tag="LOC_MINOR_CIV_SCIENTIFIC_TRAIT_MEDIUM_INFLUENCE_BONUS">
 			<Text>+2 [ICON_Science] bilim her kampüs için.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_MINOR_CIV_SCIENTIFIC_TRAIT_LARGE_INFLUENCE_BONUS">
+		<Replace Language="pl_PL" Tag="LOC_MINOR_CIV_SCIENTIFIC_TRAIT_LARGE_INFLUENCE_BONUS">
 			<Text>Ekstra +2 [ICON_Science] bilim her kampüs için.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_MINOR_CIV_RELIGIOUS_TRAIT_NAME">
+		<Replace Language="pl_PL" Tag="LOC_MINOR_CIV_RELIGIOUS_TRAIT_NAME">
 			<Text>Dini Şehir Devleti</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_MINOR_CIV_RELIGIOUS_TRAIT_DESCRIPTION">
+		<Replace Language="pl_PL" Tag="LOC_MINOR_CIV_RELIGIOUS_TRAIT_DESCRIPTION">
 			<Text>{LOC_MINOR_CIV_SMALL_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_RELIGIOUS_TRAIT_SMALL_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_MEDIUM_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_RELIGIOUS_TRAIT_MEDIUM_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_LARGE_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_RELIGIOUS_TRAIT_LARGE_INFLUENCE_BONUS}</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_MINOR_CIV_RELIGIOUS_TRAIT_SMALL_INFLUENCE_BONUS">
+		<Replace Language="pl_PL" Tag="LOC_MINOR_CIV_RELIGIOUS_TRAIT_SMALL_INFLUENCE_BONUS">
 			<Text>+2 [ICON_Faith] inanç [ICON_Capital] başkent için.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_MINOR_CIV_RELIGIOUS_TRAIT_MEDIUM_INFLUENCE_BONUS">
+		<Replace Language="pl_PL" Tag="LOC_MINOR_CIV_RELIGIOUS_TRAIT_MEDIUM_INFLUENCE_BONUS">
 			<Text>+2 [ICON_Faith] inanç her kutsal alan için.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_MINOR_CIV_RELIGIOUS_TRAIT_LARGE_INFLUENCE_BONUS">
+		<Replace Language="pl_PL" Tag="LOC_MINOR_CIV_RELIGIOUS_TRAIT_LARGE_INFLUENCE_BONUS">
 			<Text>Ekstra +2 [ICON_Faith] inanç her kutsal alan için.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_MINOR_CIV_TRADE_TRAIT_NAME">
+		<Replace Language="pl_PL" Tag="LOC_MINOR_CIV_TRADE_TRAIT_NAME">
 			<Text>Ticaret Şehri Devleti</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_MINOR_CIV_TRADE_TRAIT_DESCRIPTION">
+		<Replace Language="pl_PL" Tag="LOC_MINOR_CIV_TRADE_TRAIT_DESCRIPTION">
 			<Text>{LOC_MINOR_CIV_SMALL_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_TRADE_TRAIT_SMALL_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_MEDIUM_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_TRADE_TRAIT_MEDIUM_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_LARGE_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_TRADE_TRAIT_LARGE_INFLUENCE_BONUS}</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_MINOR_CIV_TRADE_TRAIT_SMALL_INFLUENCE_BONUS">
+		<Replace Language="pl_PL" Tag="LOC_MINOR_CIV_TRADE_TRAIT_SMALL_INFLUENCE_BONUS">
 			<Text>+4 [ICON_Gold] altın [ICON_Capital] başkent için.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_MINOR_CIV_TRADE_TRAIT_MEDIUM_INFLUENCE_BONUS">
+		<Replace Language="pl_PL" Tag="LOC_MINOR_CIV_TRADE_TRAIT_MEDIUM_INFLUENCE_BONUS">
 			<Text>+4 [ICON_Gold] altın her ticaret merkezi için.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_MINOR_CIV_TRADE_TRAIT_LARGE_INFLUENCE_BONUS">
+		<Replace Language="pl_PL" Tag="LOC_MINOR_CIV_TRADE_TRAIT_LARGE_INFLUENCE_BONUS">
 			<Text>Ekstra +4 [ICON_Gold] altın her ticaret merkezi için.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_MINOR_CIV_CULTURAL_TRAIT_NAME">
+		<Replace Language="pl_PL" Tag="LOC_MINOR_CIV_CULTURAL_TRAIT_NAME">
 			<Text>Kültürel Şehir Devleti</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_MINOR_CIV_CULTURAL_TRAIT_DESCRIPTION">
+		<Replace Language="pl_PL" Tag="LOC_MINOR_CIV_CULTURAL_TRAIT_DESCRIPTION">
 			<Text>{LOC_MINOR_CIV_SMALL_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_CULTURAL_TRAIT_SMALL_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_MEDIUM_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_CULTURAL_TRAIT_MEDIUM_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_LARGE_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_CULTURAL_TRAIT_LARGE_INFLUENCE_BONUS}</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_MINOR_CIV_CULTURAL_TRAIT_SMALL_INFLUENCE_BONUS">
+		<Replace Language="pl_PL" Tag="LOC_MINOR_CIV_CULTURAL_TRAIT_SMALL_INFLUENCE_BONUS">
 			<Text>+2 [ICON_Culture] kültür [ICON_Capital] başkent için.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_MINOR_CIV_CULTURAL_TRAIT_MEDIUM_INFLUENCE_BONUS">
+		<Replace Language="pl_PL" Tag="LOC_MINOR_CIV_CULTURAL_TRAIT_MEDIUM_INFLUENCE_BONUS">
 			<Text>+2 [ICON_Culture] kültür her tiyatro meydanı için.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_MINOR_CIV_CULTURAL_TRAIT_LARGE_INFLUENCE_BONUS">
+		<Replace Language="pl_PL" Tag="LOC_MINOR_CIV_CULTURAL_TRAIT_LARGE_INFLUENCE_BONUS">
 			<Text>Ekstra +2 [ICON_Culture] kültür her tiyatro meydanı için.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_MINOR_CIV_MILITARISTIC_TRAIT_NAME">
+		<Replace Language="pl_PL" Tag="LOC_MINOR_CIV_MILITARISTIC_TRAIT_NAME">
 			<Text>Askeri Şehir Devleti</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_MINOR_CIV_MILITARISTIC_TRAIT_DESCRIPTION">
+		<Replace Language="pl_PL" Tag="LOC_MINOR_CIV_MILITARISTIC_TRAIT_DESCRIPTION">
 			<Text>{LOC_MINOR_CIV_SMALL_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_MILITARISTIC_TRAIT_SMALL_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_MEDIUM_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_MILITARISTIC_TRAIT_MEDIUM_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_LARGE_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_MILITARISTIC_TRAIT_LARGE_INFLUENCE_BONUS}</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_MINOR_CIV_MILITARISTIC_TRAIT_SMALL_INFLUENCE_BONUS">
+		<Replace Language="pl_PL" Tag="LOC_MINOR_CIV_MILITARISTIC_TRAIT_SMALL_INFLUENCE_BONUS">
 			<Text>+2 [ICON_Production] üretim [ICON_Capital] başkent için birim eğitilirken.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_MINOR_CIV_MILITARISTIC_TRAIT_MEDIUM_INFLUENCE_BONUS">
+		<Replace Language="pl_PL" Tag="LOC_MINOR_CIV_MILITARISTIC_TRAIT_MEDIUM_INFLUENCE_BONUS">
 			<Text>+2 [ICON_Production] üretim her kışla için birim eğitilirken.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_MINOR_CIV_MILITARISTIC_TRAIT_LARGE_INFLUENCE_BONUS">
+		<Replace Language="pl_PL" Tag="LOC_MINOR_CIV_MILITARISTIC_TRAIT_LARGE_INFLUENCE_BONUS">
 			<Text>Ekstra +2 [ICON_Production] üretim her kışla için birim eğitilirken.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_MINOR_CIV_INDUSTRIAL_TRAIT_NAME">
+		<Replace Language="pl_PL" Tag="LOC_MINOR_CIV_INDUSTRIAL_TRAIT_NAME">
 			<Text>Sanayi Şehri Devleti</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_MINOR_CIV_INDUSTRIAL_TRAIT_DESCRIPTION">
+		<Replace Language="pl_PL" Tag="LOC_MINOR_CIV_INDUSTRIAL_TRAIT_DESCRIPTION">
 			<Text>{LOC_MINOR_CIV_SMALL_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_INDUSTRIAL_TRAIT_SMALL_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_MEDIUM_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_INDUSTRIAL_TRAIT_MEDIUM_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_LARGE_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_INDUSTRIAL_TRAIT_LARGE_INFLUENCE_BONUS}</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_MINOR_CIV_INDUSTRIAL_TRAIT_SMALL_INFLUENCE_BONUS">
+		<Replace Language="pl_PL" Tag="LOC_MINOR_CIV_INDUSTRIAL_TRAIT_SMALL_INFLUENCE_BONUS">
 			<Text>+2 [ICON_Production] üretim [ICON_Capital] başkent için harika, bina veya bölge inşa edilirken.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_MINOR_CIV_INDUSTRIAL_TRAIT_MEDIUM_INFLUENCE_BONUS">
+		<Replace Language="pl_PL" Tag="LOC_MINOR_CIV_INDUSTRIAL_TRAIT_MEDIUM_INFLUENCE_BONUS">
 			<Text>+2 [ICON_Production] üretim her sanayi bölgesi için harika, bina veya bölge inşa edilirken.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_MINOR_CIV_INDUSTRIAL_TRAIT_LARGE_INFLUENCE_BONUS">
+		<Replace Language="pl_PL" Tag="LOC_MINOR_CIV_INDUSTRIAL_TRAIT_LARGE_INFLUENCE_BONUS">
 			<Text>Ekstra +2 [ICON_Production] üretim her sanayi bölgesi için harika, bina veya bölge inşa edilirken.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_LEADER_TRAIT_AMSTERDAM_NAME">
+		<Replace Language="pl_PL" Tag="LOC_LEADER_TRAIT_AMSTERDAM_NAME">
 			<Text>Amsterdam’ın Egemenlik Bonusu</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_LEADER_TRAIT_AMSTERDAM_DESCRIPTION">
+		<Replace Language="pl_PL" Tag="LOC_LEADER_TRAIT_AMSTERDAM_DESCRIPTION">
 			<Text>Yurtdışına giden [ICON_TradeRoute] ticaret yollarımız, hedefteki her lüks kaynak için +1 [ICON_Gold] altın sağlar.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_LEADER_TRAIT_BANDAR_BRUNEI_NAME">
+		<Replace Language="pl_PL" Tag="LOC_LEADER_TRAIT_BANDAR_BRUNEI_NAME">
 			<Text>Bandar Beri Segawan’ın Egemenlik Bonusu</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_LEADER_TRAIT_BRUSSELS_NAME">
+		<Replace Language="pl_PL" Tag="LOC_LEADER_TRAIT_BRUSSELS_NAME">
 			<Text>Brüksel’in Egemenlik Bonusu</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_LEADER_TRAIT_BRUSSELS_DESCRIPTION">
+		<Replace Language="pl_PL" Tag="LOC_LEADER_TRAIT_BRUSSELS_DESCRIPTION">
 			<Text>Şehirlerimiz, harika yapılar için +15% [ICON_Production] üretim bonusu kazanır.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_LEADER_TRAIT_BUENOS_AIRES_NAME">
+		<Replace Language="pl_PL" Tag="LOC_LEADER_TRAIT_BUENOS_AIRES_NAME">
 			<Text>Buenos Aires’in Egemenlik Bonusu</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_LEADER_TRAIT_BUENOS_AIRES_DESCRIPTION">
+		<Replace Language="pl_PL" Tag="LOC_LEADER_TRAIT_BUENOS_AIRES_DESCRIPTION">
 			<Text>Kullanışlı kaynaklarımız, her birinden +1 [ICON_Amenities] yaşam standardı sağlayan lüks kaynaklar gibi davranır.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_LEADER_TRAIT_CARTHAGE_NAME">
+		<Replace Language="pl_PL" Tag="LOC_LEADER_TRAIT_CARTHAGE_NAME">
 			<Text>Kartaca’nın Egemenlik Bonusu</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_LEADER_TRAIT_CARTHAGE_DESCRIPTION">
+		<Replace Language="pl_PL" Tag="LOC_LEADER_TRAIT_CARTHAGE_DESCRIPTION">
 			<Text>Her kışlamız +1 [ICON_TradeRoute] ticaret yolu sağlar.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_LEADER_TRAIT_GENEVA_NAME">
+		<Replace Language="pl_PL" Tag="LOC_LEADER_TRAIT_GENEVA_NAME">
 			<Text>Cenevre’nin Egemenlik Bonusu</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_LEADER_TRAIT_GENEVA_DESCRIPTION">
+		<Replace Language="pl_PL" Tag="LOC_LEADER_TRAIT_GENEVA_DESCRIPTION">
 			<Text>Savaşta olmadığımız sürece şehirlerimiz +15% [ICON_Science] bilim üretir.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_LEADER_TRAIT_HATTUSA_NAME">
+		<Replace Language="pl_PL" Tag="LOC_LEADER_TRAIT_HATTUSA_NAME">
 			<Text>Hattuşa’nın Egemenlik Bonusu</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_LEADER_TRAIT_HATTUSA_DESCRIPTION">
+		<Replace Language="pl_PL" Tag="LOC_LEADER_TRAIT_HATTUSA_DESCRIPTION">
 			<Text>Sahip olmadığımız, ancak keşfettiğimiz her stratejik kaynak için bir birim sunar.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_LEADER_TRAIT_HONG_KONG_NAME">
+		<Replace Language="pl_PL" Tag="LOC_LEADER_TRAIT_HONG_KONG_NAME">
 			<Text>Hong Kong’un Egemenlik Bonusu</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_LEADER_TRAIT_HONG_KONG_DESCRIPTION">
+		<Replace Language="pl_PL" Tag="LOC_LEADER_TRAIT_HONG_KONG_DESCRIPTION">
 			<Text>Şehirlerimiz, şehir projeleri için +20% [ICON_Production] üretim bonusu sağlar.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_LEADER_TRAIT_JAKARTA_NAME">
+		<Replace Language="pl_PL" Tag="LOC_LEADER_TRAIT_JAKARTA_NAME">
 			<Text>Cakarta’nın Egemenlik Bonusu</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_LEADER_TRAIT_JAKARTA_DESCRIPTION">
+		<Replace Language="pl_PL" Tag="LOC_LEADER_TRAIT_JAKARTA_DESCRIPTION">
 			<Text>Yabancı [ICON_TradingPost] ticaret noktalarımız, eğer rota şehirden geçiyorsa, +1 [ICON_Gold] altın sağlar.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_LEADER_TRAIT_JERUSALEM_NAME">
+		<Replace Language="pl_PL" Tag="LOC_LEADER_TRAIT_JERUSALEM_NAME">
 			<Text>Kudüs’ün Egemenlik Bonusu</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_LEADER_TRAIT_JERUSALEM_DESCRIPTION">
+		<Replace Language="pl_PL" Tag="LOC_LEADER_TRAIT_JERUSALEM_DESCRIPTION">
 			<Text>Kendi dinimize döner ve kutsal şehir gibi dini baskı uygular.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_LEADER_TRAIT_KABUL_NAME">
+		<Replace Language="pl_PL" Tag="LOC_LEADER_TRAIT_KABUL_NAME">
 			<Text>Kabil’in Egemenlik Bonusu</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_LEADER_TRAIT_KABUL_DESCRIPTION">
+		<Replace Language="pl_PL" Tag="LOC_LEADER_TRAIT_KABUL_DESCRIPTION">
 			<Text>Birimlerimiz, her savaşın başlangıcında iki kat deneyim kazanır.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_LEADER_TRAIT_KANDY_NAME">
+		<Replace Language="pl_PL" Tag="LOC_LEADER_TRAIT_KANDY_NAME">
 			<Text>Kandi’nin Egemenlik Bonusu</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_LEADER_TRAIT_KANDY_DESCRIPTION">
+		<Replace Language="pl_PL" Tag="LOC_LEADER_TRAIT_KANDY_DESCRIPTION">
 			<Text>Her yeni doğal harika keşfimizde bir [ICON_GreatWork_Relic] kalıntı alırız ve bu kalıntılar +50% [ICON_Faith] inanç üretir.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_LEADER_TRAIT_KUMASI_NAME">
+		<Replace Language="pl_PL" Tag="LOC_LEADER_TRAIT_KUMASI_NAME">
 			<Text>Kumasi’nin Egemenlik Bonusu</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_LEADER_TRAIT_KUMASI_DESCRIPTION">
+		<Replace Language="pl_PL" Tag="LOC_LEADER_TRAIT_KUMASI_DESCRIPTION">
 			<Text>Herhangi bir şehir devletine giden [ICON_TradeRoute] ticaret yolumuz, +2 [ICON_Culture] kültür ve başlangıç şehrindeki her şehir alanı için +1 [ICON_Gold] altın sağlar.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_LEADER_TRAIT_LA_VENTA_NAME">
+		<Replace Language="pl_PL" Tag="LOC_LEADER_TRAIT_LA_VENTA_NAME">
 			<Text>La Venta’nın Egemenlik Bonusu</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_LEADER_TRAIT_LA_VENTA_DESCRIPTION">
+		<Replace Language="pl_PL" Tag="LOC_LEADER_TRAIT_LA_VENTA_DESCRIPTION">
 			<Text>İnşaatçılarımız devasa taş başlar inşa edebilir.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_LEADER_TRAIT_LISBON_NAME">
+		<Replace Language="pl_PL" Tag="LOC_LEADER_TRAIT_LISBON_NAME">
 			<Text>Lizbon’un Egemenlik Bonusu</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_LEADER_TRAIT_LISBON_DESCRIPTION">
+		<Replace Language="pl_PL" Tag="LOC_LEADER_TRAIT_LISBON_DESCRIPTION">
 			<Text>Su alanlarındaki ticaret yollarımız yağmalanamaz.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_LEADER_TRAIT_MOHENJO_DARO_NAME">
+		<Replace Language="pl_PL" Tag="LOC_LEADER_TRAIT_MOHENJO_DARO_NAME">
 			<Text>Mohenjo-Daro’nun Egemenlik Bonusu</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_LEADER_TRAIT_MOHENJO_DARO_DESCRIPTION">
+		<Replace Language="pl_PL" Tag="LOC_LEADER_TRAIT_MOHENJO_DARO_DESCRIPTION">
 			<Text>Tüm şehirlerimiz, nehir kenarında kurulmuş gibi tam [ICON_Housing] konut kapasitesine sahiptir.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_LEADER_TRAIT_NAN_MADOL_NAME">
+		<Replace Language="pl_PL" Tag="LOC_LEADER_TRAIT_NAN_MADOL_NAME">
 			<Text>Nan Madol’un Egemenlik Bonusu</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_LEADER_TRAIT_NAN_MADOL_DESCRIPTION">
+		<Replace Language="pl_PL" Tag="LOC_LEADER_TRAIT_NAN_MADOL_DESCRIPTION">
 			<Text>Sahil veya sahil kenarındaki şehir alanları +2 [ICON_Culture] kültür sağlar.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_LEADER_TRAIT_PRESLAV_NAME">
+		<Replace Language="pl_PL" Tag="LOC_LEADER_TRAIT_PRESLAV_NAME">
 			<Text>Preslav’ın Egemenlik Bonusu</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_LEADER_TRAIT_PRESLAV_DESCRIPTION">
+		<Replace Language="pl_PL" Tag="LOC_LEADER_TRAIT_PRESLAV_DESCRIPTION">
 			<Text>Hafif ve ağır süvari birimlerimiz, dağlık arazilerde +5 [ICON_Strength] güç kazanır.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_LEADER_TRAIT_SEOUL_NAME">
+		<Replace Language="pl_PL" Tag="LOC_LEADER_TRAIT_SEOUL_NAME">
 			<Text>Seul’un Egemenlik Bonusu</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_LEADER_TRAIT_SEOUL_DESCRIPTION">
+		<Replace Language="pl_PL" Tag="LOC_LEADER_TRAIT_SEOUL_DESCRIPTION">
 			<Text>Her yeni çağda, o çağa ait rastgele bir [ICON_TechBoosted] teknoloji keşif bonusu kazanırız.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_LEADER_TRAIT_STOCKHOLM_NAME">
+		<Replace Language="pl_PL" Tag="LOC_LEADER_TRAIT_STOCKHOLM_NAME">
 			<Text>Stockholm’un Egemenlik Bonusu</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_LEADER_TRAIT_STOCKHOLM_DESCRIPTION">
+		<Replace Language="pl_PL" Tag="LOC_LEADER_TRAIT_STOCKHOLM_DESCRIPTION">
 			<Text>Şehir alanlarımız, türlerine göre +1 [ICON_GreatPerson] büyük insan puanı sağlar (tiyatro alanları [ICON_GreatWriter] yazar, [ICON_GreatArtist] sanatçı, [ICON_GreatMusician] müzisyen kazandırır).</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_LEADER_TRAIT_TORONTO_NAME">
+		<Replace Language="pl_PL" Tag="LOC_LEADER_TRAIT_TORONTO_NAME">
 			<Text>Toronto’nun Egemenlik Bonusu</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_LEADER_TRAIT_TORONTO_DESCRIPTION">
+		<Replace Language="pl_PL" Tag="LOC_LEADER_TRAIT_TORONTO_DESCRIPTION">
 			<Text>Sanayi alanları ve eğlence komplekslerinin yerel etkileri, üç kare daha uzağa yayılır.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_LEADER_TRAIT_VALLETTA_NAME">
+		<Replace Language="pl_PL" Tag="LOC_LEADER_TRAIT_VALLETTA_NAME">
 			<Text>Valetta’nın Egemenlik Bonusu</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_LEADER_TRAIT_VALLETTA_DESCRIPTION">
+		<Replace Language="pl_PL" Tag="LOC_LEADER_TRAIT_VALLETTA_DESCRIPTION">
 			<Text>Şehir merkezi ve kışla yapıları [ICON_Faith] inançla satın alınabilir. Antik, Orta Çağ ve Rönesans surları daha düşük maliyetle ve yalnızca [ICON_Faith] inançla alınabilir.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_LEADER_TRAIT_VILNIUS_NAME">
+		<Replace Language="pl_PL" Tag="LOC_LEADER_TRAIT_VILNIUS_NAME">
 			<Text>Vilnius’un Egemenlik Bonusu</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_LEADER_TRAIT_VILNIUS_DESCRIPTION">
+		<Replace Language="pl_PL" Tag="LOC_LEADER_TRAIT_VILNIUS_DESCRIPTION">
 			<Text>Her yeni çağda, o çağa ait rastgele bir [ICON_CivicBoosted] sivil keşif bonusu kazanırız.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_LEADER_TRAIT_YEREVAN_NAME">
+		<Replace Language="pl_PL" Tag="LOC_LEADER_TRAIT_YEREVAN_NAME">
 			<Text>Erivan’ın Egemenlik Bonusu</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_LEADER_TRAIT_YEREVAN_DESCRIPTION">
+		<Replace Language="pl_PL" Tag="LOC_LEADER_TRAIT_YEREVAN_DESCRIPTION">
 			<Text>Apostollerimiz, rastgele sunulanlar yerine istedikleri herhangi bir terfiyi seçebilir.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_LEADER_TRAIT_ZANZIBAR_NAME">
+		<Replace Language="pl_PL" Tag="LOC_LEADER_TRAIT_ZANZIBAR_NAME">
 			<Text>Zanzibar’ın Egemenlik Bonusu</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_LEADER_TRAIT_ZANZIBAR_DESCRIPTION">
+		<Replace Language="pl_PL" Tag="LOC_LEADER_TRAIT_ZANZIBAR_DESCRIPTION">
 			<Text>[ICON_RESOURCE_CINNAMON] Tarçın ve [ICON_RESOURCE_CLOVES] karanfil yağını lüks kaynak olarak kazanırız. Bu kaynaklar sadece Zanzibar’dan elde edilebilir ve her biri 6 [ICON_Amenities] yaşam standardı sağlar.</Text>
 		</Replace>
 		<!--Leader Trait Names-->
-		<Replace Language="tr_TR" Tag="LOC_TRAIT_LEADER_THERMOPYLAE_NAME">
+		<Replace Language="pl_PL" Tag="LOC_TRAIT_LEADER_THERMOPYLAE_NAME">
 			<Text>Termopylae</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_TRAIT_LEADER_ADVENTURES_ENKIDU_NAME">
+		<Replace Language="pl_PL" Tag="LOC_TRAIT_LEADER_ADVENTURES_ENKIDU_NAME">
 			<Text>Enkidu’nun Maceraları</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_TRAIT_LEADER_MEDITERRANEAN_NAME">
+		<Replace Language="pl_PL" Tag="LOC_TRAIT_LEADER_MEDITERRANEAN_NAME">
 			<Text>Akdeniz’in Gelini</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_TRAIT_LEADER_DIVINE_WIND_NAME">
+		<Replace Language="pl_PL" Tag="LOC_TRAIT_LEADER_DIVINE_WIND_NAME">
 			<Text>İlahi Rüzgar</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_TRAIT_LEADER_EL_ESCORIAL_NAME">
+		<Replace Language="pl_PL" Tag="LOC_TRAIT_LEADER_EL_ESCORIAL_NAME">
 			<Text>El Escorial</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_TRAIT_LEADER_GRAND_EMBASSY_NAME">
+		<Replace Language="pl_PL" Tag="LOC_TRAIT_LEADER_GRAND_EMBASSY_NAME">
 			<Text>Büyük Elçilik</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_TRAIT_LEADER_HOLY_ROMAN_EMPEROR_NAME">
+		<Replace Language="pl_PL" Tag="LOC_TRAIT_LEADER_HOLY_ROMAN_EMPEROR_NAME">
 			<Text>Kutsal Roma İmparatoru</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_TRAIT_LEADER_PAX_BRITANNICA_NAME">
+		<Replace Language="pl_PL" Tag="LOC_TRAIT_LEADER_PAX_BRITANNICA_NAME">
 			<Text>Pax Britannica</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_TRAIT_LEADER_RIGHTEOUSNESS_OF_FAITH_NAME">
+		<Replace Language="pl_PL" Tag="LOC_TRAIT_LEADER_RIGHTEOUSNESS_OF_FAITH_NAME">
 			<Text>İnançta Adalet</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_TRAIT_LEADER_RELIGIOUS_CONVERT_NAME">
+		<Replace Language="pl_PL" Tag="LOC_TRAIT_LEADER_RELIGIOUS_CONVERT_NAME">
 			<Text>Dini Dönüşüm</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_TRAIT_LEADER_ROOSEVELT_COROLLARY_NAME">
+		<Replace Language="pl_PL" Tag="LOC_TRAIT_LEADER_ROOSEVELT_COROLLARY_NAME">
 			<Text>Roosevelt'in Ek Kararı</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_TRAIT_LEADER_SATYAGRAHA_NAME">
+		<Replace Language="pl_PL" Tag="LOC_TRAIT_LEADER_SATYAGRAHA_NAME">
 			<Text>Satyagraha</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_TRAIT_LEADER_THUNDERBOLT_NAME">
+		<Replace Language="pl_PL" Tag="LOC_TRAIT_LEADER_THUNDERBOLT_NAME">
 			<Text>Kuzeyin Şimşeği</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_TRAIT_LEADER_FIRST_EMPEROR_NAME">
+		<Replace Language="pl_PL" Tag="LOC_TRAIT_LEADER_FIRST_EMPEROR_NAME">
 			<Text>İlk İmparator</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_TRAIT_LEADER_FLYING_SQUADRON_NAME">
+		<Replace Language="pl_PL" Tag="LOC_TRAIT_LEADER_FLYING_SQUADRON_NAME">
 			<Text>Katerina'nın Casusları</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_TRAIT_LEADER_TRAJANS_COLUMN_NAME">
+		<Replace Language="pl_PL" Tag="LOC_TRAIT_LEADER_TRAJANS_COLUMN_NAME">
 			<Text>Trajan Sütunu</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_TRAIT_LEADER_KILLER_OF_CYRUS_NAME">
+		<Replace Language="pl_PL" Tag="LOC_TRAIT_LEADER_KILLER_OF_CYRUS_NAME">
 			<Text>Kyros’un Katili</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_TRAIT_LEADER_MAGNANIMOUS_NAME">
+		<Replace Language="pl_PL" Tag="LOC_TRAIT_LEADER_MAGNANIMOUS_NAME">
 			<Text>Cömertlik</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_TRAIT_LEADER_SURROUNDED_BY_GLORY_NAME">
+		<Replace Language="pl_PL" Tag="LOC_TRAIT_LEADER_SURROUNDED_BY_GLORY_NAME">
 			<Text>Zaferle Kuşatılmış</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_TRAIT_LEADER_UNIT_ENGLISH_REDCOAT_NAME">
+		<Replace Language="pl_PL" Tag="LOC_TRAIT_LEADER_UNIT_ENGLISH_REDCOAT_NAME">
 			<Text>Viktorya’nın Birimi: Kırmızı Ceket</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_TRAIT_LEADER_UNIT_NORWEGIAN_LONGSHIP_NAME">
+		<Replace Language="pl_PL" Tag="LOC_TRAIT_LEADER_UNIT_NORWEGIAN_LONGSHIP_NAME">
 			<Text>Harald’ın Birimi: Viking Uzun Gemisi</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_TRAIT_LEADER_UNIT_AMERICAN_ROUGH_RIDER_NAME">
+		<Replace Language="pl_PL" Tag="LOC_TRAIT_LEADER_UNIT_AMERICAN_ROUGH_RIDER_NAME">
 			<Text>Theodore Roosevelt'in Birimi: Sert Binici</Text>
 		</Replace>
 		<!-- Leader Trait Descriptions -->
-		<Replace Language="tr_TR" Tag="LOC_TRAIT_LEADER_THERMOPYLAE_DESCRIPTION">
+		<Replace Language="pl_PL" Tag="LOC_TRAIT_LEADER_THERMOPYLAE_DESCRIPTION">
 			<Text>Zaferler, yenen birimin [ICON_Strength] savaş gücünün yarısı kadar [ICON_Culture] kültür sağlar.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_TRAIT_LEADER_ADVENTURES_ENKIDU_DESCRIPTION">
+		<Replace Language="pl_PL" Tag="LOC_TRAIT_LEADER_ADVENTURES_ENKIDU_DESCRIPTION">
 			<Text>Müttefiklerine savaş ilan edenlere karşı savaş açabilir, savaş ilan edenin ceza almasını engeller. Ortak düşmanlara karşı savaşırken, birimler ganimetleri ve savaş tecrübelerini paylaşır.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_TRAIT_LEADER_MEDITERRANEAN_DESCRIPTION">
+		<Replace Language="pl_PL" Tag="LOC_TRAIT_LEADER_MEDITERRANEAN_DESCRIPTION">
 			<Text>Mısır'ın ticaret yolları +4 [ICON_Gold] altın sağlar. Diğer medeniyetlerin Mısır’a olan ticaret yolları, +2 [ICON_Food] gıda ve +2 [ICON_Gold] altın kazandırır.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_TRAIT_LEADER_DIVINE_WIND_DESCRIPTION">
+		<Replace Language="pl_PL" Tag="LOC_TRAIT_LEADER_DIVINE_WIND_DESCRIPTION">
 			<Text>Kara birimleri, kıyı alanlarında +5 [ICON_Strength] savaş gücü kazanır. Deniz birimleri, sığ sularda +5 [ICON_Strength] savaş gücü elde eder. Garnizon, kutsal alan ve tiyatro alanı iki kat hızlı inşa edilir.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_TRAIT_LEADER_EL_ESCORIAL_DESCRIPTION">
+		<Replace Language="pl_PL" Tag="LOC_TRAIT_LEADER_EL_ESCORIAL_DESCRIPTION">
 			<Text>Engizisyoncular, sapkınlıkları bir kez daha ortadan kaldırabilir. Birimler, farklı dine sahip medeniyetlere karşı +4 [ICON_Strength] savaş gücü avantajı kazanır.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_TRAIT_LEADER_GRAND_EMBASSY_DESCRIPTION">
+		<Replace Language="pl_PL" Tag="LOC_TRAIT_LEADER_GRAND_EMBASSY_DESCRIPTION">
 			<Text>Rusya, daha gelişmiş medeniyetlere olan ticaret yollarından +1 [ICON_Science] bilim veya [ICON_Culture] kültür kazanır.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_TRAIT_LEADER_HOLY_ROMAN_EMPEROR_DESCRIPTION">
+		<Replace Language="pl_PL" Tag="LOC_TRAIT_LEADER_HOLY_ROMAN_EMPEROR_DESCRIPTION">
 			<Text>Ek bir askeri politika slotu kazanır. Şehir devletlerine karşı +7 [ICON_Strength] savaş gücü sağlar.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_TRAIT_LEADER_PAX_BRITANNICA_DESCRIPTION">
+		<Replace Language="pl_PL" Tag="LOC_TRAIT_LEADER_PAX_BRITANNICA_DESCRIPTION">
 			<Text>Kendi kıtası dışında kurulan tüm şehirler, ücretsiz bir piyade birimi kazanır. Kraliyet donanma limanı, ücretsiz bir piyade birimi sağlar. Kırmızı ceket, savaş bilimi geliştirilince kullanıma açılır.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_TRAIT_LEADER_RIGHTEOUSNESS_OF_FAITH_DESCRIPTION">
+		<Replace Language="pl_PL" Tag="LOC_TRAIT_LEADER_RIGHTEOUSNESS_OF_FAITH_DESCRIPTION">
 			<Text>Arap şehirlerindeki tapınaklar %10 ek [ICON_Science] bilim, [ICON_Faith] inanç ve [ICON_Culture] kültür sağlar.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_TRAIT_LEADER_RELIGIOUS_CONVERT_DESCRIPTION">
+		<Replace Language="pl_PL" Tag="LOC_TRAIT_LEADER_RELIGIOUS_CONVERT_DESCRIPTION">
 			<Text>Kutsal alan inşa edemez veya din kuramaz. Şehirlerinde baskın hale gelen dinin tüm inançlarını benimser ve her M'banza veya tiyatro alanı inşasında bir havari kazanır.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_TRAIT_LEADER_ROOSEVELT_COROLLARY_DESCRIPTION">
+		<Replace Language="pl_PL" Tag="LOC_TRAIT_LEADER_ROOSEVELT_COROLLARY_DESCRIPTION">
 			<Text>Birimler, kendi kıtasında +5 [ICON_Strength] savaş gücü kazanır. Doğal parkların olduğu kareler +1 çekicilik sağlar.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_TRAIT_LEADER_SATYAGRAHA_DESCRIPTION">
+		<Replace Language="pl_PL" Tag="LOC_TRAIT_LEADER_SATYAGRAHA_DESCRIPTION">
 			<Text>Her din kuran medeniyetten +5 [ICON_Faith] inanç kazanır ve savaşta olan medeniyetler Gandhi’ye karşı çift kat savaş yorgunluğu yaşar.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_TRAIT_LEADER_THUNDERBOLT_DESCRIPTION">
+		<Replace Language="pl_PL" Tag="LOC_TRAIT_LEADER_THUNDERBOLT_DESCRIPTION">
 			<Text>Tüm yakın dövüş gemileri kıyı yağmalayabilir ve +50% üretim bonusu kazanır.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_TRAIT_LEADER_FIRST_EMPEROR_DESCRIPTION">
+		<Replace Language="pl_PL" Tag="LOC_TRAIT_LEADER_FIRST_EMPEROR_DESCRIPTION">
 			<Text>İnşaatçılar, antik çağ ve klasik çağ harikalarının yapımına %15 katkıda bulunur. İnşaatçılar, bir ek çalışma hakkına sahiptir.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_TRAIT_LEADER_FLYING_SQUADRON_DESCRIPTION">
+		<Replace Language="pl_PL" Tag="LOC_TRAIT_LEADER_FLYING_SQUADRON_DESCRIPTION">
 			<Text>Diğer medeniyetlere karşı bir seviye daha fazla diplomatik görünürlük sağlar. Ek bir casus ve casus kapasitesi kazanır. Tüm casuslar, ücretsiz bir terfiyle başlar.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_TRAIT_LEADER_TRAJANS_COLUMN_DESCRIPTION">
+		<Replace Language="pl_PL" Tag="LOC_TRAIT_LEADER_TRAJANS_COLUMN_DESCRIPTION">
 			<Text>Tüm şehirler, ek bir şehir merkezi binası ile başlar (antik çağda anıt ile başlar).</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_TRAIT_LEADER_KILLER_OF_CYRUS_DESCRIPTION">
+		<Replace Language="pl_PL" Tag="LOC_TRAIT_LEADER_KILLER_OF_CYRUS_DESCRIPTION">
 			<Text>Tüm birimler, yaralı birimlere karşı +5 [ICON_Strength] savaş gücü kazanır ve bir düşmanı yok ettiklerinde 30 sağlık puanı geri kazanır.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_TRAIT_LEADER_MAGNANIMOUS_DESCRIPTION">
+		<Replace Language="pl_PL" Tag="LOC_TRAIT_LEADER_MAGNANIMOUS_DESCRIPTION">
 			<Text>Bir büyük insan kazandıktan sonra, harcanan puanların %20’si iade edilir.</Text>
 		</Replace>
-		<Replace Language="tr_TR" Tag="LOC_TRAIT_LEADER_SURROUNDED_BY_GLORY_DESCRIPTION">
+		<Replace Language="pl_PL" Tag="LOC_TRAIT_LEADER_SURROUNDED_BY_GLORY_DESCRIPTION">
 			<Text>Vali olduğu şehir devletlerinden %5 [ICON_Culture] kültür bonusu kazanır.</Text>
 		</Replace>
 	</LocalizedText>
