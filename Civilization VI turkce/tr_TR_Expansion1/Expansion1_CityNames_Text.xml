@@ -2,10 +2,10 @@
 <GameData>
 	<LocalizedText>
 		<!-- City States -->
-		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_ANTIOCH">
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_ANTIOCH">
 			<Text>Venedik</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_BABYLON">
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_BABYLON">
 			<Text>Anshan</Text>
 		</Replace>
 	</LocalizedText>

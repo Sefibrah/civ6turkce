@@ -1,183 +1,183 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameData>
 	<LocalizedText>
-		<Replace Language="pl_PL" Tag="LOC_BUILDING_AIRPORT_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BUILDING_AIRPORT_DESCRIPTION">
 			<Text>+50% savaş deneyimi, bu şehirde eğitilen hava birimleri için. +2 hava birimi yuvası havaalanında. Kara birimlerinin, havaalanı içeren hava sahaları arasında hava köprüsü yapmasını sağlar, hızlı harekât doktrini geliştirildikten sonra.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BUILDING_ARMORY_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BUILDING_ARMORY_DESCRIPTION">
 			<Text>+25% savaş deneyimi, bu şehirde eğitilen kara birimleri için.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BUILDING_BARRACKS_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BUILDING_BARRACKS_DESCRIPTION">
 			<Text>+25% savaş deneyimi, bu şehirde eğitilen yakın dövüş ve menzilli birimler için. [NEWLINE][NEWLINE] Ahırlı bir kışlaya inşa edilemez.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BUILDING_CASTLE_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BUILDING_CASTLE_DESCRIPTION">
 			<Text>Dış savunmanın gücünü artırır. Çevre koruma doktrini geliştirildikten sonra 2 [ICON_TOURISM] turizm sağlar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BUILDING_ELECTRONICS_FACTORY_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BUILDING_ELECTRONICS_FACTORY_DESCRIPTION">
 			<Text>Japonya'ya özel bir yapı. +4 [ICON_Production] üretim, her 6 kare içindeki şehir merkezlerine. Elektrik keşfinden sonra şehre +4 [ICON_Culture] kültür sağlar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BUILDING_FACTORY_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BUILDING_FACTORY_DESCRIPTION">
 			<Text>Her 6 kare içindeki şehir merkezlerine etkisi ulaşır ve her şehir için bir kerelik etki sağlar: İkinci bir fabrika bu etkiyi artırmaz.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BUILDING_FILM_STUDIO_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BUILDING_FILM_STUDIO_DESCRIPTION">
 			<Text>Amerika'ya özel bir yapı. Modern dönemde +100% [ICON_Tourism] turizm baskısı, diğer uygarlıklara karşı bu şehirden gelir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BUILDING_HANGAR_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BUILDING_HANGAR_DESCRIPTION">
 			<Text>+25% savaş deneyimi, bu şehirde eğitilen hava birimleri için. +2 hava birimi yuvası havaalanında.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BUILDING_LIGHTHOUSE_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BUILDING_LIGHTHOUSE_DESCRIPTION">
 			<Text>+25% savaş deneyimi, bu şehirde eğitilen deniz birimleri için. +1 [ICON_FOOD] yiyecek, bu şehrin tüm sahil kareleri için.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BUILDING_MADRASA_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BUILDING_MADRASA_DESCRIPTION">
 			<Text>Araplara özel bir yapı. Kampüsün yakınlık bonusları kadar ek [ICON_Faith] inanç sağlar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BUILDING_MILITARY_ACADEMY_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BUILDING_MILITARY_ACADEMY_DESCRIPTION">
 			<Text>+25% savaş deneyimi, bu şehirde eğitilen kara birimleri için. Kolordular ve ordular doğrudan eğitilebilir ve eğitim maliyetleri %25 daha düşüktür.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BUILDING_MOSQUE_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BUILDING_MOSQUE_DESCRIPTION">
 			<Text>Burada üretilen misyonerler ve havariler +1 yayılma hakkı kazanır.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BUILDING_DAR_E_MEHR_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BUILDING_DAR_E_MEHR_DESCRIPTION">
 			<Text>Her çağ için +1 [ICON_FAITH] inanç sağlar, inşa edilme veya önceki onarım arasındaki dönem için.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BUILDING_MUSEUM_ART_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BUILDING_MUSEUM_ART_DESCRIPTION">
 			<Text>[ICON_GreatWork_Landscape] Sanat eserlerini depolar. Arkeoloji müzesi içeren tiyatro meydanına inşa edilemez.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BUILDING_MUSEUM_ARTIFACT_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BUILDING_MUSEUM_ARTIFACT_DESCRIPTION">
 			<Text>[ICON_GreatWork_Artifact] Eserleri depolar. Sanat müzesi içeren tiyatro meydanına inşa edilemez.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BUILDING_POWER_PLANT_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BUILDING_POWER_PLANT_DESCRIPTION">
 			<Text>Her 6 kare içindeki şehir merkezlerine etkisi ulaşır ve her şehir için bir kerelik etki sağlar: İkinci bir enerji santrali bu etkiyi artırmaz.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BUILDING_SEAPORT_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BUILDING_SEAPORT_DESCRIPTION">
 			<Text>+25% savaş deneyimi, bu şehirde eğitilen deniz birimleri için. Donanmalar ve armadalar doğrudan eğitilebilir ve eğitim maliyetleri %25 daha düşüktür. +2 [ICON_GOLD] altın, bu şehrin tüm sahil karelerinden.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BUILDING_SHRINE_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BUILDING_SHRINE_DESCRIPTION">
 			<Text>Misyonerlerin satın alınmasını sağlar. Misyonerler sadece [ICON_Faith] inanç ile satın alınabilir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BUILDING_STABLE_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BUILDING_STABLE_DESCRIPTION">
 			<Text>+25% savaş deneyimi, bu şehirde eğitilen süvari sınıfı birimleri için. Kışla içeren bir garnizona inşa edilemez.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BUILDING_SHIPYARD_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BUILDING_SHIPYARD_DESCRIPTION">
 			<Text>+25% savaş deneyimi, bu şehirde eğitilen deniz birimleri için. Limanın yakınlık bonusları kadar ek [ICON_Production] üretim sağlar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BUILDING_STADIUM_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BUILDING_STADIUM_DESCRIPTION">
 			<Text>Her 6 kare içindeki şehir merkezlerine etkisi ulaşır ve her şehir için bir kerelik etki sağlar: İkinci bir stadyum bu etkiyi artırmaz.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BUILDING_STAR_FORT_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BUILDING_STAR_FORT_DESCRIPTION">
 			<Text>Dış savunma gücünü en yüksek seviyeye çıkarır. Çevre koruma doktrini geliştirildikten sonra 3 [ICON_TOURISM] turizm sağlar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BUILDING_STAVE_CHURCH_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BUILDING_STAVE_CHURCH_DESCRIPTION">
 			<Text>Norveç'e özel bir yapı. Havarilerin ve engizisyoncuların [ICON_Faith] inanç ile satın alınması için gereklidir. Kutsal alanlar, ormanlardan ek yakınlık bonusu kazanır. +1 [ICON_PRODUCTION] üretim, bu şehrin sahil doğal kaynak karelerinden.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BUILDING_TEMPLE_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BUILDING_TEMPLE_DESCRIPTION">
 			<Text>Havarilerin, guruların ve engizisyoncuların satın alınmasını sağlar; uygun bir inanç varsa savaşçı keşişler de alınabilir. Bu birimler yalnızca [ICON_Faith] inanç ile satın alınabilir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BUILDING_WALLS_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BUILDING_WALLS_DESCRIPTION">
 			<Text>Şehir merkezi ve garnizon çevresine duvarlar sağlar. Duvarlar, şehir merkezi ve garnizondan [ICON_Ranged] saldırı yapılmasına olanak tanır, bu noktalar yıkılmadan şehre saldırılamaz. Çevre koruma doktrini geliştirildikten sonra 1 [ICON_TOURISM] turizm sağlar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BUILDING_WATER_MILL_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BUILDING_WATER_MILL_DESCRIPTION">
 			<Text>Her çiftlik kaynakları için +1 [ICON_Food] yiyecek sağlar. Şehir bir nehir kenarında olmalıdır.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BUILDING_ZOO_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BUILDING_ZOO_DESCRIPTION">
 			<Text>Her 6 kare içindeki şehir merkezlerine etkisi ulaşır ve her şehir için bir kerelik etki sağlar: İkinci bir hayvanat bahçesi bu etkiyi artırmaz.</Text>
 		</Replace>
 		<!-- Wonders -->
-		<Replace Language="pl_PL" Tag="LOC_BUILDING_ALHAMBRA_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BUILDING_ALHAMBRA_DESCRIPTION">
 			<Text>+1 askeri politika yuvası [NEWLINE][NEWLINE] Bir kale (yapı) ile aynı savunma avantajlarını sağlar. Bir kışlanın yanındaki tepeye inşa edilmelidir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BUILDING_BIG_BEN_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BUILDING_BIG_BEN_DESCRIPTION">
 			<Text>+1 ekonomik politika yuvası [NEWLINE][NEWLINE] Mevcut altın rezervinizi ikiye katlar. Bir banka içeren ticaret merkezinin yanındaki, bir nehirle sınırlandırılmış kareye inşa edilmelidir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BUILDING_BOLSHOI_THEATRE_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BUILDING_BOLSHOI_THEATRE_DESCRIPTION">
 			<Text>İnşası tamamlandığında iki rastgele ücretsiz doktrin verir. Bir tiyatro meydanının yanındaki düz araziye inşa edilmelidir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BUILDING_BROADWAY_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BUILDING_BROADWAY_DESCRIPTION">
 			<Text>+20% [ICON_Culture] kültür bu şehre. 1 ücretsiz modern çağ doktrin artışı sağlar. Bir tiyatro meydanının yanındaki düz araziye inşa edilmelidir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BUILDING_CHICHEN_ITZA_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BUILDING_CHICHEN_ITZA_DESCRIPTION">
 			<Text>+2 [ICON_Culture] kültür bu şehrin yağmur ormanı karelerine. +1 [ICON_Production] üretim yağmur ormanı karelerine. Yağmur ormanına inşa edilmelidir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BUILDING_COLOSSEUM_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BUILDING_COLOSSEUM_DESCRIPTION">
 			<Text>Colosseum’un [ICON_Culture] kültürü ve [ICON_Amenities] olanakları, her 6 kare içinde bulunan şehir merkezlerine uzanır. Bir eğlence kompleksi yanındaki düz araziye inşa edilmelidir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BUILDING_COLOSSUS_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BUILDING_COLOSSUS_DESCRIPTION">
 			<Text>+1 [ICON_TradeRoute] ticaret yolu kapasitesine. Bir ticaret gemisi verir. Bir liman ve kara ile bitişik bir kıyı karesine inşa edilmelidir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BUILDING_CRISTO_REDENTOR_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BUILDING_CRISTO_REDENTOR_DESCRIPTION">
 			<Text>Kutsal şehirlerin ve [ICON_GreatWork_Relic] kalıntıların [ICON_Tourism] turizmi, diğer uygarlıklar aydınlanma doktrinini geliştirdikten sonra azalmayacaktır. +100 [ICON_Tourism] turizm sahil tatil köylerine. Bir tepeye inşa edilmelidir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BUILDING_EIFFEL_TOWER_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BUILDING_EIFFEL_TOWER_DESCRIPTION">
 			<Text>Ülkemizin tüm kareleri +2 çekicilik kazanır. Şehir merkezinin yanındaki düz araziye inşa edilmelidir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BUILDING_ESTADIO_DO_MARACANA_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BUILDING_ESTADIO_DO_MARACANA_DESCRIPTION">
 			<Text>+2 [ICON_Amenities] olanaklar her şehrimize. Bir stadyum içeren eğlence kompleksinin yanındaki düz araziye inşa edilmelidir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BUILDING_FORBIDDEN_CITY_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BUILDING_FORBIDDEN_CITY_DESCRIPTION">
 			<Text>+1 joker politika yuvası [NEWLINE][NEWLINE] Şehir merkezinin yanındaki düz araziye inşa edilmelidir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BUILDING_GREAT_LIBRARY_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BUILDING_GREAT_LIBRARY_DESCRIPTION">
 			<Text>Antik dönem ve klasik dönem teknolojileri için artış sağlar. Bir kütüphane içeren kampüsün yanındaki düz araziye inşa edilmelidir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BUILDING_GREAT_LIGHTHOUSE_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BUILDING_GREAT_LIGHTHOUSE_DESCRIPTION">
 			<Text>+1 [ICON_Movement] hareket tüm deniz birimlerine [NEWLINE][NEWLINE] Bir deniz feneri içeren liman ve kara ile bitişik bir kıyı karesine inşa edilmelidir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BUILDING_GREAT_ZIMBABWE_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BUILDING_GREAT_ZIMBABWE_DESCRIPTION">
 			<Text>+1 [ICON_TradeRoute] ticaret yolu kapasitesine [NEWLINE][NEWLINE] Bu şehirden ayrılan [ICON_TradeRoute] ticaret yollarımız, her 3 karede bulunan stratejik kaynağa +2 [ICON_Gold] altın kazandırır. Bir pazar içeren ticaret merkezi ve [ICON_RESOURCE_CATTLE] sığır kaynağına bitişik kareye inşa edilmelidir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BUILDING_HAGIA_SOPHIA_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BUILDING_HAGIA_SOPHIA_DESCRIPTION">
 			<Text>Misyonerler ve havariler bir kez daha inanç yayabilir. Bir kutsal alanın yanındaki düz araziye ve kendi dinimiz olmalıdır.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BUILDING_HANGING_GARDENS_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BUILDING_HANGING_GARDENS_DESCRIPTION">
 			<Text>Şehirlerimizin büyümesini %15 hızlandırır. Bir nehir kenarına inşa edilmelidir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BUILDING_HERMITAGE_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BUILDING_HERMITAGE_DESCRIPTION">
 			<Text>Bir nehir kenarına inşa edilmelidir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BUILDING_MAHABODHI_TEMPLE_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BUILDING_MAHABODHI_TEMPLE_DESCRIPTION">
 			<Text>2 havari verir. Bir tapınak içeren kutsal alanın yanındaki orman karesine ve kendi dinimiz olmalıdır.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BUILDING_MONT_ST_MICHEL_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BUILDING_MONT_ST_MICHEL_DESCRIPTION">
 			<Text>Tüm havarilerimiz, seçilen ek ikincil yeteneklerinin yanında şehit olma yeteneğine sahiptir. Taşkın ovasına veya bataklığa inşa edilmelidir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BUILDING_ORACLE_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BUILDING_ORACLE_DESCRIPTION">
 			<Text>Önemli kişileri işe almak, %25 [ICON_Faith] inanç daha az gerektirir. Bu şehrin bölgeleri, bölgenin türüne göre +2 [ICON_GreatPerson] büyük kişi puanı sağlar (örneğin, tiyatro meydanlarından [ICON_GreatWriter] büyük yazar puanları). Bir tepeye inşa edilmelidir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BUILDING_OXFORD_UNIVERSITY_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BUILDING_OXFORD_UNIVERSITY_DESCRIPTION">
 			<Text>Bu şehirde +20% [ICON_Science] bilim sağlar ve tamamlandığında iki rastgele teknoloji ile ödüllendirir. Bir üniversite içeren kampüsün yanındaki çayırlık veya düzlük araziye inşa edilmelidir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BUILDING_POTALA_PALACE_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BUILDING_POTALA_PALACE_DESCRIPTION">
 			<Text>+1 diplomatik kart yuvası sağlar [NEWLINE][NEWLINE] Bir dağın yanındaki tepeye inşa edilmelidir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BUILDING_PETRA_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BUILDING_PETRA_DESCRIPTION">
 			<Text>Bu şehrin çöl karelerine +2 [ICON_Food] gıda, +2 [ICON_Gold] altın ve +1 [ICON_Production] üretim sağlar (taşkın ovaları hariç). Düz çöl veya taşkın ovasına inşa edilmelidir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BUILDING_PYRAMIDS_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BUILDING_PYRAMIDS_DESCRIPTION">
 			<Text>Ücretsiz bir inşaatçı verir. Tüm inşaatçılar bir yapı daha yapabilir. Düz çöl veya taşkın ovasına inşa edilmelidir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BUILDING_RUHR_VALLEY_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BUILDING_RUHR_VALLEY_DESCRIPTION">
 			<Text>Bu şehre +20% [ICON_Production] üretim sağlar ve her maden ve taş ocağına +1 [ICON_Production] üretim ekler. Bir fabrika içeren sanayi bölgesinin ve bir nehrin yanına inşa edilmelidir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BUILDING_STONEHENGE_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BUILDING_STONEHENGE_DESCRIPTION">
 			<Text>Ücretsiz bir [ICON_GreatProphet] büyük peygamber verir. [ICON_GreatProphet] Büyük peygamber, dini Stonehenge'de bir kutsal yer yerine kurabilir. [ICON_RESOURCE_STONE] taş kaynağına bitişik düz bir araziye inşa edilmelidir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BUILDING_SYDNEY_OPERA_HOUSE_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BUILDING_SYDNEY_OPERA_HOUSE_DESCRIPTION">
 			<Text>Bir limana ve karaya bitişik kıyı karesine inşa edilmelidir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BUILDING_TERRACOTTA_ARMY_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BUILDING_TERRACOTTA_ARMY_DESCRIPTION">
 			<Text>Tüm mevcut birimler bir terfi alır. Sahip olanın arkeologları, açık sınırlar olmadan yabancı topraklarda gezebilir. Paraklar veya ahır içeren kışlanın yanındaki düz çimenlik veya düzlük araziye inşa edilmelidir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BUILDING_VENETIAN_ARSENAL_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BUILDING_VENETIAN_ARSENAL_DESCRIPTION">
 			<Text>Deniz birimleri, eğitildiklerinde çift olarak tamamlanır. Bir sanayi bölgesinin yanındaki kıyı karesine inşa edilmelidir.</Text>
 		</Replace>
 		<!--Theming Bonuses-->
-		<Replace Language="pl_PL" Tag="LOC_BUILDING_THEMINGBONUS_ART">
+		<Replace Language="en_US" Tag="LOC_BUILDING_THEMINGBONUS_ART">
 			<Text>Tema bonusu, sergilenen eserler aynı türden fakat farklı sanatçılara ait olduğunda iki katına çıkar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BUILDING_THEMINGBONUS_ARCHAEOLOGY">
+		<Replace Language="en_US" Tag="LOC_BUILDING_THEMINGBONUS_ARCHAEOLOGY">
 			<Text>Tema bonusu, sergilenen eserler aynı döneme ait fakat farklı uluslardan gelen [ICON_GreatWork_Artifact] eserler olduğunda iki katına çıkar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BUILDING_THEMINGBONUS_FULL_MUSEUM">
+		<Replace Language="en_US" Tag="LOC_BUILDING_THEMINGBONUS_FULL_MUSEUM">
 			<Text>Tema bonusu, müze tamamen dolu olduğunda iki katına çıkar.</Text>
 		</Replace>
 	</LocalizedText>

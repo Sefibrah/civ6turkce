@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameData>
 	<LocalizedText>
-		<Replace Language="pl_PL" Tag="LOC_MACEDONIA_PERSIA_MOD_TITLE">
+		<Replace Language="en_US" Tag="LOC_MACEDONIA_PERSIA_MOD_TITLE">
 			<Text>Genişleme Paketi: Pers ve Makedonya</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MACEDONIA_PERSIA_MOD_TEASER">
+		<Replace Language="en_US" Tag="LOC_MACEDONIA_PERSIA_MOD_TEASER">
 			<Text>Yeni uygarlıklar ve liderler: Makedonya'dan Büyük İskender ve Perslerden Kiros</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MACEDONIA_PERSIA_MOD_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_MACEDONIA_PERSIA_MOD_DESCRIPTION">
 			<Text>İki yeni uygarlık ve lider, ayrıca iki yeni dünya harikası içerir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MOD_ALEXANDER_SCENARIO_TITLE">
+		<Replace Language="en_US" Tag="LOC_MOD_ALEXANDER_SCENARIO_TITLE">
 			<Text>Senaryo: İskender’in Fetihleri</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MOD_ALEXANDER_SCENARIO_TEASER">
+		<Replace Language="en_US" Tag="LOC_MOD_ALEXANDER_SCENARIO_TEASER">
 			<Text>İskender kadar büyük bir imparatorluk kurabilir misin? En fazla 60 tur süren bir meydan okuma seni bekliyor.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MOD_ALEXANDER_SCENARIO_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_MOD_ALEXANDER_SCENARIO_DESCRIPTION">
 			<Text>Bu tek oyunculu senaryoda, "Büyük İskender" unvanını hak etmek için imparatorluğunu genişletmen gerekiyor. Senaryo savaş, toprak kazanımı ve yanında savaşan önemli generalleri stratejik olarak kullanmaya odaklanır.[NEWLINE][NEWLINE]Zafer için her şehir ele geçirilmelidir ve zorluk seviyesine göre belirli tur sayısında tamamlanmalıdır:[NEWLINE][NEWLINE]Yerleşimci: 60 tur[NEWLINE]Savaş Lordu veya Kabile Şefi: 55 tur[NEWLINE]Kral veya Prens: 50 tur[NEWLINE]Ölümsüz veya İmparator: 45 tur[NEWLINE]Tanrısal: 37 tur</Text>
 		</Replace>
 	</LocalizedText>

@@ -2,29 +2,29 @@
 <GameData>
 	<LocalizedText>
 		<!-- Main menu text -->
-		<Replace Language="pl_PL" Tag="LOC_BENCHMARK_GRAPHICS">
+		<Replace Language="en_US" Tag="LOC_BENCHMARK_GRAPHICS">
 			<Text>Grafik performansı</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BENCHMARK_AI">
+		<Replace Language="en_US" Tag="LOC_BENCHMARK_AI">
 			<Text>Yapay zeka performansı</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BENCHMARK_GRAPHICS_TT">
+		<Replace Language="en_US" Tag="LOC_BENCHMARK_GRAPHICS_TT">
 			<Text>Bilgisayarınızın grafik performansını ölçer</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BENCHMARK_AI_TT">
+		<Replace Language="en_US" Tag="LOC_BENCHMARK_AI_TT">
 			<Text>Bilgisayarınızın yapay zeka performansını ölçer</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BENCHMARK_AI_TT_ERROR">
+		<Replace Language="en_US" Tag="LOC_BENCHMARK_AI_TT_ERROR">
 			<Text>[COLOR_RED]Ölçümün yapılabilmesi için Aztek DLC'si etkinleştirilmelidir.[ENDCOLOR]</Text>
 		</Replace>
 		<!-- Benchmarking UI text -->
-		<Replace Language="pl_PL" Tag="LOC_BENCHMARK_TIME">
+		<Replace Language="en_US" Tag="LOC_BENCHMARK_TIME">
 			<Text>Süre:</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BENCHMARK_TURN">
+		<Replace Language="en_US" Tag="LOC_BENCHMARK_TURN">
 			<Text>Tur:</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BENCHMARK_AVG_TURN_TIME">
+		<Replace Language="en_US" Tag="LOC_BENCHMARK_AVG_TURN_TIME">
 			<Text>Ortalama tur süresi:</Text>
 		</Replace>
 	</LocalizedText>

@@ -2,480 +2,480 @@
 <GameData>
 	<LocalizedText>
 		<!--RELIGIONS-->
-		<Replace Language="pl_PL" Tag="LOC_RELIGION_PANTHEON">
+		<Replace Language="en_US" Tag="LOC_RELIGION_PANTHEON">
 			<Text>Pantheon</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_RELIGION_BUDDHISM">
+		<Replace Language="en_US" Tag="LOC_RELIGION_BUDDHISM">
 			<Text>Budizm|Budizmin|budizme</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_RELIGION_CATHOLICISM">
+		<Replace Language="en_US" Tag="LOC_RELIGION_CATHOLICISM">
 			<Text>Katoliklik|Katolikliğin|katolikliğe</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_RELIGION_CONFUCIANISM">
+		<Replace Language="en_US" Tag="LOC_RELIGION_CONFUCIANISM">
 			<Text>Konfüçyüsçülük|Konfüçyüsçülüğün|konfüçyüsçülüğe</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_RELIGION_HINDUISM">
+		<Replace Language="en_US" Tag="LOC_RELIGION_HINDUISM">
 			<Text>Hinduizm|Hinduizmin|hinduizme</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_RELIGION_ISLAM">
+		<Replace Language="en_US" Tag="LOC_RELIGION_ISLAM">
 			<Text>İslam|İslamın|islama</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_RELIGION_JUDAISM">
+		<Replace Language="en_US" Tag="LOC_RELIGION_JUDAISM">
 			<Text>Yahudilik|Yahudiliğin|yahudiliğe</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_RELIGION_ORTHODOXY">
+		<Replace Language="en_US" Tag="LOC_RELIGION_ORTHODOXY">
 			<Text>Ortodoksluk|Ortodoksluğun|ortodoksluğa</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_RELIGION_PROTESTANTISM">
+		<Replace Language="en_US" Tag="LOC_RELIGION_PROTESTANTISM">
 			<Text>Protestanlık|Protestanlığın|protestanlığa</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_RELIGION_SHINTO">
+		<Replace Language="en_US" Tag="LOC_RELIGION_SHINTO">
 			<Text>Şintoizm|Şintoizmin|şintoizme</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_RELIGION_SIKHISM">
+		<Replace Language="en_US" Tag="LOC_RELIGION_SIKHISM">
 			<Text>Sihizm|Sihizmin|sihizme</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_RELIGION_TAOISM">
+		<Replace Language="en_US" Tag="LOC_RELIGION_TAOISM">
 			<Text>Taoizm|Taoizmin|taoizme</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_RELIGION_ZOROASTRIANISM">
+		<Replace Language="en_US" Tag="LOC_RELIGION_ZOROASTRIANISM">
 			<Text>Zerdüştlük|Zerdüştlüğün|zerdüştlüğe</Text>
 		</Replace>
 		<!--BELIEF CLASSES-->
-		<Replace Language="pl_PL" Tag="LOC_BELIEF_CLASS_PANTHEON_NAME">
+		<Replace Language="en_US" Tag="LOC_BELIEF_CLASS_PANTHEON_NAME">
 			<Text>Pantheon İnançları</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BELIEF_CLASS_FOLLOWER_NAME">
+		<Replace Language="en_US" Tag="LOC_BELIEF_CLASS_FOLLOWER_NAME">
 			<Text>Takipçiler</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BELIEF_CLASS_WORSHIP_NAME">
+		<Replace Language="en_US" Tag="LOC_BELIEF_CLASS_WORSHIP_NAME">
 			<Text>İbadet</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BELIEF_CLASS_FOUNDER_NAME">
+		<Replace Language="en_US" Tag="LOC_BELIEF_CLASS_FOUNDER_NAME">
 			<Text>Kurucular</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BELIEF_CLASS_ENHANCER_NAME">
+		<Replace Language="en_US" Tag="LOC_BELIEF_CLASS_ENHANCER_NAME">
 			<Text>Geliştiriciler</Text>
 		</Replace>
 		<!--MISCELLANEOUS-->
-		<Replace Language="pl_PL" Tag="LOC_RELIGION_MARTYRED_APOSTLE">
+		<Replace Language="en_US" Tag="LOC_RELIGION_MARTYRED_APOSTLE">
 			<Text>Şehit Havarisi</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_RELIC_TRIBAL_VILLAGE">
+		<Replace Language="en_US" Tag="LOC_RELIC_TRIBAL_VILLAGE">
 			<Text>Kabile Köyü</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_RELIC_GOVERNOR">
+		<Replace Language="en_US" Tag="LOC_RELIC_GOVERNOR">
 			<Text>Vali</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_RELIC_CITY_STATE">
+		<Replace Language="en_US" Tag="LOC_RELIC_CITY_STATE">
 			<Text>Şehir Devleti</Text>
 		</Replace>
 		<!--PANTHEON NAMES-->
 		<!--1. PANTHEON BELIEFS-->
 		<!--Pantheon - Adjacency Bonuses-->
-		<Replace Language="pl_PL" Tag="LOC_BELIEF_DANCE_OF_THE_AURORA_NAME">
+		<Replace Language="en_US" Tag="LOC_BELIEF_DANCE_OF_THE_AURORA_NAME">
 			<Text>Aurora'nın Dansı</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BELIEF_DESERT_FOLKLORE_NAME">
+		<Replace Language="en_US" Tag="LOC_BELIEF_DESERT_FOLKLORE_NAME">
 			<Text>Çöl Folkloru</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BELIEF_SACRED_PATH_NAME">
+		<Replace Language="en_US" Tag="LOC_BELIEF_SACRED_PATH_NAME">
 			<Text>Kutsal Yol</Text>
 		</Replace>
 		<!--Pantheon - Amenity Bonuses-->
-		<Replace Language="pl_PL" Tag="LOC_BELIEF_RIVER_GODDESS_NAME">
+		<Replace Language="en_US" Tag="LOC_BELIEF_RIVER_GODDESS_NAME">
 			<Text>Nehir Tanrıçası</Text>
 		</Replace>
 		<!--Pantheon - Gameplay Race Bonuses-->
-		<Replace Language="pl_PL" Tag="LOC_BELIEF_MONUMENT_TO_THE_GODS_NAME">
+		<Replace Language="en_US" Tag="LOC_BELIEF_MONUMENT_TO_THE_GODS_NAME">
 			<Text>Tanrıların Anıtı</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BELIEF_DIVINE_SPARK_NAME">
+		<Replace Language="en_US" Tag="LOC_BELIEF_DIVINE_SPARK_NAME">
 			<Text>İlahi Kıvılcım</Text>
 		</Replace>
 		<!--Pantheon - Local Feature Bonuses-->
-		<Replace Language="pl_PL" Tag="LOC_BELIEF_LADY_OF_THE_REEDS_AND_MARSHES_NAME">
+		<Replace Language="en_US" Tag="LOC_BELIEF_LADY_OF_THE_REEDS_AND_MARSHES_NAME">
 			<Text>Sazlıklar ve Bataklıkların Hanımı</Text>
 		</Replace>
 		<!--Pantheon - Local Resource Bonuses-->
-		<Replace Language="pl_PL" Tag="LOC_BELIEF_GOD_OF_THE_SEA_NAME">
+		<Replace Language="en_US" Tag="LOC_BELIEF_GOD_OF_THE_SEA_NAME">
 			<Text>Deniz Tanrısı</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BELIEF_GOD_OF_THE_OPEN_SKY_NAME">
+		<Replace Language="en_US" Tag="LOC_BELIEF_GOD_OF_THE_OPEN_SKY_NAME">
 			<Text>Açık Gökyüzü Tanrısı</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BELIEF_GODDESS_OF_THE_HUNT_NAME">
+		<Replace Language="en_US" Tag="LOC_BELIEF_GODDESS_OF_THE_HUNT_NAME">
 			<Text>Av Tanrıçası</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BELIEF_STONE_CIRCLES_NAME">
+		<Replace Language="en_US" Tag="LOC_BELIEF_STONE_CIRCLES_NAME">
 			<Text>Taş Çemberler</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BELIEF_RELIGIOUS_IDOLS_NAME">
+		<Replace Language="en_US" Tag="LOC_BELIEF_RELIGIOUS_IDOLS_NAME">
 			<Text>Dini Putlar</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BELIEF_GOD_OF_CRAFTSMEN_NAME">
+		<Replace Language="en_US" Tag="LOC_BELIEF_GOD_OF_CRAFTSMEN_NAME">
 			<Text>Zanaatkarların Tanrısı</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BELIEF_GODDESS_OF_FESTIVALS_NAME">
+		<Replace Language="en_US" Tag="LOC_BELIEF_GODDESS_OF_FESTIVALS_NAME">
 			<Text>Festival Tanrıçası</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BELIEF_ORAL_TRADITION_NAME">
+		<Replace Language="en_US" Tag="LOC_BELIEF_ORAL_TRADITION_NAME">
 			<Text>Sözlü Gelenek</Text>
 		</Replace>
 		<!--Pantheon - Military -->
-		<Replace Language="pl_PL" Tag="LOC_BELIEF_GOD_OF_THE_FORGE_NAME">
+		<Replace Language="en_US" Tag="LOC_BELIEF_GOD_OF_THE_FORGE_NAME">
 			<Text>Demirci Tanrısı</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BELIEF_GOD_OF_WAR_NAME">
+		<Replace Language="en_US" Tag="LOC_BELIEF_GOD_OF_WAR_NAME">
 			<Text>Savaş Tanrısı</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BELIEF_INITIATION_RITES_NAME">
+		<Replace Language="en_US" Tag="LOC_BELIEF_INITIATION_RITES_NAME">
 			<Text>Başlangıç Ayinleri</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BELIEF_GOD_OF_HEALING_NAME">
+		<Replace Language="en_US" Tag="LOC_BELIEF_GOD_OF_HEALING_NAME">
 			<Text>Şifa Tanrısı</Text>
 		</Replace>
 		<!--Pantheon - General Purpose-->
-		<Replace Language="pl_PL" Tag="LOC_BELIEF_FERTILITY_RITES_NAME">
+		<Replace Language="en_US" Tag="LOC_BELIEF_FERTILITY_RITES_NAME">
 			<Text>Doğurganlık Ayinleri</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BELIEF_RELIGIOUS_SETTLEMENTS_NAME">
+		<Replace Language="en_US" Tag="LOC_BELIEF_RELIGIOUS_SETTLEMENTS_NAME">
 			<Text>Dini Yerleşimler</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BELIEF_GODDESS_OF_THE_HARVEST_NAME">
+		<Replace Language="en_US" Tag="LOC_BELIEF_GODDESS_OF_THE_HARVEST_NAME">
 			<Text>Hasat Tanrıçası</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BELIEF_CITY_PATRON_GODDESS_NAME">
+		<Replace Language="en_US" Tag="LOC_BELIEF_CITY_PATRON_GODDESS_NAME">
 			<Text>Şehirlerin Koruyucu Tanrıçası</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BELIEF_EARTH_GODDESS_NAME">
+		<Replace Language="en_US" Tag="LOC_BELIEF_EARTH_GODDESS_NAME">
 			<Text>Toprak Tanrıçası</Text>
 		</Replace>
 		<!--2. WORSHIP BELIEFS-->
-		<Replace Language="pl_PL" Tag="LOC_BELIEF_CATHEDRAL_NAME">
+		<Replace Language="en_US" Tag="LOC_BELIEF_CATHEDRAL_NAME">
 			<Text>Katedral</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BELIEF_DAR_E_MEHR_NAME">
+		<Replace Language="en_US" Tag="LOC_BELIEF_DAR_E_MEHR_NAME">
 			<Text>Ateş Tapınağı</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BELIEF_GURDWARA_NAME">
+		<Replace Language="en_US" Tag="LOC_BELIEF_GURDWARA_NAME">
 			<Text>Gurdwara</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BELIEF_MEETING_HOUSE_NAME">
+		<Replace Language="en_US" Tag="LOC_BELIEF_MEETING_HOUSE_NAME">
 			<Text>Toplantı Evi</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BELIEF_MOSQUE_NAME">
+		<Replace Language="en_US" Tag="LOC_BELIEF_MOSQUE_NAME">
 			<Text>Cami</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BELIEF_PAGODA_NAME">
+		<Replace Language="en_US" Tag="LOC_BELIEF_PAGODA_NAME">
 			<Text>Pagoda</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BELIEF_STUPA_NAME">
+		<Replace Language="en_US" Tag="LOC_BELIEF_STUPA_NAME">
 			<Text>Stupa</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BELIEF_SYNAGOGUE_NAME">
+		<Replace Language="en_US" Tag="LOC_BELIEF_SYNAGOGUE_NAME">
 			<Text>Sinagog</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BELIEF_WAT_NAME">
+		<Replace Language="en_US" Tag="LOC_BELIEF_WAT_NAME">
 			<Text>Wat</Text>
 		</Replace>
 		<!--3. FOLLOWER BELIEFS-->
-		<Replace Language="pl_PL" Tag="LOC_BELIEF_CHORAL_MUSIC_NAME">
+		<Replace Language="en_US" Tag="LOC_BELIEF_CHORAL_MUSIC_NAME">
 			<Text>Koro Müziği</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BELIEF_DIVINE_INSPIRATION_NAME">
+		<Replace Language="en_US" Tag="LOC_BELIEF_DIVINE_INSPIRATION_NAME">
 			<Text>İlahi İlham</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BELIEF_FEED_THE_WORLD_NAME">
+		<Replace Language="en_US" Tag="LOC_BELIEF_FEED_THE_WORLD_NAME">
 			<Text>Dünyayı Besle</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BELIEF_JESUIT_EDUCATION_NAME">
+		<Replace Language="en_US" Tag="LOC_BELIEF_JESUIT_EDUCATION_NAME">
 			<Text>Cizvit Eğitimi</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BELIEF_RELIQUARIES_NAME">
+		<Replace Language="en_US" Tag="LOC_BELIEF_RELIQUARIES_NAME">
 			<Text>Relikvariler</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BELIEF_RELIGIOUS_COMMUNITY_NAME">
+		<Replace Language="en_US" Tag="LOC_BELIEF_RELIGIOUS_COMMUNITY_NAME">
 			<Text>Dini Topluluk</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BELIEF_WARRIOR_MONKS_NAME">
+		<Replace Language="en_US" Tag="LOC_BELIEF_WARRIOR_MONKS_NAME">
 			<Text>Savaşçı Rahipler</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BELIEF_WORK_ETHIC_NAME">
+		<Replace Language="en_US" Tag="LOC_BELIEF_WORK_ETHIC_NAME">
 			<Text>Çalışma Etiği</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BELIEF_ZEN_MEDITATION_NAME">
+		<Replace Language="en_US" Tag="LOC_BELIEF_ZEN_MEDITATION_NAME">
 			<Text>Zen Meditasyonu</Text>
 		</Replace>
 		<!--4. FOUNDER BELIEFS-->
-		<Replace Language="pl_PL" Tag="LOC_BELIEF_CHURCH_PROPERTY_NAME">
+		<Replace Language="en_US" Tag="LOC_BELIEF_CHURCH_PROPERTY_NAME">
 			<Text>Kilise Mülkü</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BELIEF_CROSS_CULTURAL_DIALOGUE_NAME">
+		<Replace Language="en_US" Tag="LOC_BELIEF_CROSS_CULTURAL_DIALOGUE_NAME">
 			<Text>Kültürlerarası Diyalog</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BELIEF_LAY_MINISTRY_NAME">
+		<Replace Language="en_US" Tag="LOC_BELIEF_LAY_MINISTRY_NAME">
 			<Text>Laik Bakanlık</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BELIEF_PAPAL_PRIMACY_NAME">
+		<Replace Language="en_US" Tag="LOC_BELIEF_PAPAL_PRIMACY_NAME">
 			<Text>Papalık Üstünlüğü</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BELIEF_PILGRIMAGE_NAME">
+		<Replace Language="en_US" Tag="LOC_BELIEF_PILGRIMAGE_NAME">
 			<Text>Hac</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BELIEF_RELIGIOUS_UNITY_NAME">
+		<Replace Language="en_US" Tag="LOC_BELIEF_RELIGIOUS_UNITY_NAME">
 			<Text>Dini Birlik</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BELIEF_STEWARDSHIP_NAME">
+		<Replace Language="en_US" Tag="LOC_BELIEF_STEWARDSHIP_NAME">
 			<Text>Vekillik</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BELIEF_TITHE_NAME">
+		<Replace Language="en_US" Tag="LOC_BELIEF_TITHE_NAME">
 			<Text>Ondalık</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BELIEF_WORLD_CHURCH_NAME">
+		<Replace Language="en_US" Tag="LOC_BELIEF_WORLD_CHURCH_NAME">
 			<Text>Dünya Kilisesi</Text>
 		</Replace>
 		<!--5. ENHANCER BELIEFS-->
-		<Replace Language="pl_PL" Tag="LOC_BELIEF_BURIAL_GROUNDS_NAME">
+		<Replace Language="en_US" Tag="LOC_BELIEF_BURIAL_GROUNDS_NAME">
 			<Text>Mezarlıklar</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BELIEF_DEFENDER_OF_FAITH_NAME">
+		<Replace Language="en_US" Tag="LOC_BELIEF_DEFENDER_OF_FAITH_NAME">
 			<Text>İman Savunucusu</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BELIEF_HOLY_ORDER_NAME">
+		<Replace Language="en_US" Tag="LOC_BELIEF_HOLY_ORDER_NAME">
 			<Text>Kutsal Düzen</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BELIEF_ITINERANT_PREACHERS_NAME">
+		<Replace Language="en_US" Tag="LOC_BELIEF_ITINERANT_PREACHERS_NAME">
 			<Text>Gezici Vaizler</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BELIEF_JUST_WAR_NAME">
+		<Replace Language="en_US" Tag="LOC_BELIEF_JUST_WAR_NAME">
 			<Text>Haklı Savaş</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BELIEF_MISSIONARY_ZEAL_NAME">
+		<Replace Language="en_US" Tag="LOC_BELIEF_MISSIONARY_ZEAL_NAME">
 			<Text>Misyoner Coşkusu</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BELIEF_MONASTIC_ISOLATION_NAME">
+		<Replace Language="en_US" Tag="LOC_BELIEF_MONASTIC_ISOLATION_NAME">
 			<Text>Manastır İzolasyonu</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BELIEF_RELIGIOUS_COLONIZATION_NAME">
+		<Replace Language="en_US" Tag="LOC_BELIEF_RELIGIOUS_COLONIZATION_NAME">
 			<Text>Dini Kolonizasyon</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BELIEF_SCRIPTURE_NAME">
+		<Replace Language="en_US" Tag="LOC_BELIEF_SCRIPTURE_NAME">
 			<Text>Kutsal Yazı</Text>
 		</Replace>
 		<!--PANTHEON DESCRIPTIONS-->
 		<!--1. PANTHEON BELIEFS-->
 		<!--Pantheon - Adjacency Bonuses-->
-		<Replace Language="pl_PL" Tag="LOC_BELIEF_DANCE_OF_THE_AURORA_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BELIEF_DANCE_OF_THE_AURORA_DESCRIPTION">
 			<Text>Kutsal alanlar yakınlarındaki tundra karelerinden +1 [ICON_Faith] inanç kazanır.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BELIEF_DESERT_FOLKLORE_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BELIEF_DESERT_FOLKLORE_DESCRIPTION">
 			<Text>Kutsal alanlar yakınlarındaki çöl karelerinden +1 [ICON_Faith] inanç kazanır.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BELIEF_SACRED_PATH_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BELIEF_SACRED_PATH_DESCRIPTION">
 			<Text>Kutsal alanlar yakınlarındaki yağmur ormanı karelerinden +1 [ICON_Faith] inanç kazanır.</Text>
 		</Replace>
 		<!--Pantheon - Amenity Bonuses-->
-		<Replace Language="pl_PL" Tag="LOC_BELIEF_RIVER_GODDESS_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BELIEF_RIVER_GODDESS_DESCRIPTION">
 			<Text>+1 [ICON_Amenities] yaşam kalitesi, eğer kutsal alan bir nehrin yanındaysa.</Text>
 		</Replace>
 		<!--Pantheon - Gameplay Race Bonuses-->
-		<Replace Language="pl_PL" Tag="LOC_BELIEF_MONUMENT_TO_THE_GODS_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BELIEF_MONUMENT_TO_THE_GODS_DESCRIPTION">
 			<Text>Antik çağ ve klasik çağ harikaları için +15% [ICON_Production] üretim sağlar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BELIEF_DIVINE_SPARK_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BELIEF_DIVINE_SPARK_DESCRIPTION">
 			<Text>Kutsal alanlardan (peygamberler için), kampüslerden (bilim insanları için) ve tiyatro alanlarından (yazarlar için) +1 [ICON_GreatPerson] büyük insan puanı sağlar.</Text>
 		</Replace>
 		<!--Pantheon - Local Feature Bonuses-->
-		<Replace Language="pl_PL" Tag="LOC_BELIEF_LADY_OF_THE_REEDS_AND_MARSHES_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BELIEF_LADY_OF_THE_REEDS_AND_MARSHES_DESCRIPTION">
 			<Text>Bataklık, vaha ve taşkın ovalarından +1 [ICON_Production] üretim sağlar.</Text>
 		</Replace>
 		<!--Pantheon - Local Resource Bonuses-->
-		<Replace Language="pl_PL" Tag="LOC_BELIEF_GOD_OF_THE_SEA_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BELIEF_GOD_OF_THE_SEA_DESCRIPTION">
 			<Text>Balıkçı alanlarından +1 [ICON_Production] üretim sağlar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BELIEF_GOD_OF_THE_OPEN_SKY_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BELIEF_GOD_OF_THE_OPEN_SKY_DESCRIPTION">
 			<Text>Mera alanlarından +1 [ICON_Culture] kültür sağlar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BELIEF_GODDESS_OF_THE_HUNT_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BELIEF_GODDESS_OF_THE_HUNT_DESCRIPTION">
 			<Text>Kamp alanlarından +1 [ICON_Food] gıda sağlar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BELIEF_STONE_CIRCLES_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BELIEF_STONE_CIRCLES_DESCRIPTION">
 			<Text>Taş ocaklarından +2 [ICON_Faith] inanç sağlar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BELIEF_RELIGIOUS_IDOLS_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BELIEF_RELIGIOUS_IDOLS_DESCRIPTION">
 			<Text>Lüks ve stratejik kaynak madenlerinden +2 [ICON_Faith] inanç sağlar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BELIEF_GOD_OF_CRAFTSMEN_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BELIEF_GOD_OF_CRAFTSMEN_DESCRIPTION">
 			<Text>Stratejik kaynak madenlerinden +1 [ICON_Production] üretim sağlar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BELIEF_GODDESS_OF_FESTIVALS_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BELIEF_GODDESS_OF_FESTIVALS_DESCRIPTION">
 			<Text>Şarap, tütsü, kakao, tütün, kahve ve çay plantasyonlarından +1 [ICON_Food] gıda sağlar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BELIEF_ORAL_TRADITION_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BELIEF_ORAL_TRADITION_DESCRIPTION">
 			<Text>Muz, narenciye, pamuk, boya, ipek, baharat ve şeker plantasyonlarından +1 [ICON_Culture] kültür sağlar.</Text>
 		</Replace>
 		<!--Pantheon - Military -->
-		<Replace Language="pl_PL" Tag="LOC_BELIEF_GOD_OF_THE_FORGE_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BELIEF_GOD_OF_THE_FORGE_DESCRIPTION">
 			<Text>Antik ve klasik çağ askeri birimleri için +25% [ICON_Production] üretim sağlar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BELIEF_GOD_OF_HEALING_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BELIEF_GOD_OF_HEALING_DESCRIPTION">
 			<Text>Kutsal alanda ve çevresindeki karelerde +30 sağlık yenilemesi sağlar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BELIEF_GOD_OF_WAR_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BELIEF_GOD_OF_WAR_DESCRIPTION">
 			<Text>Kutsal alandan sekiz kare mesafedeki bir düşman birimi yok edildiğinde, gücünün yarısı [ICON_Faith] inanç olarak kazanılır.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BELIEF_INITIATION_RITES_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BELIEF_INITIATION_RITES_DESCRIPTION">
 			<Text>Her yok edilen barbar kampından +50 [ICON_Faith] inanç kazanılır.</Text>
 		</Replace>
 		<!--Pantheon - General Purpose-->
-		<Replace Language="pl_PL" Tag="LOC_BELIEF_FERTILITY_RITES_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BELIEF_FERTILITY_RITES_DESCRIPTION">
 			<Text>Şehirlerin büyüme hızı %10 daha hızlıdır.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BELIEF_RELIGIOUS_SETTLEMENTS_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BELIEF_RELIGIOUS_SETTLEMENTS_DESCRIPTION">
 			<Text>Sınır genişleme hızı %15 daha hızlıdır.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BELIEF_GODDESS_OF_THE_HARVEST_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BELIEF_GODDESS_OF_THE_HARVEST_DESCRIPTION">
 			<Text>Kaynakların veya özelliklerin kaldırılması, elde edilen değer kadar [ICON_Faith] inanç sağlar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BELIEF_CITY_PATRON_GODDESS_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BELIEF_CITY_PATRON_GODDESS_DESCRIPTION">
 			<Text>Uzmanlaşmış bir şehir bölgesi olmayan şehirlerde %25 [ICON_Production] üretim sağlar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BELIEF_EARTH_GODDESS_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BELIEF_EARTH_GODDESS_DESCRIPTION">
 			<Text>Çekici veya daha yüksek cazibeye sahip karelerden +1 [ICON_Faith] inanç kazanılır.</Text>
 		</Replace>
 		<!--2. WORSHIP BELIEFS-->
-		<Replace Language="pl_PL" Tag="LOC_BELIEF_CATHEDRAL_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BELIEF_CATHEDRAL_DESCRIPTION">
 			<Text>Katedrallerin inşasına izin verir (+3 [ICON_Faith] inanç ve 1 dini sanat eseri yeri sağlar).</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BELIEF_DAR_E_MEHR_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BELIEF_DAR_E_MEHR_DESCRIPTION">
 			<Text>Ateş tapınaklarının (Dar-e Mehr) inşasına izin verir (+3 [ICON_Faith] inanç, her çağda ek +1 [ICON_Faith]).</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BELIEF_GURDWARA_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BELIEF_GURDWARA_DESCRIPTION">
 			<Text>Gurdwaraların inşasına izin verir (+3 [ICON_Faith] inanç ve +2 [ICON_Food] gıda sağlar).</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BELIEF_MEETING_HOUSE_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BELIEF_MEETING_HOUSE_DESCRIPTION">
 			<Text>Toplantı evlerinin inşasına izin verir (+3 [ICON_Faith] inanç ve +2 [ICON_Production] üretim sağlar).</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BELIEF_MOSQUE_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BELIEF_MOSQUE_DESCRIPTION">
 			<Text>Camilerin inşasına izin verir (+3 [ICON_Faith] inanç sağlar). Misyonerler ve havarilere ek yayılım hakkı verir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BELIEF_PAGODA_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BELIEF_PAGODA_DESCRIPTION">
 			<Text>Pagodaların inşasına izin verir (+3 [ICON_Faith] inanç ve +1 [ICON_Housing] konut sağlar).</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BELIEF_PAGODA_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BELIEF_PAGODA_DESCRIPTION">
 			<Text>Stupaların inşasına izin verir (+3 [ICON_Faith] inanç ve +1 [ICON_Amenities] yaşam kalitesi sağlar).</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BELIEF_SYNAGOGUE_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BELIEF_SYNAGOGUE_DESCRIPTION">
 			<Text>Sinagogların inşasına izin verir (+5 [ICON_Faith] inanç sağlar).</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BELIEF_WAT_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BELIEF_WAT_DESCRIPTION">
 			<Text>Watların inşasına izin verir (+3 [ICON_Faith] inanç ve +2 [ICON_Science] bilim sağlar).</Text>
 		</Replace>
 		<!--3. FOLLOWER BELIEFS-->
-		<Replace Language="pl_PL" Tag="LOC_BELIEF_CHORAL_MUSIC_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BELIEF_CHORAL_MUSIC_DESCRIPTION">
 			<Text>Kutsal mekanlar ve tapınaklar ürettikleri inanç miktarı kadar [ICON_Culture] kültür sağlar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BELIEF_DIVINE_INSPIRATION_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BELIEF_DIVINE_INSPIRATION_DESCRIPTION">
 			<Text>Tüm dünya harikaları +4 [ICON_Faith] inanç sağlar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BELIEF_FEED_THE_WORLD_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BELIEF_FEED_THE_WORLD_DESCRIPTION">
 			<Text>Kutsal mekanlar ve tapınaklar ürettikleri inancın yarısı kadar [ICON_Food] gıda sağlar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BELIEF_JESUIT_EDUCATION_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BELIEF_JESUIT_EDUCATION_DESCRIPTION">
 			<Text>Kampüs ve tiyatro alanlarına [ICON_Faith] inanç karşılığında binalar inşa edilebilir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BELIEF_RELIQUARIES_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BELIEF_RELIQUARIES_DESCRIPTION">
 			<Text>[ICON_GreatWork_Relic] Kalıntılar üç kat inanç ve [ICON_Tourism] turizm sağlar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BELIEF_RELIGIOUS_COMMUNITY_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BELIEF_RELIGIOUS_COMMUNITY_DESCRIPTION">
 			<Text>Kutsal mekanlar ve tapınaklar +1 [ICON_Housing] konut sağlar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BELIEF_WARRIOR_MONKS_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BELIEF_WARRIOR_MONKS_DESCRIPTION">
 			<Text>[ICON_Faith] İnanç kullanarak savaşçı keşişler eğitilebilir. Bu orta çağ kara birimleri, özel terfi seçeneklerine sahiptir ve yalnızca tapınağı olan kutsal mekanlarda eğitilebilir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BELIEF_WORK_ETHIC_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BELIEF_WORK_ETHIC_DESCRIPTION">
 			<Text>Bu inancı benimseyen şehirdeki her bir nüfus için +1% [ICON_Production] üretim sağlar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BELIEF_ZEN_MEDITATION_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BELIEF_ZEN_MEDITATION_DESCRIPTION">
 			<Text>İki uzmanlaşmış bölgeye sahip şehirlerde +1 [ICON_Amenities] yaşam kalitesi sağlar.</Text>
 		</Replace>
 		<!--4. FOUNDER BELIEFS-->
-		<Replace Language="pl_PL" Tag="LOC_BELIEF_CHURCH_PROPERTY_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BELIEF_CHURCH_PROPERTY_DESCRIPTION">
 			<Text>Bu inancı benimseyen her şehirden +2 [ICON_Gold] altın sağlar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BELIEF_CROSS_CULTURAL_DIALOGUE_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BELIEF_CROSS_CULTURAL_DIALOGUE_DESCRIPTION">
 			<Text>Başka milletlerde bu inancı benimseyen her beş şehir için +1 [ICON_Science] bilim sağlar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BELIEF_LAY_MINISTRY_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BELIEF_LAY_MINISTRY_DESCRIPTION">
 			<Text>Bu inancı benimseyen şehirlerin kutsal mekanları ve tiyatro alanları +1 [ICON_Faith] inanç veya [ICON_Culture] kültür sağlar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BELIEF_PAPAL_PRIMACY_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BELIEF_PAPAL_PRIMACY_DESCRIPTION">
 			<Text>Bu inancı benimseyen şehir-devletlerinin bonusları %50 daha etkili olur.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BELIEF_PILGRIMAGE_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BELIEF_PILGRIMAGE_DESCRIPTION">
 			<Text>Başka milletlerde veya şehir-devletlerinde bu inancı benimseyen her şehirden +2 [ICON_Faith] inanç sağlar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BELIEF_RELIGIOUS_UNITY_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BELIEF_RELIGIOUS_UNITY_DESCRIPTION">
 			<Text>Bu inanç ilk kez benimsendiğinde +1 [ICON_Envoy] elçi sağlar; bu elçi, görev bonuslarının üstüne eklenir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BELIEF_STEWARDSHIP_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BELIEF_STEWARDSHIP_DESCRIPTION">
 			<Text>Bu inancı benimseyen şehirlerin kampüsleri ve ticaret merkezleri +1 [ICON_Science] bilim veya +1 [ICON_Gold] altın sağlar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BELIEF_TITHE_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BELIEF_TITHE_DESCRIPTION">
 			<Text>Bu inancı benimseyen her dört şehir için +1 [ICON_Gold] altın sağlar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BELIEF_WORLD_CHURCH_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BELIEF_WORLD_CHURCH_DESCRIPTION">
 			<Text>Bu inancı benimseyen yabancı milletlerden her beş temsilci için +1 [ICON_Culture] kültür sağlar.</Text>
 		</Replace>
 		<!--5. ENHANCER BELIEFS-->
-		<Replace Language="pl_PL" Tag="LOC_BELIEF_BURIAL_GROUNDS_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BELIEF_BURIAL_GROUNDS_DESCRIPTION">
 			<Text>Bir kutsal mekan tamamlandığında, çevresindeki kareler kültürel olarak mülkiyetimize geçer.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BELIEF_DEFENDER_OF_FAITH_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BELIEF_DEFENDER_OF_FAITH_DESCRIPTION">
 			<Text>Bu inancı benimseyen dost şehirlerin sınırları içindeki askeri birimler +5 [ICON_Strength] savaş gücü kazanır.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BELIEF_HOLY_ORDER_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BELIEF_HOLY_ORDER_DESCRIPTION">
 			<Text>Misyonerler ve havariler %30 daha ucuza temin edilebilir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BELIEF_ITINERANT_PREACHERS_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BELIEF_ITINERANT_PREACHERS_DESCRIPTION">
 			<Text>Bu inanç, %30 daha uzak şehirlerde yayılır.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BELIEF_JUST_WAR_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BELIEF_JUST_WAR_DESCRIPTION">
 			<Text>Bu inancı benimseyen yabancı şehirlerin topraklarında bulunan askeri birimler +10 [ICON_Strength] savaş gücü kazanır.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BELIEF_MISSIONARY_ZEAL_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BELIEF_MISSIONARY_ZEAL_DESCRIPTION">
 			<Text>Dini birimler, arazi veya özelliklerin [ICON_Movement] hareket maliyetlerini dikkate almaz.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BELIEF_MONASTIC_ISOLATION_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BELIEF_MONASTIC_ISOLATION_DESCRIPTION">
 			<Text>Dinimizin etkisi, dini çatışmaların sonucunda asla azalmaz.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BELIEF_RELIGIOUS_COLONIZATION_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BELIEF_RELIGIOUS_COLONIZATION_DESCRIPTION">
 			<Text>Bu dini benimsemiş bir oyuncu tarafından kurulan şehir, otomatik olarak bu inançla başlar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BELIEF_SCRIPTURE_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BELIEF_SCRIPTURE_DESCRIPTION">
 			<Text>Yakın bir şehirden gelen dini baskı %25 daha güçlüdür. Matbaa icat edildikten sonra, bu baskı %50 olur.</Text>
 		</Replace>
 		<!--BELIEF COMBAT BONUSES-->
-		<Replace Language="pl_PL" Tag="LOC_PROMOTION_DEFENDER_OF_FAITH_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_PROMOTION_DEFENDER_OF_FAITH_DESCRIPTION">
 			<Text>+{1_Value} İnanç Savunucusu inancı</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PROMOTION_JUST_WAR_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_PROMOTION_JUST_WAR_DESCRIPTION">
 			<Text>+{1_Value} Haçlı Seferi inancı</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITY_BANNER_INCOMING_RELIGION_PRESSURE">
+		<Replace Language="en_US" Tag="LOC_CITY_BANNER_INCOMING_RELIGION_PRESSURE">
 			<Text>Gelecek turdaki dini baskı</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITY_BANNER_OUTGOING_RELIGION_PRESSURE">
+		<Replace Language="en_US" Tag="LOC_CITY_BANNER_OUTGOING_RELIGION_PRESSURE">
 			<Text>Oluşan dini baskı</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITY_BANNER_PREDOMINANT_RELIGION">
+		<Replace Language="en_US" Tag="LOC_CITY_BANNER_PREDOMINANT_RELIGION">
 			<Text>{1_ReligionName} (Baskın din)</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITY_BANNER_FOLLOWER_PRESSURE_TOOLTIP_HEADER">
+		<Replace Language="en_US" Tag="LOC_CITY_BANNER_FOLLOWER_PRESSURE_TOOLTIP_HEADER">
 			<Text>Takipçiler / Toplam Baskı:</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITY_BANNER_FOLLOWER_PRESSURE_TOOLTIP">
+		<Replace Language="en_US" Tag="LOC_CITY_BANNER_FOLLOWER_PRESSURE_TOOLTIP">
 			<Text>{1_ReligionName}:[NEWLINE]{2_Followers} takipçi, {3_TotalPressure} baskı</Text>
 		</Replace>
 	</LocalizedText>

@@ -1,259 +1,259 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameData>
 	<LocalizedText>
-		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_PRIDE_MOMENT_RECORDED_MESSAGE">
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_PRIDE_MOMENT_RECORDED_MESSAGE">
 			<Text>Tarihi an</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_PRIDE_MOMENT_RECORDED_SUMMARY">
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_PRIDE_MOMENT_RECORDED_SUMMARY">
 			<Text>Halkımız tarihi bir anı kutluyor! {1_MomentDescription} (+{2_EraScoreAmount} dönem puanı)</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_GOVERNOR_ESTABLISHED_IN_CITY_MESSAGE">
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_GOVERNOR_ESTABLISHED_IN_CITY_MESSAGE">
 			<Text>{1_CityName} bir vali aldı</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_GOVERNOR_ESTABLISHED_IN_CITY_SUMMARY">
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_GOVERNOR_ESTABLISHED_IN_CITY_SUMMARY">
 			<Text>Vali {1_GovernorName} {2_CityName} şehrine yerleşti</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_GOVERNOR_APPOINTMENT_AVAILABLE_MESSAGE">
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_GOVERNOR_APPOINTMENT_AVAILABLE_MESSAGE">
 			<Text>Yeni vali atanabilir</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_GOVERNOR_APPOINTMENT_AVAILABLE_SUMMARY">
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_GOVERNOR_APPOINTMENT_AVAILABLE_SUMMARY">
 			<Text>Yeni bir vali atayın veya mevcut valiyi terfi ettirin.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_GOVERNOR_OPPORTUNITY_AVAILABLE_MESSAGE">
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_GOVERNOR_OPPORTUNITY_AVAILABLE_MESSAGE">
 			<Text>Yeni vali pozisyonu mevcut</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_GOVERNOR_OPPORTUNITY_AVAILABLE_SUMMARY">
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_GOVERNOR_OPPORTUNITY_AVAILABLE_SUMMARY">
 			<Text>Mevcut [ICON_Governor] valiyi terfi ettirin veya halkımıza yeni bir vali atayın.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ACTION_PANEL_GOVERNOR_OPPORTUNITY">
+		<Replace Language="en_US" Tag="LOC_ACTION_PANEL_GOVERNOR_OPPORTUNITY">
 			<Text>Vali pozisyonu</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ACTION_PANEL_GOVERNOR_OPPORTUNITY_TOOLTIP">
+		<Replace Language="en_US" Tag="LOC_ACTION_PANEL_GOVERNOR_OPPORTUNITY_TOOLTIP">
 			<Text>Mevcut valiyi terfi ettirin veya halkımıza yeni bir vali atayın.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ACTION_PANEL_GOVERNOR_PROMOTION">
+		<Replace Language="en_US" Tag="LOC_ACTION_PANEL_GOVERNOR_PROMOTION">
 			<Text>Vali terfisi</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ACTION_PANEL_GOVERNOR_PROMOTION_TOOLTIP">
+		<Replace Language="en_US" Tag="LOC_ACTION_PANEL_GOVERNOR_PROMOTION_TOOLTIP">
 			<Text>Vali terfisi için pozisyon mevcut.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ACTION_PANEL_GOVERNOR_APPOINTMENT">
+		<Replace Language="en_US" Tag="LOC_ACTION_PANEL_GOVERNOR_APPOINTMENT">
 			<Text>Vali ataması</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ACTION_PANEL_GOVERNOR_APPOINTMENT_TOOLTIP">
+		<Replace Language="en_US" Tag="LOC_ACTION_PANEL_GOVERNOR_APPOINTMENT_TOOLTIP">
 			<Text>Halkımıza yeni bir vali atayın.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ACTION_PANEL_CONSIDER_DISLOYAL_CITY">
+		<Replace Language="en_US" Tag="LOC_ACTION_PANEL_CONSIDER_DISLOYAL_CITY">
 			<Text>Şehri tut veya serbest bırak</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ACTION_PANEL_CONSIDER_DISLOYAL_CITY_TOOLTIP">
+		<Replace Language="en_US" Tag="LOC_ACTION_PANEL_CONSIDER_DISLOYAL_CITY_TOOLTIP">
 			<Text>Yabancı bir şehir, sadakati sıfıra ulaştığında önceki sahibine isyan etti. Sadakatleri bize en güçlü olduğu için, ulusumuzun bir parçası olma izni istiyorlar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_GOVERNOR_PROMOTION_AVAILABLE_MESSAGE">
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_GOVERNOR_PROMOTION_AVAILABLE_MESSAGE">
 			<Text>Vali terfisi mevcut</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_GOVERNOR_PROMOTION_AVAILABLE_SUMMARY">
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_GOVERNOR_PROMOTION_AVAILABLE_SUMMARY">
 			<Text>Valilerimizden biri terfi ettirilebilir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_GOVERNOR_REMOVED_FROM_CITY_MESSAGE">
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_GOVERNOR_REMOVED_FROM_CITY_MESSAGE">
 			<Text>{1_CityName} artık valisiz</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_GOVERNOR_REMOVED_FROM_CITY_SUMMARY">
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_GOVERNOR_REMOVED_FROM_CITY_SUMMARY">
 			<Text>{2_CityName} valisi {1_GovernorName} kaybetti.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_GOVERNOR_CHANGED_CITIES_MESSAGE">
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_GOVERNOR_CHANGED_CITIES_MESSAGE">
 			<Text>Vali {1_GovernorName} {2_CityName} şehrine taşındı</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_GOVERNOR_CHANGED_CITIES_SUMMARY">
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_GOVERNOR_CHANGED_CITIES_SUMMARY">
 			<Text>Vali {1_GovernorName} {2_CityName} şehrinden {3_CityName} şehrine taşındı</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_GOVERNOR_RETURNING_TO_SERVICE_MESSAGE">
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_GOVERNOR_RETURNING_TO_SERVICE_MESSAGE">
 			<Text>Vali {1_GovernorName} hizmete geri döndü.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_GOVERNOR_RETURNING_TO_SERVICE_SUMMARY">
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_GOVERNOR_RETURNING_TO_SERVICE_SUMMARY">
 			<Text>Vali {1_GovernorName} hizmete geri döndü. {2_GovernorTitle} bir şehre atanabilir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_CITY_LOSING_CULTURAL_IDENTITY_MESSAGE">
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_CITY_LOSING_CULTURAL_IDENTITY_MESSAGE">
 			<Text>Şehrin sadakati azalıyor</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_CITY_LOSING_CULTURAL_IDENTITY_SUMMARY">
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_CITY_LOSING_CULTURAL_IDENTITY_SUMMARY">
 			<Text>{1_CityName} sadakatini kaybediyor. Sadakat sıfıra ulaşırsa şehir kaybedilebilir. Durumu istikrara kavuşturmak için şehre bir vali atayın.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_CITY_BECAME_FREE_CITY_MESSAGE">
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_CITY_BECAME_FREE_CITY_MESSAGE">
 			<Text>Şehrin sadakati kaybedildi</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_CITY_BECAME_FREE_CITY_SUMMARY">
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_CITY_BECAME_FREE_CITY_SUMMARY">
 			<Text>{1_CityName} sadakati sıfıra ulaştığında isyan ederek özgür bir şehir oldu. Gücü geri almak için ya sadakatimizi artırmamız ya da askeri gücümüzü kullanmamız gerekecek.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_FOREIGN_CITY_BECAME_FREE_CITY_MESSAGE">
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_FOREIGN_CITY_BECAME_FREE_CITY_MESSAGE">
 			<Text>Yabancı şehir bağımsız oldu</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_FOREIGN_CITY_BECAME_FREE_CITY_SUMMARY">
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_FOREIGN_CITY_BECAME_FREE_CITY_SUMMARY">
 			<Text>{1_CivName} artık {2_CityName} şehrini imparatorluğunda tutamıyor. Güçlü sadakat veya orduya sahip en yakın uluslar yakında bu özgür şehri ele geçirebilir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_FREE_CITY_BECAME_FOREIGN_CITY_MESSAGE">
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_FREE_CITY_BECAME_FOREIGN_CITY_MESSAGE">
 			<Text>Özgür şehir bir ulusa katıldı</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_FREE_CITY_BECAME_FOREIGN_CITY_SUMMARY">
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_FREE_CITY_BECAME_FOREIGN_CITY_SUMMARY">
 			<Text>Eski özgür şehir {2_CityName}, yabancı baskıya boyun eğdi ve şimdi {1_CivName[2]} imparatorluğunun bir parçası.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_WAR_TYPE_GOLDEN_AGE">
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_WAR_TYPE_GOLDEN_AGE">
 			<Text>Altın Çağ Savaşı</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_WAR_TYPE_RETRIBUTION">
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_WAR_TYPE_RETRIBUTION">
 			<Text>İntikam Savaşı</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_WAR_TYPE_IDEOLOGICAL">
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_WAR_TYPE_IDEOLOGICAL">
 			<Text>İdeolojik Savaş</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_TRADING_POST_IMMEDIATELY_CREATED_SUMMARY">
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_TRADING_POST_IMMEDIATELY_CREATED_SUMMARY">
 			<Text>[ICON_TradeRoute] Ticaret rotası oluşturulması, {1_CityName} şehrinde [ICON_TradingPost] ticaret merkezi kurmamıza neden oldu.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_CONSIDER_DISLOYAL_CITY_MESSAGE">
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_CONSIDER_DISLOYAL_CITY_MESSAGE">
 			<Text>Şehri tut veya serbest bırak</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_CONSIDER_DISLOYAL_CITY_SUMMARY">
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_CONSIDER_DISLOYAL_CITY_SUMMARY">
 			<Text>Özgür bir şehir bağımsız kalma arzusunu kaybetti. Bize olan güçlü sadakatleri nedeniyle ulusumuzun bir parçası olma izni istiyorlar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_SPY_FABRICATE_SCANDAL_SUMMARY">
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_SPY_FABRICATE_SCANDAL_SUMMARY">
 			<Text>Ajanımız {1_unitName}, {2_CityName} şehrinde düşman temsilcilerini ortadan kaldırmayı başardı.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_SPY_FABRICATE_SCANDAL_MESSAGE">
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_SPY_FABRICATE_SCANDAL_MESSAGE">
 			<Text>Başarılı skandal</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_SPY_ENEMY_FABRICATE_SCANDAL_SUMMARY">
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_SPY_ENEMY_FABRICATE_SCANDAL_SUMMARY">
 			<Text>Düşman casusu, {1_CityName} şehrinde temsilcilerimizi ortadan kaldırmayı başardı.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_SPY_ENEMY_FABRICATE_SCANDAL_MESSAGE">
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_SPY_ENEMY_FABRICATE_SCANDAL_MESSAGE">
 			<Text>Düşman tarafından yaratılan skandal</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_SPY_FOMENT_UNREST_SUMMARY">
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_SPY_FOMENT_UNREST_SUMMARY">
 			<Text>Ajanımız {1_unitName}, {2_cityName} şehrinin sahibinin sadakatini zayıflatmayı başardı.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_SPY_FOMENT_UNREST_MESSAGE">
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_SPY_FOMENT_UNREST_MESSAGE">
 			<Text>Huzursuzluk yaratma başarılı oldu</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_SPY_ENEMY_FOMENT_UNREST_SUMMARY">
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_SPY_ENEMY_FOMENT_UNREST_SUMMARY">
 			<Text>Düşman casusu, {1_cityName} şehrinde bize olan sadakati zayıflattı.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_SPY_ENEMY_FOMENT_UNREST_MESSAGE">
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_SPY_ENEMY_FOMENT_UNREST_MESSAGE">
 			<Text>Düşman huzursuzluk yarattı</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_SPY_NEUTRALIZE_GOVERNOR_SUMMARY">
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_SPY_NEUTRALIZE_GOVERNOR_SUMMARY">
 			<Text>Ajanımız {1_unitName}, {2_cityName} şehrindeki düşman valiyi {3_turns} tur boyunca zorunlu izne çıkararak etkisiz hale getirmeyi başardı.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_SPY_NEUTRALIZE_GOVERNOR_MESSAGE">
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_SPY_NEUTRALIZE_GOVERNOR_MESSAGE">
 			<Text>Valiyi etkisiz hale getirme başarılı oldu</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_SPY_ENEMY_NEUTRALIZE_GOVERNOR_SUMMARY">
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_SPY_ENEMY_NEUTRALIZE_GOVERNOR_SUMMARY">
 			<Text>Düşman casusu, {1_governorName[2]} valimizi {2_cityName} şehrinde {3_turns} tur boyunca zorunlu izne çıkararak etkisiz hale getirmeyi başardı.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_SPY_ENEMY_NEUTRALIZE_GOVERNOR_MESSAGE">
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_SPY_ENEMY_NEUTRALIZE_GOVERNOR_MESSAGE">
 			<Text>Düşman casusu valimizi etkisiz hale getirdi</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_ALLIANCE_EXPIRED_MESSAGE">
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_ALLIANCE_EXPIRED_MESSAGE">
 			<Text>İttifak sona erdi</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_ALLIANCE_EXPIRED_SUMMARY">
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_ALLIANCE_EXPIRED_SUMMARY">
 			<Text>{1_CivName[2]} ile olan ittifakımız sona erdi.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_ALLIANCE_LEVELED_MESSAGE">
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_ALLIANCE_LEVELED_MESSAGE">
 			<Text>İttifak seviyesi arttı</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_ALLIANCE_LEVELED_SUMMARY">
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_ALLIANCE_LEVELED_SUMMARY">
 			<Text>{1_CivName[2]} ile olan ittifakımızın seviyesi arttı.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_EMERGENCY_DECLARED_MESSAGE">
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_EMERGENCY_DECLARED_MESSAGE">
 			<Text>Acil durum ilanı</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_EMERGENCY_DECLARED_SUMMARY">
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_EMERGENCY_DECLARED_SUMMARY">
 			<Text>{1_CivName} kendisine karşı bir acil durum ilan etti.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_EMERGENCY_DECLARED_UNKNOWN_TARGET_SUMMARY">
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_EMERGENCY_DECLARED_UNKNOWN_TARGET_SUMMARY">
 			<Text>Bilinmeyen bir oyuncuya karşı acil durum ilan edildi.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_EMERGENCY_FAILED_MESSAGE">
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_EMERGENCY_FAILED_MESSAGE">
 			<Text>Acil durum sona erdi</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_EMERGENCY_FAILED_TARGET_SUMMARY">
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_EMERGENCY_FAILED_TARGET_SUMMARY">
 			<Text>Bize karşı ilan edilen acil durum başarısız oldu ve ödüllendirildik.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_EMERGENCY_FAILED_SUMMARY">
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_EMERGENCY_FAILED_SUMMARY">
 			<Text>{1_CivName} kendisine karşı ilan edilen acil durumdan kurtuldu ve ödül aldı.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_EMERGENCY_FAILED_UNKNOWN_TARGET_SUMMARY">
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_EMERGENCY_FAILED_UNKNOWN_TARGET_SUMMARY">
 			<Text>Bilinmeyen bir oyuncuya karşı ilan edilen acil durum başarısız oldu.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_EMERGENCY_SUCCEEDED_MESSAGE">
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_EMERGENCY_SUCCEEDED_MESSAGE">
 			<Text>Acil durum sona erdi</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_EMERGENCY_SUCCEEDED_TARGET_SUMMARY">
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_EMERGENCY_SUCCEEDED_TARGET_SUMMARY">
 			<Text>Bize karşı ilan edilen acil durum hedeflerine ulaştı ve bize karşı hareket edenler ödüllendirildi.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_EMERGENCY_SUCCEEDED_SUMMARY">
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_EMERGENCY_SUCCEEDED_SUMMARY">
 			<Text>{1_CivName} acil durumunu kaybetti, acil durumu ilan edenler ödüllendirildi.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_EMERGENCY_SUCCEEDED_UNKNOWN_TARGET_SUMMARY">
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_EMERGENCY_SUCCEEDED_UNKNOWN_TARGET_SUMMARY">
 			<Text>Bilinmeyen bir oyuncuya karşı ilan edilen acil durum başarılı oldu.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_EMERGENCY_AVERTED_MESSAGE">
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_EMERGENCY_AVERTED_MESSAGE">
 			<Text>Acil durum önlendi</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_EMERGENCY_AVERTED_CITY_DESTROYED">
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_EMERGENCY_AVERTED_CITY_DESTROYED">
 			<Text>{1_EmergencyType} {2_CivName} oyuncusuna karşı sona erdi, çünkü {3_CityName} yok edildi.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_EMERGENCY_AVERTED_CITY_RETURNED_ORIGINAL">
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_EMERGENCY_AVERTED_CITY_RETURNED_ORIGINAL">
 			<Text>{1_EmergencyType} {2_CivName} oyuncusuna karşı sona erdi, çünkü {3_CityName} orijinal sahibine geri verildi.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_EMERGENCY_AVERTED_CITY_RETURNED_PREVIOUS">
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_EMERGENCY_AVERTED_CITY_RETURNED_PREVIOUS">
 			<Text>{1_EmergencyType} {2_CivName} oyuncusuna karşı sona erdi, çünkü {3_CityName} önceki sahibine geri verildi.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_EMERGENCY_AVERTED_CITY_GIFTED">
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_EMERGENCY_AVERTED_CITY_GIFTED">
 			<Text>{1_EmergencyType} {2_CivName} oyuncusuna karşı sona erdi, çünkü {2_CivName} artık {3_CityName} şehrine sahip değil.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_EMERGENCY_AVERTED_TARGET_DEFEATED">
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_EMERGENCY_AVERTED_TARGET_DEFEATED">
 			<Text>{1_EmergencyType} {2_CivName} oyuncusuna karşı sona erdi, çünkü {2_CivName} mağlup edildi.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_EMERGENCY_NEEDS_ATTENTION_MESSAGE">
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_EMERGENCY_NEEDS_ATTENTION_MESSAGE">
 			<Text>ACİL DURUM!</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_EMERGENCY_NEEDS_ATTENTION_SUMMARY">
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_EMERGENCY_NEEDS_ATTENTION_SUMMARY">
 			<Text>Acil durum dikkatimizi gerektiriyor.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_DIPLO_PLEDGE_FROM_KEPT_MESSAGE">
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_DIPLO_PLEDGE_FROM_KEPT_MESSAGE">
 			<Text>Bize verilen söz tutuldu</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_DIPLO_PLEDGE_FROM_KEPT_SUMMARY">
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_DIPLO_PLEDGE_FROM_KEPT_SUMMARY">
 			<Text>{1_CivName} sözünü tuttu: {2_PledgeType}.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_DIPLO_PLEDGE_TO_KEPT_MESSAGE">
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_DIPLO_PLEDGE_TO_KEPT_MESSAGE">
 			<Text>Sözümüzü tuttuk</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_DIPLO_PLEDGE_TO_KEPT_SUMMARY">
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_DIPLO_PLEDGE_TO_KEPT_SUMMARY">
 			<Text>{1_CivName} sözümüzü tuttuğumuzu düşünüyor: {2_PledgeType}.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_DIPLO_PLEDGE_FROM_BROKEN_MESSAGE">
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_DIPLO_PLEDGE_FROM_BROKEN_MESSAGE">
 			<Text>Bize verilen söz bozuldu</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_DIPLO_PLEDGE_FROM_BROKEN_SUMMARY">
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_DIPLO_PLEDGE_FROM_BROKEN_SUMMARY">
 			<Text>{1_CivName} verdiği sözü bozdu: {2_PledgeType}.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_DIPLO_PLEDGE_TO_BROKEN_MESSAGE">
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_DIPLO_PLEDGE_TO_BROKEN_MESSAGE">
 			<Text>Sözümüzü bozduk</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_DIPLO_PLEDGE_TO_BROKEN_SUMMARY">
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_DIPLO_PLEDGE_TO_BROKEN_SUMMARY">
 			<Text>{1_CivName} verdiğimiz sözü bozduğumuzu düşünüyor: {2_PledgeType}.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_COMMEMORATION_AVAILABLE_MESSAGE">
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_COMMEMORATION_AVAILABLE_MESSAGE">
 			<Text>Çaba seçin</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_COMMEMORATION_AVAILABLE_SUMMARY"> 
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_COMMEMORATION_AVAILABLE_SUMMARY">
 			<Text>Oyun yeni bir çağa geçtiğinde, halkımızı istediğimiz geleceğe götürecek çabayı seçme zamanı geldi.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_QUEST_RECORDED_MESSAGE">
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_QUEST_RECORDED_MESSAGE">
 			<Text>Çaba tamamlandı</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_QUEST_RECORDED_SUMMARY">
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_QUEST_RECORDED_SUMMARY">
 			<Text>{1_DedicationBonusTriggerSentence} Bu nedenle, seçtiğimiz çabadan dönem puanları alıyoruz!</Text>
 		</Replace>
 		<!--TUTORIAL EVENTS TEXT-->

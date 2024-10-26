@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameData>
 	<LocalizedText>
-		<Replace Language="pl_PL" Tag="LOC_EXPANSION2_MOD_TITLE">
+		<Replace Language="en_US" Tag="LOC_EXPANSION2_MOD_TITLE">
 			<Text>Genişleme: Yükselen Fırtına</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_EXPANSION2_MOD_TEASER">
+		<Replace Language="en_US" Tag="LOC_EXPANSION2_MOD_TEASER">
 			<Text>Dünya kongresi, değişen çevre koşulları ve felaketler, elektrik, yeni milletler ve liderler gibi birçok yenilik sunan bir oyun genişlemesi!</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_EXPANSION2_MOD_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_EXPANSION2_MOD_DESCRIPTION">
 			<Text>Oyun, Yükselen Fırtına genişlemesini kullanır ve dünya kongresi, değişen çevre koşulları, felaketler, elektrik gibi özellikler ekler. Halkınızı değişen dünyadaki sürprizlerle başarıyla yönetip ölümsüz kılabilecek misiniz?</Text>
 		</Replace>
 		<!-- Kara Veba Senaryosu -->
-		<Replace Language="pl_PL" Tag="LOC_BLACKDEATH_MOD_TITLE">
+		<Replace Language="en_US" Tag="LOC_BLACKDEATH_MOD_TITLE">
 			<Text>Senaryo: Kara Veba</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BLACKDEATH_SCENARIO_TOOLTIP">
+		<Replace Language="en_US" Tag="LOC_BLACKDEATH_SCENARIO_TOOLTIP">
 			<Text>Halkınızı vebanın getirdiği zorlukların içinden geçirebilecek misiniz? 4 oyuncu, 85 tur.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BLACKDEATH_SCENARIO_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BLACKDEATH_SCENARIO_DESCRIPTION">
 			<Text>Bu senaryoda, Kara Veba çağında ortaçağ milletinizi yöneteceksiniz, nüfus azalırken ve inanç çökerken bilim ve kültürün ilerlemesini sağlamaya çalışacaksınız. Veba dalgalar halinde yayılıp haritayı tahrip ediyor. Aydınlanma Çağı'na kadar dayanabilecek misiniz, yoksa milletiniz inançsızlık ve umutsuzluk içinde mi çökecek?</Text>
 		</Replace>
 		<!-- Savaş Makinesi Senaryosu -->
-		<Replace Language="pl_PL" Tag="LOC_WARMACHINE_MOD_TITLE">
+		<Replace Language="en_US" Tag="LOC_WARMACHINE_MOD_TITLE">
 			<Text>Çok Oyunculu Senaryo: Savaş Makinesi</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_WARMACHINE_SCENARIO_TOOLTIP">
+		<Replace Language="en_US" Tag="LOC_WARMACHINE_SCENARIO_TOOLTIP">
 			<Text>Birinci Dünya Savaşı'nın başında Almanya'nın Fransa'ya saldırdığı iki oyunculu senaryo.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_WARMACHINE_SCENARIO_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_WARMACHINE_SCENARIO_DESCRIPTION">
 			<Text>Bu senaryoda, Birinci Dünya Savaşı'nın ilk ayında Fransa veya Almanya'yı yöneteceksiniz. Devasa savaş hazırlığındaki bir orduyu, onu destekleyen sanayi gücünü kontrol ediyor ve 40 turda Paris'i savunmaya veya ele geçirmeye çalışıyorsunuz. Tarihin en büyük mücadelelerinden birinde zafer kazanabilecek misiniz, yoksa bu muazzam çatışma sizi alt mı edecek?</Text>
 		</Replace>
 	</LocalizedText>

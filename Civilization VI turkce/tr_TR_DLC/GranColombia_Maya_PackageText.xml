@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameData>
-    <LocalizedText>
-		<Replace Language="pl_PL" Tag="LOC_GRANCOLOMBIA_MAYA_MOD_TITLE">
+	<LocalizedText>
+		<Replace Language="en_US" Tag="LOC_GRANCOLOMBIA_MAYA_MOD_TITLE">
 			<Text>Eklenti: Maya ve Büyük Kolombiya</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_GRANCOLOMBIA_MAYA_MOD_TEASER">
+		<Replace Language="en_US" Tag="LOC_GRANCOLOMBIA_MAYA_MOD_TEASER">
 			<Text>Yeni milletler ve liderler: Mayaların Ay Yıldızı ve Büyük Kolombiya'nın Simón Bolívar'ı</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_GRANCOLOMBIA_MAYA_MOD_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_GRANCOLOMBIA_MAYA_MOD_DESCRIPTION">
 			<Text>İki yeni millet ve lider, altı yeni şehir devleti, iki yeni kaynak, üç yeni doğa harikası, yeni felaketler ve Kıyamet oyun modunu içerir.</Text>
 		</Replace>
-   </LocalizedText>
+	</LocalizedText>
 </GameData>

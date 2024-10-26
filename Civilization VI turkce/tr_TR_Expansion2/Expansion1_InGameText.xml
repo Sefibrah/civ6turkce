@@ -1,88 +1,88 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameData>
 	<LocalizedText>
-		<Replace Language="pl_PL" Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_DEMOCRACY_XP1">
+		<Replace Language="en_US" Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_DEMOCRACY_XP1">
 			<Text>%15 indirim ile [ICON_Gold] altınla alım yapabilirsiniz.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_PROMOTION_REDOUBT_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_REDOUBT_DESCRIPTION">
 			<Text>Şehrin [ICON_Strength] savunma gücünü artırır (+5). Şehre 3 turda yerleşir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_PROMOTION_GARRISON_COMMANDER_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_GARRISON_COMMANDER_DESCRIPTION">
 			<Text>Şehir bölgesini savunan birimler +5 [ICON_Strength] savaş gücü kazanır. Diğer şehirler, 9 karelik bir alanda, +4 sadakat sağlar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_PROMOTION_EMBRASURE_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_EMBRASURE_DESCRIPTION">
 			<Text>Şehir [ICON_Ranged] menzilli saldırıyı bir turda iki kez yapabilir. Şehirde eğitilen birimler ücretsiz terfi alır, eğer başka bir etki sebebiyle terfi almamışlarsa.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_PROMOTION_DEFENSE_LOGISTICS_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_DEFENSE_LOGISTICS_DESCRIPTION">
 			<Text>Şehir kuşatılamaz. Stratejik kaynaklar her tur +1 daha etkili toplanır.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_PROMOTION_CARDINAL_DIVINE_ARCHITECT_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_CARDINAL_DIVINE_ARCHITECT_DESCRIPTION">
 			<Text>Şehir, [ICON_FAITH] inanç kullanarak şehir bölgeleri satın alabilir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_PROMOTION_CARDINAL_LAYING_ON_OF_HANDS_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_CARDINAL_LAYING_ON_OF_HANDS_DESCRIPTION">
 			<Text>[ICON_Governor] Valinin birimleri, bu şehirde bir turda tamamen iyileşir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_PROMOTION_CARDINAL_CITADEL_OF_GOD_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_CARDINAL_CITADEL_OF_GOD_DESCRIPTION">
 			<Text>Şehir, valinin dini haricindeki dinlerin baskısını görmezden gelir. Bina inşası tamamlandığında, maliyetinin %25’i kadar [ICON_FAITH] inanç kazandırır.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_PROMOTION_RESOURCE_MANAGER_EXPEDITION_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_RESOURCE_MANAGER_EXPEDITION_DESCRIPTION">
 			<Text>Bu şehirde eğitilen yerleşimciler, [ICON_Citizen] nüfustan eksilme yapmaz.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_PROMOTION_RESOURCE_MANAGER_INDUSTRIALIST_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_RESOURCE_MANAGER_INDUSTRIALIST_DESCRIPTION">
 			<Text>Kömür, petrol ve nükleer enerji santrallerinden kullanılan kaynaklardan +1 [ICON_POWER] enerji ve +2 [ICON_Production] üretim sağlar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_PROMOTION_RESOURCE_MANAGER_BLACK_MARKETEER_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_RESOURCE_MANAGER_BLACK_MARKETEER_DESCRIPTION">
 			<Text>Stratejik kaynaklarla üretilen birimlerin kaynak maliyetleri %80 azaltılır.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_PROMOTION_RESOURCE_MANAGER_VERTICAL_INTEGRATION_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_RESOURCE_MANAGER_VERTICAL_INTEGRATION_DESCRIPTION">
 			<Text>Bu şehir, yakınlardaki tüm sanayi bölgelerinin üretim binalarından [ICON_Production] üretim alır, sadece birinden değil.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_PROMOTION_AQUACULTURE_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_AQUACULTURE_DESCRIPTION">
 			<Text>Şehir bölgesine balık çiftlikleri inşa edilebilir. +1 [ICON_Food] gıda ve yakınlardaki deniz kaynağından +1 [ICON_Food] daha. Liang şehirdeyken balık çiftlikleri +1 [ICON_Production] üretim sağlar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_PROMOTION_PARKS_RECREATION_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_PARKS_RECREATION_DESCRIPTION">
 			<Text>Şehirde özel bir şehir parkı inşa edilebilir. +1 [ICON_Culture] kültür ve +2 cazibe sağlar. Su kenarında +1 [ICON_Amenities] yaşam standardı verir. Liang şehirdeyken parklar +3 [ICON_CULTURE] kültür sağlar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_PROMOTION_EDUCATOR_CONNOISSEUR_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_EDUCATOR_CONNOISSEUR_DESCRIPTION">
 			<Text>Her [ICON_Citizen] vatandaş için tur başına +1 [ICON_CULTURE] kültür sağlar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_PROMOTION_EDUCATOR_RESEARCHER_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_EDUCATOR_RESEARCHER_DESCRIPTION">
 			<Text>Her [ICON_Citizen] vatandaş için tur başına +1 [ICON_SCIENCE] bilim sağlar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_LAND_ACQUISITION_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_LAND_ACQUISITION_DESCRIPTION">
 			<Text>Şehir bölgesinin genişleme hızını artırır. Şehirden geçen her yabancı [ICON_TradeRoute] ticaret rotası için tur başına +3 [ICON_Gold] altın kazandırır.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_GENGHIS_KHAN_CAVALRY_BONUS_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_GENGHIS_KHAN_CAVALRY_BONUS_DESCRIPTION">
 			<Text>+3 [ICON_Strength] savaş gücü (Cengiz Han).</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_GENGHIS_KHAN_CAVALRY_CAPTURE_CAVALRY_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_GENGHIS_KHAN_CAVALRY_CAPTURE_CAVALRY_DESCRIPTION">
 			<Text>Yenilen atlı birimleri ele geçirme yeteneği (Cengiz Han).</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CULTURAL_IDENTITY_PER_TURN_NEARBY_OWNED_GOVERNORS">
+		<Replace Language="en_US" Tag="LOC_CULTURAL_IDENTITY_PER_TURN_NEARBY_OWNED_GOVERNORS">
 			<Text>Yakın bölgelerdeki [ICON_Governor] vali etkisiyle.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_HUD_CITY_GOVERNOR_ASSIGNED_SPECIFIC">
+		<Replace Language="en_US" Tag="LOC_HUD_CITY_GOVERNOR_ASSIGNED_SPECIFIC">
 			<Text>[ICON_Governor] Vali {1_GovernorName} bu şehre atanıyor.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_EMERGENCY_PARTICIPANTS">
+		<Replace Language="en_US" Tag="LOC_EMERGENCY_PARTICIPANTS">
 			<Text>ACİL DURUM KATILIMCILARI:</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_EMERGENCY_TARGET_REWARDS_EXPLANATION">
+		<Replace Language="en_US" Tag="LOC_EMERGENCY_TARGET_REWARDS_EXPLANATION">
 			<Text>Süre bitmeden önce üyeler hedefe ulaşamazsa:</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITY_STATE_PANEL_HAS_VISIER">
+		<Replace Language="en_US" Tag="LOC_CITY_STATE_PANEL_HAS_VISIER">
 			<Text>Osmanlı büyük veziri bu şehir devletine atanmış.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_GOVERNMENT_INHERENT_BONUS">
+		<Replace Language="en_US" Tag="LOC_GOVERNMENT_INHERENT_BONUS">
 			<Text>Doğal Bonus</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_GOVERNMENT_ACCUMULATED_BONUS">
+		<Replace Language="en_US" Tag="LOC_GOVERNMENT_ACCUMULATED_BONUS">
 			<Text>Biriken Bonus</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_IMPROVEMENT_FISHERY_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_FISHERY_DESCRIPTION">
 			<Text>[ICON_Governor] Vali tarafından yapılabilen bir yapı. Denizcilik terfisi olan bir vali ile inşa edilebilir. +0.5 [ICON_Housing] konut, +1 [ICON_Food] gıda ve deniz kaynağından +1 [ICON_Food] daha sağlar. Denizcilik terfisi olan vali şehirdeyken +1 [ICON_PRODUCTION] üretim verir. Sadece kıyı karolarına inşa edilebilir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_IMPROVEMENT_CITY_PARK_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_CITY_PARK_DESCRIPTION">
 			<Text>[ICON_Governor] Vali tarafından yapılabilen bir park. Eğlence terfisi olan bir vali ile inşa edilir. +1 [ICON_Culture] kültür ve +2 cazibe sağlar. Su kenarında +1 [ICON_Amenities] yaşam standardı verir. Eğlence terfisi olan vali şehirdeyken +3 [ICON_CULTURE] kültür kazandırır. Diğer parkların yanına inşa edilemez.</Text>
 		</Replace>
 	</LocalizedText>

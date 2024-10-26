@@ -2,128 +2,128 @@
 <GameData>
 	<LocalizedText>
 		<!--Improvements Description-->
-		<Replace Language="pl_PL" Tag="LOC_IMPROVEMENT_BARBARIAN_CAMP_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_BARBARIAN_CAMP_DESCRIPTION">
 			<Text>Barbarlar üretir. Yok edilmesi [ICON_Gold] altın olarak ödüllendirilir. -1 çekicilik.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_IMPROVEMENT_BEACH_RESORT_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_BEACH_RESORT_DESCRIPTION">
 			<Text>İnşaatçılar sahil tatil köyleri inşa edebilir.[NEWLINE][NEWLINE]Çekicilik seviyesine göre [ICON_Tourism] turizm sağlar. Sadece çöl, ova ve çimenlik sahil karelerine inşa edilebilir. Çekicilik en az nefes kesici olmalıdır.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_IMPROVEMENT_FARM_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_FARM_DESCRIPTION">
 			<Text>İnşaatçılar çiftlikler inşa edebilir.[NEWLINE][NEWLINE]+1 [ICON_Food] yiyecek. Sadece çimenlik ve ovala inşa edilebilir.[NEWLINE][NEWLINE]Birden fazla çiftlik yan yana inşa edilirse konut sayısını artırır.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_IMPROVEMENT_MINE_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_MINE_DESCRIPTION">
 			<Text>İnşaatçılar madenler inşa edebilir.[NEWLINE][NEWLINE]+1 [ICON_Production] üretim. -1 çekicilik. Tepelere ve uygun kaynak karelerine inşa edilebilir.[NEWLINE][NEWLINE]Lüks ve stratejik kaynaklar şehre kazandırılır.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_IMPROVEMENT_QUARRY_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_QUARRY_DESCRIPTION">
 			<Text>İnşaatçılar taş ocakları inşa edebilir.[NEWLINE][NEWLINE]+1 [ICON_Production] üretim. -1 çekicilik. Sadece uygun kaynak karelerine inşa edilebilir.[NEWLINE][NEWLINE]Lüks kaynaklar şehre kazandırılır.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_IMPROVEMENT_FISHING_BOATS_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_FISHING_BOATS_DESCRIPTION">
 			<Text>İnşaatçılar balıkçı tekneleri inşa edebilir.[NEWLINE][NEWLINE]+1 [ICON_Food] yiyecek. Sadece uygun kaynak karelerine inşa edilebilir.[NEWLINE][NEWLINE]Lüks kaynaklar şehre kazandırılır.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_IMPROVEMENT_PASTURE_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_PASTURE_DESCRIPTION">
 			<Text>İnşaatçılar meralar inşa edebilir.[NEWLINE][NEWLINE]+1 [ICON_Production] üretim. Sadece uygun kaynak karelerine inşa edilebilir.[NEWLINE][NEWLINE]Stratejik kaynaklar şehre kazandırılır.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_IMPROVEMENT_PLANTATION_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_PLANTATION_DESCRIPTION">
 			<Text>İnşaatçılar plantasyonlar inşa edebilir.[NEWLINE][NEWLINE]+2 [ICON_Gold] altın. Sadece uygun kaynak karelerine inşa edilebilir.[NEWLINE][NEWLINE]Lüks kaynaklar şehre kazandırılır.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_IMPROVEMENT_CAMP_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_CAMP_DESCRIPTION">
 			<Text>İnşaatçılar kamplar inşa edebilir.[NEWLINE][NEWLINE]+1 [ICON_Gold] altın. Sadece uygun kaynak karelerine inşa edilebilir.[NEWLINE][NEWLINE]Lüks kaynaklar şehre kazandırılır.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_IMPROVEMENT_LUMBER_MILL_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_LUMBER_MILL_DESCRIPTION">
 			<Text>İnşaatçılar kereste fabrikaları inşa edebilir.[NEWLINE][NEWLINE]+1 [ICON_Production] üretim. Nehir kenarında +1 [ICON_Production] üretim. Sadece ormanlara inşa edilebilir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_IMPROVEMENT_OIL_WELL_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_OIL_WELL_DESCRIPTION">
 			<Text>İnşaatçılar sondaj kuleleri inşa edebilir.[NEWLINE][NEWLINE]-1 çekicilik. Sadece [ICON_RESOURCE_OIL] petrol bulunan kara karelerine inşa edilebilir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_IMPROVEMENT_OFFSHORE_OIL_RIG_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_OFFSHORE_OIL_RIG_DESCRIPTION">
 			<Text>İnşaatçılar açık deniz petrol platformları inşa edebilir.[NEWLINE][NEWLINE]-1 çekicilik. Sadece kıyı ve göl karelerine, [ICON_RESOURCE_OIL] petrol bulunan yerlere inşa edilebilir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_IMPROVEMENT_FORT_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_FORT_DESCRIPTION">
 			<Text>İşgal eden birim +4 [ICON_Strength] savunma gücü kazanır ve iki tur boyunca ücretsiz tahkimat avantajı elde eder.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_IMPROVEMENT_AIRSTRIP_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_AIRSTRIP_DESCRIPTION">
 			<Text>Askeri mühendislerin hava şeridi inşa etmesine izin verir.[NEWLINE][NEWLINE]Üç hava birimini barındırabilir. Sadece düz araziye inşa edilebilir. -1 çekicilik.</Text>
 		</Replace>
 		<!--Unique Improvements Description-->
-		<Replace Language="pl_PL" Tag="LOC_IMPROVEMENT_CHATEAU_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_CHATEAU_DESCRIPTION">
 			<Text>İnşaatçının Fransa'ya özgü bir şato inşa etmesine izin verir.[NEWLINE][NEWLINE]+2 [ICON_Culture] kültür. +1 çekicilik. Harikanın yanında +2 [ICON_Culture] kültür. Lüks kaynağın yanında +1 [ICON_Gold] altın. Sadece nehir kenarına inşa edilebilir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_IMPROVEMENT_COLOSSAL_HEAD_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_COLOSSAL_HEAD_DESCRIPTION">
 			<Text>İnşaatçının devasa bir taş kafa inşa etmesine izin verir.[NEWLINE][NEWLINE]+2 [ICON_Faith] inanç. Her iki bitişik yağmur ormanı karesi için +1 [ICON_Faith] inanç. Her iki bitişik orman için +1 [ICON_Faith] inanç. Kar üzerine inşa edilemez.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_IMPROVEMENT_GREAT_WALL_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_GREAT_WALL_DESCRIPTION">
 			<Text>İnşaatçının Çin'e özgü Çin Seddi'ni inşa etmesine izin verir.[NEWLINE][NEWLINE][ICON_Strength] savunmayı artırır. Bitişik bölümler [ICON_Gold] altın avantajlarını artırır. Teknoloji ve normlarda ilerledikçe bitişik bölümlerden [ICON_Culture] kültür ve [ICON_Tourism] turizm ekler. Sınır boyunca çizgi halinde inşa edilmelidir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_IMPROVEMENT_KURGAN_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_KURGAN_DESCRIPTION">
 			<Text>İnşaatçının İskitlere özgü bir kurgan inşa etmesine izin verir.[NEWLINE][NEWLINE]+1 [ICON_Faith] inanç. +1 [ICON_Gold] altın. Her bitişik mera için +1 [ICON_Faith] inanç. Tepe üzerine inşa edilemez.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_IMPROVEMENT_MISSION_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_MISSION_DESCRIPTION">
 			<Text>İnşaatçının İspanya'ya özgü bir misyon inşa etmesine izin verir.[NEWLINE][NEWLINE]+2 [ICON_Faith] inanç. [ICON_Capital] başkent kıtasının dışında +2 [ICON_Faith] inanç. Kampüsün yanında +2 [ICON_Science] bilim.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_IMPROVEMENT_ROMAN_FORT_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_ROMAN_FORT_DESCRIPTION">
 			<Text>Lejyonun Roma'ya özgü bir kale inşa etmesine izin verir.[NEWLINE][NEWLINE]İşgal eden birim +4 [ICON_Strength] savunma gücü kazanır ve iki tur boyunca ücretsiz tahkimat avantajı elde eder.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_IMPROVEMENT_SPHINX_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_SPHINX_DESCRIPTION">
 			<Text>İnşaatçının Mısır'a özgü bir sfenks inşa etmesine izin verir.[NEWLINE][NEWLINE]+1 [ICON_Faith] inanç ve +1 [ICON_Culture] kültür. +1 çekicilik. Harikanın yanında +2 [ICON_Faith] inanç. Başka bir sfenksin yanına inşa edilemez. Taşkın ovasına inşa edilebilir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_IMPROVEMENT_STEPWELL_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_STEPWELL_DESCRIPTION">
 			<Text>İnşaatçının Hindistan'a özgü bir basamaklı kuyu inşa etmesine izin verir.[NEWLINE][NEWLINE]+1 [ICON_Food] yiyecek ve +1 [ICON_Housing] konut. Kutsal alanın yanında +1 [ICON_Faith] inanç. Çiftliğin yanında +1 [ICON_Food] yiyecek. Teknoloji ve normlarda ilerledikçe [ICON_Housing] konut, [ICON_Faith] inanç ve [ICON_Food] yiyecek ekler. Tepe üzerine veya başka bir basamaklı kuyunun yanına inşa edilemez.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_IMPROVEMENT_ZIGGURAT_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_ZIGGURAT_DESCRIPTION">
 			<Text>İnşaatçının Sümerlere özgü bir ziggurat inşa etmesine izin verir.[NEWLINE][NEWLINE]+2 [ICON_Science] bilim. Nehir kenarında +1 [ICON_Culture] kültür. Tepe üzerine inşa edilemez.</Text>
 		</Replace>
 		<!--Goody Huts -->
-		<Replace Language="pl_PL" Tag="LOC_GOODYHUT_CULTURE_RELIC_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_GOODYHUT_CULTURE_RELIC_DESCRIPTION">
 			<Text>[COLOR_FLOAT_CULTURE]{1_Relic} kalıntı[ENDCOLOR]</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_GOODYHUT_LARGE_GOLD_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_GOODYHUT_LARGE_GOLD_DESCRIPTION">
 			<Text>[COLOR_FLOAT_GOLD]+{1_Num} [ICON_Gold][ENDCOLOR]</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_GOODYHUT_MEDIUM_GOLD_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_GOODYHUT_MEDIUM_GOLD_DESCRIPTION">
 			<Text>[COLOR_FLOAT_GOLD]+{1_Num} [ICON_Gold][ENDCOLOR]</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_GOODYHUT_SMALL_GOLD_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_GOODYHUT_SMALL_GOLD_DESCRIPTION">
 			<Text>[COLOR_FLOAT_GOLD]+{1_Num} [ICON_Gold][ENDCOLOR]</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_GOODYHUT_LARGE_FAITH_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_GOODYHUT_LARGE_FAITH_DESCRIPTION">
 			<Text>+{1_Num} [ICON_Faith]</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_GOODYHUT_MEDIUM_FAITH_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_GOODYHUT_MEDIUM_FAITH_DESCRIPTION">
 			<Text>+{1_Num} [ICON_Faith]</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_GOODYHUT_SMALL_FAITH_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_GOODYHUT_SMALL_FAITH_DESCRIPTION">
 			<Text>+{1_Num} [ICON_Faith]</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_GOODYHUT_MILITARY_GRANT_UNIT_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_GOODYHUT_MILITARY_GRANT_UNIT_DESCRIPTION">
 			<Text>[COLOR_FLOAT_MILITARY]Keşif birimi aldık.[ENDCOLOR]</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_GOODYHUT_MILITARY_GRANT_UPGRADE_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_GOODYHUT_MILITARY_GRANT_UPGRADE_DESCRIPTION">
 			<Text>[COLOR_FLOAT_MILITARY]Birimimiz yükseltildi.[ENDCOLOR]</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_GOODYHUT_MILITARY_GRANT_EXPERIENCE_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_GOODYHUT_MILITARY_GRANT_EXPERIENCE_DESCRIPTION">
 			<Text>[COLOR_FLOAT_MILITARY]Birimimiz deneyim kazandı.[ENDCOLOR]</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_GOODYHUT_MILITARY_HEAL_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_GOODYHUT_MILITARY_HEAL_DESCRIPTION">
 			<Text>[COLOR_FLOAT_MILITARY]Birimimiz iyileştirildi.[ENDCOLOR]</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_GOODYHUT_SCIENCE_ONE_TECH_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_GOODYHUT_SCIENCE_ONE_TECH_DESCRIPTION">
 			<Text>[COLOR_FLOAT_SCIENCE]Bir ücretsiz teknoloji.[ENDCOLOR]</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_GOODYHUT_SURVIVORS_ADD_POP_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_GOODYHUT_SURVIVORS_ADD_POP_DESCRIPTION">
 			<Text>+{1_Num} nüfus</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_GOODYHUT_SURVIVORS_GRANT_UNIT_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_GOODYHUT_SURVIVORS_GRANT_UNIT_DESCRIPTION">
 			<Text>{1_Num} adet birim aldık: {2_Unit}</Text>
 		</Replace>
 		<!--Barbarian Camps -->
-		<Replace Language="pl_PL" Tag="LOC_BARB_CAMP_DISPERSAL_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BARB_CAMP_DISPERSAL_DESCRIPTION">
 			<Text>[COLOR_FLOAT_GOLD]+{1_Num} [ICON_Gold][ENDCOLOR]</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BARB_CAMP_DISPERSAL_DESCRIPTION_FAITH">
+		<Replace Language="en_US" Tag="LOC_BARB_CAMP_DISPERSAL_DESCRIPTION_FAITH">
 			<Text>[COLOR_FLOAT_FAITH]+{1_Num} [ICON_Faith][ENDCOLOR]</Text>
 		</Replace>
 		<!--Nuclear -->
-		<Replace Language="pl_PL" Tag="LOC_IMPROVEMENT_MISSILE_SILO_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_MISSILE_SILO_DESCRIPTION">
 			<Text>Askerî mühendisin füze silosu inşa etmesine olanak tanır.[NEWLINE][NEWLINE]Nükleer ve hidrojen bombaları için fırlatma platformu görevi görür.</Text>
 		</Replace>
 	</LocalizedText>

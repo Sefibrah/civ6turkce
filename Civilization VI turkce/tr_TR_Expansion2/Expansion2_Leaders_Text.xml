@@ -2,264 +2,264 @@
 <GameData>
 	<LocalizedText>
 		<!--Agenda Names-->
-		<Replace Language="pl_PL" Tag="LOC_AGENDA_ANGEVIN_EMPIRE_NAME">
+		<Replace Language="en_US" Tag="LOC_AGENDA_ANGEVIN_EMPIRE_NAME">
 			<Text>Angevinit</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_AGENDA_CANADIAN_EXPEDITIONARY_NAME">
+		<Replace Language="en_US" Tag="LOC_AGENDA_CANADIAN_EXPEDITIONARY_NAME">
 			<Text>Kanada keşif birlikleri</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_AGENDA_KAITIAKITANGA_NAME">
+		<Replace Language="en_US" Tag="LOC_AGENDA_KAITIAKITANGA_NAME">
 			<Text>Kaitiakitanga</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_AGENDA_LAWGIVER_NAME">
+		<Replace Language="en_US" Tag="LOC_AGENDA_LAWGIVER_NAME">
 			<Text>Kanun koyucu</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_AGENDA_LORD_OF_MINES_NAME">
+		<Replace Language="en_US" Tag="LOC_AGENDA_LORD_OF_MINES_NAME">
 			<Text>Madenlerin efendisi</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_AGENDA_RAVEN_BANNER_NAME">
+		<Replace Language="en_US" Tag="LOC_AGENDA_RAVEN_BANNER_NAME">
 			<Text>Kuzgun bayrağı</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_AGENDA_PATRON_OF_ARTS_NAME">
+		<Replace Language="en_US" Tag="LOC_AGENDA_PATRON_OF_ARTS_NAME">
 			<Text>Sanat hamisi</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_AGENDA_SAPA_INCA_NAME">
+		<Replace Language="en_US" Tag="LOC_AGENDA_SAPA_INCA_NAME">
 			<Text>Sapa inca</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_AGENDA_SICILIAN_WARS_NAME">
+		<Replace Language="en_US" Tag="LOC_AGENDA_SICILIAN_WARS_NAME">
 			<Text>Sicilya savaşları</Text>
 		</Replace>
 		<!--Random Agenda Names-->
-		<Replace Language="pl_PL" Tag="LOC_AGENDA_DEMAGOGUE_NAME">
+		<Replace Language="en_US" Tag="LOC_AGENDA_DEMAGOGUE_NAME">
 			<Text>Demagog</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_AGENDA_DESTINATION_CIV_NAME">
+		<Replace Language="en_US" Tag="LOC_AGENDA_DESTINATION_CIV_NAME">
 			<Text>Hedef ulus</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_AGENDA_EXPANSIONIST_NAME">
+		<Replace Language="en_US" Tag="LOC_AGENDA_EXPANSIONIST_NAME">
 			<Text>Genişlemeci</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_AGENDA_FLAT_EARTHER_NAME">
+		<Replace Language="en_US" Tag="LOC_AGENDA_FLAT_EARTHER_NAME">
 			<Text>Düz dünya yanlısı</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_AGENDA_GREAT_WHITE_FLEET_NAME">
+		<Replace Language="en_US" Tag="LOC_AGENDA_GREAT_WHITE_FLEET_NAME">
 			<Text>Büyük beyaz filo</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_AGENDA_INTOLERANT_NAME">
+		<Replace Language="en_US" Tag="LOC_AGENDA_INTOLERANT_NAME">
 			<Text>Hoşgörüsüz</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_AGENDA_LIBERTARIAN_NAME">
+		<Replace Language="en_US" Tag="LOC_AGENDA_LIBERTARIAN_NAME">
 			<Text>Özgürlükçü</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_AGENDA_PILLAGER_NAME">
+		<Replace Language="en_US" Tag="LOC_AGENDA_PILLAGER_NAME">
 			<Text>Yağmacı</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_AGENDA_TURTLER_NAME">
+		<Replace Language="en_US" Tag="LOC_AGENDA_TURTLER_NAME">
 			<Text>Kabuklu</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_AGENDA_ZEALOT_NAME">
+		<Replace Language="en_US" Tag="LOC_AGENDA_ZEALOT_NAME">
 			<Text>Fanatik</Text>
 		</Replace>
 		<!--Agenda Description-->
-		<Replace Language="pl_PL" Tag="LOC_AGENDA_ANGEVIN_EMPIRE_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_AGENDA_ANGEVIN_EMPIRE_DESCRIPTION">
 			<Text>Kalabalık şehirler inşa eder. Yakınındaki kalabalık şehirleri olan ulusları sever. Küçük ve dolayısıyla kolayca sadakatsiz olabilecek şehirleri olan uluslardan hoşlanmaz.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_AGENDA_CANADIAN_EXPEDITIONARY_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_AGENDA_CANADIAN_EXPEDITIONARY_DESCRIPTION">
 			<Text>Mümkün olduğunca çok acil duruma ve puan yarışmasına katılır. Bunlara katılanları sever. Katılmayanlardan hoşlanmaz.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_AGENDA_KAITIAKITANGA_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_AGENDA_KAITIAKITANGA_DESCRIPTION">
 			<Text>Topraklarındaki doğal özellikleri korur ve milli parklar inşa eder. Çevreyi önemseyen ulusları sever. Gezegeni kötüye kullananlardan hoşlanmaz.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_AGENDA_LAWGIVER_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_AGENDA_LAWGIVER_DESCRIPTION">
 			<Text>Vatandaşlarını mutlu ve sadık tutar. Aynı şekilde davrananları, özellikle de diğerlerinin kurduğu şehirlerde bunu başaranları takdir eder. Mutluluk veya sadakat sorunları yaşayanlardan veya başkalarından alınan az sayıda şehri olanlardan hoşlanmaz.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_AGENDA_LORD_OF_MINES_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_AGENDA_LORD_OF_MINES_DESCRIPTION">
 			<Text>Şehirlerin ve ticaret yollarının altın üretimini artırmaya çalışır. Aynı şekilde davranan ulusları takdir eder, aksi davrananlardan hoşlanmaz.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_AGENDA_RAVEN_BANNER_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_AGENDA_RAVEN_BANNER_DESCRIPTION">
 			<Text>Şehir devletlerinin birliklerini işe alır. Şehir devletlerinin birliklerini kullanan ulusları sever. Paralı asker kullanmayanlardan hoşlanmaz.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_AGENDA_PATRON_OF_ARTS_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_AGENDA_PATRON_OF_ARTS_DESCRIPTION">
 			<Text>Diğerlerinden daha fazla başyapıt sahibi olmak ister. Başyapıtları ona bırakanları sever. Çok sayıda başyapıtı olanlardan hoşlanmaz.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_AGENDA_SAPA_INCA_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_AGENDA_SAPA_INCA_DESCRIPTION">
 			<Text>Dağlara yakın yerleşmek ister. Dağlık bölgeleri rahat bırakanları sever, dağlara yerleşenlerden hoşlanmaz.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_AGENDA_SICILIAN_WARS_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_AGENDA_SICILIAN_WARS_DESCRIPTION">
 			<Text>Kıyıya yerleşmek ister. İç bölgelerde yerleşenleri sever. Çoğunlukla kıyı şehirleri olanlardan hoşlanmaz.</Text>
 		</Replace>
 		<!--Updated Base Game Agenda Descriptions-->
-		<Replace Language="pl_PL" Tag="LOC_AGENDA_WITH_YOUR_SHIELD_OR_ON_IT_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_AGENDA_WITH_YOUR_SHIELD_OR_ON_IT_DESCRIPTION">
 			<Text>Barış şartlarında asla bir şey vermez ve aynı şekilde davranan ulusları sever. Teslim olan veya hiç savaşmayan uluslardan hoşlanmaz. Bu lidere karşı olan kinler iki kat hızla azalır.</Text>
 		</Replace>
 		<!--Random Agenda Descriptions-->
-		<Replace Language="pl_PL" Tag="LOC_AGENDA_DEMAGOGUE_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_AGENDA_DEMAGOGUE_DESCRIPTION">
 			<Text>En fazla diplomatik desteğe sahip ulus olmak ister, diplomatik destek toplayan diğer uluslardan hoşlanmaz.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_AGENDA_DESTINATION_CIV_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_AGENDA_DESTINATION_CIV_DESCRIPTION">
 			<Text>Halkının en fazla turizmi toplamasını ister, turizmde yarışan diğer uluslardan hoşlanmaz.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_AGENDA_FLAT_EARTHER_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_AGENDA_FLAT_EARTHER_DESCRIPTION">
 			<Text>İnsanlığın dünyayı dolaşmasını ve uzaya gitmesini engellemek ister.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_AGENDA_LIBERTARIAN_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_AGENDA_LIBERTARIAN_DESCRIPTION">
 			<Text>Diplomatik zafer elde etmeye çalışan uluslardan hoşlanmaz.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_AGENDA_PILLAGER_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_AGENDA_PILLAGER_DESCRIPTION">
 			<Text>Ruutuja yağmalayarak tahrip etmeye çalışır. Yağmalayan diğer ulusları takdir eder.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_AGENDA_TURTLER_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_AGENDA_TURTLER_DESCRIPTION">
 			<Text>Fatihlerden korunmak ister. Diğer oyuncuların başkentlerini ele geçirenlerden hoşlanmaz.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_AGENDA_ZEALOT_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_AGENDA_ZEALOT_DESCRIPTION">
 			<Text>Dini zafer elde etmeye çalışır. İnancına teslim olan ulusları sever.</Text>
 		</Replace>
 		<!--City-States-->
-		<Replace Language="pl_PL" Tag="LOC_CIVILIZATION_AKKAD_NAME">
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_AKKAD_NAME">
 			<Text>Akkad</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVILIZATION_AKKAD_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_AKKAD_DESCRIPTION">
 			<Text>Akkad şehir devleti|Akkad'ın</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVILIZATION_AKKAD_ADJECTIVE">
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_AKKAD_ADJECTIVE">
 			<Text>Akkad'ın</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_LEADER_TRAIT_AKKAD_NAME">
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_AKKAD_NAME">
 			<Text>Akkad'ın üstünlüğü</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_LEADER_TRAIT_AKKAD_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_AKKAD_DESCRIPTION">
 			<Text>Piyade ve süvari birimleri şehir duvarlarına tam hasar verir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVILIZATION_BOLOGNA_NAME">
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_BOLOGNA_NAME">
 			<Text>Bologna</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVILIZATION_BOLOGNA_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_BOLOGNA_DESCRIPTION">
 			<Text>Bologna şehir devleti|Bologna'nın</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_LEADER_TRAIT_BOLOGNA_NAME">
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_BOLOGNA_NAME">
 			<Text>Bologna'nın üstünlüğü</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_LEADER_TRAIT_BOLOGNA_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_BOLOGNA_DESCRIPTION">
 			<Text>Binaları olan şehir bölgelerimiz, türlerine göre +1 büyük insan puanı sağlar (binası olan tiyatro meydanı büyük yazar, büyük sanatçı ve büyük müzisyen puanı alır).</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVILIZATION_BOLOGNA_ADJECTIVE">
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_BOLOGNA_ADJECTIVE">
 			<Text>Bologna'nın</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVILIZATION_CAHOKIA_NAME">
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_CAHOKIA_NAME">
 			<Text>Cahokia</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVILIZATION_CAHOKIA_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_CAHOKIA_DESCRIPTION">
 			<Text>Cahokia şehir devleti|Cahokia'nın</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVILIZATION_CAHOKIA_ADJECTIVE">
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_CAHOKIA_ADJECTIVE">
 			<Text>Cahokia'nın</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_LEADER_TRAIT_CAHOKIA_NAME">
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_CAHOKIA_NAME">
 			<Text>Cahokia'nın üstünlüğü</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_LEADER_TRAIT_CAHOKIA_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_CAHOKIA_DESCRIPTION">
 			<Text>İnşaatçılarımız tapınak höyükleri inşa edebilir.[NEWLINE][NEWLINE]Tapınak höyükleri +3 altın sağlar. Şehirler ilk tapınak höyüklerinden +1 yaşam standardı alır. Doğa tarihi geliştikçe şehirler ikinci tapınak höyüklerinden +1 yaşam standardı alır. Feodalizm geliştikçe her iki komşu şehir bölgesinden +1 yiyecek veya değişim parçaları geliştikçe her komşu şehir bölgesinden +1 yiyecek sağlar. +1 konut sağlar. Kültürel miras geliştikçe daha fazla konut sağlar. Başka bir tapınak höyüğünün yanına inşa edilemez.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVILIZATION_CARDIFF_NAME">
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_CARDIFF_NAME">
 			<Text>Cardiff</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVILIZATION_CARDIFF_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_CARDIFF_DESCRIPTION">
 			<Text>Cardiff şehir devleti|Cardiff'in</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVILIZATION_CARDIFF_ADJECTIVE">
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_CARDIFF_ADJECTIVE">
 			<Text>Cardiff'in</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_LEADER_TRAIT_CARDIFF_NAME">
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_CARDIFF_NAME">
 			<Text>Cardiff'in üstünlüğü</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_LEADER_TRAIT_CARDIFF_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_CARDIFF_DESCRIPTION">
 			<Text>Şehirler her liman binasından +2 elektrik alır.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVILIZATION_FEZ_NAME">
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_FEZ_NAME">
 			<Text>Fez</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVILIZATION_FEZ_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_FEZ_DESCRIPTION">
 			<Text>Fez şehir devleti|Fez'in</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVILIZATION_FEZ_ADJECTIVE">
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_FEZ_ADJECTIVE">
 			<Text>Fez'in</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_LEADER_TRAIT_FEZ_NAME">
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_FEZ_NAME">
 			<Text>Fez'in üstünlüğü</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_LEADER_TRAIT_FEZ_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_FEZ_DESCRIPTION">
 			<Text>Dini birimimizle bir şehri dinimize çevirdiğimizde, şehirdeki her vatandaş için 20 bilim puanı alırız (standart hızda).</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVILIZATION_MEXICO_CITY_NAME">
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_MEXICO_CITY_NAME">
 			<Text>México</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVILIZATION_MEXICO_CITY_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_MEXICO_CITY_DESCRIPTION">
 			<Text>México şehir devleti|México'nun</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVILIZATION_MEXICO_CITY_ADJECTIVE">
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_MEXICO_CITY_ADJECTIVE">
 			<Text>México'nun</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_LEADER_TRAIT_HATTUSA_EXPANSION2_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_HATTUSA_EXPANSION2_DESCRIPTION">
 			<Text>Her açığa çıkardığımız stratejik kaynak için, hiç sahip olmadığımız stratejik kaynaklardan her tur 2 tane sağlar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_LEADER_TRAIT_MEXICO_CITY_NAME">
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_MEXICO_CITY_NAME">
 			<Text>Mexico'nun üstünlüğü</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_LEADER_TRAIT_MEXICO_CITY_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_MEXICO_CITY_DESCRIPTION">
 			<Text>Sanayi bölgelerinden ve eğlence komplekslerinden gelen bölgesel etkiler 3 kare daha uzağa ulaşır.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVILIZATION_NAZCA_NAME">
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_NAZCA_NAME">
 			<Text>Nazca</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVILIZATION_NAZCA_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_NAZCA_DESCRIPTION">
 			<Text>Nazca şehir devleti|Nazca'nın</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVILIZATION_NAZCA_ADJECTIVE">
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_NAZCA_ADJECTIVE">
 			<Text>Nazca'nın</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_LEADER_TRAIT_NAZCA_NAME">
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_NAZCA_NAME">
 			<Text>Nazca'nın üstünlüğü</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_LEADER_TRAIT_NAZCA_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_NAZCA_DESCRIPTION">
 			<Text>İnşaatçılarımız Nazca çizgileri yapabilir.[NEWLINE][NEWLINE]Nazca çizgileri, bitişik karelere +1 [ICON_Faith] inanç sağlar. Doğal kaynak bulunan bitişik karelere +1 [ICON_Faith] inanç sağlar. Vatandaşlık hizmetleri geliştikçe bitişik çöl ve çöl tepe karelerine +1 [ICON_FOOD] yiyecek sağlar. Seri üretim geliştikçe düz karelere +1 [ICON_PRODUCTION] üretim sağlar. +1 cazibe sağlar. Sadece düz çöl üzerine inşa edilebilir. Kare işlenemez.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVILIZATION_NGAZARGAMU_NAME">
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_NGAZARGAMU_NAME">
 			<Text>Ngazargamu</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVILIZATION_NGAZARGAMU_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_NGAZARGAMU_DESCRIPTION">
 			<Text>Ngazargamu şehir devleti|Ngazargamu'nun</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVILIZATION_NGAZARGAMU_ADJECTIVE">
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_NGAZARGAMU_ADJECTIVE">
 			<Text>Ngazargamu'nun</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_LEADER_TRAIT_NGAZARGAMU_NAME">
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_NGAZARGAMU_NAME">
 			<Text>Ngazargamu'nun üstünlüğü</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_LEADER_TRAIT_NGAZARGAMU_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_NGAZARGAMU_DESCRIPTION">
 			<Text>Kara muharebe ve destek birimleri, her garnizon binası için %20 daha ucuza [ICON_GOLD] altın ile satın alınabilir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVILIZATION_RAPA_NUI_NAME">
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_RAPA_NUI_NAME">
 			<Text>Rapa Nui</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVILIZATION_RAPA_NUI_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_RAPA_NUI_DESCRIPTION">
 			<Text>Rapa Nui şehir devleti|Rapa Nui'nin</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVILIZATION_RAPA_NUI_ADJECTIVE">
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_RAPA_NUI_ADJECTIVE">
 			<Text>Rapa Nui'nin</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_LEADER_TRAIT_RAPA_NUI_NAME">
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_RAPA_NUI_NAME">
 			<Text>Rapa Nui'nin üstünlüğü</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_LEADER_TRAIT_RAPA_NUI_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_RAPA_NUI_DESCRIPTION">
 			<Text>İnşaatçılarımız Moai heykelleri yapabilir.[NEWLINE][NEWLINE]Moai, +1 [ICON_Culture] kültür sağlar. Her iki bitişik Moai için +1 [ICON_Culture] kültür sağlar. Volkanik arazi karelerinde veya bitişiğinde +2 [ICON_Culture] kültür sağlar. Kıyı veya göl karelerinin bitişiğinde +1 [ICON_Culture] kültür sağlar. Teknoloji ve normlarda ilerledikçe daha fazla [ICON_Culture] kültür ve [ICON_Tourism] turizm sağlar. Düzlük, tepe, çimenlik, çimenlik tepe veya volkanik arazi üzerine inşa edilebilir. Orman veya yağmur ormanı bitişiğine inşa edilemez.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_LEADER_TRAIT_ARMAGH_EXPANSION2_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_ARMAGH_EXPANSION2_DESCRIPTION">
 			<Text>İnşaatçılarımız manastırlar inşa edebilir.[NEWLINE][NEWLINE]Manastırlar +2 [ICON_Faith] inanç sağlar. Saldırmamış dost dini birimlere +15 HP iyileştirme sağlar. Her iki bitişik şehir bölgesi için +1 [ICON_FAITH] inanç sağlar. +1 [ICON_HOUSING] konut sağlar. Kolonizasyon geliştikçe daha fazla konut sağlar. Başka bir manastırın bitişiğine inşa edilemez.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_LEADER_TRAIT_LA_VENTA_EXPANSION2_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_LA_VENTA_EXPANSION2_DESCRIPTION">
 			<Text>İnşaatçılarımız devasa taş başlar inşa edebilir.[NEWLINE][NEWLINE]Devasa taş baş +2 [ICON_Faith] inanç sağlar. Her iki bitişik yağmur ormanı için humanizm geliştikten sonra +1 [ICON_Faith] inanç sağlar. Her iki bitişik orman için humanizm geliştikten sonra +1 [ICON_Faith] inanç sağlar. Uçuş geliştikten sonra [ICON_TOURISM] turizm sağlar. Kar veya kar tepesine inşa edilemez.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_LEADER_TRAIT_GRANADA_EXPANSION2_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_GRANADA_EXPANSION2_DESCRIPTION">
 			<Text>İnşaatçılarımız alcázar inşa edebilir.[NEWLINE][NEWLINE]Alcázar +2 [ICON_Culture] kültür sağlar. Kare cazibesinin %50'si kadar [ICON_SCIENCE] bilim sağlar. İşgal eden birim +4 [ICON_Strength] savunma gücü kazanır ve 2 tur boyunca garnizon avantajı sağlar. Uçuş geliştikten sonra [ICON_TOURISM] turizm sağlar. Başka bir alcázar'ın bitişiğine inşa edilemez.</Text>
 		</Replace>
 	</LocalizedText>

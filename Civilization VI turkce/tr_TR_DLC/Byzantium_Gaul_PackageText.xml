@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameData>
-    <LocalizedText>
-		<Replace Language="pl_PL" Tag="LOC_BYZANTIUM_GAUL_MOD_TITLE">
+	<LocalizedText>
+		<Replace Language="en_US" Tag="LOC_BYZANTIUM_GAUL_MOD_TITLE">
 			<Text>Ek Paket: Bizans ve Galya</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BYZANTIUM_GAUL_MOD_TEASER">
+		<Replace Language="en_US" Tag="LOC_BYZANTIUM_GAUL_MOD_TEASER">
 			<Text>Yeni medeniyetler ve liderler: Bizans'tan II. Basileios ve Galya'dan Ambiorix</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BYZANTIUM_GAUL_MOD_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BYZANTIUM_GAUL_MOD_DESCRIPTION">
 			<Text>İki yeni medeniyet ve lider, iki yeni dünya harikası, bir yeni harita türü ve Karanlık Çağlar oyun modunu içerir.</Text>
 		</Replace>
-   </LocalizedText>
+	</LocalizedText>
 </GameData>

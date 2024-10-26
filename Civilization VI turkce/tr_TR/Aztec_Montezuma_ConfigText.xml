@@ -1,34 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameData>
 	<LocalizedText>
-		<Replace Language="pl_PL" Tag="LOC_CIVILIZATION_AZTEC_NAME">
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_AZTEC_NAME">
 			<Text>Aztekler|azteklerin</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_LEADER_MONTEZUMA_NAME">
+		<Replace Language="en_US" Tag="LOC_LEADER_MONTEZUMA_NAME">
 			<Text>Montezuma</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TRAIT_CIVILIZATION_LEGEND_FIVE_SUNS_NAME">
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_LEGEND_FIVE_SUNS_NAME">
 			<Text>Beş güneşin efsanesi</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TRAIT_CIVILIZATION_LEGEND_FIVE_SUNS_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_LEGEND_FIVE_SUNS_DESCRIPTION">
 			<Text>Yapıcı, turu sırasında bir şehir bölgesinin tamamlanmasını toplam maliyetinin %20'si oranında ilerletebilir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TRAIT_LEADER_GIFTS_FOR_TLATOANI_NAME">
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_GIFTS_FOR_TLATOANI_NAME">
 			<Text>Tlatoani'nin hediyeleri</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TRAIT_LEADER_GIFTS_FOR_TLATOANI_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_GIFTS_FOR_TLATOANI_DESCRIPTION">
 			<Text>Sınırlar içinde bulunan lüks kaynaklar, [ICON_Amenities] yaşam kalitesini artırarak normalden iki fazla şehre fayda sağlar. Askeri birimler, her farklı lüks kaynağa bağlı olarak Aztek topraklarında saldırırken +1 [ICON_Strength] savaş gücü kazanır.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UNIT_AZTEC_EAGLE_WARRIOR_NAME">
+		<Replace Language="en_US" Tag="LOC_UNIT_AZTEC_EAGLE_WARRIOR_NAME">
 			<Text>Kartal Savaşçısı|kartal savaşçısı|kartal savaşçısının|kartal savaşçısı olarak</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UNIT_AZTEC_EAGLE_WARRIOR_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_UNIT_AZTEC_EAGLE_WARRIOR_DESCRIPTION">
 			<Text>Azteklerin antik birimi olup savaşçının yerini alır. Bazen diğer halkların askeri birimlerini ele geçirerek onları yapıcıya dönüştürebilir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BUILDING_TLACHTLI_NAME">
+		<Replace Language="en_US" Tag="LOC_BUILDING_TLACHTLI_NAME">
 			<Text>Tlachtli|tlachtli|tlachtlin</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BUILDING_TLACHTLI_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BUILDING_TLACHTLI_DESCRIPTION">
 			<Text>Azteklerin özel binası. [ICON_Amenities] yaşam kalitesi sağlar, +2 [ICON_Faith] inanç ve [ICON_GreatGeneral] önemli bir general puanı kazandırır.</Text>
 		</Replace>
 	</LocalizedText>

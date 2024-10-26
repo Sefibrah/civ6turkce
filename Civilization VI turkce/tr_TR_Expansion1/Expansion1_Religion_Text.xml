@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameData>
 	<LocalizedText>
-		<Replace Language="pl_PL" Tag="LOC_BELIEF_PAPAL_PRIMACY_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BELIEF_PAPAL_PRIMACY_DESCRIPTION">
 			<Text>[ICON_ENVOY] Temsilcimizi bir şehir devletine gönderdiğimizde, o şehir devletine 200 dini baskı uygularız.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BELIEF_GODDESS_OF_FESTIVALS_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BELIEF_GODDESS_OF_FESTIVALS_DESCRIPTION">
 			<Text>+1 [ICON_Food] gıda [ICON_RESOURCE_WINE] şarap, [ICON_RESOURCE_INCENSE] tütsü, [ICON_RESOURCE_COCOA] kakao, [ICON_RESOURCE_TOBACCO] tütün, [ICON_RESOURCE_OLIVES] zeytin, [ICON_RESOURCE_COFFEE] kahve ve [ICON_RESOURCE_TEA] çay plantasyonlarından.</Text>
 		</Replace>
 	</LocalizedText>

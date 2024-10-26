@@ -1,55 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameData>
     <LocalizedText>
-        <Replace Language="pl_PL" Tag="LOC_HUD_CITY_RELIGION_TT">
+        <Replace Language="en_US" Tag="LOC_HUD_CITY_RELIGION_TT">
             <Text>Başlıca Din: {1_ReligionName}</Text>
         </Replace>
-        <Replace Language="pl_PL" Tag="LOC_CITY_BELONGS_TT">
+        <Replace Language="en_US" Tag="LOC_CITY_BELONGS_TT">
             <Text>Şehir {1_CivName[2]} kontrolünde</Text>
         </Replace>
-        <Replace Language="pl_PL" Tag="LOC_CITY_BELONGS_FREECITY_TT">
+        <Replace Language="en_US" Tag="LOC_CITY_BELONGS_FREECITY_TT">
             <Text>Bağımsız serbest şehir</Text>
         </Replace>
-        <Replace Language="pl_PL" Tag="LOC_CITY_BANNER_TT">
+        <Replace Language="en_US" Tag="LOC_CITY_BANNER_TT">
             <Text>{1_CityName} ({2_CivName[2]})</Text>
         </Replace>
-        <Replace Language="pl_PL" Tag="LOC_HUD_CITY_GOVERNOR_NO_ID">
+        <Replace Language="en_US" Tag="LOC_HUD_CITY_GOVERNOR_NO_ID">
             <Text>İstihbaratımız [ICON_Governor] valinin bu şehre yerleştiğini biliyor, ancak kim olduğunu veya görevini yerine getirip getirmediğini bilmiyoruz</Text>
         </Replace>
-        <Replace Language="pl_PL" Tag="LOC_HUD_CITY_GOVERNOR_NO_TURNS">
+        <Replace Language="en_US" Tag="LOC_HUD_CITY_GOVERNOR_NO_TURNS">
             <Text>[ICON_Governor] {1_GovernorName} istihbaratımıza göre bu şehre yerleşti, ancak görevini yerine getirip getirmediğini bilmiyoruz</Text>
         </Replace>
-        <Replace Language="pl_PL" Tag="LOC_CITY_BANNER_ACTIVE_TRADING">
+        <Replace Language="en_US" Tag="LOC_CITY_BANNER_ACTIVE_TRADING">
             <Text>Burada bir ticaret merkezi sahibiz</Text>
         </Replace>
-        <Replace Language="pl_PL" Tag="LOC_CITY_BANNER_INACTIVE_TRADING">
+        <Replace Language="en_US" Tag="LOC_CITY_BANNER_INACTIVE_TRADING">
             <Text>Burada bir ticaret merkezi sahibiz, ancak savaş nedeniyle faaliyette değil</Text>
         </Replace>
-        <Replace Language="pl_PL" Tag="LOC_CITY_BANNER_CAN_STRIKE">
+        <Replace Language="en_US" Tag="LOC_CITY_BANNER_CAN_STRIKE">
             <Text>Şehir ateş edebilir</Text>
         </Replace>
-        <Replace Language="pl_PL" Tag="LOC_CITY_BANNER_FORTIFICATION_TT">
+        <Replace Language="en_US" Tag="LOC_CITY_BANNER_FORTIFICATION_TT">
             <Text>Şehir zayıf savunmaya sahip</Text>
         </Replace>
-        <Replace Language="pl_PL" Tag="LOC_CITY_BANNER_WALLED_FORTIFICATION_TT">
+        <Replace Language="en_US" Tag="LOC_CITY_BANNER_WALLED_FORTIFICATION_TT">
             <Text>Şehri bir duvar koruyor</Text>
         </Replace>
-        <Replace Language="pl_PL" Tag="LOC_CITY_BANNER_ORIGINAL_CAPITAL_TT">
+        <Replace Language="en_US" Tag="LOC_CITY_BANNER_ORIGINAL_CAPITAL_TT">
             <Text>Bu, {1_Owner[2]} orijinal başkenti</Text>
         </Replace>
-        <Replace Language="pl_PL" Tag="LOC_CITY_BANNER_NEW_CAPITAL_TT">
+        <Replace Language="en_US" Tag="LOC_CITY_BANNER_NEW_CAPITAL_TT">
             <Text>Bu, {1_Owner[2]} yeni başkenti</Text>
         </Replace>
-        <Replace Language="pl_PL" Tag="LOC_CITY_BANNER_CAPTURED_CAPITAL_TT">
+        <Replace Language="en_US" Tag="LOC_CITY_BANNER_CAPTURED_CAPITAL_TT">
             <Text>Bu, {1_OriginalOwner[2]} orijinal başkenti (ele geçirilmiş)</Text>
         </Replace>
-        <Replace Language="pl_PL" Tag="LOC_CITY_BANNER_OTHER_CITY_TT">
+        <Replace Language="en_US" Tag="LOC_CITY_BANNER_OTHER_CITY_TT">
             <Text>Bu, {1_Owner[2]} şehri</Text>
         </Replace>
-        <Replace Language="pl_PL" Tag="LOC_CITY_BANNER_CITY_STATE_TT">
+        <Replace Language="en_US" Tag="LOC_CITY_BANNER_CITY_STATE_TT">
             <Text>Şehir devleti</Text>
         </Replace>
-        <Replace Language="pl_PL" Tag="LOC_CITY_BANNER_FREE_CITY_TT">
+        <Replace Language="en_US" Tag="LOC_CITY_BANNER_FREE_CITY_TT">
             <Text>Serbest şehir</Text>
         </Replace>
     </LocalizedText>

@@ -2,37 +2,37 @@
 <GameData>
 	<LocalizedText>
 		<!-- Name and Description-->
-		<Replace Language="pl_PL" Tag="LOC_BALANCEDMAPS_NAME">
+		<Replace Language="en_US" Tag="LOC_BALANCEDMAPS_NAME">
 			<Text>Resmi Dengeli Haritalar</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BALANCEDMAPS_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BALANCEDMAPS_DESCRIPTION">
 			<Text>Dengeli haritalar, çok oyunculu oyunlar için özellikle iyidir.</Text>
 		</Replace>
 		<!--Map Name-->
-		<Replace Language="pl_PL" Tag="LOC_BALANCEDMAPS_MAP_STANDARD_NAME">
+		<Replace Language="en_US" Tag="LOC_BALANCEDMAPS_MAP_STANDARD_NAME">
 			<Text>Dengeli Haritalar</Text>
 		</Replace>
 		<!--Map Description-->
-		<Replace Language="pl_PL" Tag="LOC_BALANCEDMAPS_MAP_STANDARD_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BALANCEDMAPS_MAP_STANDARD_DESCRIPTION">
 			<Text>Dengeli haritalar, çok oyunculu oyunlar için özellikle iyidir.</Text>
 		</Replace>
 		<!--Map Description-->
-		<Replace Language="pl_PL" Tag="LOC_BALANCEDMAPS_MAP_OPTION1_NAME">
+		<Replace Language="en_US" Tag="LOC_BALANCEDMAPS_MAP_OPTION1_NAME">
 			<Text>Dört Yapraklı Yonca</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BALANCEDMAPS_MAP_OPTION1_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BALANCEDMAPS_MAP_OPTION1_DESCRIPTION">
 			<Text>Milletler dört dengeli bölgede başlar. Harita oyuncuları merkeze doğru zorlar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BALANCEDMAPS_MAP_OPTION2_NAME">
+		<Replace Language="en_US" Tag="LOC_BALANCEDMAPS_MAP_OPTION2_NAME">
 			<Text>Kar Tanesi</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BALANCEDMAPS_MAP_OPTION2_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BALANCEDMAPS_MAP_OPTION2_DESCRIPTION">
 			<Text>Milletler altı dengeli bölgede başlar, şehir devletleri yakın adalarda bulunur. Harita oyuncuları merkeze doğru zorlar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BALANCEDMAPS_MAP_OPTION3_NAME">
+		<Replace Language="en_US" Tag="LOC_BALANCEDMAPS_MAP_OPTION3_NAME">
 			<Text>Vaat Edilmiş Topraklar</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BALANCEDMAPS_MAP_OPTION3_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BALANCEDMAPS_MAP_OPTION3_DESCRIPTION">
 			<Text>Milletler dengeli başlangıç noktalarından başlar ve haritanın ortasındaki değerli arazi için mücadele eder.</Text>
 		</Replace>
 	</LocalizedText>

@@ -2,851 +2,851 @@
 <GameData>
 	<LocalizedText>
 		<!-- Civics-->
-		<Replace Language="pl_PL" Tag="LOC_CIVIC_FOREIGN_TRADE_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_CIVIC_FOREIGN_TRADE_DESCRIPTION">
 			<Text>[ICON_TradeRoute] Ticaret yollarının oluşturulmasına izin verir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVIC_MILITARY_TRADITION_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_CIVIC_MILITARY_TRADITION_DESCRIPTION">
 			<Text>Tüm savaş birimleri için yan ve destek avantajları sağlar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVIC_EARLY_EMPIRE_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_CIVIC_EARLY_EMPIRE_DESCRIPTION">
 			<Text>Sınır kontrolünü başlatır ve açık sınır anlaşmalarına izin verir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVIC_MYSTICISM_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_CIVIC_MYSTICISM_DESCRIPTION">
 			<Text>Bir [ICON_Envoy] temsilci sağlar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVIC_MILITARY_TRAINING_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_CIVIC_MILITARY_TRAINING_DESCRIPTION">
 			<Text>Bir [ICON_Envoy] temsilci sağlar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVIC_THEOLOGY_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_CIVIC_THEOLOGY_DESCRIPTION">
 			<Text>Bir [ICON_Envoy] temsilci sağlar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVIC_NAVAL_TRADITION_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_CIVIC_NAVAL_TRADITION_DESCRIPTION">
 			<Text>Bir [ICON_Envoy] temsilci sağlar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVIC_FEUDALISM_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_CIVIC_FEUDALISM_DESCRIPTION">
 			<Text>Çiftlikler, bitişik her bir çiftlik için +1 [ICON_Food] yiyecek sağlar ve üç çiftlik birbirine komşu olduğunda ek avantaj verir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVIC_CIVIL_SERVICE_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_CIVIC_CIVIL_SERVICE_DESCRIPTION">
 			<Text>İttifaklar yapmayı mümkün kılar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVIC_MERCENARIES_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_CIVIC_MERCENARIES_DESCRIPTION">
 			<Text>Bir [ICON_Envoy] temsilci sağlar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVIC_EXPLORATION_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_CIVIC_EXPLORATION_DESCRIPTION">
 			<Text>Meralar +1 [ICON_Food] yiyecek sağlar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVIC_DIPLOMATIC_SERVICE_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_CIVIC_DIPLOMATIC_SERVICE_DESCRIPTION">
 			<Text>Casus eğitmeye izin verir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVIC_MERCANTILISM_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_CIVIC_MERCANTILISM_DESCRIPTION">
 			<Text>Kamp alanları +1 [ICON_Production] üretim ve +1 [ICON_Food] yiyecek sağlar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVIC_THE_ENLIGHTENMENT_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_CIVIC_THE_ENLIGHTENMENT_DESCRIPTION">
 			<Text>Dini [ICON_Tourism] turizmin etkisi yarıya düşer.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVIC_COLONIALISM_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_CIVIC_COLONIALISM_DESCRIPTION">
 			<Text>İki [ICON_Envoy] temsilci sağlar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVIC_CIVIL_ENGINEERING_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_CIVIC_CIVIL_ENGINEERING_DESCRIPTION">
 			<Text>Çiftliklerin tepelik çayır ve düzlüklerde inşa edilmesine izin verir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVIC_NATIONALISM_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_CIVIC_NATIONALISM_DESCRIPTION">
 			<Text>Ek bir casus eğitmeye izin verir. İki aynı türde birim, ordu veya filo oluşturabilir. Koloni savaşı gerekçesini mümkün kılar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVIC_OPERA_BALLET_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_CIVIC_OPERA_BALLET_DESCRIPTION">
 			<Text>İki [ICON_Envoy] temsilci sağlar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVIC_NATURAL_HISTORY_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_CIVIC_NATURAL_HISTORY_DESCRIPTION">
 			<Text>[ICON_RESOURCE_ANTIQUITY_SITE] Antik alanları ortaya çıkarır. Arkeologların eğitilmesini sağlar. İki [ICON_Envoy] temsilci sağlar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVIC_SCORCHED_EARTH_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_CIVIC_SCORCHED_EARTH_DESCRIPTION">
 			<Text>İki [ICON_Envoy] temsilci sağlar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVIC_CONSERVATION_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_CIVIC_CONSERVATION_DESCRIPTION">
 			<Text>Üç [ICON_Envoy] temsilci sağlar. Doğal parklar inşa etmeye ve [ICON_Faith] inanç ile çevreci satın almaya izin verir. İnşaatçılar yeni ormanlar dikebilir. Eski ormanlar +1 cazibe kazanır. Duvarlar [ICON_Tourism] turizm üretmeye başlar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVIC_MOBILIZATION_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_CIVIC_MOBILIZATION_DESCRIPTION">
 			<Text>Savunma ittifaklarını mümkün kılar. Üç aynı birim, bir ordu veya armada oluşturabilir. Bölge genişletme savaşı gerekçesini sağlar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVIC_IDEOLOGY_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_CIVIC_IDEOLOGY_DESCRIPTION">
 			<Text>Ek bir casus eğitmeye izin verir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVIC_COLD_WAR_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_CIVIC_COLD_WAR_DESCRIPTION">
 			<Text>Ek bir casus eğitmeye izin verir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVIC_CULTURAL_HERITAGE_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_CIVIC_CULTURAL_HERITAGE_DESCRIPTION">
 			<Text>[ICON_RESOURCE_SHIPWRECK] Batıkları keşfeder ve arkeologların onlardan [ICON_GreatWork_Artifact] eserler toplamasına izin verir. Üç [ICON_Envoy] temsilci sağlar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVIC_RAPID_DEPLOYMENT_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_CIVIC_RAPID_DEPLOYMENT_DESCRIPTION">
 			<Text>Kara birimlerinin havaalanları arasında taşınmasını sağlar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVIC_GLOBALIZATION_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_CIVIC_GLOBALIZATION_DESCRIPTION">
 			<Text>Plantasyonlardan +2 [ICON_Gold] altın sağlar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVIC_FUTURE_CIVIC_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_CIVIC_FUTURE_CIVIC_DESCRIPTION">
 			<Text>Birden fazla kez araştırılabilir. Her seferinde puan zaferi için puanları artırır.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVIC_ENVOY_AWARDED_TOOLTIP">
+		<Replace Language="en_US" Tag="LOC_CIVIC_ENVOY_AWARDED_TOOLTIP">
 			<Text>{1_NumOfEnvoys : plural 1?Bir [ICON_Envoy] temsilci; other?{1_NumOfEnvoys} [ICON_Envoy] temsilci;}</Text>
 		</Replace>
 		<!-- Civic Boosts-->
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_CRAFTSMANSHIP">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_CRAFTSMANSHIP">
 			<Text>Üç alana yapı inşa et.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_FOREIGN_TRADE">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_FOREIGN_TRADE">
 			<Text>Başka bir kıta keşfet.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_MILITARY_TRADITION">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_MILITARY_TRADITION">
 			<Text>Bir barbar ileri karakolunu yok et.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_STATE_WORKFORCE">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_STATE_WORKFORCE">
 			<Text>Herhangi bir şehir bölgesi inşa et.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_EARLY_EMPIRE">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_EARLY_EMPIRE">
 			<Text>Toplam nüfusu en az altıya çıkar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_MYSTICISM">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_MYSTICISM">
 			<Text>Bir ana inanç kur.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_GAMES_RECREATION">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_GAMES_RECREATION">
 			<Text>İnşaat becerisi geliştir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_POLITICAL_PHILOSOPHY">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_POLITICAL_PHILOSOPHY">
 			<Text>Üç şehir devletiyle karşılaş.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_DRAMA_POETRY">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_DRAMA_POETRY">
 			<Text>Bir harika inşa et.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_MILITARY_TRAINING">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_MILITARY_TRAINING">
 			<Text>Bir garnizon inşa et.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_DEFENSIVE_TACTICS">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_DEFENSIVE_TACTICS">
 			<Text>Savaş ilanının hedefi ol.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_RECORDED_HISTORY">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_RECORDED_HISTORY">
 			<Text>İki kampüs inşa et.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_THEOLOGY">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_THEOLOGY">
 			<Text>Bir din kur.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_NAVAL_TRADITION">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_NAVAL_TRADITION">
 			<Text>Dört kürekli gemiyle bir birim yok et.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_FEUDALISM">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_FEUDALISM">
 			<Text>Altı tarla inşa et.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_CIVIL_SERVICE">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_CIVIL_SERVICE">
 			<Text>Bir şehri on nüfusa çıkar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_MERCENARIES">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_MERCENARIES">
 			<Text>Aynı anda sekiz kara savaş birimi bulundur.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_MEDIEVAL_FAIRES">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_MEDIEVAL_FAIRES">
 			<Text>Dört ticaret yolu bulundur.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_GUILDS">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_GUILDS">
 			<Text>İki pazar inşa et.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_DIVINE_RIGHT">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_DIVINE_RIGHT">
 			<Text>İki tapınak inşa et.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_EXPLORATION">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_EXPLORATION">
 			<Text>İki karavel inşa et.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_HUMANISM">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_HUMANISM">
 			<Text>Önemli bir sanatçı görevlendir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_DIPLOMATIC_SERVICE">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_DIPLOMATIC_SERVICE">
 			<Text>Başka bir milletle ittifak yap.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_REFORMED_CHURCH">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_REFORMED_CHURCH">
 			<Text>Dinimiz altı şehrin baskın dini olsun.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_MERCANTILISM">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_MERCANTILISM">
 			<Text>Önemli bir tüccar görevlendir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_THE_ENLIGHTENMENT">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_THE_ENLIGHTENMENT">
 			<Text>Üç önemli kişiyi görevlendir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_CIVIL_ENGINEERING">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_CIVIL_ENGINEERING">
 			<Text>Yedi farklı şehir bölgesi inşa et.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_NATIONALISM">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_NATIONALISM">
 			<Text>Savaş ilanında savaş gerekçesi kullan.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_OPERA_BALLET">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_OPERA_BALLET">
 			<Text>Bir sanat müzesi inşa et.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_COLONIALISM">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_COLONIALISM">
 			<Text>Astronomi geliştir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_NATURAL_HISTORY">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_NATURAL_HISTORY">
 			<Text>Bir arkeoloji müzesi inşa et.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_URBANIZATION">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_URBANIZATION">
 			<Text>Bir şehri on beş nüfusa çıkar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_SCORCHED_EARTH">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_SCORCHED_EARTH">
 			<Text>İki saha topu inşa et.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_CONSERVATION">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_CONSERVATION">
 			<Text>Çarpıcı cazibeye sahip bir mahalle kur.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_MOBILIZATION">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_MOBILIZATION">
 			<Text>Üç ordu oluştur.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_MASS_MEDIA">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_MASS_MEDIA">
 			<Text>Radyo geliştirin.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_CAPITALISM">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_CAPITALISM">
 			<Text>Üç borsa inşa edin.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_NUCLEAR_PROGRAM">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_NUCLEAR_PROGRAM">
 			<Text>Araştırma laboratuvarı inşa edin.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_SUFFRAGE">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_SUFFRAGE">
 			<Text>Dört kanalizasyon sistemi inşa edin.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_TOTALITARIANISM">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_TOTALITARIANISM">
 			<Text>Üç askeri akademi inşa edin.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_CLASS_STRUGGLE">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_CLASS_STRUGGLE">
 			<Text>Üç fabrika inşa edin.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_COLD_WAR">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_COLD_WAR">
 			<Text>Nükleer fisyon geliştirin.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_PROFESSIONAL_SPORTS">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_PROFESSIONAL_SPORTS">
 			<Text>Dört eğlence kompleksi inşa edin.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_CULTURAL_HERITAGE">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_CULTURAL_HERITAGE">
 			<Text>Temalı bir müzeye sahip olun.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_RAPID_DEPLOYMENT">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_RAPID_DEPLOYMENT">
 			<Text>Anakarınızın dışında bir havaalanı veya pist inşa edin.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_SPACE_RACE">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_SPACE_RACE">
 			<Text>Uzay limanı inşa edin.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_GLOBALIZATION">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_GLOBALIZATION">
 			<Text>Üç havaalanı inşa edin.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_SOCIAL_MEDIA">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_SOCIAL_MEDIA">
 			<Text>Telekomünikasyon geliştirin.</Text>
 		</Replace>
 		<!-- Civic Boosts Long Descriptions -->
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_CRAFTSMANSHIP">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_CRAFTSMANSHIP">
 			<Text>İlk şehrimizi çevreleyen topraklar geliştikçe, üretim yöntemlerimizi iyileştirmeyi öğrendik.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_FOREIGN_TRADE">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_FOREIGN_TRADE">
 			<Text>Başka bir kıta keşfettikten sonra ticaretin fırsatlarını fark ettik.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_MILITARY_TRADITION">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_MILITARY_TRADITION">
 			<Text>Askerlerimiz, barbar ileri karakolunun yok edilmesinin askeri başarıların uzun bir zincirine yol açmasını umuyor.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_STATE_WORKFORCE">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_STATE_WORKFORCE">
 			<Text>İlk şehir bölgemizin tamamlanması, işçileri devlet projelerine çağırmanın ne kadar faydalı olduğunu gösterdi.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_EARLY_EMPIRE">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_EARLY_EMPIRE">
 			<Text>Artan nüfusumuz geniş bir imparatorluk hayal etmeye başladı.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_MYSTICISM">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_MYSTICISM">
 			<Text>İlk inancımızın tanrılara tapınması, ruhani güçler hakkında yeni soruları gündeme getirdi.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_GAMES_RECREATION">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_GAMES_RECREATION">
 			<Text>Yeni inşaat becerilerimiz, eğlence ve keyif için yeni fırsatlar yaratıyor.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_POLITICAL_PHILOSOPHY">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_POLITICAL_PHILOSOPHY">
 			<Text>Diğer güçlerle olan bağlantılarımız, halkımızı yönetme yolları hakkında düşünceleri pekiştirdi.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_DRAMA_POETRY">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_DRAMA_POETRY">
 			<Text>Bir harikanın tamamlanması halkımızı coşturdu. Bu büyük olayı kutlamak için eserler yazıyorlar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_MILITARY_TRAINING">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_MILITARY_TRAINING">
 			<Text>Bir garnizon sayesinde askeri eğitimimizi standardize edebiliriz.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_DEFENSIVE_TACTICS">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_DEFENSIVE_TACTICS">
 			<Text>İstilaya uğrama korkusu halkımızı yeni savunma taktikleri geliştirmeye hazırlıyor.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_RECORDED_HISTORY">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_RECORDED_HISTORY">
 			<Text>Halklarımız, kampüslerimizin kütüphanelerinde çok sayıda parşömen saklama planlarını duyunca imparatorluğumuzun tarihini kaydetmeye başlıyor.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_THEOLOGY">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_THEOLOGY">
 			<Text>Bir peygamber tarafından kurulan din, ilahiyatın doğası hakkında derin düşünceler uyandırıyor.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_NAVAL_TRADITION">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_NAVAL_TRADITION">
 			<Text>Denizdeki zaferimiz, halkımızı deniz gücü olma çabalarını desteklemeye teşvik ediyor.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_FEUDALISM">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_FEUDALISM">
 			<Text>Ağalar ve vassallar sistemi, tüm tarlalarımızın yönetimi için bir düzen haline geliyor.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_CIVIL_SERVICE">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_CIVIL_SERVICE">
 			<Text>Geniş şehir merkezimiz yakında sayısız bürokrata ihtiyaç duyacak.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_MERCENARIES">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_MERCENARIES">
 			<Text>Ordumuz bu kadar büyük olduğunda, paralı askerleri işe almayı düşünmek mantıklı olabilir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_MEDIEVAL_FAIRES">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_MEDIEVAL_FAIRES">
 			<Text>Topraklarımızdaki artan ticaret yakında pazarları da beraberinde getirecek.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_GUILDS">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_GUILDS">
 			<Text>Ticaret merkezlerimizin yükselişi loncaların büyümesine yol açtı.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_DIVINE_RIGHT">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_DIVINE_RIGHT">
 			<Text>Sadık vatandaşlarımız yönetiminizin ilahi bir kutsama olduğuna inanıyor.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_EXPLORATION">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_EXPLORATION">
 			<Text>Karavellardan öğrendiğimiz şeyler, tebaamızı yönetmenin yeni yollarını öğretti.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_HUMANISM">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_HUMANISM">
 			<Text>Yakın zamanda çektiğimiz önemli bir sanatçının ilhamı, halkımızın bireyin gücünü fark etmesini sağladı.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_DIPLOMATIC_SERVICE">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_DIPLOMATIC_SERVICE">
 			<Text>İttifak kurmak için gösterdiğimiz çaba, ilk diplomat ekibimizi eğitti.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_REFORMED_CHURCH">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_REFORMED_CHURCH">
 			<Text>Dinimizin büyümesi, mezhep çatışması tehlikesini de beraberinde getirdi. Kilisenin yozlaşmış uygulamaları derhal yenilenmeli!</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_MERCANTILISM">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_MERCANTILISM">
 			<Text>Yeni önemli tüccarımız, ekonomik rakiplerimize üstünlük sağlamak için düşüncelerini paylaşıyor.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_THE_ENLIGHTENMENT">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_THE_ENLIGHTENMENT">
 			<Text>Önemli kişilerimizin fikirleri, ülke genelinde akıllı tartışmaların doğmasına yol açtı.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_COLONIALISM">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_COLONIALISM">
 			<Text>Gökyüzünün işleyişine dair yeni anlayışımız, donanmamızı uzaklara yelken açıp bizi bir dünya gücü yapmaya hazırlıyor.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_CIVIL_ENGINEERING">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_CIVIL_ENGINEERING">
 			<Text>Çeşitli şehir bölgelerinin inşası, mühendislerimizi şehir planlamada ustalaştırdı.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_NATIONALISM">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_NATIONALISM">
 			<Text>Halkımız bu savaşı meşru görüyor ve ulusal gurur kaynağı olarak benimsiyor!</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_OPERA_BALLET">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_OPERA_BALLET">
 			<Text>Yeni müzenin açılışı, halkın sanata yönelmesine neden oldu. Belki de dans ve opera da yakında gelecek?</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_NATURAL_HISTORY">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_NATURAL_HISTORY">
 			<Text>Müze sayesinde doğanın sunduğu her şeyi toplamak ve incelemek için artık bir yerimiz var.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_URBANIZATION">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_URBANIZATION">
 			<Text>Büyük şehrimiz aşırı nüfus belirtileri gösteriyor. Banliyöler yaratmanın zamanı geldi.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_SCORCHED_EARTH">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_SCORCHED_EARTH">
 			<Text>Modern savaşlar acımasızdır. Askeri doktrinlerimiz yavaş yavaş total savaş ilkelerini yansıtıyor.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_CONSERVATION">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_CONSERVATION">
 			<Text>Yeni nefes kesici mahallemizin sakinleri, dünyanın en güzel doğal yerlerini koruma planları yapmamızı talep ediyor.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_MASS_MEDIA">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_MASS_MEDIA">
 			<Text>Radyo ile birlikte yeni bir iletişim çağı başlıyor.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_MOBILIZATION">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_MOBILIZATION">
 			<Text>Ordumuz daha iyi organize olmuş durumda. Şimdi birliklerimizi dünyaya göstermenin zamanı geldi.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_CAPITALISM">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_CAPITALISM">
 			<Text>Birçok borsa ile birlikte sermaye bolca mevcut ve serbest piyasa ekonomisi doğmaya hazır.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_NUCLEAR_PROGRAM">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_NUCLEAR_PROGRAM">
 			<Text>Merkezi bir araştırma laboratuvarı sayesinde bilim insanlarını işe alarak nükleer programı tamamlayabiliriz.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_SUFFRAGE">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_SUFFRAGE">
 			<Text>Krallığımızın kadınları uygun bir kanalizasyon sistemi için kampanya yürüttüler. Bu zaferden sonra şimdi oy hakkı istiyorlar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_TOTALITARIANISM">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_TOTALITARIANISM">
 			<Text>Askeri akademilerimizin disiplini, halkımız tarafından artık doğal olarak benimseniyor.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_CLASS_STRUGGLE">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_CLASS_STRUGGLE">
 			<Text>Fabrika işçilerimiz, çalışma koşullarının iyileştirilmesini talep ediyor. Dünyanın tüm işçileri, artık birlik olma zamanı!</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_COLD_WAR">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_COLD_WAR">
 			<Text>Nükleer silahların ortaya çıkışıyla, dünya genelinde askeri çatışmaların doğası değişti.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_PROFESSIONAL_SPORTS">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_PROFESSIONAL_SPORTS">
 			<Text>Dört eğlence kompleksi bulunan şehirlerimiz, yeni bir profesyonel spor ligi kurmak istiyor.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_CULTURAL_HERITAGE">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_CULTURAL_HERITAGE">
 			<Text>Özenle hazırlanmış müzemiz sayesinde güçlü kültürel mirasımız herkesin görebileceği bir yerde.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_RAPID_DEPLOYMENT">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_RAPID_DEPLOYMENT">
 			<Text>Dünya çapında hava üslerimiz ile ordumuz her an her yerde harekete geçmeye hazır.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_SPACE_RACE">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_SPACE_RACE">
 			<Text>Yeni uzay limanımızla birlikte halkımız uzaya ulaşmak için ortak bir çaba göstermeye hazır.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_GLOBALIZATION">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_GLOBALIZATION">
 			<Text>Birçok havaalanıyla birlikte dünya gerçekten küçüldü.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_SOCIAL_MEDIA">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_SOCIAL_MEDIA">
 			<Text>İletişim teknolojisindeki ilerlemeler, insanların internet üzerinden bağlantı kurmasını sağladı.</Text>
 		</Replace>
 		<!-- Governments -->
-		<Replace Language="pl_PL" Tag="LOC_GOVERNMENT_OF">
+		<Replace Language="en_US" Tag="LOC_GOVERNMENT_OF">
 			<Text>Yönetim - {1_civ}</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CHANGE_GOVERNMENT">
+		<Replace Language="en_US" Tag="LOC_CHANGE_GOVERNMENT">
 			<Text>Hükümeti Değiştir</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MY_GOVERNMENT">
+		<Replace Language="en_US" Tag="LOC_MY_GOVERNMENT">
 			<Text>Hükümetimiz</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_policIES">
+		<Replace Language="en_US" Tag="LOC_policIES">
 			<Text>Politikalar</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_GOVERNMENTS">
+		<Replace Language="en_US" Tag="LOC_GOVERNMENTS">
 			<Text>Hükümet Biçimleri</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CULTURE_PER_TURN">
+		<Replace Language="en_US" Tag="LOC_CULTURE_PER_TURN">
 			<Text>Tur başına kültür: +{1_Culture}</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MILITARY">
+		<Replace Language="en_US" Tag="LOC_MILITARY">
 			<Text>Askeri</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ECONOMIC">
+		<Replace Language="en_US" Tag="LOC_ECONOMIC">
 			<Text>Ekonomik</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_DIPLOMATIC">
+		<Replace Language="en_US" Tag="LOC_DIPLOMATIC">
 			<Text>Diplomatik</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_WILDCARD">
+		<Replace Language="en_US" Tag="LOC_WILDCARD">
 			<Text>Serbest Kartlar</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_EMPTY_POLICY_SLOT">
+		<Replace Language="en_US" Tag="LOC_EMPTY_POLICY_SLOT">
 			<Text>Boş Slot: {1_policyType}</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_NO_AVAIL_policIES">
+		<Replace Language="en_US" Tag="LOC_NO_AVAIL_policIES">
 			<Text>Kullanılabilir politika yok</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_VIEW_LOCKED_policIES">
+		<Replace Language="en_US" Tag="LOC_VIEW_LOCKED_policIES">
 			<Text>Kilitli politikaları görüntüle</Text>
 		</Replace>
 		<!-- Government Effects -->
-		<Replace Language="pl_PL" Tag="LOC_GOVT_INHERENT_BONUS_CHIEFDOM">
+		<Replace Language="en_US" Tag="LOC_GOVT_INHERENT_BONUS_CHIEFDOM">
 			<Text>Avantaj yok.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_GOVT_INHERENT_BONUS_AUTOCRACY">
+		<Replace Language="en_US" Tag="LOC_GOVT_INHERENT_BONUS_AUTOCRACY">
 			<Text>Başkent tüm çıktılarda +1 avantaj sağlar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_GOVT_INHERENT_BONUS_OLIGARCHY">
+		<Replace Language="en_US" Tag="LOC_GOVT_INHERENT_BONUS_OLIGARCHY">
 			<Text>Tüm kara birimleri +4 [ICON_Strength] savaş gücü kazanır.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_GOVT_INHERENT_BONUS_CLASSREP">
+		<Replace Language="en_US" Tag="LOC_GOVT_INHERENT_BONUS_CLASSREP">
 			<Text>Şehir bölgesi olan şehirler +1 [ICON_Amenities] yaşam kalitesi sağlar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_GOVT_INHERENT_BONUS_MONARCHY">
+		<Replace Language="en_US" Tag="LOC_GOVT_INHERENT_BONUS_MONARCHY">
 			<Text>%50 [ICON_Production] savunma yapıları için üretim. Her duvar seviyesi için +1 [ICON_Housing] konut.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_GOVT_INHERENT_BONUS_THEOCRACY">
+		<Replace Language="en_US" Tag="LOC_GOVT_INHERENT_BONUS_THEOCRACY">
 			<Text>Kara birimleri inançla satın alınabilir. İnanç savaşlarında +5 [ICON_Religion] dini güç.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_GOVT_INHERENT_BONUS_MERCHREP">
+		<Replace Language="en_US" Tag="LOC_GOVT_INHERENT_BONUS_MERCHREP">
 			<Text>+2 [ICON_TradeRoute] ticaret rotası.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_GOVT_INHERENT_BONUS_FASCISM">
+		<Replace Language="en_US" Tag="LOC_GOVT_INHERENT_BONUS_FASCISM">
 			<Text>Tüm savaş birimleri +5 [ICON_Strength] savaş gücü kazanır.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_GOVT_INHERENT_BONUS_COMMUNISM">
+		<Replace Language="en_US" Tag="LOC_GOVT_INHERENT_BONUS_COMMUNISM">
 			<Text>Kara birimleri +4 [ICON_Strength] savunma gücü kazanır.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_GOVT_INHERENT_BONUS_DEMOCRACY">
+		<Replace Language="en_US" Tag="LOC_GOVT_INHERENT_BONUS_DEMOCRACY">
 			<Text>Önemli kişileri işe almak için %50 daha az altın gereklidir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_CHIEFDOM">
+		<Replace Language="en_US" Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_CHIEFDOM">
 			<Text>Avantaj yok.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_AUTOCRACY">
+		<Replace Language="en_US" Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_AUTOCRACY">
 			<Text>Mucizeler inşasında avantaj.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_OLIGARCHY">
+		<Replace Language="en_US" Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_OLIGARCHY">
 			<Text>Savaş birimleri için deneyim kazancı.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_CLASSREP">
+		<Replace Language="en_US" Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_CLASSREP">
 			<Text>Önemli kişilerin puanları için avantaj.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_MONARCHY">
+		<Replace Language="en_US" Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_MONARCHY">
 			<Text>Etki puanlarının birikiminde avantaj.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_THEOCRACY">
+		<Replace Language="en_US" Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_THEOCRACY">
 			<Text>İnançla satın alma indirimleri.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_MERCHREP">
+		<Replace Language="en_US" Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_MERCHREP">
 			<Text>Altınla satın alma indirimleri.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_FASCISM">
+		<Replace Language="en_US" Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_FASCISM">
 			<Text>Birim eğitimi için avantaj.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_COMMUNISM">
+		<Replace Language="en_US" Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_COMMUNISM">
 			<Text>Tüm üretimlerde avantaj.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_DEMOCRACY">
+		<Replace Language="en_US" Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_DEMOCRACY">
 			<Text>Şehir projeleri için ek verimlilik.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_GOVT_ACCUMULATED_BONUS_CHIEFDOM">
+		<Replace Language="en_US" Tag="LOC_GOVT_ACCUMULATED_BONUS_CHIEFDOM">
 			<Text>Avantaj yok.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_GOVT_ACCUMULATED_BONUS_AUTOCRACY">
+		<Replace Language="en_US" Tag="LOC_GOVT_ACCUMULATED_BONUS_AUTOCRACY">
 			<Text>Mucizelerin [ICON_Production] üretiminde avantaj (%10, her 20. turda %1 ek artış).</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_GOVT_ACCUMULATED_BONUS_OLIGARCHY">
+		<Replace Language="en_US" Tag="LOC_GOVT_ACCUMULATED_BONUS_OLIGARCHY">
 			<Text>Birimlerin savaş deneyimi kazanımında avantaj (%20, her 5. turda %1 ek artış).</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_GOVT_ACCUMULATED_BONUS_CLASSREP">
+		<Replace Language="en_US" Tag="LOC_GOVT_ACCUMULATED_BONUS_CLASSREP">
 			<Text>[ICON_GreatPerson] Önemli kişiler için puan birikiminde avantaj (%15, her 15. turda %1 ek artış).</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_GOVT_ACCUMULATED_BONUS_MONARCHY">
+		<Replace Language="en_US" Tag="LOC_GOVT_ACCUMULATED_BONUS_MONARCHY">
 			<Text>[ICON_Envoy] Temsilciler için etki puanı birikiminde avantaj (%20, her 10. turda %1 ek artış).</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_GOVT_ACCUMULATED_BONUS_THEOCRACY">
+		<Replace Language="en_US" Tag="LOC_GOVT_ACCUMULATED_BONUS_THEOCRACY">
 			<Text>[ICON_Faith] İnançla satın alımlarda indirim (%15, her 15. turda %1 ek artış).</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_GOVT_ACCUMULATED_BONUS_MERCHREP">
+		<Replace Language="en_US" Tag="LOC_GOVT_ACCUMULATED_BONUS_MERCHREP">
 			<Text>[ICON_Gold] Altınla satın alımlarda indirim (%15, her 15. turda %1 ek artış).</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_GOVT_ACCUMULATED_BONUS_FASCISM">
+		<Replace Language="en_US" Tag="LOC_GOVT_ACCUMULATED_BONUS_FASCISM">
 			<Text>Birimlerin [ICON_Production] üretiminde avantaj (%20, her 10. turda %1 ek artış).</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_GOVT_ACCUMULATED_BONUS_COMMUNISM">
+		<Replace Language="en_US" Tag="LOC_GOVT_ACCUMULATED_BONUS_COMMUNISM">
 			<Text>Tüm [ICON_Production] üretimlerde avantaj (%10, her 20. turda %1 ek artış).</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_GOVT_ACCUMULATED_BONUS_DEMOCRACY">
+		<Replace Language="en_US" Tag="LOC_GOVT_ACCUMULATED_BONUS_DEMOCRACY">
 			<Text>Şehir projeleri için %30 ek verimlilik (her 10. turda %1 ek artış).</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_GOVT_POLICIES_NO_REMAINING_PLACED">
+		<Replace Language="en_US" Tag="LOC_GOVT_POLICIES_NO_REMAINING_PLACED">
 			<Text>{1_policyName} bu hükümet için zaten kullanıldı.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_GOVT_POLICIES_NO_TOTAL_PLACED">
+		<Replace Language="en_US" Tag="LOC_GOVT_POLICIES_NO_TOTAL_PLACED">
 			<Text>{1_policyName} bu yönetim biçimi için uygun değil.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_GOVT_POLICIES_REMAINING_PLACED">
+		<Replace Language="en_US" Tag="LOC_GOVT_POLICIES_REMAINING_PLACED">
 			<Text>{2_policyName}, {1_Num: number #} politika daha uygulanmasına izin verir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_GOVT_POLICIES_TOTAL_PLACED">
+		<Replace Language="en_US" Tag="LOC_GOVT_POLICIES_TOTAL_PLACED">
 			<Text>{2_policyName}, {1_Num: number #} politika daha uygulanmasına izin verir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_GOVT_INFLUENCE_POINTS_TOWARDS_ENVOYS">
+		<Replace Language="en_US" Tag="LOC_GOVT_INFLUENCE_POINTS_TOWARDS_ENVOYS">
 			<Text>Her tur {1_InfluencePointRate} etki puanı alıyoruz. {2_InfluencePointThreshold} puana ulaşıldığında {3_EnvoysPerThreshold : plural 1?bir [ICON_Envoy] temsilci; other?{3_EnvoysPerThreshold} [ICON_Envoy] temsilci;} kazanıyoruz.</Text>
 		</Replace>
 		<!-- Policy Descriptions -->
-		<Replace Language="pl_PL" Tag="LOC_POLICY_PLACEHOLDER_DESC">
+		<Replace Language="en_US" Tag="LOC_POLICY_PLACEHOLDER_DESC">
 			<Text>Yer tutucu.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_POLICY_AESTHETICS_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_POLICY_AESTHETICS_DESCRIPTION">
 			<Text>+100% tiyatro meydanı yakınlık bonusu.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_POLICY_AGOGE_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_POLICY_AGOGE_DESCRIPTION">
 			<Text>+50% [ICON_Production] üretim, antik çağ ve eski çağ piyade ve atlı birimleri için.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_POLICY_ARSENAL_OF_DEMOCRACY_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_POLICY_ARSENAL_OF_DEMOCRACY_DESCRIPTION">
 			<Text>Müttefik şehirlerine giden [ICON_TradeRoute] ticaret yolları her iki taraf için +2 [ICON_Food] gıda ve +2 [ICON_Production] üretim sağlar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_POLICY_BASTIONS_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_POLICY_BASTIONS_DESCRIPTION">
 			<Text>Şehirlerin [ICON_Strength] savunma gücü +6. [ICON_Ranged] Atış gücü +5.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_POLICY_CARAVANSARIES_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_POLICY_CARAVANSARIES_DESCRIPTION">
 			<Text>Tüm [ICON_TradeRoute] ticaret yolları için +2 [ICON_Gold] altın.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_POLICY_CHARISMATIC_LEADER_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_POLICY_CHARISMATIC_LEADER_DESCRIPTION">
 			<Text>Her tur şehir devletleri için +2 etki puanı kazandırır.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_POLICY_CHIVALRY_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_POLICY_CHIVALRY_DESCRIPTION">
 			<Text>+50% [ICON_Production] üretim, ortaçağ, rönesans ve sanayi çağı ağır ve hafif süvari birimleri için.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_POLICY_COLLECTIVE_ACTIVISM_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_POLICY_COLLECTIVE_ACTIVISM_DESCRIPTION">
 			<Text>Her bir hâkimiyet kurduğumuz şehir devleti için +10% [ICON_Culture] kültür.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_POLICY_COLLECTIVIZATION_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_POLICY_COLLECTIVIZATION_DESCRIPTION">
 			<Text>İç [ICON_TradeRoute] ticaret yollarına +4 [ICON_Food] gıda.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_POLICY_COLONIAL_OFFICES_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_POLICY_COLONIAL_OFFICES_DESCRIPTION">
 			<Text>Başkent kıtası dışında olan şehirlerin büyüme hızı +15% daha hızlıdır.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_POLICY_COLONIAL_TAXES_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_POLICY_COLONIAL_TAXES_DESCRIPTION">
 			<Text>Başkent kıtası dışındaki şehirlerden %25 [ICON_Gold] daha fazla altın.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_POLICY_COLONIZATION_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_POLICY_COLONIZATION_DESCRIPTION">
 			<Text>Yerleşimciler için +50% [ICON_Production] üretim.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_POLICY_CONSCRIPTION_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_POLICY_CONSCRIPTION_DESCRIPTION">
 			<Text>Her birimin bakım maliyeti tur başına 1 [ICON_Gold] azaltılır.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_POLICY_CONTAINMENT_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_POLICY_CONTAINMENT_DESCRIPTION">
 			<Text>Her gönderilen [ICON_Envoy] temsilci, farklı hükümet biçimine sahip devletlere iki kat etkili olur.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_POLICY_CORVEE_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_POLICY_CORVEE_DESCRIPTION">
 			<Text>Antik mucizeler için +15% [ICON_Production] üretim.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_POLICY_CRAFTSMEN_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_POLICY_CRAFTSMEN_DESCRIPTION">
 			<Text>Sanayi alanlarının yakınlık bonusu %100 artırılır.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_POLICY_CRYPTOGRAPHY_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_POLICY_CRYPTOGRAPHY_DESCRIPTION">
 			<Text>Düşmanların casusluk seviyesi iki puan azalır, kendi casuslarımızın seviyesi bir puan artar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_POLICY_DEFENSE_OF_MOTHERLAND_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_POLICY_DEFENSE_OF_MOTHERLAND_DESCRIPTION">
 			<Text>Topraklarımızda gerçekleşen savaşlar savaş yorgunluğuna neden olmaz.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_POLICY_DIPLOMATIC_LEAGUE_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_POLICY_DIPLOMATIC_LEAGUE_DESCRIPTION">
 			<Text>Gönderdiğimiz ilk [ICON_Envoy] temsilci iki kat etki yapar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_POLICY_DISCIPLINE_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_POLICY_DISCIPLINE_DESCRIPTION">
 			<Text>Birimlere barbarlara karşı +5 [ICON_Strength] savaş gücü.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_POLICY_ECOMMERCE_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_POLICY_ECOMMERCE_DESCRIPTION">
 			<Text>Uluslararası [ICON_TradeRoute] ticaret yollarına +5 [ICON_Production] üretim ve +10 [ICON_Gold] altın.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_POLICY_ECONOMIC_UNION_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_POLICY_ECONOMIC_UNION_DESCRIPTION">
 			<Text>Ticaret merkezleri ve limanlar için %100 yakınlık bonusu.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_POLICY_EXPROPRIATION_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_POLICY_EXPROPRIATION_DESCRIPTION">
 			<Text>Yerleşimcilere %50 [ICON_Production] üretim bonusu. Arazi satın alma maliyeti %20 daha az.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_POLICY_FEUDAL_CONTRACT_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_POLICY_FEUDAL_CONTRACT_DESCRIPTION">
 			<Text>Ortaçağ ve Rönesans dönemi piyade ve süvari birimlerine %50 [ICON_Production] üretim bonusu.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_POLICY_FINEST_HOUR_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_POLICY_FINEST_HOUR_DESCRIPTION">
 			<Text>Modern ve atom çağı hava birimlerine %50 [ICON_Production] üretim bonusu.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_POLICY_FIVE_YEAR_PLAN_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_POLICY_FIVE_YEAR_PLAN_DESCRIPTION">
 			<Text>Kampüsler ve sanayi bölgeleri için %100 yakınlık bonusu.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_POLICY_FREE_MARKET_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_POLICY_FREE_MARKET_DESCRIPTION">
 			<Text>Ticaret merkezlerindeki binalara %100 [ICON_Gold] altın geliri.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_POLICY_FRESCOES_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_POLICY_FRESCOES_DESCRIPTION">
 			<Text>Her turda +2 [ICON_GreatArtist] ünlü sanatçı puanı.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_POLICY_GOD_KING_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_POLICY_GOD_KING_DESCRIPTION">
 			<Text>Başkente +1 [ICON_Faith] inanç ve +1 [ICON_Gold] altın.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_POLICY_GOTHIC_ARCHITECTURE_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_POLICY_GOTHIC_ARCHITECTURE_DESCRIPTION">
 			<Text>Ortaçağ ve Rönesans mucizelerine %15 [ICON_Production] üretim bonusu.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_POLICY_GRANDE_ARMEE_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_POLICY_GRANDE_ARMEE_DESCRIPTION">
 			<Text>Sanayi ve modern çağ piyade ve süvari birimlerine %50 [ICON_Production] üretim bonusu.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_POLICY_GRAND_OPERA_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_POLICY_GRAND_OPERA_DESCRIPTION">
 			<Text>Tiyatro meydanı binalarına %100 [ICON_Culture] kültür geliri bonusu.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_POLICY_GUNBOAT_DIPLOMACY_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_POLICY_GUNBOAT_DIPLOMACY_DESCRIPTION">
 			<Text>Tüm şehir devletlerine açık sınırlar ve +4 [ICON_Envoy] temsilci kazanma puanı.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_POLICY_HERITAGE_TOURISM_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_POLICY_HERITAGE_TOURISM_DESCRIPTION">
 			<Text>[ICON_GreatWork_Landscape] sanat eserleri ve [ICON_GreatWork_Artifact] eserlerden %100 [ICON_Tourism] turizm bonusu.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_POLICY_ILKUM_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_POLICY_ILKUM_DESCRIPTION">
 			<Text>İnşaatçılar için %30 [ICON_Production] üretim bonusu.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_POLICY_INSPIRATION_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_POLICY_INSPIRATION_DESCRIPTION">
 			<Text>Her turda +2 [ICON_GreatScientist] ünlü bilim insanı puanı.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_POLICY_INSULAE_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_POLICY_INSULAE_DESCRIPTION">
 			<Text>İki veya daha fazla şehir bölgesi olan şehirlere +1 [ICON_Housing] konut.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_POLICY_INTEGRATED_SPACE_CELL_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_POLICY_INTEGRATED_SPACE_CELL_DESCRIPTION">
 			<Text>Bir askeri akademi veya deniz üssü olan şehirlerde uzay yarışı projelerine %15 [ICON_Production] üretim bonusu.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_POLICY_INTERNATIONAL_SPACE_AGENCY_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_POLICY_INTERNATIONAL_SPACE_AGENCY_DESCRIPTION">
 			<Text>Hakimiyet kurduğumuz şehir devletlerinden %10 [ICON_Science] bilim bonusu.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_POLICY_INTERNATIONAL_WATERS_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_POLICY_INTERNATIONAL_WATERS_DESCRIPTION">
 			<Text>Modern, atom ve bilgi çağı deniz birimlerine %100 [ICON_Production] üretim bonusu (uçak gemileri hariç).</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_POLICY_INVENTION_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_POLICY_INVENTION_DESCRIPTION">
 			<Text>Her turda +2 [ICON_GreatEngineer] ünlü mühendis puanı.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_POLICY_LAISSEZ_FAIRE_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_POLICY_LAISSEZ_FAIRE_DESCRIPTION">
 			<Text>Her turda +4 [ICON_GreatMerchant] ünlü tüccar puanı.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_POLICY_LAND_SURVEYORS_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_POLICY_LAND_SURVEYORS_DESCRIPTION">
 			<Text>Arazi satın alma maliyeti %20 daha az.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_POLICY_LEVEE_EN_MASSE_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_POLICY_LEVEE_EN_MASSE_DESCRIPTION">
 			<Text>Her birim için bakım maliyeti her turda 2 [ICON_Gold] altın daha az.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_POLICY_LIBERALISM_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_POLICY_LIBERALISM_DESCRIPTION">
 			<Text>İki veya daha fazla şehir bölgesi olan şehirlere +1 [ICON_Amenities] yaşam standardı.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_POLICY_LIGHTNING_WARFARE_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_POLICY_LIGHTNING_WARFARE_DESCRIPTION">
 			<Text>Modern, atom ve bilgi çağı ağır ve hafif süvari birimlerine %50 [ICON_Production] üretim bonusu.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_POLICY_LIMES_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_POLICY_LIMES_DESCRIPTION">
 			<Text>Savunma yapıları için %100 [ICON_Production] üretim bonusu.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_POLICY_LITERARY_TRADITION_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_POLICY_LITERARY_TRADITION_DESCRIPTION">
 			<Text>Her turda +2 [ICON_GreatWriter] ünlü yazar puanı.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_POLICY_LOGISTICS_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_POLICY_LOGISTICS_DESCRIPTION">
 			<Text>Dost topraklardan başlarken +1 hareket puanı.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_POLICY_MACHIAVELLIANISM_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_POLICY_MACHIAVELLIANISM_DESCRIPTION">
 			<Text>Casuslar için %50 [ICON_Production] üretim bonusu. Casusluk görevleri %25 daha az zaman alır.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_POLICY_MANEUVER_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_POLICY_MANEUVER_DESCRIPTION">
 			<Text>Antik ve klasik döneme ait ağır ve hafif süvari birimleri için %50 [ICON_Production] üretim bonusu.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_POLICY_MARITIME_INDUSTRIES_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_POLICY_MARITIME_INDUSTRIES_DESCRIPTION">
 			<Text>Antik ve klasik döneme ait deniz birimleri için %100 [ICON_Production] üretim bonusu.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_POLICY_MARKET_ECONOMY_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_POLICY_MARKET_ECONOMY_DESCRIPTION">
 			<Text>Uluslararası [ICON_TradeRoute] ticaret yolları her lüks ve stratejik kaynak için +1 [ICON_Gold] altın, +2 [ICON_Culture] kültür ve +2 [ICON_Science] bilim sağlar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_POLICY_MARTIAL_LAW_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_POLICY_MARTIAL_LAW_DESCRIPTION">
 			<Text>Savaş yorgunluğu %25 daha az artar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_POLICY_MEDINA_QUARTER_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_POLICY_MEDINA_QUARTER_DESCRIPTION">
 			<Text>Üç veya daha fazla şehir bölgesi olan şehirlere +2 [ICON_Housing] konut sağlanır.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_POLICY_MERCHANT_CONFEDERATION_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_POLICY_MERCHANT_CONFEDERATION_DESCRIPTION">
 			<Text>Her [ICON_Envoy] temsilci başına +1 [ICON_Gold] altın sağlanır.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_POLICY_MERITOCRACY_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_POLICY_MERITOCRACY_DESCRIPTION">
 			<Text>Her şehir bölgesi için şehre +1 [ICON_Culture] kültür eklenir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_POLICY_MILITARY_FIRST_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_POLICY_MILITARY_FIRST_DESCRIPTION">
 			<Text>Atom ve bilgi çağlarına ait piyade, süvari ve menzilli birimlere %50 [ICON_Production] üretim bonusu sağlanır.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_POLICY_MILITARY_ORGANIZATION_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_POLICY_MILITARY_ORGANIZATION_DESCRIPTION">
 			<Text>Her turda +4 [ICON_GreatGeneral] ünlü general puanı kazandırır.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_POLICY_MILITARY_RESEARCH_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_POLICY_MILITARY_RESEARCH_DESCRIPTION">
 			<Text>Askeri akademiler ve deniz üsleri +1 [ICON_Science] bilim sağlar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_POLICY_NATIONAL_IDENTITY_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_POLICY_NATIONAL_IDENTITY_DESCRIPTION">
 			<Text>Yaralı birimlerin [ICON_Strength] savaş gücü %50 daha az düşer.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_POLICY_NATIVE_CONQUEST_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_POLICY_NATIVE_CONQUEST_DESCRIPTION">
 			<Text>Daha eski çağlara ait birimlere karşı zafer kazanıldığında, zafer kazanılan birimin [ICON_Strength] savaş gücünün %50'si kadar [ICON_Gold] altın elde edilir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_POLICY_NATURAL_PHILOSOPHY_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_POLICY_NATURAL_PHILOSOPHY_DESCRIPTION">
 			<Text>Kampüs yakınlık bonusları %100 artar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_POLICY_NAVAL_INFRASTRUCTURE_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_POLICY_NAVAL_INFRASTRUCTURE_DESCRIPTION">
 			<Text>Liman yakınlık bonusları %100 artar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_POLICY_NAVIGATION_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_POLICY_NAVIGATION_DESCRIPTION">
 			<Text>Her turda +2 [ICON_GreatAdmiral] ünlü amiral puanı kazandırır.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_POLICY_NEW_DEAL_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_POLICY_NEW_DEAL_DESCRIPTION">
 			<Text>Üç veya daha fazla şehir bölgesi olan şehirlere +4 [ICON_Housing] konut, +2 [ICON_Amenities] yaşam standardı sağlanır, ancak -8 [ICON_Gold] altın kaybı olur.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_POLICY_NOBEL_PRIZE_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_POLICY_NOBEL_PRIZE_DESCRIPTION">
 			<Text>Her turda +4 [ICON_GreatScientist] ünlü bilim insanı puanı kazandırır.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_POLICY_NUCLEAR_ESPIONAGE_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_POLICY_NUCLEAR_ESPIONAGE_DESCRIPTION">
 			<Text>Teknoloji hırsızlığı yaparken başarılı olan casuslar ek bir bonus elde eder.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_POLICY_ONLINE_COMMUNITIES_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_POLICY_ONLINE_COMMUNITIES_DESCRIPTION">
 			<Text>[ICON_TradeRoute] ticaret yollarına sahip olduğumuz milletlerden %50 [ICON_Tourism] turizm bonusu sağlanır.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_POLICY_PATRIOTIC_WAR_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_POLICY_PATRIOTIC_WAR_DESCRIPTION">
 			<Text>Modern, atom ve bilgi çağı destek birimlerine %100 [ICON_Production] üretim bonusu sağlanır.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_POLICY_POLICE_STATE_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_POLICY_POLICE_STATE_DESCRIPTION">
 			<Text>Düşman casuslarının etkinlik seviyesi iki kademe azalır, ancak tüm şehirler -1 [ICON_Amenities] yaşam standardı kaybeder.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_POLICY_PRESS_GANGS_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_POLICY_PRESS_GANGS_DESCRIPTION">
 			<Text>Rönesans ve sanayi çağı deniz birimlerine %100 [ICON_Production] üretim bonusu sağlanır.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_POLICY_PROFESSIONAL_ARMY_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_POLICY_PROFESSIONAL_ARMY_DESCRIPTION">
 			<Text>Birimlerin yükseltme maliyetleri %50 azaltılır.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_POLICY_PROPAGANDA_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_POLICY_PROPAGANDA_DESCRIPTION">
 			<Text>Savaş yorgunluğu %25 daha az artar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_POLICY_PUBLIC_TRANSPORT_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_POLICY_PUBLIC_TRANSPORT_DESCRIPTION">
 			<Text>Bir tarlayı mahalleyle değiştirmek, arazi çekiciliği başına 50 [ICON_Gold] altın kazandırır.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_POLICY_PUBLIC_WORKS_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_POLICY_PUBLIC_WORKS_DESCRIPTION">
 			<Text>İnşaatçılara %30 [ICON_Production] üretim bonusu sağlanır ve yeni eğitilen inşaatçılar iki ek iş yapar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_POLICY_RAJ_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_POLICY_RAJ_DESCRIPTION">
 			<Text>Hakim olduğumuz her şehir devleti için +2 [ICON_Science] bilim, +2 [ICON_Culture] kültür, +2 [ICON_Faith] inanç ve +2 [ICON_Gold] altın kazandırır.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_POLICY_RAID_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_POLICY_RAID_DESCRIPTION">
 			<Text>Yağmalamadan elde edilen kaynaklar iki katına çıkar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_POLICY_RATIONALISM_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_POLICY_RATIONALISM_DESCRIPTION">
 			<Text>Kampüs binalarından elde edilen [ICON_Science] bilim %100 artar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_POLICY_RELIGIOUS_ORDERS_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_POLICY_RELIGIOUS_ORDERS_DESCRIPTION">
 			<Text>Dini savaşlarda +5 [ICON_Religion] dini güç sağlanır.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_POLICY_RESOURCE_MANAGEMENT_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_POLICY_RESOURCE_MANAGEMENT_DESCRIPTION">
 			<Text>Bir stratejik kaynağın tek bir kopyası, herhangi bir şehirde birim eğitimi ve satın alımı için yeterlidir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_POLICY_RETAINERS_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_POLICY_RETAINERS_DESCRIPTION">
 			<Text>Bir birimle korunan şehirlerde +1 [ICON_Amenities] yaşam standardı sağlanır.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_POLICY_REVELATION_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_POLICY_REVELATION_DESCRIPTION">
 			<Text>Her turda +2 [ICON_GreatProphet] ünlü peygamber puanı kazandırır.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_POLICY_SACK_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_POLICY_SACK_DESCRIPTION">
 			<Text>Şehir bölgelerini yağmalamaktan elde edilen kazançlar iki katına çıkar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_POLICY_SATELLITE_BROADCASTS_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_POLICY_SATELLITE_BROADCASTS_DESCRIPTION">
 			<Text>+200 [ICON_Tourism] turizm [ICON_GreatWork_Music] önemli müzik eserlerinden.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_POLICY_SCRIPTURE_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_POLICY_SCRIPTURE_DESCRIPTION">
 			<Text>Kutsal alan yakınlık bonusları %100 artırılır.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_POLICY_SERFDOM_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_POLICY_SERFDOM_DESCRIPTION">
 			<Text>Yeni eğitilen inşaatçılar iki ek iş yapar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_POLICY_SIMULTANEUM_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_POLICY_SIMULTANEUM_DESCRIPTION">
 			<Text>Kutsal alan binalarının [ICON_Faith] inanç üretimi iki katına çıkar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_POLICY_SKYSCRAPERS_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_POLICY_SKYSCRAPERS_DESCRIPTION">
 			<Text>Sanayi ve sonraki çağların harikaları için %15 [ICON_Production] üretim bonusu sağlar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_POLICY_SPORTS_MEDIA_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_POLICY_SPORTS_MEDIA_DESCRIPTION">
 			<Text>Tiyatro meydanı yakınlık bonusları %100 artırılır ve stadyumlar +1 [ICON_Amenities] yaşam standardı sağlar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_POLICY_STRATEGIC_AIR_FORCE_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_POLICY_STRATEGIC_AIR_FORCE_DESCRIPTION">
 			<Text>Bilgi çağının hava birimleri ve uçak gemileri için +50 [ICON_Production] üretim sağlar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_POLICY_STRATEGOS_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_POLICY_STRATEGOS_DESCRIPTION">
 			<Text>Her turda +2 [ICON_GreatGeneral] ünlü general puanı kazandırır.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_POLICY_SURVEY_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_POLICY_SURVEY_DESCRIPTION">
 			<Text>Keşif birimleri için iki kat tecrübe puanı kazandırır.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_POLICY_SYMPHONIES_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_POLICY_SYMPHONIES_DESCRIPTION">
 			<Text>Her turda +4 [ICON_GreatMusician] ünlü müzisyen puanı kazandırır.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_POLICY_THIRD_ALTERNATIVE_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_POLICY_THIRD_ALTERNATIVE_DESCRIPTION">
 			<Text>Araştırma laboratuvarları, askeri akademiler ve enerji santralleri için +4 [ICON_Gold] altın sağlar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_POLICY_TOTAL_WAR_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_POLICY_TOTAL_WAR_DESCRIPTION">
 			<Text>Yağmadan elde edilen kazançlar iki katına çıkar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_POLICY_TOWN_CHARTERS_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_POLICY_TOWN_CHARTERS_DESCRIPTION">
 			<Text>Ticaret merkezleri için yakınlık bonusları %100 artırılır.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_POLICY_TRADE_CONFEDERATION_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_POLICY_TRADE_CONFEDERATION_DESCRIPTION">
 			<Text>Uluslararası [ICON_TradeRoute] ticaret yolları için +1 [ICON_Culture] kültür ve +1 [ICON_Science] bilim sağlar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_POLICY_TRAVELING_MERCHANTS_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_POLICY_TRAVELING_MERCHANTS_DESCRIPTION">
 			<Text>Her turda +2 [ICON_GreatMerchant] ünlü tüccar puanı kazandırır.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_POLICY_TRIANGULAR_TRADE_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_POLICY_TRIANGULAR_TRADE_DESCRIPTION">
 			<Text>Tüm [ICON_TradeRoute] ticaret yolları için +4 [ICON_Gold] altın ve +1 [ICON_Faith] inanç sağlar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_POLICY_URBAN_PLANNING_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_POLICY_URBAN_PLANNING_DESCRIPTION">
 			<Text>Tüm şehirlere +1 [ICON_Production] üretim sağlar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_POLICY_VETERANCY_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_POLICY_VETERANCY_DESCRIPTION">
 			<Text>Garnizon ve tüm binaları için %30 [ICON_Production] üretim bonusu sağlar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_POLICY_WARS_OF_RELIGION_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_POLICY_WARS_OF_RELIGION_DESCRIPTION">
 			<Text>Farklı bir dine mensup milletlere karşı +4 [ICON_Strength] savaş gücü sağlar. Bu bonus dini birimlere uygulanmaz.</Text>
 		</Replace>
 		<!-- Preview Text -->
-		<Replace Language="pl_PL" Tag="LOC_GOVT_OLIGARCHY_COMBAT_BONUS_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_GOVT_OLIGARCHY_COMBAT_BONUS_DESCRIPTION">
 			<Text>+4 oligarşi savaş bonusu</Text>
 		</Replace>
 		<!-- Temporary UI -->
-		<Replace Language="pl_PL" Tag="LOC_CIVIC_STARTED">
+		<Replace Language="en_US" Tag="LOC_CIVIC_STARTED">
 			<Text>Norm geliştirmesi başladı: {1_CivicName}</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVIC_COMPLETE">
+		<Replace Language="en_US" Tag="LOC_CIVIC_COMPLETE">
 			<Text>Norm tamamlandı: {1_CivicName}</Text>
 		</Replace>
 	</LocalizedText>

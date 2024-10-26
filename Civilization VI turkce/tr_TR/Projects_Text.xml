@@ -2,73 +2,73 @@
 <GameData>
 	<LocalizedText>
 		<!-- Project Descriptions -->
-		<Replace Language="pl_PL" Tag="LOC_PROJECT_REPAIR_OUTER_DEFENSES_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_PROJECT_REPAIR_OUTER_DEFENSES_DESCRIPTION">
 			<Text>Şehrin dış savunmasını onar. Sadece şehre son üç turda saldırı yapılmamışsa mümkündür.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PROJECT_ENHANCE_DISTRICT_ENCAMPMENT_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_PROJECT_ENHANCE_DISTRICT_ENCAMPMENT_DESCRIPTION">
 			<Text>Her tur [ICON_Gold] altın ve tamamlandığında [ICON_GreatGeneral] büyük general puanları üreten şehir bölgesi projesi.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PROJECT_ENHANCE_DISTRICT_HARBOR_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_PROJECT_ENHANCE_DISTRICT_HARBOR_DESCRIPTION">
 			<Text>Her tur [ICON_Gold] altın ve tamamlandığında [ICON_GreatAdmiral] büyük amiral puanları üreten şehir bölgesi projesi.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PROJECT_ENHANCE_DISTRICT_INDUSTRIAL_ZONE_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_PROJECT_ENHANCE_DISTRICT_INDUSTRIAL_ZONE_DESCRIPTION">
 			<Text>Her tur [ICON_Gold] altın ve tamamlandığında [ICON_GreatEngineer] büyük mühendis puanları üreten şehir bölgesi projesi.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PROJECT_ENHANCE_DISTRICT_COMMERCIAL_HUB_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_PROJECT_ENHANCE_DISTRICT_COMMERCIAL_HUB_DESCRIPTION">
 			<Text>Bol miktarda [ICON_Gold] altın ve tamamlandığında [ICON_GreatMerchant] büyük tüccar puanları üreten şehir bölgesi projesi.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PROJECT_ENHANCE_DISTRICT_HOLY_SITE_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_PROJECT_ENHANCE_DISTRICT_HOLY_SITE_DESCRIPTION">
 			<Text>Her tur [ICON_Faith] inanç ve tamamlandığında [ICON_GreatProphet] büyük peygamber puanları üreten şehir bölgesi projesi.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PROJECT_ENHANCE_DISTRICT_CAMPUS_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_PROJECT_ENHANCE_DISTRICT_CAMPUS_DESCRIPTION">
 			<Text>Her tur [ICON_Science] bilim ve tamamlandığında [ICON_GreatScientist] büyük bilim insanı puanları üreten şehir bölgesi projesi.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PROJECT_ENHANCE_DISTRICT_THEATER_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_PROJECT_ENHANCE_DISTRICT_THEATER_DESCRIPTION">
 			<Text>Her tur [ICON_Culture] kültür ve tamamlandığında [ICON_GreatWriter], [ICON_GreatArtist] ve [ICON_GreatMusician] puanları sağlayan şehir bölgesi projesi.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PROJECT_CARNIVAL_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_PROJECT_CARNIVAL_DESCRIPTION">
 			<Text>Brezilya'ya özel proje, etkin olduğunda +1 [ICON_Amenities] yaşam kalitesi ve tamamlandığında birçok [ICON_GreatPerson] puanı kazandırır.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PROJECT_LAUNCH_EARTH_SATELLITE_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_PROJECT_LAUNCH_EARTH_SATELLITE_DESCRIPTION">
 			<Text>Bir uyduyu yörüngeye fırlatan uzay yarışı projesi. Tüm dünya haritasını açar ve bilim zaferinin ilk aşamasını tamamlar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PROJECT_LAUNCH_MOON_LANDING_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_PROJECT_LAUNCH_MOON_LANDING_DESCRIPTION">
 			<Text>Ay’a insanlı roket fırlatan uzay yarışı projesi. Bir defalık [ICON_Culture] kültür ödülü sağlar ve bilim zaferinin ikinci aşamasını tamamlar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PROJECT_LAUNCH_MARS_REACTOR_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_PROJECT_LAUNCH_MARS_REACTOR_DESCRIPTION">
 			<Text>Mars kolonisi için reaktör modülünü yörüngeye fırlatan uzay yarışı projesi. Üç modülün tamamlanması bilim zaferi sağlar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PROJECT_LAUNCH_MARS_HABITATION_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_PROJECT_LAUNCH_MARS_HABITATION_DESCRIPTION">
 			<Text>Mars kolonisi için yaşam modülünü yörüngeye fırlatan uzay yarışı projesi. Üç modülün tamamlanması bilim zaferi sağlar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PROJECT_LAUNCH_MARS_HYDROPONICS_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_PROJECT_LAUNCH_MARS_HYDROPONICS_DESCRIPTION">
 			<Text>Mars kolonisi için hidroponik modülü yörüngeye fırlatan uzay yarışı projesi. Üç modülün tamamlanması bilim zaferi sağlar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PROJECT_MANHATTAN_PROJECT_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_PROJECT_MANHATTAN_PROJECT_DESCRIPTION">
 			<Text>Nükleer silah üretimini mümkün kılar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PROJECT_OPERATION_IVY_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_PROJECT_OPERATION_IVY_DESCRIPTION">
 			<Text>Hidrojen bombası üretimini mümkün kılar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PROJECT_BUILD_NUCLEAR_DEVICE_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_PROJECT_BUILD_NUCLEAR_DEVICE_DESCRIPTION">
 			<Text>Stoklarımıza bir nükleer silah ekler. [ICON_Resource_Uranium] uranyum gerektirir. Bakım maliyeti 14 [ICON_Gold] altındır.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PROJECT_BUILD_THERMONUCLEAR_DEVICE_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_PROJECT_BUILD_THERMONUCLEAR_DEVICE_DESCRIPTION">
 			<Text>Stoklarımıza bir hidrojen bombası ekler. [ICON_Resource_Uranium] uranyum gerektirir. Bakım maliyeti 16 [ICON_Gold] altındır.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PROJECT_LAUNCH_EARTH_SATELLITE_POPUP">
+		<Replace Language="en_US" Tag="LOC_PROJECT_LAUNCH_EARTH_SATELLITE_POPUP">
 			<Text>Başarıyla bir uyduyu yörüngeye fırlattık! Tüm dünya haritası açıldı ve bilim zaferine ilk adımı attık.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PROJECT_LAUNCH_MOON_LANDING_POPUP">
+		<Replace Language="en_US" Tag="LOC_PROJECT_LAUNCH_MOON_LANDING_POPUP">
 			<Text>Ay’a insan göndermeyi başardık! Bir defalık [ICON_Culture] kültür ödülü kazandık ve bilim zaferine bir adım daha yaklaştık.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PROJECT_LAUNCH_MARS_REACTOR_POPUP">
+		<Replace Language="en_US" Tag="LOC_PROJECT_LAUNCH_MARS_REACTOR_POPUP">
 			<Text>Reaktör modülünü başarıyla fırlattık. Mars kolonisi için üç modülün tamamlanması bilim zaferi getirecek.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PROJECT_LAUNCH_MARS_HABITATION_POPUP">
+		<Replace Language="en_US" Tag="LOC_PROJECT_LAUNCH_MARS_HABITATION_POPUP">
 			<Text>Yaşam modülünü başarıyla fırlattık. Mars kolonisi için üç modülün tamamlanması bilim zaferi getirecek.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PROJECT_LAUNCH_MARS_HYDROPONICS_POPUP">
+		<Replace Language="en_US" Tag="LOC_PROJECT_LAUNCH_MARS_HYDROPONICS_POPUP">
 			<Text>Hidroponik modülünü başarıyla fırlattık. Mars kolonisi için üç modülün tamamlanması bilim zaferi getirecek.</Text>
 		</Replace>
 	</LocalizedText>

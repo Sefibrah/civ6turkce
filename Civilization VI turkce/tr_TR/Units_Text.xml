@@ -2,427 +2,427 @@
 <GameData>
 	<LocalizedText>
 		<!-- Promotion Class Names -->
-		<Replace Language="pl_PL" Tag="LOC_PROMOTION_CLASS_RECON_NAME">
+		<Replace Language="en_US" Tag="LOC_PROMOTION_CLASS_RECON_NAME">
 			<Text>Keşif</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PROMOTION_CLASS_MELEE_NAME">
+		<Replace Language="en_US" Tag="LOC_PROMOTION_CLASS_MELEE_NAME">
 			<Text>Melee</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PROMOTION_CLASS_RANGED_NAME">
+		<Replace Language="en_US" Tag="LOC_PROMOTION_CLASS_RANGED_NAME">
 			<Text>Atıcı</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PROMOTION_CLASS_SIEGE_NAME">
+		<Replace Language="en_US" Tag="LOC_PROMOTION_CLASS_SIEGE_NAME">
 			<Text>Kuşatma</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PROMOTION_CLASS_ANTI_CAVALRY_NAME">
+		<Replace Language="en_US" Tag="LOC_PROMOTION_CLASS_ANTI_CAVALRY_NAME">
 			<Text>Süvari Karşıtı</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PROMOTION_CLASS_LIGHT_CAVALRY_NAME">
+		<Replace Language="en_US" Tag="LOC_PROMOTION_CLASS_LIGHT_CAVALRY_NAME">
 			<Text>Hafif Süvari</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PROMOTION_CLASS_HEAVY_CAVALRY_NAME">
+		<Replace Language="en_US" Tag="LOC_PROMOTION_CLASS_HEAVY_CAVALRY_NAME">
 			<Text>Ağır Süvari</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PROMOTION_CLASS_AIR_FIGHTER_NAME">
+		<Replace Language="en_US" Tag="LOC_PROMOTION_CLASS_AIR_FIGHTER_NAME">
 			<Text>Hava Avcı</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PROMOTION_CLASS_AIR_BOMBER_NAME">
+		<Replace Language="en_US" Tag="LOC_PROMOTION_CLASS_AIR_BOMBER_NAME">
 			<Text>Hava Bombardıman</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PROMOTION_CLASS_NAVAL_MELEE_NAME">
+		<Replace Language="en_US" Tag="LOC_PROMOTION_CLASS_NAVAL_MELEE_NAME">
 			<Text>Deniz Melee</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PROMOTION_CLASS_NAVAL_RANGED_NAME">
+		<Replace Language="en_US" Tag="LOC_PROMOTION_CLASS_NAVAL_RANGED_NAME">
 			<Text>Deniz Atıcı</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PROMOTION_CLASS_NAVAL_CARRIER_NAME">
+		<Replace Language="en_US" Tag="LOC_PROMOTION_CLASS_NAVAL_CARRIER_NAME">
 			<Text>Deniz Taşıyıcı</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PROMOTION_CLASS_NAVAL_RAIDER_NAME">
+		<Replace Language="en_US" Tag="LOC_PROMOTION_CLASS_NAVAL_RAIDER_NAME">
 			<Text>Deniz Yağmacı</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PROMOTION_CLASS_APOSTLE_NAME">
+		<Replace Language="en_US" Tag="LOC_PROMOTION_CLASS_APOSTLE_NAME">
 			<Text>İnanç Elçisi</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PROMOTION_CLASS_INQUISITOR_NAME">
+		<Replace Language="en_US" Tag="LOC_PROMOTION_CLASS_INQUISITOR_NAME">
 			<Text>İnanç Engizisyoneri</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PROMOTION_CLASS_SUPPORT_NAME">
+		<Replace Language="en_US" Tag="LOC_PROMOTION_CLASS_SUPPORT_NAME">
 			<Text>Destek</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PROMOTION_CLASS_SPY_NAME">
+		<Replace Language="en_US" Tag="LOC_PROMOTION_CLASS_SPY_NAME">
 			<Text>Casus</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PROMOTION_CLASS_MONK_NAME">
+		<Replace Language="en_US" Tag="LOC_PROMOTION_CLASS_MONK_NAME">
 			<Text>Savaşçı Keşiş</Text>
 		</Replace>
 		<!-- Formation Class Names -->
-		<Replace Language="pl_PL" Tag="LOC_FORMATION_CLASS_AIR_NAME">
+		<Replace Language="en_US" Tag="LOC_FORMATION_CLASS_AIR_NAME">
 			<Text>Hava Savaşı</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_FORMATION_CLASS_CIVILIAN_NAME">
+		<Replace Language="en_US" Tag="LOC_FORMATION_CLASS_CIVILIAN_NAME">
 			<Text>Sivil</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_FORMATION_CLASS_LAND_COMBAT_NAME">
+		<Replace Language="en_US" Tag="LOC_FORMATION_CLASS_LAND_COMBAT_NAME">
 			<Text>Kara Savaşı</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_FORMATION_CLASS_NAVAL_NAME">
+		<Replace Language="en_US" Tag="LOC_FORMATION_CLASS_NAVAL_NAME">
 			<Text>Deniz Savaşı</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_FORMATION_CLASS_SUPPORT_NAME">
+		<Replace Language="en_US" Tag="LOC_FORMATION_CLASS_SUPPORT_NAME">
 			<Text>Destek</Text>
 		</Replace>
 		<!-- Damage Message -->
-		<Replace Language="pl_PL" Tag="LOC_WORLD_FAITH_INCREASE_FLOATER">
+		<Replace Language="en_US" Tag="LOC_WORLD_FAITH_INCREASE_FLOATER">
 			<Text>+{1_Num} [ICON_Faith]</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_WORLD_FAITH_DECREASE_FLOATER">
+		<Replace Language="en_US" Tag="LOC_WORLD_FAITH_DECREASE_FLOATER">
 			<Text>{1_Num} [ICON_Faith] [COLOR_RED]KAYBEDİLDİ[ENDCOLOR]</Text>
 		</Replace>
 		<!-- Damage Message -->
-		<Replace Language="pl_PL" Tag="LOC_WORLD_UNIT_DAMAGE_DECREASE_FLOATER">
+		<Replace Language="en_US" Tag="LOC_WORLD_UNIT_DAMAGE_DECREASE_FLOATER">
 			<Text>[COLOR_GREEN]+{1_Num}[ENDCOLOR]</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_WORLD_UNIT_DAMAGE_INCREASE_FLOATER">
+		<Replace Language="en_US" Tag="LOC_WORLD_UNIT_DAMAGE_INCREASE_FLOATER">
 			<Text>[COLOR_RED]{1_Num}[ENDCOLOR]</Text>
 		</Replace>
 		<!-- Experience Message -->
-		<Replace Language="pl_PL" Tag="LOC_WORLD_UNIT_EXPERIENCE_INCREASE_FLOATER">
+		<Replace Language="en_US" Tag="LOC_WORLD_UNIT_EXPERIENCE_INCREASE_FLOATER">
 			<Text>[COLOR_LIGHTBLUE]+{1_Num} TE[ENDCOLOR]</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_WORLD_UNIT_EXPERIENCE_INCREASE_LEVEL_FLOATER">
+		<Replace Language="en_US" Tag="LOC_WORLD_UNIT_EXPERIENCE_INCREASE_LEVEL_FLOATER">
 			<Text>[COLOR_LIGHTBLUE]+{1_Num} TE[NEWLINE]*TERFİ MÜMKÜN*[ENDCOLOR]</Text>
 		</Replace>
 		<!-- Production Yield Message -->
-		<Replace Language="pl_PL" Tag="LOC_WORLD_PRODUCTION_INCREASE_FLOATER">
+		<Replace Language="en_US" Tag="LOC_WORLD_PRODUCTION_INCREASE_FLOATER">
 			<Text>[COLOR_FLOAT_PRODUCTION]+{1_Num}[ENDCOLOR]</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_WORLD_PRODUCTION_DECREASE_FLOATER">
+		<Replace Language="en_US" Tag="LOC_WORLD_PRODUCTION_DECREASE_FLOATER">
 			<Text>[COLOR_FLOAT_PRODUCTION]{1_Num}[ICON_Production][ENDCOLOR] [COLOR_RED]KAYBEDİLDİ[ENDCOLOR]</Text>
 		</Replace>
 		<!-- Food Yield Message -->
-		<Replace Language="pl_PL" Tag="LOC_WORLD_FOOD_INCREASE_FLOATER">
+		<Replace Language="en_US" Tag="LOC_WORLD_FOOD_INCREASE_FLOATER">
 			<Text>[COLOR_FLOAT_FOOD]+{1_Num} [ICON_Food][ENDCOLOR]</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_WORLD_FOOD_DECREASE_FLOATER">
+		<Replace Language="en_US" Tag="LOC_WORLD_FOOD_DECREASE_FLOATER">
 			<Text>[COLOR_FLOAT_FOOD]{1_Num} [ICON_Food][ENDCOLOR] [COLOR_RED]KAYBEDİLDİ[ENDCOLOR]</Text>
 		</Replace>
 		<!-- Gold Yield Message -->
-		<Replace Language="pl_PL" Tag="LOC_WORLD_GOLD_INCREASE_FLOATER">
+		<Replace Language="en_US" Tag="LOC_WORLD_GOLD_INCREASE_FLOATER">
 			<Text>[COLOR_FLOAT_GOLD]+{1_Num}[ENDCOLOR]</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_WORLD_GOLD_DECREASE_FLOATER">
+		<Replace Language="en_US" Tag="LOC_WORLD_GOLD_DECREASE_FLOATER">
 			<Text>[COLOR_FLOAT_GOLD]{1_Num} [ICON_Gold][ENDCOLOR] [COLOR_RED]KAYBEDİLDİ[ENDCOLOR]</Text>
 		</Replace>
 		<!-- Science Yield Message -->
-		<Replace Language="pl_PL" Tag="LOC_WORLD_SCIENCE_INCREASE_FLOATER">
+		<Replace Language="en_US" Tag="LOC_WORLD_SCIENCE_INCREASE_FLOATER">
 			<Text>[COLOR_FLOAT_SCIENCE]+{1_Num} [ICON_Science][ENDCOLOR]</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_WORLD_SCIENCE_DECREASE_FLOATER">
+		<Replace Language="en_US" Tag="LOC_WORLD_SCIENCE_DECREASE_FLOATER">
 			<Text>[COLOR_FLOAT_SCIENCE]{1_Num} [ICON_Science][ENDCOLOR] [COLOR_RED]KAYBEDİLDİ[ENDCOLOR]</Text>
 		</Replace>
 		<!-- Culture Yield Message -->
-		<Replace Language="pl_PL" Tag="LOC_WORLD_CULTURE_INCREASE_FLOATER">
+		<Replace Language="en_US" Tag="LOC_WORLD_CULTURE_INCREASE_FLOATER">
 			<Text>[COLOR_FLOAT_CULTURE]+{1_Num} [ICON_Culture][ENDCOLOR]</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_WORLD_CULTURE_DECREASE_FLOATER">
+		<Replace Language="en_US" Tag="LOC_WORLD_CULTURE_DECREASE_FLOATER">
 			<Text>[COLOR_FLOAT_CULTURE]{1_Num} [ICON_Culture][ENDCOLOR] [COLOR_RED]KAYBEDİLDİ[ENDCOLOR]</Text>
 		</Replace>
 		<!-- Civilian-->
-		<Replace Language="pl_PL" Tag="LOC_UNIT_SETTLER_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_UNIT_SETTLER_DESCRIPTION">
 			<Text>Yeni bir şehir kurabilir. İnşa edildiğinde şehir nüfusunu [ICON_Citizen] bir azaltır.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UNIT_BUILDER_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_UNIT_BUILDER_DESCRIPTION">
 			<Text>Karelere yapılar inşa edebilir, orman veya yağmur ormanı gibi unsurları kaldırabilir ya da kaynakları tamir edebilir. İnşaatçılar üç işlem yapabilir. Bu sayı politikalar veya piramitler gibi harikalar sayesinde artabilir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UNIT_TRADER_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_UNIT_TRADER_DESCRIPTION">
 			<Text>Bir [ICON_TradeRoute] ticaret rotası kurabilir ve sürdürebilir. Yolda ilerlerken bir yol inşa eder.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UNIT_MISSIONARY_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_UNIT_MISSIONARY_DESCRIPTION">
 			<Text>[ICON_Citizen] nüfusu kendi inancına döndürebilir. Farklı inançlara sahip birimlere karşı dini savaş başlatamaz (ancak savunma yapabilir).</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UNIT_APOSTLE_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_UNIT_APOSTLE_DESCRIPTION">
 			<Text>[ICON_Citizen] nüfusu kendi inancına döndürebilir ve farklı inançlara sahip birimlerle dini savaşlar yapabilir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UNIT_INQUISITOR_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_UNIT_INQUISITOR_DESCRIPTION">
 			<Text>Kendi topraklarında diğer dinlerin etkisini ortadan kaldırabilir ve farklı inançlara sahip birimlerle dini savaşlar yapabilir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UNIT_GURU_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_UNIT_GURU_DESCRIPTION">
 			<Text>Kendini ve yanındaki dost dini birimleri iyileştirebilir. Farklı inançlara sahip birimlere karşı dini savaş başlatamaz (ancak savunma yapabilir).</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UNIT_WARRIOR_MONK_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_UNIT_WARRIOR_MONK_DESCRIPTION">
 			<Text>Kendine özgü terfi sistemi olan hızlı bir kara savaş birimi.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UNIT_ARCHAEOLOGIST_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_UNIT_ARCHAEOLOGIST_DESCRIPTION">
 			<Text>[ICON_RESOURCE_ANTIQUITY_SITE] Antik alanlardan [ICON_GreatWork_Artifact] eserleri keşfeder ve kazı yaparak ana şehrin müzesinde sergilenmesini sağlar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UNIT_SPY_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_UNIT_SPY_DESCRIPTION">
 			<Text>Yabancı şehirlerde gizli görevler yürütür veya kendi şehirlerimizi düşman casuslardan korur.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UNIT_NATURALIST_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_UNIT_NATURALIST_DESCRIPTION">
 			<Text>Oyun sonu sivil birimi olarak, [ICON_Tourism] turizm çekmek için bir doğa parkı oluşturabilir. [ICON_Faith] İnanç puanı ile satın alınır.</Text>
 		</Replace>
 		<!-- Great People -->
-		<Replace Language="pl_PL" Tag="LOC_UNIT_GREAT_GENERAL_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_UNIT_GREAT_GENERAL_DESCRIPTION">
 			<Text>Her [ICON_GreatGeneral] büyük generalin kendine özgü yetenekleri vardır, emeklilik ve ek etkiler içerir. Detaylar büyük kişiler panelinde görülebilir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UNIT_GREAT_ADMIRAL_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_UNIT_GREAT_ADMIRAL_DESCRIPTION">
 			<Text>Her [ICON_GreatAdmiral] büyük amiralin kendine özgü yetenekleri vardır, emeklilik ve ek etkiler içerir. Detaylar büyük kişiler panelinde görülebilir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UNIT_GREAT_ENGINEER_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_UNIT_GREAT_ENGINEER_DESCRIPTION">
 			<Text>Her [ICON_GreatEngineer] büyük mühendis özel bir yeteneğe sahiptir. Detaylar büyük kişiler panelinde görülebilir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UNIT_GREAT_MERCHANT_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_UNIT_GREAT_MERCHANT_DESCRIPTION">
 			<Text>Her [ICON_GreatMerchant] büyük tüccarın kendine özgü yetenekleri vardır. Detaylar büyük kişiler panelinde görülebilir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UNIT_GREAT_PROPHET_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_UNIT_GREAT_PROPHET_DESCRIPTION">
 			<Text>[ICON_GreatProphet] Büyük peygamber bir din kurabilir. Detaylar büyük kişiler panelinde görülebilir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UNIT_GREAT_SCIENTIST_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_UNIT_GREAT_SCIENTIST_DESCRIPTION">
 			<Text>Her [ICON_GreatScientist] büyük bilim insanı özel bir yeteneğe sahiptir. Detaylar büyük kişiler panelinde görülebilir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UNIT_GREAT_WRITER_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_UNIT_GREAT_WRITER_DESCRIPTION">
 			<Text>Her [ICON_GreatWriter] büyük yazar bir [ICON_GreatWork_Writing] yazı eseri oluşturabilir. Detaylar büyük kişiler panelinde görülebilir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UNIT_GREAT_ARTIST_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_UNIT_GREAT_ARTIST_DESCRIPTION">
 			<Text>Her [ICON_GreatArtist] büyük sanatçı bir [ICON_GreatWork_Landscape] sanat eseri oluşturabilir. Detaylar büyük kişiler panelinde görülebilir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UNIT_GREAT_MUSICIAN_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_UNIT_GREAT_MUSICIAN_DESCRIPTION">
 			<Text>Her [ICON_GreatMusician] büyük müzisyen bir [ICON_GreatWork_Music] müzik eseri oluşturabilir. Detaylar büyük kişiler panelinde görülebilir.</Text>
 		</Replace>
 		<!-- Recon -->
-		<Replace Language="pl_PL" Tag="LOC_UNIT_SCOUT_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_UNIT_SCOUT_DESCRIPTION">
 			<Text>Eski çağlara ait hızlı keşif birimi.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UNIT_RANGER_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_UNIT_RANGER_DESCRIPTION">
 			<Text>Sanayi devri hızlı keşif birimi.</Text>
 		</Replace>
 		<!-- Melee -->
-		<Replace Language="pl_PL" Tag="LOC_UNIT_WARRIOR_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_UNIT_WARRIOR_DESCRIPTION">
 			<Text>Zayıf bir antik dönem melee birimi.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UNIT_SPEARMAN_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_UNIT_SPEARMAN_DESCRIPTION">
 			<Text>Eski çağ süvari karşıtı birimi.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UNIT_SWORDSMAN_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_UNIT_SWORDSMAN_DESCRIPTION">
 			<Text>Güçlü antik çağ melee birimi.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UNIT_PIKEMAN_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_UNIT_PIKEMAN_DESCRIPTION">
 			<Text>Orta çağ süvari karşıtı birimi.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UNIT_MUSKETMAN_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_UNIT_MUSKETMAN_DESCRIPTION">
 			<Text>Rönesans dönemi melee birimi.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UNIT_INFANTRY_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_UNIT_INFANTRY_DESCRIPTION">
 			<Text>Modern çağ melee birimi.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UNIT_MECHANIZED_INFANTRY_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_UNIT_MECHANIZED_INFANTRY_DESCRIPTION">
 			<Text>Bilgi çağı melee birimi.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UNIT_AT_CREW_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_UNIT_AT_CREW_DESCRIPTION">
 			<Text>Modern çağ süvari karşıtı birimi.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UNIT_MODERN_AT_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_UNIT_MODERN_AT_DESCRIPTION">
 			<Text>Bilgi çağı süvari karşıtı birimi.</Text>
 		</Replace>
 		<!-- Ranged -->
-		<Replace Language="pl_PL" Tag="LOC_UNIT_SLINGER_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_UNIT_SLINGER_DESCRIPTION">
 			<Text>Zayıf antik dönem atıcı birimi, saldırıda savunmadan daha iyidir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UNIT_ARCHER_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_UNIT_ARCHER_DESCRIPTION">
 			<Text>İlk antik çağ atıcı birimi, 2 [ICON_Range] menzili vardır.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UNIT_CROSSBOWMAN_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_UNIT_CROSSBOWMAN_DESCRIPTION">
 			<Text>Orta çağ atıcı birimi.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UNIT_FIELD_CANNON_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_UNIT_FIELD_CANNON_DESCRIPTION">
 			<Text>Sanayi dönemi atıcı birimi.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UNIT_MACHINE_GUN_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_UNIT_MACHINE_GUN_DESCRIPTION">
 			<Text>Atom dönemi atıcı birimi.</Text>
 		</Replace>
 		<!-- Light Cavalry -->
-		<Replace Language="pl_PL" Tag="LOC_UNIT_HORSEMAN_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_UNIT_HORSEMAN_DESCRIPTION">
 			<Text>Hızlı antik dönem hafif süvari birimi.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UNIT_CAVALRY_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_UNIT_CAVALRY_DESCRIPTION">
 			<Text>Hızlı sanayi dönemi hafif süvari birimi.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UNIT_HELICOPTER_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_UNIT_HELICOPTER_DESCRIPTION">
 			<Text>Hızlı atom dönemi hafif süvari birimi.</Text>
 		</Replace>
 		<!-- Siege -->
-		<Replace Language="pl_PL" Tag="LOC_UNIT_CATAPULT_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_UNIT_CATAPULT_DESCRIPTION">
 			<Text>Antik dönem şehir bombardıman birimi. Aynı turda hareket edip saldırı yapamaz.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UNIT_BOMBARD_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_UNIT_BOMBARD_DESCRIPTION">
 			<Text>Rönesans dönemi şehir bombardıman birimi. Aynı turda hareket edip saldırı yapamaz.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UNIT_ARTILLERY_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_UNIT_ARTILLERY_DESCRIPTION">
 			<Text>Modern çağ şehir bombardıman birimi. Aynı turda hareket edip saldırı yapamaz.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UNIT_ROCKET_ARTILLERY_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_UNIT_ROCKET_ARTILLERY_DESCRIPTION">
 			<Text>Bilgi çağı şehir bombardıman birimi. Aynı turda hareket edip saldırı yapamaz.</Text>
 		</Replace>
 		<!-- Support -->
-		<Replace Language="pl_PL" Tag="LOC_UNIT_BATTERING_RAM_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_UNIT_BATTERING_RAM_DESCRIPTION">
 			<Text>Antik dönem destek birimi. Yanında olduğu şehir duvarlarına melee birimleri tam hasar verir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UNIT_SIEGE_TOWER_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_UNIT_SIEGE_TOWER_DESCRIPTION">
 			<Text>Antik dönem destek birimi. Yanında olduğu zaman melee birimleri duvarları atlayarak şehre saldırabilir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UNIT_MEDIC_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_UNIT_MEDIC_DESCRIPTION">
 			<Text>Sanayi dönemi destek birimi. Yakındaki birimleri iyileştirebilir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UNIT_OBSERVATION_BALLOON_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_UNIT_OBSERVATION_BALLOON_DESCRIPTION">
 			<Text>Modern dönem destek birimi. Yakındaki kuşatma birimlerine +1 [ICON_Range] menzil verir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UNIT_MILITARY_ENGINEER_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_UNIT_MILITARY_ENGINEER_DESCRIPTION">
 			<Text>Orta çağ destek birimi. Silah deposu gerektirir, yollar ve tahkimatlar inşa edebilir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UNIT_ANTIAIR_GUN_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_UNIT_ANTIAIR_GUN_DESCRIPTION">
 			<Text>Atom dönemi hava savunma birimi. Bir kare mesafedeki birimleri hava saldırılarından korur.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UNIT_MOBILE_SAM_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_UNIT_MOBILE_SAM_DESCRIPTION">
 			<Text>Bilgi çağı hava savunma birimi. Bir kare mesafedeki birimleri hava ve nükleer saldırılardan korur.</Text>
 		</Replace>
 		<!-- Heavy Cavalry -->
-		<Replace Language="pl_PL" Tag="LOC_UNIT_HEAVY_CHARIOT_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_UNIT_HEAVY_CHARIOT_DESCRIPTION">
 			<Text>Güçlü antik dönem ağır süvari birimi. Düz arazide başlarsa +1 [ICON_Movement] hareket kazanır.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UNIT_KNIGHT_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_UNIT_KNIGHT_DESCRIPTION">
 			<Text>Güçlü orta çağ ağır süvari birimi.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UNIT_MODERN_ARMOR_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_UNIT_MODERN_ARMOR_DESCRIPTION">
 			<Text>Bilgi çağı hızlı ve güçlü ağır süvari birimi.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UNIT_TANK_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_UNIT_TANK_DESCRIPTION">
 			<Text>Modern çağ ağır süvari birimi, kontrol bölgesinden etkilenmez.</Text>
 		</Replace>
 		<!-- Naval -->
-		<Replace Language="pl_PL" Tag="LOC_UNIT_GALLEY_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_UNIT_GALLEY_DESCRIPTION">
 			<Text>Antik dönem deniz melee birimi. Sadece kıyılarda çalışabilir, haritalama geliştirilene kadar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UNIT_QUADRIREME_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_UNIT_QUADRIREME_DESCRIPTION">
 			<Text>Antik dönem deniz atıcı birimi. Sadece kıyılarda çalışabilir, haritalama geliştirilene kadar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UNIT_CARAVEL_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_UNIT_CARAVEL_DESCRIPTION">
 			<Text>Hızlı keşif için uygun Rönesans dönemi deniz melee birimi.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UNIT_IRONCLAD_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_UNIT_IRONCLAD_DESCRIPTION">
 			<Text>Güçlü sanayi dönemi zırhlı deniz melee birimi.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UNIT_NUCLEAR_SUBMARINE_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_UNIT_NUCLEAR_SUBMARINE_DESCRIPTION">
 			<Text>Bilgi çağına ait gelişmiş deniz birimi, saldırı ve yağma yapabilir, nükleer silahlarla donatılabilir. Sadece yakınındaki birimler tarafından görülebilir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UNIT_SUBMARINE_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_UNIT_SUBMARINE_DESCRIPTION">
 			<Text>Modern döneme ait saldırı ve yağma yapabilen deniz birimi. Sadece yakınındaki birimler tarafından görülebilir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UNIT_PRIVATEER_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_UNIT_PRIVATEER_DESCRIPTION">
 			<Text>Rönesans dönemi deniz birimi, sahil yağmacılığı yapabilir. Sadece yakınındaki birimler tarafından görülebilir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UNIT_FRIGATE_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_UNIT_FRIGATE_DESCRIPTION">
 			<Text>Rönesans dönemi deniz saldırı birimi.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UNIT_AIRCRAFT_CARRIER_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_UNIT_AIRCRAFT_CARRIER_DESCRIPTION">
 			<Text>Atom dönemi deniz melee birimi, hava birimlerini taşıyabilir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UNIT_BATTLESHIP_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_UNIT_BATTLESHIP_DESCRIPTION">
 			<Text>Modern döneme ait deniz saldırı birimi. Hava ve nükleer saldırılara karşı bir kare uzaklığa kadar koruma sağlar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UNIT_MISSILE_CRUISER_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_UNIT_MISSILE_CRUISER_DESCRIPTION">
 			<Text>Bilgi çağının en güçlü deniz saldırı birimi.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UNIT_DESTROYER_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_UNIT_DESTROYER_DESCRIPTION">
 			<Text>En güçlü deniz melee birimi. Deniz yağmacılarını algılama yeteneğine sahiptir.</Text>
 		</Replace>
 		<!-- Air Units -->
-		<Replace Language="pl_PL" Tag="LOC_UNIT_BIPLANE_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_UNIT_BIPLANE_DESCRIPTION">
 			<Text>İlk hava avcı birimi, modern dönemde kullanılabilir hale gelir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UNIT_FIGHTER_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_UNIT_FIGHTER_DESCRIPTION">
 			<Text>Klasik avcı uçağının atom dönemi versiyonu.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UNIT_BOMBER_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_UNIT_BOMBER_DESCRIPTION">
 			<Text>İlk hava bombardıman birimi, atom döneminde kullanılabilir hale gelir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UNIT_JET_FIGHTER_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_UNIT_JET_FIGHTER_DESCRIPTION">
 			<Text>Bilgi çağının jet avcı uçağı.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UNIT_JET_BOMBER_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_UNIT_JET_BOMBER_DESCRIPTION">
 			<Text>Bilgi çağının jet bombardıman uçağı.</Text>
 		</Replace>
 		<!-- Unique Units -->
-		<Replace Language="pl_PL" Tag="LOC_UNIT_BARBARIAN_HORSEMAN_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_UNIT_BARBARIAN_HORSEMAN_DESCRIPTION">
 			<Text>Eski dönemin basit süvari birimi.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UNIT_BARBARIAN_HORSE_ARCHER_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_UNIT_BARBARIAN_HORSE_ARCHER_DESCRIPTION">
 			<Text>Eski dönemin basit süvari okçusu.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UNIT_BARBARIAN_GALLEY_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_UNIT_BARBARIAN_GALLEY_DESCRIPTION">
 			<Text>Eski dönemin basit deniz melee birimi.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UNIT_EGYPTIAN_CHARIOT_ARCHER_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_UNIT_EGYPTIAN_CHARIOT_ARCHER_DESCRIPTION">
 			<Text>Mısır'ın antik dönem okçu birimi, ağır savaş arabasının yerini alır. Açık arazide başladığında 4 [ICON_Movement] hareket puanı kazanır.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UNIT_GREEK_HOPLITE_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_UNIT_GREEK_HOPLITE_DESCRIPTION">
 			<Text>Yunan antik dönem birimi, mızrakçının yerini alır. Yanında en az bir hoplit olduğunda +10 [ICON_Strength] savaş gücü kazanır.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UNIT_SCYTHIAN_HORSE_ARCHER_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_UNIT_SCYTHIAN_HORSE_ARCHER_DESCRIPTION">
 			<Text>İskitlerin antik dönem okçu birimi, 4 [ICON_Movement] hareket puanına ve 1 [ICON_Range] menzile sahiptir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UNIT_SUMERIAN_WAR_CART_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_UNIT_SUMERIAN_WAR_CART_DESCRIPTION">
 			<Text>Antik döneme ait Sümer savaş arabası. Başlangıç birimlerinden daha güçlüdür ve süvari karşıtı birimlerden etkilenmez. Açık arazide başladığında 4 [ICON_Movement] hareket puanı kazanır.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UNIT_ENGLISH_REDCOAT_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_UNIT_ENGLISH_REDCOAT_DESCRIPTION">
 			<Text>İngiltere'nin sanayi dönemi birimi, Victoria hüküm sürdüğünde kullanılabilir. Başka bir kıtada savaşırken +10 [ICON_Strength] savaş gücü kazanır. Denize açılma ve karaya çıkış ücreti yoktur.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UNIT_AMERICAN_ROUGH_RIDER_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_UNIT_AMERICAN_ROUGH_RIDER_DESCRIPTION">
 			<Text>Amerika'nın sanayi dönemi birimi, Teddy Roosevelt döneminde kullanılabilir. Başkent kıtasındaki zaferlerden [ICON_Culture] kültür kazanılır. Tepelerde +10 [ICON_Strength] savaş gücü kazanır ve bakım maliyeti düşüktür.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UNIT_ROMAN_LEGION_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_UNIT_ROMAN_LEGION_DESCRIPTION">
 			<Text>Roma'nın antik dönem melee birimi, kılıç ustasının yerini alır. Roma kalesi inşa edebilir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UNIT_JAPANESE_SAMURAI_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_UNIT_JAPANESE_SAMURAI_DESCRIPTION">
 			<Text>Japonya'nın orta çağ melee birimi. Yaralı olsa bile savaş performansını kaybetmez.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UNIT_NORWEGIAN_BERSERKER_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_UNIT_NORWEGIAN_BERSERKER_DESCRIPTION">
 			<Text>Norveç'in orta çağ birimi. Düşman topraklarında başladığında 4 [ICON_Movement] hareket puanı kazanır. Saldırırken +7 [ICON_Strength] savaş gücü kazanır, savunmada -7 [ICON_Strength] kaybeder.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UNIT_NORWEGIAN_LONGSHIP_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_UNIT_NORWEGIAN_LONGSHIP_DESCRIPTION">
 			<Text>Norveç'in antik deniz birimi, galerin yerini alır. Sahil yağmacılığı yapabilir ve yakın sivil birimleri ele geçirebilir. Sahil sularında 4 [ICON_Movement] hareket puanı kazanır.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UNIT_CHINESE_CROUCHING_TIGER_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_UNIT_CHINESE_CROUCHING_TIGER_DESCRIPTION">
 			<Text>Çin'in orta çağ birimi. 1 [ICON_Range] menzile sahip güçlü bir atıcı birimidir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UNIT_SPANISH_CONQUISTADOR_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_UNIT_SPANISH_CONQUISTADOR_DESCRIPTION">
 			<Text>İspanya'nın Rönesans dönemi birimi, tüfekçinin yerini alır. Aynı karede bir dini birim olduğunda +10 [ICON_Strength] savaş gücü kazanır. Bu birim şehri ele geçirdiğinde veya yakınında bulunduğunda şehir, oyuncunun dinine geçer.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UNIT_RUSSIAN_COSSACK_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_UNIT_RUSSIAN_COSSACK_DESCRIPTION">
 			<Text>Rusya'nın sanayi dönemi birimi, süvarinin yerini alır. Daha güçlüdür ve kendi topraklarında +5 [ICON_Strength] savaş gücü kazanır. Saldırdıktan sonra hareket edebilir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UNIT_INDIAN_VARU_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_UNIT_INDIAN_VARU_DESCRIPTION">
 			<Text>Hindistan'ın antik ağır süvari birimi. Yanındaki düşman birimleri -5 [ICON_STRENGTH] savaş gücü kaybeder.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UNIT_KONGO_SHIELD_BEARER_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_UNIT_KONGO_SHIELD_BEARER_DESCRIPTION">
 			<Text>Kongo'nun antik birimi, kılıç ustasının yerini alır. Atıcı saldırılara karşı savunmada +10 [ICON_Strength] savaş gücü kazanır. Orman ve yağmur ormanlarında serbestçe hareket edebilir ve görebilir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UNIT_ARABIAN_MAMLUK_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_UNIT_ARABIAN_MAMLUK_DESCRIPTION">
 			<Text>Arapların orta çağ birimi, şövalyenin yerini alır. Her tur sonunda kendini iyileştirir, saldırdıktan veya hareket ettikten sonra bile.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UNIT_ENGLISH_SEADOG_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_UNIT_ENGLISH_SEADOG_DESCRIPTION">
 			<Text>İngiltere'nin Rönesans dönemi deniz birimi, korsanın yerini alır. Düşman gemilerini ele geçirebilir. Sadece yakınındaki birimler tarafından görülebilir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UNIT_FRENCH_GARDE_IMPERIALE_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_UNIT_FRENCH_GARDE_IMPERIALE_DESCRIPTION">
 			<Text>Fransa'nın sanayi dönemi melee birimi. Başkent kıtasında savaşırken +10 [ICON_Strength] savaş gücü kazanır. Zaferler, [ICON_GreatGeneral] büyük general puanı kazandırır.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UNIT_GERMAN_UBOAT_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_UNIT_GERMAN_UBOAT_DESCRIPTION">
 			<Text>Almanya'nın modern dönem deniz birimi, denizaltının yerini alır. Üretimi daha ucuzdur, +1 görüş sağlar ve deniz karelerinde +10 [ICON_Strength] savaş gücü kazanır. Gizli birimleri ortaya çıkarabilir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UNIT_AMERICAN_P51_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_UNIT_AMERICAN_P51_DESCRIPTION">
 			<Text>Amerika'nın atom dönemi hava birimi, avcı uçağının yerini alır. Düşman avcı uçaklarına karşı +5 [ICON_Strength] savaş gücü, +2 uçuş menzili ve %50 daha fazla deneyim kazanır.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UNIT_BRAZILIAN_MINAS_GERAES_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_UNIT_BRAZILIAN_MINAS_GERAES_DESCRIPTION">
 			<Text>Brezilya'nın sanayi dönemi birimi, savaş gemisinin yerini alır. Savaş gemisinden daha güçlüdür ve milliyetçilikle kullanılabilir hale gelir.</Text>
 		</Replace>
 	</LocalizedText>

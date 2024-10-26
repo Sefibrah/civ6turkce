@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameData>
 	<LocalizedText>
-		<Replace Language="pl_PL" Tag="LOC_UI_TECHNOLOGY_RESEARCH_COMPLETE">
+		<Replace Language="en_US" Tag="LOC_UI_TECHNOLOGY_RESEARCH_COMPLETE">
 			<Text>ARAŞTIRMA TAMAMLANDI</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UI_TECHNOLOGY_RESEARCH_COMPLETE_BLURB">
+		<Replace Language="en_US" Tag="LOC_UI_TECHNOLOGY_RESEARCH_COMPLETE_BLURB">
 			<Text>Tebrikler! {1_TechnologyName[2]} geliştirdik!</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UI_CIVIC_PROGRESS_COMPLETE">
+		<Replace Language="en_US" Tag="LOC_UI_CIVIC_PROGRESS_COMPLETE">
 			<Text>NORM TAMAMLANDI</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UI_CIVIC_PROGRESS_COMPLETE_BLURB">
+		<Replace Language="en_US" Tag="LOC_UI_CIVIC_PROGRESS_COMPLETE_BLURB">
 			<Text>Yönetim ve sosyal politika değişiklikleri BU TURDA ÜCRETSİZ çünkü halkımız {1_CivicName[2]} denemeye hevesli.</Text>
 		</Replace>
 	</LocalizedText>

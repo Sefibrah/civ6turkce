@@ -2,243 +2,243 @@
 <GameData>
 	<LocalizedText>
 		<!-- Base Menu-->
-		<Replace Language="pl_PL" Tag="LOC_UI_ENDGAME_REPLAY_MOVIE">
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_REPLAY_MOVIE">
 			<Text>Videoyu tekrar oynat</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UI_ENDGAME_MAIN_MENU">
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_MAIN_MENU">
 			<Text>Ana menüye</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UI_ENDGAME_EXTENDED_GAME">
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_EXTENDED_GAME">
 			<Text>Bir tur daha...</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UI_ENDGAME_MP_PLAYER_CHANGE_CONTINUE">
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_MP_PLAYER_CHANGE_CONTINUE">
 			<Text>Sıradaki oyuncu</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UI_ENDGAME_VICTORY_INFO">
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_VICTORY_INFO">
 			<Text>SONUÇLAR</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UI_ENDGAME_RANKING">
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_RANKING">
 			<Text>DERECELENDİRME</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UI_ENDGAME_REPLAY">
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_REPLAY">
 			<Text>GÖRÜNTÜLER</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UI_ENDGAME_CHAT">
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_CHAT">
 			<Text>SOHBET</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UI_ENDGAME_NUMBERING_FORMAT">
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_NUMBERING_FORMAT">
 			<Text>{1_number}.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UI_ENDGAME_POP_SCORE">
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_POP_SCORE">
 			<Text>Puanlar</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UI_ENDGAME_LEADER_NAME">
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_LEADER_NAME">
 			<Text>Liderin adı</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UI_ENDGAME_RANKING_STATEMENT">
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_RANKING_STATEMENT">
 			<Text>{1_LeaderName[2]} olarak başarı elde ettiniz</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UI_ENDGAME_RANKING_LEADER_1_NAME">
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_RANKING_LEADER_1_NAME">
 			<Text>Augustus Caesar|Augustus Caesar'ın</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UI_ENDGAME_RANKING_LEADER_1_QUOTE">
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_RANKING_LEADER_1_QUOTE">
 			<Text>Roma'yı tuğladan aldım, mermer bir şehir bıraktım.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UI_ENDGAME_RANKING_LEADER_2_NAME">
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_RANKING_LEADER_2_NAME">
 			<Text>Hammurabi|Hammurabi'nin</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UI_ENDGAME_RANKING_LEADER_2_QUOTE">
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_RANKING_LEADER_2_QUOTE">
 			<Text>Hükümetin ilk görevi, zayıfları güçlülerden korumaktır.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UI_ENDGAME_RANKING_LEADER_3_NAME">
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_RANKING_LEADER_3_NAME">
 			<Text>Abraham Lincoln|Abraham Lincoln'ün</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UI_ENDGAME_RANKING_LEADER_3_QUOTE">
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_RANKING_LEADER_3_QUOTE">
 			<Text>Bugünün işini yarına bırakma.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UI_ENDGAME_RANKING_LEADER_4_NAME">
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_RANKING_LEADER_4_NAME">
 			<Text>Winston Churchill|Winston Churchill'in</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UI_ENDGAME_RANKING_LEADER_4_QUOTE">
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_RANKING_LEADER_4_QUOTE">
 			<Text>Büyük güç büyük sorumluluk getirir; küçük güç küçük sorumluluk getirir; ve hiçbir güç yoksa sorumluluk da yoktur.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UI_ENDGAME_RANKING_LEADER_5_NAME">
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_RANKING_LEADER_5_NAME">
 			<Text>Nelson Mandela|Nelson Mandela'nın</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UI_ENDGAME_RANKING_LEADER_5_QUOTE">
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_RANKING_LEADER_5_QUOTE">
 			<Text>Gerçek liderler, halklarının özgürlüğü için her şeylerini feda etmeye hazır olmalıdır.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UI_ENDGAME_RANKING_LEADER_6_NAME">
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_RANKING_LEADER_6_NAME">
 			<Text>Katariina Suuri|Büyük Katerina'nın</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UI_ENDGAME_RANKING_LEADER_6_QUOTE">
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_RANKING_LEADER_6_QUOTE">
 			<Text>Güven olmadan güç hiçbir şey ifade etmez.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UI_ENDGAME_RANKING_LEADER_7_NAME">
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_RANKING_LEADER_7_NAME">
 			<Text>Ashoka|Ashoka'nın</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UI_ENDGAME_RANKING_LEADER_7_QUOTE">
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_RANKING_LEADER_7_QUOTE">
 			<Text>Diğer mezhepleri kötülemek yasaktır; erdemli bir inanan, övgüyü hak eden her şeyi övmelidir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UI_ENDGAME_RANKING_LEADER_8_NAME">
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_RANKING_LEADER_8_NAME">
 			<Text>Marcus Aurelius|Marcus Aurelius'un</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UI_ENDGAME_RANKING_LEADER_8_QUOTE">
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_RANKING_LEADER_8_QUOTE">
 			<Text>Hayatın amacı çoğunluğun tarafında olmak değil, deli kalabalığın arasında kendini bulmaktır.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UI_ENDGAME_RANKING_LEADER_9_NAME">
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_RANKING_LEADER_9_NAME">
 			<Text>Lech Wałęsa|Lech Wałęsa'nın</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UI_ENDGAME_RANKING_LEADER_9_QUOTE">
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_RANKING_LEADER_9_QUOTE">
 			<Text>Bir millet olarak kendi işlerimize karar verme ve geleceğimizi şekillendirme hakkına sahibiz.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UI_ENDGAME_RANKING_LEADER_10_NAME">
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_RANKING_LEADER_10_NAME">
 			<Text>Hatshepsut|Hatshepsut'un</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UI_ENDGAME_RANKING_LEADER_10_QUOTE">
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_RANKING_LEADER_10_QUOTE">
 			<Text>Beni dinleyin, ey insanlar! Kalbimin arzusuyla her şeyi yaptım.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UI_ENDGAME_RANKING_LEADER_10_QUOTE">
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_RANKING_LEADER_10_QUOTE">
 			<Text>Dinleyin! Ey hepiniz! Kalbimin emrettiği gibi her şeyi yaptım.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UI_ENDGAME_RANKING_LEADER_11_NAME">
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_RANKING_LEADER_11_NAME">
 			<Text>Charles de Gaulle|Charles de Gaulle'ün</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UI_ENDGAME_RANKING_LEADER_11_QUOTE">
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_RANKING_LEADER_11_QUOTE">
 			<Text>Cesur, güçlü ve kararlı olalım; acımızın sonunda dünyadaki en büyük onur var - asla pes etmeyen adamların onuru.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UI_ENDGAME_RANKING_LEADER_12_NAME">
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_RANKING_LEADER_12_NAME">
 			<Text>Aquitaine Eleonora|Aquitaine Eleonora'nın</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UI_ENDGAME_RANKING_LEADER_12_QUOTE">
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_RANKING_LEADER_12_QUOTE">
 			<Text>Acımasız, ancak kimsenin acımadığı, iki krallığın hükümdarı ve iki kralın annesi olarak, neden bu yaşlılık utancına ulaştım? Ailem benden alındıkça içim parçalanıyor.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UI_ENDGAME_RANKING_LEADER_13_NAME">
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_RANKING_LEADER_13_NAME">
 			<Text>Ivan Groźny|Ivan Groźny'nin</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UI_ENDGAME_RANKING_LEADER_13_QUOTE">
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_RANKING_LEADER_13_QUOTE">
 			<Text>Traş olmak, tüm şehitlerin kanıyla bile temizlenemeyen bir günahtır. Tanrı'nın suretini bozmak gibidir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UI_ENDGAME_RANKING_LEADER_14_NAME">
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_RANKING_LEADER_14_NAME">
 			<Text>Herbert Hoover|Herbert Hoover'ın</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UI_ENDGAME_RANKING_LEADER_14_QUOTE">
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_RANKING_LEADER_14_QUOTE">
 			<Text>Bu ülkenin iyi bir kahkahaya ihtiyacı var... Sorunlarımız her on günde bir iyi bir şaka bulunsa biterdi.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UI_ENDGAME_RANKING_LEADER_15_NAME">
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_RANKING_LEADER_15_NAME">
 			<Text>Louis XVI|Louis XVI'nın</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UI_ENDGAME_RANKING_LEADER_15_QUOTE">
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_RANKING_LEADER_15_QUOTE">
 			<Text>Her görevde yüz memnuniyetsiz ve bir nankör yaratırım.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UI_ENDGAME_RANKING_LEADER_16_NAME">
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_RANKING_LEADER_16_NAME">
 			<Text>Neville Chamberlain|Neville Chamberlain'in</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UI_ENDGAME_RANKING_LEADER_16_QUOTE">
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_RANKING_LEADER_16_QUOTE">
 			<Text>Zamanımızda barış.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UI_ENDGAME_RANKING_LEADER_17_NAME">
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_RANKING_LEADER_17_NAME">
 			<Text>Nero|Nero'nun</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UI_ENDGAME_RANKING_LEADER_17_QUOTE">
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_RANKING_LEADER_17_QUOTE">
 			<Text>Her söylenene inanmaya hazır biri asla başarılı olamaz.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UI_ENDGAME_RANKING_LEADER_18_NAME">
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_RANKING_LEADER_18_NAME">
 			<Text>Warren G. Harding|Warren G. Harding'in</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UI_ENDGAME_RANKING_LEADER_18_QUOTE">
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_RANKING_LEADER_18_QUOTE">
 			<Text>En büyük hatamız hükümetten çok şey beklemek ve onun için çok az şey yapmaktır.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UI_ENDGAME_RANKING_LEADER_19_NAME">
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_RANKING_LEADER_19_NAME">
 			<Text>Ethelred Kararsız|Ethelred Kararsız'ın</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UI_ENDGAME_RANKING_LEADER_19_QUOTE">
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_RANKING_LEADER_19_QUOTE">
 			<Text>Kutsal Üçlü adına yemin ederim: gerçek barışı koruyacağım, haksızlıkları yasaklayacağım ve adaleti her zaman sağlayacağım.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UI_ENDGAME_RANKING_LEADER_20_NAME">
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_RANKING_LEADER_20_NAME">
 			<Text>Kanlı Mary|Kanlı Mary'nin</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UI_ENDGAME_RANKING_LEADER_20_QUOTE">
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_RANKING_LEADER_20_QUOTE">
 			<Text>Tanrı bizimle ise, kim bize karşı olabilir?</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UI_ENDGAME_RANKING_LEADER_21_NAME">
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_RANKING_LEADER_21_NAME">
 			<Text>Dan Quayle|Dan Quayle'ın</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UI_ENDGAME_RANKING_LEADER_21_QUOTE">
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_RANKING_LEADER_21_QUOTE">
 			<Text>Beklenmeyen her şeye hazırız - gerçekleşsin ya da gerçekleşmesin.</Text>
 		</Replace>
 		<!-- Replay -->
-		<Replace Language="pl_PL" Tag="LOC_UI_ENDGAME_REPLAY_NOGRAPHDATA">
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_REPLAY_NOGRAPHDATA">
 			<Text>Grafik verisi yok</Text>
 		</Replace>
 		<!-- Graph Data Sets -->
-		<Replace Language="pl_PL" Tag="LOC_REPLAYDATASET_CULTURE_NAME">
+		<Replace Language="en_US" Tag="LOC_REPLAYDATASET_CULTURE_NAME">
 			<Text>Tur başına kültür</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_REPLAYDATASET_CULTURE_DESC">
+		<Replace Language="en_US" Tag="LOC_REPLAYDATASET_CULTURE_DESC">
 			<Text>Toplanan kültür miktarı.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_REPLAYDATASET_TOTALGOLD_NAME">
+		<Replace Language="en_US" Tag="LOC_REPLAYDATASET_TOTALGOLD_NAME">
 			<Text>Altın rezervi</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_REPLAYDATASET_TOTALGOLD_DESC">
+		<Replace Language="en_US" Tag="LOC_REPLAYDATASET_TOTALGOLD_DESC">
 			<Text>Oyuncunun toplam altını.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_REPLAYDATASET_TOTALCITIESBUILT_NAME">
+		<Replace Language="en_US" Tag="LOC_REPLAYDATASET_TOTALCITIESBUILT_NAME">
 			<Text>Kurulan toplam şehirler</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_REPLAYDATASET_TOTALDISTRICTSBUILT_NAME">
+		<Replace Language="en_US" Tag="LOC_REPLAYDATASET_TOTALDISTRICTSBUILT_NAME">
 			<Text>Kurulan toplam bölgeler</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_REPLAYDATASET_TOTALWONDERSBUILT_NAME">
+		<Replace Language="en_US" Tag="LOC_REPLAYDATASET_TOTALWONDERSBUILT_NAME">
 			<Text>İnşa edilen harikalar</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_REPLAYDATASET_TOTALBUILDINGSBUILT_NAME">
+		<Replace Language="en_US" Tag="LOC_REPLAYDATASET_TOTALBUILDINGSBUILT_NAME">
 			<Text>İnşa edilen yapılar</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_REPLAYDATASET_TOTALCITIESCAPTURED_NAME">
+		<Replace Language="en_US" Tag="LOC_REPLAYDATASET_TOTALCITIESCAPTURED_NAME">
 			<Text>Ele geçirilen şehirler</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_REPLAYDATASET_TOTALCITIESLOST_NAME">
+		<Replace Language="en_US" Tag="LOC_REPLAYDATASET_TOTALCITIESLOST_NAME">
 			<Text>Kaybedilen şehirler</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_REPLAYDATASET_TOTALCITIESDESTROYED_NAME">
+		<Replace Language="en_US" Tag="LOC_REPLAYDATASET_TOTALCITIESDESTROYED_NAME">
 			<Text>Yıkılan şehirler</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_REPLAYDATASET_TOTALWARSDECLARED_NAME">
+		<Replace Language="en_US" Tag="LOC_REPLAYDATASET_TOTALWARSDECLARED_NAME">
 			<Text>İlan edilen savaşlar</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_REPLAYDATASET_TOTALWARSWON_NAME">
+		<Replace Language="en_US" Tag="LOC_REPLAYDATASET_TOTALWARSWON_NAME">
 			<Text>Kazanılan savaşlar</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_REPLAYDATASET_TOTALCOMBATS_NAME">
+		<Replace Language="en_US" Tag="LOC_REPLAYDATASET_TOTALCOMBATS_NAME">
 			<Text>Toplam savaşlar</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_REPLAYDATASET_TOTALUNITSDESTROYED_NAME">
+		<Replace Language="en_US" Tag="LOC_REPLAYDATASET_TOTALUNITSDESTROYED_NAME">
 			<Text>Yok edilen birimler</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_REPLAYDATASET_TOTALPLAYERUNITSDESTROYED_NAME">
+		<Replace Language="en_US" Tag="LOC_REPLAYDATASET_TOTALPLAYERUNITSDESTROYED_NAME">
 			<Text>Kaybedilen birimler</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_REPLAYDATASET_TOTALRELIGIONSFOUNDED_NAME">
+		<Replace Language="en_US" Tag="LOC_REPLAYDATASET_TOTALRELIGIONSFOUNDED_NAME">
 			<Text>Kurulan dinler</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_REPLAYDATASET_GREATPEOPLEEARNED_NAME">
+		<Replace Language="en_US" Tag="LOC_REPLAYDATASET_GREATPEOPLEEARNED_NAME">
 			<Text>Kazanılan büyük kişiler</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_REPLAYDATASET_TOTALWARSAGAINSTPLAYER_NAME">
+		<Replace Language="en_US" Tag="LOC_REPLAYDATASET_TOTALWARSAGAINSTPLAYER_NAME">
 			<Text>Oyuncuya karşı ilan edilen savaşlar</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_REPLAYDATASET_TOTALPANTHEONSFOUNDED_NAME">
+		<Replace Language="en_US" Tag="LOC_REPLAYDATASET_TOTALPANTHEONSFOUNDED_NAME">
 			<Text>Kurulan panteonlar</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_REPLAYDATASET_SCOREPERTURN_NAME">
+		<Replace Language="en_US" Tag="LOC_REPLAYDATASET_SCOREPERTURN_NAME">
 			<Text>Tur başına puan</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_REPLAYDATASET_SCIENCEPERTURN_NAME">
+		<Replace Language="en_US" Tag="LOC_REPLAYDATASET_SCIENCEPERTURN_NAME">
 			<Text>Tur başına bilim</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_REPLAYDATASET_FAITHPERTURN_NAME">
+		<Replace Language="en_US" Tag="LOC_REPLAYDATASET_FAITHPERTURN_NAME">
 			<Text>Tur başına inanç</Text>
 		</Replace>
 	</LocalizedText>

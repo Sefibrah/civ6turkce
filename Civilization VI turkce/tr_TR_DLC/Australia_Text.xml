@@ -2,379 +2,379 @@
 <GameData>
 	<LocalizedText>
 		<!-- Civ Info-->
-		<Replace Language="pl_PL" Tag="LOC_CIVILIZATION_AUSTRALIA_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_AUSTRALIA_DESCRIPTION">
 			<Text>Avustralya İmparatorluğu|Avustralya</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVILIZATION_AUSTRALIA_ADJECTIVE">
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_AUSTRALIA_ADJECTIVE">
 			<Text>Avustralyalı</Text>
 		</Replace>
 		<!-- Leader Agenda-->
-		<Replace Language="pl_PL" Tag="LOC_AGENDA_PERPETUALLY_ON_GUARD_NAME">
+		<Replace Language="en_US" Tag="LOC_AGENDA_PERPETUALLY_ON_GUARD_NAME">
 			<Text>Her Zaman Tetikte</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_AGENDA_PERPETUALLY_ON_GUARD_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_AGENDA_PERPETUALLY_ON_GUARD_DESCRIPTION">
 			<Text>Şehirleri kurtaran milletleri sever. Düşmanlarının şehirlerini işgal eden savaşçı milletlerden hoşlanmaz.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVINFO_AUSTRALIA_LOCATION">
+		<Replace Language="en_US" Tag="LOC_CIVINFO_AUSTRALIA_LOCATION">
 			<Text>Avustralya Kıtası</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVINFO_AUSTRALIA_SIZE">
+		<Replace Language="en_US" Tag="LOC_CIVINFO_AUSTRALIA_SIZE">
 			<Text>Yaklaşık 7,7 milyon kilometrekare</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVINFO_AUSTRALIA_POPULATION">
+		<Replace Language="en_US" Tag="LOC_CIVINFO_AUSTRALIA_POPULATION">
 			<Text>Yaklaşık 24 milyon (2017 tahmini)</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVINFO_AUSTRALIA_CAPITAL">
+		<Replace Language="en_US" Tag="LOC_CIVINFO_AUSTRALIA_CAPITAL">
 			<Text>Melbourne, günümüzde Canberra</Text>
 		</Replace>
 		<!-- City Names -->
-		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_CANBERRA">
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_CANBERRA">
 			<Text>Canberra</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_SYDNEY">
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_SYDNEY">
 			<Text>Sydney</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_MELBOURNE">
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_MELBOURNE">
 			<Text>Melbourne</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_BRISBANE">
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_BRISBANE">
 			<Text>Brisbane</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_ADELAIDE">
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_ADELAIDE">
 			<Text>Adelaide</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_PERTH">
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_PERTH">
 			<Text>Perth</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_HOBART">
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_HOBART">
 			<Text>Hobart</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_GEELONG">
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_GEELONG">
 			<Text>Geelong</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_LAUNCESTON">
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_LAUNCESTON">
 			<Text>Launceston </Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_BALLAARAT">
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_BALLAARAT">
 			<Text>Ballaarat</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_ROCKHAMPTON">
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_ROCKHAMPTON">
 			<Text>Rockhampton</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_TOOWOOMBA">
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_TOOWOOMBA">
 			<Text>Toowoomba</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_TOWNSVILLE">
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_TOWNSVILLE">
 			<Text>Townsville</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_BENDIGO">
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_BENDIGO">
 			<Text>Bendigo</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_BROKEN_HILL">
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_BROKEN_HILL">
 			<Text>Broken Hill</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_MAITLAND">
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_MAITLAND">
 			<Text>Maitland</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_WOLLONGONG">
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_WOLLONGONG">
 			<Text>Wollongong</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_CAIRNS">
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_CAIRNS">
 			<Text>Cairns</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_DARWIN">
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_DARWIN">
 			<Text>Darwin</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_GOULBURN">
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_GOULBURN">
 			<Text>Goulburn</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_BUNDABERG">
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_BUNDABERG">
 			<Text>Bundaberg</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_WAGGA_WAGGA">
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_WAGGA_WAGGA">
 			<Text>Wagga Wagga</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_LISMORE">
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_LISMORE">
 			<Text>Lismore</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_LITHGOW">
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_LITHGOW">
 			<Text>Lithgow</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_MARYBOROUGH">
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_MARYBOROUGH">
 			<Text>Maryborough</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_ALBURY">
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_ALBURY">
 			<Text>Albury</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_ORANGE">
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_ORANGE">
 			<Text>Orange</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_FREMANTLE">
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_FREMANTLE">
 			<Text>Fremantle</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_TWEED_HEADS">
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_TWEED_HEADS">
 			<Text>Tweed Heads</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_COFFS_HARBOUR">
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_COFFS_HARBOUR">
 			<Text>Coffs Harbour</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_HERVEY_BAY">
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_HERVEY_BAY">
 			<Text>Hervey Bay</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_KALGOORLIE">
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_KALGOORLIE">
 			<Text>Kalgoorlie</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_PORT_MACQUARIE">
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_PORT_MACQUARIE">
 			<Text>Port Macquarie</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_ALICE_SPRINGS">
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_ALICE_SPRINGS">
 			<Text>Alice Springs</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_BATHURST">
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_BATHURST">
 			<Text>Bathurst</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_GLADSTONE">
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_GLADSTONE">
 			<Text>Gladstone</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_QUEANBEYAN">
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_QUEANBEYAN">
 			<Text>Queanbeyan</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_PORT_PIRIE">
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_PORT_PIRIE">
 			<Text>Port Pirie</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_BOOMAHNOOMOONAH">
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_BOOMAHNOOMOONAH">
 			<Text>Boomahnoomoonah</Text>
 		</Replace>
 		<!-- Citizen Names -->
-		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AUSTRALIA_MALE_1">
+		<Replace Language="en_US" Tag="LOC_CITIZEN_AUSTRALIA_MALE_1">
 			<Text>Anatjari</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AUSTRALIA_MALE_2">
+		<Replace Language="en_US" Tag="LOC_CITIZEN_AUSTRALIA_MALE_2">
 			<Text>Colebee</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AUSTRALIA_MALE_3">
+		<Replace Language="en_US" Tag="LOC_CITIZEN_AUSTRALIA_MALE_3">
 			<Text>Djalu</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AUSTRALIA_MALE_4">
+		<Replace Language="en_US" Tag="LOC_CITIZEN_AUSTRALIA_MALE_4">
 			<Text>Gurumarra</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AUSTRALIA_MALE_5">
+		<Replace Language="en_US" Tag="LOC_CITIZEN_AUSTRALIA_MALE_5">
 			<Text>Jarli</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AUSTRALIA_MALE_6">
+		<Replace Language="en_US" Tag="LOC_CITIZEN_AUSTRALIA_MALE_6">
 			<Text>Mandawuy</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AUSTRALIA_MALE_7">
+		<Replace Language="en_US" Tag="LOC_CITIZEN_AUSTRALIA_MALE_7">
 			<Text>Toba</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AUSTRALIA_MALE_8">
+		<Replace Language="en_US" Tag="LOC_CITIZEN_AUSTRALIA_MALE_8">
 			<Text>Yarran</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AUSTRALIA_MALE_9">
+		<Replace Language="en_US" Tag="LOC_CITIZEN_AUSTRALIA_MALE_9">
 			<Text>Warrin</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AUSTRALIA_MALE_10">
+		<Replace Language="en_US" Tag="LOC_CITIZEN_AUSTRALIA_MALE_10">
 			<Text>Waku</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AUSTRALIA_FEMALE_1">
+		<Replace Language="en_US" Tag="LOC_CITIZEN_AUSTRALIA_FEMALE_1">
 			<Text>Bindi</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AUSTRALIA_FEMALE_2">
+		<Replace Language="en_US" Tag="LOC_CITIZEN_AUSTRALIA_FEMALE_2">
 			<Text>Kalinda</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AUSTRALIA_FEMALE_3">
+		<Replace Language="en_US" Tag="LOC_CITIZEN_AUSTRALIA_FEMALE_3">
 			<Text>Kirra</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AUSTRALIA_FEMALE_4">
+		<Replace Language="en_US" Tag="LOC_CITIZEN_AUSTRALIA_FEMALE_4">
 			<Text>Ellin</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AUSTRALIA_FEMALE_5">
+		<Replace Language="en_US" Tag="LOC_CITIZEN_AUSTRALIA_FEMALE_5">
 			<Text>Jedda</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AUSTRALIA_FEMALE_6">
+		<Replace Language="en_US" Tag="LOC_CITIZEN_AUSTRALIA_FEMALE_6">
 			<Text>Lenah</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AUSTRALIA_FEMALE_7">
+		<Replace Language="en_US" Tag="LOC_CITIZEN_AUSTRALIA_FEMALE_7">
 			<Text>Marindah</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AUSTRALIA_FEMALE_8">
+		<Replace Language="en_US" Tag="LOC_CITIZEN_AUSTRALIA_FEMALE_8">
 			<Text>Parara</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AUSTRALIA_FEMALE_9">
+		<Replace Language="en_US" Tag="LOC_CITIZEN_AUSTRALIA_FEMALE_9">
 			<Text>Tatali</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AUSTRALIA_FEMALE_10">
+		<Replace Language="en_US" Tag="LOC_CITIZEN_AUSTRALIA_FEMALE_10">
 			<Text>Wintjiya</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AUSTRALIA_MODERN_MALE_1">
+		<Replace Language="en_US" Tag="LOC_CITIZEN_AUSTRALIA_MODERN_MALE_1">
 			<Text>James</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AUSTRALIA_MODERN_MALE_2">
+		<Replace Language="en_US" Tag="LOC_CITIZEN_AUSTRALIA_MODERN_MALE_2">
 			<Text>Luke</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AUSTRALIA_MODERN_MALE_3">
+		<Replace Language="en_US" Tag="LOC_CITIZEN_AUSTRALIA_MODERN_MALE_3">
 			<Text>Jackson</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AUSTRALIA_MODERN_MALE_4">
+		<Replace Language="en_US" Tag="LOC_CITIZEN_AUSTRALIA_MODERN_MALE_4">
 			<Text>Cody</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AUSTRALIA_MODERN_MALE_5">
+		<Replace Language="en_US" Tag="LOC_CITIZEN_AUSTRALIA_MODERN_MALE_5">
 			<Text>Mitch</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AUSTRALIA_MODERN_MALE_6">
+		<Replace Language="en_US" Tag="LOC_CITIZEN_AUSTRALIA_MODERN_MALE_6">
 			<Text>Blake</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AUSTRALIA_MODERN_MALE_7">
+		<Replace Language="en_US" Tag="LOC_CITIZEN_AUSTRALIA_MODERN_MALE_7">
 			<Text>Hugo</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AUSTRALIA_MODERN_MALE_8">
+		<Replace Language="en_US" Tag="LOC_CITIZEN_AUSTRALIA_MODERN_MALE_8">
 			<Text>Brenden</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AUSTRALIA_MODERN_MALE_9">
+		<Replace Language="en_US" Tag="LOC_CITIZEN_AUSTRALIA_MODERN_MALE_9">
 			<Text>Jordan</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AUSTRALIA_MODERN_MALE_10">
+		<Replace Language="en_US" Tag="LOC_CITIZEN_AUSTRALIA_MODERN_MALE_10">
 			<Text>Michael</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AUSTRALIA_MODERN_FEMALE_1">
+		<Replace Language="en_US" Tag="LOC_CITIZEN_AUSTRALIA_MODERN_FEMALE_1">
 			<Text>Nicole</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AUSTRALIA_MODERN_FEMALE_2">
+		<Replace Language="en_US" Tag="LOC_CITIZEN_AUSTRALIA_MODERN_FEMALE_2">
 			<Text>Olivia</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AUSTRALIA_MODERN_FEMALE_3">
+		<Replace Language="en_US" Tag="LOC_CITIZEN_AUSTRALIA_MODERN_FEMALE_3">
 			<Text>Zoe</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AUSTRALIA_MODERN_FEMALE_4">
+		<Replace Language="en_US" Tag="LOC_CITIZEN_AUSTRALIA_MODERN_FEMALE_4">
 			<Text>Holly</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AUSTRALIA_MODERN_FEMALE_5">
+		<Replace Language="en_US" Tag="LOC_CITIZEN_AUSTRALIA_MODERN_FEMALE_5">
 			<Text>Paige</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AUSTRALIA_MODERN_FEMALE_6">
+		<Replace Language="en_US" Tag="LOC_CITIZEN_AUSTRALIA_MODERN_FEMALE_6">
 			<Text>Kathleen</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AUSTRALIA_MODERN_FEMALE_7">
+		<Replace Language="en_US" Tag="LOC_CITIZEN_AUSTRALIA_MODERN_FEMALE_7">
 			<Text>Louisa</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AUSTRALIA_MODERN_FEMALE_8">
+		<Replace Language="en_US" Tag="LOC_CITIZEN_AUSTRALIA_MODERN_FEMALE_8">
 			<Text>Michele</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AUSTRALIA_MODERN_FEMALE_9">
+		<Replace Language="en_US" Tag="LOC_CITIZEN_AUSTRALIA_MODERN_FEMALE_9">
 			<Text>Elizabeth</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AUSTRALIA_MODERN_FEMALE_10">
+		<Replace Language="en_US" Tag="LOC_CITIZEN_AUSTRALIA_MODERN_FEMALE_10">
 			<Text>Alicia</Text>
 		</Replace>
 		<!-- Feature Info-->
-		<Replace Language="pl_PL" Tag="LOC_FEATURE_ULURU_NAME">
+		<Replace Language="en_US" Tag="LOC_FEATURE_ULURU_NAME">
 			<Text>Uluru</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_FEATURE_ULURU_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_FEATURE_ULURU_DESCRIPTION">
 			<Text>Bir karelik geçilemez doğa harikası. Komşu karelere +2 [ICON_CULTURE] kültür ve +2 [ICON_FAITH] inanç sağlar. Normalde +2 olan cazibeyi komşu karelere +4 olarak sağlar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_FEATURE_ULURU_QUOTE">
+		<Replace Language="en_US" Tag="LOC_FEATURE_ULURU_QUOTE">
 			<Text>"Yağmur mevsiminde bu manzara ne kadar da büyüleyici; her yönde şelaleler!''[NEWLINE]– William Gosse</Text>
 		</Replace>
 		<!-- Trait Info-->
-		<Replace Language="pl_PL" Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_OUTBACK_STATION_NAME">
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_OUTBACK_STATION_NAME">
 			<Text>Avustralya'ya özgü yapı: iç bölge istasyonu</Text>
 		</Replace>
 		<!-- Diplo Text -->
-		<Replace Language="pl_PL" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_JOHN_CURTIN_ANY">
+		<Replace Language="en_US" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_JOHN_CURTIN_ANY">
 			<Text>Halklarımız arasındaki güçlü dostluğu memnuniyetle kabul ediyoruz.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_JOHN_CURTIN_ANY">
+		<Replace Language="en_US" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_JOHN_CURTIN_ANY">
 			<Text>Mevcut koşullarda resmi jestlere bağlı kalamayacağımızı umarım anlarsınız.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_JOHN_CURTIN_ANY">
+		<Replace Language="en_US" Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_JOHN_CURTIN_ANY">
 			<Text>Dostluğumuzun istikrarı sürdürme ve muhtaçları koruma ortak hedefimize dayandığına inanıyorum. Umarım siz de aynı fikirdesinizdir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_JOHN_CURTIN_ANY">
+		<Replace Language="en_US" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_JOHN_CURTIN_ANY">
 			<Text>Yaptıklarınızı takdir ediyorum.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_JOHN_CURTIN_ANY">
+		<Replace Language="en_US" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_JOHN_CURTIN_ANY">
 			<Text>Bu hoş bir gelişme değildi.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_JOHN_CURTIN_ANY">
+		<Replace Language="en_US" Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_JOHN_CURTIN_ANY">
 			<Text>Bu ihlali durdurmak için her türlü direniş aracını kullanacağız!</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_JOHN_CURTIN_ANY">
+		<Replace Language="en_US" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_JOHN_CURTIN_ANY">
 			<Text>Derinlemesine düşündükten sonra Avustralya kendini bir yol ayrımında buldu. Hazır olun, çünkü aramızda savaş var.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_JOHN_CURTIN_ANY">
+		<Replace Language="en_US" Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_JOHN_CURTIN_ANY">
 			<Text>Başkentimize gönderdiğiniz heyeti sıcak bir şekilde karşıladık. Onlarla son hedeflerimizi görüşmek üzere şahsen tanışacağım.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_JOHN_CURTIN_ANY">
+		<Replace Language="en_US" Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_JOHN_CURTIN_ANY">
 			<Text>Heyetinizi saygıyla reddediyorum.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_JOHN_CURTIN_ANY">
+		<Replace Language="en_US" Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_JOHN_CURTIN_ANY">
 			<Text>Topraklarınıza bir heyet gönderdik ve beraberlerinde çiftçilerimizin ürettiği etlerden bir seçki getirdiler. Onları içtenlikle kabul etmenizi umuyorum.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_JOHN_CURTIN_ANY">
+		<Replace Language="en_US" Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_JOHN_CURTIN_ANY">
 			<Text>Avustralya'ya ve halkına yönelik hakaretleriniz, zayıflamış ulusunuzun çöküşünü her yerde duyuracak!</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_JOHN_CURTIN_ANY">
+		<Replace Language="en_US" Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_JOHN_CURTIN_ANY">
 			<Text>Söylediğiniz ve yaptığınız kınanacak şeyler, halkınızı cehalet ve yoksulluk yoluna sürükleyecek. (Bizi kınıyor).</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_DIPLO_FIRST_MEET_LEADER_JOHN_CURTIN_ANY">
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_LEADER_JOHN_CURTIN_ANY">
 			<Text>Başbakan olarak ben, John Curtin, Avustralya halkı adına konuşuyorum. Savaş şahinlerine karşı mücadelede sempatik müttefikler bulmayı umuyoruz.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_JOHN_CURTIN_ANY">
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_JOHN_CURTIN_ANY">
 			<Text>Eğer uygun görürseniz, en yakın şehrimizi ziyaret etmenizi umuyorum. Belki kavrulmuş makademya fındıkları cazip gelir?</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_JOHN_CURTIN_ANY">
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_JOHN_CURTIN_ANY">
 			<Text>Elbette.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_JOHN_CURTIN_ANY">
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_JOHN_CURTIN_ANY">
 			<Text>Bence bilgi paylaşımı, belki de başkentlerimiz hakkında hikayeler, yeni dostluğumuza büyük bir katkı sağlar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_DIPLO_GREETING_LEADER_JOHN_CURTIN_ANY">
+		<Replace Language="en_US" Tag="LOC_DIPLO_GREETING_LEADER_JOHN_CURTIN_ANY">
 			<Text>Sizi görmek güzel!</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_DIPLO_KUDO_EXIT_LEADER_JOHN_CURTIN_ANY">
+		<Replace Language="en_US" Tag="LOC_DIPLO_KUDO_EXIT_LEADER_JOHN_CURTIN_ANY">
 			<Text>Azminizi takdir ediyorum. Kendini koruyamayanları koruma konusunda ortak bir ilgimiz var.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_DIPLO_WARNING_EXIT_LEADER_JOHN_CURTIN_ANY">
+		<Replace Language="en_US" Tag="LOC_DIPLO_WARNING_EXIT_LEADER_JOHN_CURTIN_ANY">
 			<Text>Savaş sadece kayıplar getirir. Kayıp hayatlar, kayıp üretkenlik, kayıp insanlık - hiçbir şey bundan daha önemli değil!</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_JOHN_CURTIN_ANY">
+		<Replace Language="en_US" Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_JOHN_CURTIN_ANY">
 			<Text>Bizimle ittifak kurmayı kabul eder misiniz?</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_JOHN_CURTIN_ANY">
+		<Replace Language="en_US" Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_JOHN_CURTIN_ANY">
 			<Text>Aramızda kalıcı bir barışın oluşmasını içtenlikle umuyoruz.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_JOHN_CURTIN_ANY">
+		<Replace Language="en_US" Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_JOHN_CURTIN_ANY">
 			<Text>Hayır, bu kabul edilemez.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_JOHN_CURTIN_ANY">
+		<Replace Language="en_US" Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_JOHN_CURTIN_ANY">
 			<Text>Barış içinde yaşamak isteyen uluslar bunun bedelini ödemek zorundadır. Biz buna istekliyiz. Soru şu ki, siz de istekli misiniz?</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_JOHN_CURTIN_ANY">
+		<Replace Language="en_US" Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_JOHN_CURTIN_ANY">
 			<Text>Eylemleriniz iyi niyet çerçevesinde olduğu sürece, buna karşı hiçbir itirazımız yok.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_JOHN_CURTIN_ANY">
+		<Replace Language="en_US" Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_JOHN_CURTIN_ANY">
 			<Text>Mevcut durum ve Avustralya birliklerinin konumu nedeniyle bunu şu anda kabul etmek mantıksız olur.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_JOHN_CURTIN_ANY">
+		<Replace Language="en_US" Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_JOHN_CURTIN_ANY">
 			<Text>Barışı korumak için Avustralya birliklerinin topraklarınızdan geçmesine izin vermek gerekebilir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_JOHN_CURTIN_ANY">
+		<Replace Language="en_US" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_JOHN_CURTIN_ANY">
 			<Text>Birliklerinizin sınırlarımız yakınında toplanmasının nasıl göründüğünü hayal edebilirsiniz? Bunun bir hata olduğunu varsayıyorum.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_JOHN_CURTIN_ANY">
+		<Replace Language="en_US" Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_JOHN_CURTIN_ANY">
 			<Text>Uğruna savaştığımız ilkeler, hizmet ettiğiniz herhangi bir ulustan daha uzun süre dayanacaktır.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_JOHN_CURTIN_ANY">
+		<Replace Language="en_US" Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_JOHN_CURTIN_ANY">
 			<Text>Bu hoş bir gelişme değil.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_JOHN_CURTIN_ANY">
+		<Replace Language="en_US" Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_JOHN_CURTIN_ANY">
 			<Text>O halde anlaştık!</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_DIPLO_MODIFIER_ON_GUARD_LIBERATE">
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_ON_GUARD_LIBERATE">
 			<Text>John Curtin, bir şehri kurtardığımız için memnun</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_DIPLO_MODIFIER_ON_GUARD_OCCUPY">
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_ON_GUARD_OCCUPY">
 			<Text>John Curtin, düşman şehirlerini işgal ettiğimiz için rahatsız</Text>
 		</Replace>
 	</LocalizedText>

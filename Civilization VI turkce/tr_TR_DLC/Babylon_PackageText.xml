@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameData>
 	<LocalizedText>
-		<Replace Language="pl_PL" Tag="LOC_BABYLON_MOD_TITLE">
+		<Replace Language="en_US" Tag="LOC_BABYLON_MOD_TITLE">
 			<Text>Eklenti: Babil</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BABYLON_MOD_TEASER">
+		<Replace Language="en_US" Tag="LOC_BABYLON_MOD_TEASER">
 			<Text>Yeni bir ulus ve lider: Babil'in Hammurabi'si</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BABYLON_MOD_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BABYLON_MOD_DESCRIPTION">
 			<Text>Yeni bir ulus ve lider, 6 yeni şehir devleti, 25 yeni büyük şahsiyet ve Kahramanlar ve Efsaneler oyun modunu içerir.</Text>
 		</Replace>
 	</LocalizedText>

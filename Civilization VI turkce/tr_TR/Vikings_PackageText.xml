@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameData>
 	<LocalizedText>
-		<Replace Language="pl_PL" Tag="LOC_MOD_VIKINGS_SCENARIO_TITLE">
+		<Replace Language="en_US" Tag="LOC_MOD_VIKINGS_SCENARIO_TITLE">
 			<Text>Senaryo: Vikingler, Tüccarlar ve Yağmacılar!</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MOD_VIKINGS_SCENARIO_TEASER">
+		<Replace Language="en_US" Tag="LOC_MOD_VIKINGS_SCENARIO_TEASER">
 			<Text>Bir Viking kralı olarak en çok serveti toplayabilecek misin? Süre: 60 tur.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MOD_VIKINGS_SCENARIO_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_MOD_VIKINGS_SCENARIO_DESCRIPTION">
 			<Text>Avrupa'yı fethedin ve bu 60 turluk senaryoda en güçlü Viking hükümdarı olduğunuzu kanıtlayın. Danimarka, Norveç veya İsveç'in renkleriyle oynayın ve Avrupa'yı yağmalayın. İngiltere'yi ele geçirin, Paris'e saldırın veya Cebelitarık'ı aşarak Akdeniz'e sefer düzenleyin.[NEWLINE][NEWLINE]Evde ise ticaret rotaları oluşturarak en zengin şehirlere ekonomik bir güç kurabilirsiniz. Ayrıca dini yayma yeteneğiniz varsa, [ICON_Faith] inanç oluşturarak halkınıza rehberlik edin.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MOD_VIKINGSLANDMARKS_TITLE">
+		<Replace Language="en_US" Tag="LOC_MOD_VIKINGSLANDMARKS_TITLE">
 			<Text>Eklenti: Viking İçeriği</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MOD_VIKINGSLANDMARKS_TEASER">
+		<Replace Language="en_US" Tag="LOC_MOD_VIKINGSLANDMARKS_TEASER">
 			<Text>Üç yeni doğal harika ve altı yeni şehir devleti.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MOD_VIKINGSLANDMARKS_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_MOD_VIKINGSLANDMARKS_DESCRIPTION">
 			<Text>Üç yeni doğal harika ve altı yeni şehir devleti, bunlardan ikisi karelere yeni yapılar sağlar.</Text>
 		</Replace>
 	</LocalizedText>

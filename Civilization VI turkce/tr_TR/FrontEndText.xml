@@ -2,2050 +2,2050 @@
 <GameData>
 	<LocalizedText>
 		<!-- Generic -->
-		<Replace Language="pl_PL" Tag="LOC_GENERIC_TEST">
+		<Replace Language="en_US" Tag="LOC_GENERIC_TEST">
 			<Text>Tomáš</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_GENERIC_DOT_DOT_DOT">
+		<Replace Language="en_US" Tag="LOC_GENERIC_DOT_DOT_DOT">
 			<Text>...</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_YES_BUTTON">
+		<Replace Language="en_US" Tag="LOC_YES_BUTTON">
 			<Text>Evet</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_NO_BUTTON">
+		<Replace Language="en_US" Tag="LOC_NO_BUTTON">
 			<Text>Hayır</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_OK_BUTTON">
+		<Replace Language="en_US" Tag="LOC_OK_BUTTON">
 			<Text>Tamam</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_DEFAULT_BUTTON">
+		<Replace Language="en_US" Tag="LOC_DEFAULT_BUTTON">
 			<Text>Varsayılan</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_GENERIC_CONFIRM_BUTTON">
+		<Replace Language="en_US" Tag="LOC_GENERIC_CONFIRM_BUTTON">
 			<Text>Onayla</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_SELECTION_NOTHING">
+		<Replace Language="en_US" Tag="LOC_SELECTION_NOTHING">
 			<Text>Seçim yok</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_SELECTION_EVERYTHING">
+		<Replace Language="en_US" Tag="LOC_SELECTION_EVERYTHING">
 			<Text>Her şey</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_SELECTION_CUSTOM">
+		<Replace Language="en_US" Tag="LOC_SELECTION_CUSTOM">
 			<Text>Özel ({1_Count})</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_SELECT_ALL">
+		<Replace Language="en_US" Tag="LOC_SELECT_ALL">
 			<Text>Hepsini seç</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_SELECT_NONE">
+		<Replace Language="en_US" Tag="LOC_SELECT_NONE">
 			<Text>Seçimleri kaldır</Text>
 		</Replace>
 		<!-- Front End Popups -->
-		<Replace Language="pl_PL" Tag="LOC_FRONTEND_POPUP_UNKNOWN_DEVICE">
+		<Replace Language="en_US" Tag="LOC_FRONTEND_POPUP_UNKNOWN_DEVICE">
 			<Text>Grafik kartı yetenekleri değerlendirilemedi.[NEWLINE][NEWLINE]Grafik ayarlarını kendiniz belirleyin.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_FRONTEND_POPUP_OUTDATED_DRIVER">
+		<Replace Language="en_US" Tag="LOC_FRONTEND_POPUP_OUTDATED_DRIVER">
 			<Text>Grafik sürücüsü önerilen ilk sürümden daha eski.[NEWLINE][NEWLINE]Sürücüyü en son sürüme güncelleyin.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_FRONTEND_POPUP_OUTDATED_DRIVER_QUIET">
+		<Replace Language="en_US" Tag="LOC_FRONTEND_POPUP_OUTDATED_DRIVER_QUIET">
 			<Text>Bir daha rahatsız etme.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_FRONTEND_POPUP_OUTDATED_DRIVER_LOUD">
+		<Replace Language="en_US" Tag="LOC_FRONTEND_POPUP_OUTDATED_DRIVER_LOUD">
 			<Text>Daha sonra tekrar hatırlat.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_FRONTEND_POPUP_GRAPHICS_SETTINGS_CHANGED">
+		<Replace Language="en_US" Tag="LOC_FRONTEND_POPUP_GRAPHICS_SETTINGS_CHANGED">
 			<Text>Grafik ayarları değiştirildi. Ayarlar menüsünden ayarları kontrol edebilir ve değiştirebilirsiniz.</Text>
 		</Replace>
 		<!-- Main Menu-->
-		<Replace Language="pl_PL" Tag="LOC_MAIN_MENU_RESUME_GAME">
+		<Replace Language="en_US" Tag="LOC_MAIN_MENU_RESUME_GAME">
 			<Text>Oyuna devam et</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PLAY_CIVILIZATION_6">
+		<Replace Language="en_US" Tag="LOC_PLAY_CIVILIZATION_6">
 			<Text>Hemen oyna</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_SINGLE_PLAYER">
+		<Replace Language="en_US" Tag="LOC_SINGLE_PLAYER">
 			<Text>Tek oyunculu</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PLAY_MULTIPLAYER">
+		<Replace Language="en_US" Tag="LOC_PLAY_MULTIPLAYER">
 			<Text>Çok oyunculu</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_LOAD_GAME">
+		<Replace Language="en_US" Tag="LOC_LOAD_GAME">
 			<Text>Oyunu yükle</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_LOAD_CONFIG">
+		<Replace Language="en_US" Tag="LOC_LOAD_CONFIG">
 			<Text>Yapılandırmayı yükle</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_LOAD_MAP">
+		<Replace Language="en_US" Tag="LOC_LOAD_MAP">
 			<Text>Haritayı yükle</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_LOAD_TILED">
+		<Replace Language="en_US" Tag="LOC_LOAD_TILED">
 			<Text>Haritayı editörden içe aktar</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_OPEN_DIRECTORY">
+		<Replace Language="en_US" Tag="LOC_OPEN_DIRECTORY">
 			<Text>Aç</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_NO_FILE_SELECTED">
+		<Replace Language="en_US" Tag="LOC_NO_FILE_SELECTED">
 			<Text>Dosya seçilmedi</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MAIN_MENU_OPTIONS">
+		<Replace Language="en_US" Tag="LOC_MAIN_MENU_OPTIONS">
 			<Text>Oyun ayarları</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MAIN_MENU_MODS">
+		<Replace Language="en_US" Tag="LOC_MAIN_MENU_MODS">
 			<Text>Modlar</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MAIN_MENU_MODS_AND_DLC">
+		<Replace Language="en_US" Tag="LOC_MAIN_MENU_MODS_AND_DLC">
 			<Text>Modlar ve DLC'ler</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MAIN_MENU_MODS_AND_DLC_TT">
+		<Replace Language="en_US" Tag="LOC_MAIN_MENU_MODS_AND_DLC_TT">
 			<Text>Oyunu genişleten modlar ve indirilebilir içerik.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MAIN_MENU_MY2K_LOGIN">
+		<Replace Language="en_US" Tag="LOC_MAIN_MENU_MY2K_LOGIN">
 			<Text>My2K Girişi</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MAIN_MENU_EXIT_TO_DESKTOP">
+		<Replace Language="en_US" Tag="LOC_MAIN_MENU_EXIT_TO_DESKTOP">
 			<Text>Civilization VI'yı Kapat</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MAIN_MENU_BENCH">
+		<Replace Language="en_US" Tag="LOC_MAIN_MENU_BENCH">
 			<Text>Performans Ölçümü</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MAIN_MENU_CREDITS">
+		<Replace Language="en_US" Tag="LOC_MAIN_MENU_CREDITS">
 			<Text>Yapımcılar</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MAIN_MENU_TUTORIAL">
+		<Replace Language="en_US" Tag="LOC_MAIN_MENU_TUTORIAL">
 			<Text>Öğretici</Text>
 		</Replace>
 		<!-- Load / Save Menus -->
-		<Replace Language="pl_PL" Tag="LOC_DELETE_BUTTON">
+		<Replace Language="en_US" Tag="LOC_DELETE_BUTTON">
 			<Text>Sil</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BACK_BUTTON">
+		<Replace Language="en_US" Tag="LOC_BACK_BUTTON">
 			<Text>Geri</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_AUTOSAVES">
+		<Replace Language="en_US" Tag="LOC_AUTOSAVES">
 			<Text>Otomatik Kayıtlar</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_STEAMCLOUD">
+		<Replace Language="en_US" Tag="LOC_STEAMCLOUD">
 			<Text>Bulut</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_NO_SAVED_GAMES">
+		<Replace Language="en_US" Tag="LOC_NO_SAVED_GAMES">
 			<Text>Kaydedilmiş Oyun Yok</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_NO_SAVED_CONFIGS">
+		<Replace Language="en_US" Tag="LOC_NO_SAVED_CONFIGS">
 			<Text>Kaydedilmiş Ayar Yok</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_NO_SAVED_MAPS">
+		<Replace Language="en_US" Tag="LOC_NO_SAVED_MAPS">
 			<Text>Kaydedilmiş Harita Yok</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_SORTBY_NAME">
+		<Replace Language="en_US" Tag="LOC_SORTBY_NAME">
 			<Text>İsme Göre Sırala</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_SORTBY_LASTMODIFIED">
+		<Replace Language="en_US" Tag="LOC_SORTBY_LASTMODIFIED">
 			<Text>Son Değişikliğe Göre Sırala</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_LOAD_MENU_MODS">
+		<Replace Language="en_US" Tag="LOC_LOAD_MENU_MODS">
 			<Text>MODLAR</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_LOAD_MENU_DLC">
+		<Replace Language="en_US" Tag="LOC_LOAD_MENU_DLC">
 			<Text>Ek Paketler</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_SAVE_GAME">
+		<Replace Language="en_US" Tag="LOC_SAVE_GAME">
 			<Text>Oyunu Kaydet</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_SAVE_MAP_BUTTON">
+		<Replace Language="en_US" Tag="LOC_SAVE_MAP_BUTTON">
 			<Text>Haritayı Kaydet</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_SAVE_CONFIG">
+		<Replace Language="en_US" Tag="LOC_SAVE_CONFIG">
 			<Text>Yapılandırmayı Kaydet</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_SAVE_OBSERVER_MODE_TT">
+		<Replace Language="en_US" Tag="LOC_SAVE_OBSERVER_MODE_TT">
 			<Text>Gözlemci modunda kaydetmek mümkün değil.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_SAVE_AT_MAXIMUM_CLOUD_SAVES_TOOLTIP">
+		<Replace Language="en_US" Tag="LOC_SAVE_AT_MAXIMUM_CLOUD_SAVES_TOOLTIP">
 			<Text>Bulut kaydetme sınırına ulaşıldı. Üzerine yazın veya kaydı silin.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_SAVE_INVALID_FILE_NAME_TOOLTIP">
+		<Replace Language="en_US" Tag="LOC_SAVE_INVALID_FILE_NAME_TOOLTIP">
 			<Text>Geçersiz dosya adı.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_SAVE_WAITING_FOR_CLOUD_SAVE_LIST_TOOLTIP">
+		<Replace Language="en_US" Tag="LOC_SAVE_WAITING_FOR_CLOUD_SAVE_LIST_TOOLTIP">
 			<Text>Bulut kaydetme listesi bekleniyor.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CONFIRM_TITLE_TXT">
+		<Replace Language="en_US" Tag="LOC_CONFIRM_TITLE_TXT">
 			<Text>Üzerine Yazmayı Onayla</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CONFIRM_DELETE_TITLE_TXT">
+		<Replace Language="en_US" Tag="LOC_CONFIRM_DELETE_TITLE_TXT">
 			<Text>Silme Onayı</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CONFIRM_CHOICE">
+		<Replace Language="en_US" Tag="LOC_CONFIRM_CHOICE">
 			<Text>Emin misiniz?</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CONFIRM_EXIT_TXT">
+		<Replace Language="en_US" Tag="LOC_CONFIRM_EXIT_TXT">
 			<Text>Oyundan çıkmak istediğinizden emin misiniz?</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CONFIRM_TXT">
+		<Replace Language="en_US" Tag="LOC_CONFIRM_TXT">
 			<Text>Bu kayıt kalıcı olarak silinecek. Silmek istediğinizden emin misiniz?</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CONFIRM_TITLE_LOAD_TXT">
+		<Replace Language="en_US" Tag="LOC_CONFIRM_TITLE_LOAD_TXT">
 			<Text>Dosya Yüklemeyi Onayla</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CONFIRM_LOAD_TXT">
+		<Replace Language="en_US" Tag="LOC_CONFIRM_LOAD_TXT">
 			<Text>Kaydedilmemiş tüm ilerleme kaybolacak. Devam etmek istediğinizden emin misiniz?</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_OVERWRITE_TXT">
+		<Replace Language="en_US" Tag="LOC_OVERWRITE_TXT">
 			<Text>Bu mevcut kaydın üzerine yazacak. Üzerine yazmak istediğinizden emin misiniz?</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_DELETE_MOD_TXT">
+		<Replace Language="en_US" Tag="LOC_DELETE_MOD_TXT">
 			<Text>Bu mod kalıcı olarak silinecek. Silmek istediğinizden emin misiniz?</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CONFIRM_DISABLE_MOD">
+		<Replace Language="en_US" Tag="LOC_CONFIRM_DISABLE_MOD">
 			<Text>Modu devre dışı bırakmak istediğinizden emin misiniz?</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_WILL_ALSO_DISABLE_MODS">
+		<Replace Language="en_US" Tag="LOC_WILL_ALSO_DISABLE_MODS">
 			<Text>Aşağıdaki modlar da devre dışı bırakılacak:</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CONFIRM_ENABLE_MOD">
+		<Replace Language="en_US" Tag="LOC_CONFIRM_ENABLE_MOD">
 			<Text>Bu modu etkinleştirmek istediğinizden emin misiniz?</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_WILL_ALSO_ENABLE_MODS">
+		<Replace Language="en_US" Tag="LOC_WILL_ALSO_ENABLE_MODS">
 			<Text>Aşağıdaki modlar da etkinleştirilecek:</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_EFFECTED_MODS_TXT">
+		<Replace Language="en_US" Tag="LOC_EFFECTED_MODS_TXT">
 			<Text>Bu modları etkiler:</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MOD_VERSION_AVAILABLE">
+		<Replace Language="en_US" Tag="LOC_MOD_VERSION_AVAILABLE">
 			<Text>Sürüm {1_VersionNumber} mevcut.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_LOADSAVE_CURRENT_TURN">
+		<Replace Language="en_US" Tag="LOC_LOADSAVE_CURRENT_TURN">
 			<Text>TUR[ICON_Turn] {1}</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_LOADSAVE_SCENARIO_HEADER_TITLE">
+		<Replace Language="en_US" Tag="LOC_LOADSAVE_SCENARIO_HEADER_TITLE">
 			<Text>Senaryo Açıklaması</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_LOADSAVE_GAME_OPTIONS_HEADER_TITLE">
+		<Replace Language="en_US" Tag="LOC_LOADSAVE_GAME_OPTIONS_HEADER_TITLE">
 			<Text>Oyun Ayarları</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_LOADSAVE_GAME_OPTIONS_RULESET_TYPE_TITLE">
+		<Replace Language="en_US" Tag="LOC_LOADSAVE_GAME_OPTIONS_RULESET_TYPE_TITLE">
 			<Text>Kurallar:</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_LOADSAVE_GAME_OPTIONS_MAP_TYPE_TITLE">
+		<Replace Language="en_US" Tag="LOC_LOADSAVE_GAME_OPTIONS_MAP_TYPE_TITLE">
 			<Text>Harita Türü:</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_LOADSAVE_GAME_OPTIONS_MAP_SIZE_TITLE">
+		<Replace Language="en_US" Tag="LOC_LOADSAVE_GAME_OPTIONS_MAP_SIZE_TITLE">
 			<Text>Harita Boyutu:</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_LOADSAVE_GAME_OPTIONS_WORLD_AGE_TITLE">
+		<Replace Language="en_US" Tag="LOC_LOADSAVE_GAME_OPTIONS_WORLD_AGE_TITLE">
 			<Text>Dünya Yaşı:</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_LOADSAVE_SAVED_BY_VERSION_TITLE">
+		<Replace Language="en_US" Tag="LOC_LOADSAVE_SAVED_BY_VERSION_TITLE">
 			<Text>Kaydedilen Sürüm:</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_LOADSAVE_GAME_OPTIONS_ADVANCED_TITLE">
+		<Replace Language="en_US" Tag="LOC_LOADSAVE_GAME_OPTIONS_ADVANCED_TITLE">
 			<Text>Gelişmiş Ayarlar:</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_LOADSAVE_NO_MAP_DATA">
+		<Replace Language="en_US" Tag="LOC_LOADSAVE_NO_MAP_DATA">
 			<Text>HARİTA VERİSİ YOK</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_LOADSAVE_TUNER_ACTIVE_TITLE">
+		<Replace Language="en_US" Tag="LOC_LOADSAVE_TUNER_ACTIVE_TITLE">
 			<Text>Tuner etkin:</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_LOADSAVE_QUICK_SAVE">
+		<Replace Language="en_US" Tag="LOC_LOADSAVE_QUICK_SAVE">
 			<Text>(hızlı kaydet)</Text>
 		</Replace>
 		<!-- Advanced Game Setup -->
-		<Replace Language="pl_PL" Tag="LOC_NETWORK_NAME_TT">
+		<Replace Language="en_US" Tag="LOC_NETWORK_NAME_TT">
 			<Text>Ağ Adı[NEWLINE]Diğer oyunculara gösterilen ad.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_NUMBER_OF_CIVILIZATIONS">
+		<Replace Language="en_US" Tag="LOC_NUMBER_OF_CIVILIZATIONS">
 			<Text>Medeniyet Sayısı</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PLAYERS">
+		<Replace Language="en_US" Tag="LOC_PLAYERS">
 			<Text>Oyuncular</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TEAM">
+		<Replace Language="en_US" Tag="LOC_TEAM">
 			<Text>Takım|Takımlar</Text>
 			<Plurality>1|2</Plurality>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TEAM_GENERIC_NAME">
+		<Replace Language="en_US" Tag="LOC_TEAM_GENERIC_NAME">
 			<Text>Takım {1_Number}</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TEAM_UNKNOWN_NAME">
+		<Replace Language="en_US" Tag="LOC_TEAM_UNKNOWN_NAME">
 			<Text>Bilinmeyen takım</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BACK">
+		<Replace Language="en_US" Tag="LOC_BACK">
 			<Text>Geri</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_GAME_HANDICAP">
+		<Replace Language="en_US" Tag="LOC_GAME_HANDICAP">
 			<Text>Oyun Zorluğu</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MAP_OPTIONS">
+		<Replace Language="en_US" Tag="LOC_MAP_OPTIONS">
 			<Text>Harita Ayarları</Text>
 		</Replace>
 		<!-- Multiplayer Game Abandoned Popup -->
-		<Replace Language="pl_PL" Tag="LOC_GAME_ABANDONED_KICKED">
+		<Replace Language="en_US" Tag="LOC_GAME_ABANDONED_KICKED">
 			<Text>Sunucu sizi oyundan attı.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_GAME_ABANDONED_KICKED_TITLE">
+		<Replace Language="en_US" Tag="LOC_GAME_ABANDONED_KICKED_TITLE">
 			<Text>Atıldınız!</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_GAME_ABANDONED_HOST_LOSTED">
+		<Replace Language="en_US" Tag="LOC_GAME_ABANDONED_HOST_LOSTED">
 			<Text>Oyunun sunucusuyla bağlantı kesildi.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_GAME_ABANDONED_HOST_LOSTED_TITLE">
+		<Replace Language="en_US" Tag="LOC_GAME_ABANDONED_HOST_LOSTED_TITLE">
 			<Text>Bağlantı kesildi</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_GAME_ABANDONED_ROOM_FULL">
+		<Replace Language="en_US" Tag="LOC_GAME_ABANDONED_ROOM_FULL">
 			<Text>Oyunda maksimum oyuncu sayısına ulaşıldı.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_GAME_ABANDONED_ROOM_FULL_TITLE">
+		<Replace Language="en_US" Tag="LOC_GAME_ABANDONED_ROOM_FULL_TITLE">
 			<Text>Oyun dolu</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_GAME_ABANDONED_VERSION_MISMATCH">
+		<Replace Language="en_US" Tag="LOC_GAME_ABANDONED_VERSION_MISMATCH">
 			<Text>Sürüm sunucuyla uyuşmuyor.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_GAME_ABANDONED_VERSION_MISMATCH_TITLE">
+		<Replace Language="en_US" Tag="LOC_GAME_ABANDONED_VERSION_MISMATCH_TITLE">
 			<Text>Sürüm uyuşmazlığı</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_GAME_ABANDONED_MOD_ERROR">
+		<Replace Language="en_US" Tag="LOC_GAME_ABANDONED_MOD_ERROR">
 			<Text>Ek içeriğin etkinleştirilmesi başarısız oldu.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_GAME_ABANDONED_MOD_ERROR_TITLE">
+		<Replace Language="en_US" Tag="LOC_GAME_ABANDONED_MOD_ERROR_TITLE">
 			<Text>Eksik mod</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_GAME_ABANDONED_MOD_ACCESS_DENIED">
+		<Replace Language="en_US" Tag="LOC_GAME_ABANDONED_MOD_ACCESS_DENIED">
 			<Text>Steam Workshop gerekli ek içeriğe erişimi engelledi.[NEWLINE]İçerik:[NEWLINE]</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_GAME_ABANDONED_MOD_MISSING">
+		<Replace Language="en_US" Tag="LOC_GAME_ABANDONED_MOD_MISSING">
 			<Text>Ek içerik gerekli, ancak satın alınmamış veya yüklenmemiş.[NEWLINE]İçerik:[NEWLINE]</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_GAME_ABANDONED_MOD_ACCESS_DENIED">
+		<Replace Language="en_US" Tag="LOC_GAME_ABANDONED_MOD_ACCESS_DENIED">
 			<Text>Steam Workshop gerekli ek içeriğe erişimi engelledi.[NEWLINE]İçerik:[NEWLINE]</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_GAME_ABANDONED_MOD_MISSING_DOWNLOADS_DISABLED">
+		<Replace Language="en_US" Tag="LOC_GAME_ABANDONED_MOD_MISSING_DOWNLOADS_DISABLED">
 			<Text>Bu oyun, yüklenmemiş ek içerik gerektiriyor. Ek içeriğin otomatik indirilmesi şu anda devre dışı. İndirmenin etkinleştirilebileceği oyun ayarlarına gidin.[NEWLINE]İçerik:[NEWLINE]</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_GAME_ABANDONED_CONNECTION_LOST">
+		<Replace Language="en_US" Tag="LOC_GAME_ABANDONED_CONNECTION_LOST">
 			<Text>İnternet bağlantısı kesildi.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_GAME_ABANDONED_CONNECTION_LOST_TITLE">
+		<Replace Language="en_US" Tag="LOC_GAME_ABANDONED_CONNECTION_LOST_TITLE">
 			<Text>Bağlantı kaybedildi</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_GAME_ABANDONED_JOIN_FAILED">
+		<Replace Language="en_US" Tag="LOC_GAME_ABANDONED_JOIN_FAILED">
 			<Text>Çok oyunculu oyuna katılma hatası.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_GAME_ABANDONED_JOIN_FAILED_TITLE">
+		<Replace Language="en_US" Tag="LOC_GAME_ABANDONED_JOIN_FAILED_TITLE">
 			<Text>Katılma başarısız</Text>
 		</Replace>
 		<!-- Multiplayer Select Screen-->
-		<Replace Language="pl_PL" Tag="LOC_MULTIPLAYER_DEFAULT_GAME_NAME">
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_DEFAULT_GAME_NAME">
 			<Text>{1_PlayerName} oyunu</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MULTIPLAYER_STANDARD_GAME">
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_STANDARD_GAME">
 			<Text>Standart</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MULTIPLAYER_STANDARD_GAME_TT">
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_STANDARD_GAME_TT">
 			<Text>Oyuncuların sırasıyla oynadığı çok oyunculu oyun.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MULTIPLAYER_INTERNET_GAME">
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_INTERNET_GAME">
 			<Text>İnternet</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MULTIPLAYER_INTERNET_GAME_OFFLINE">
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_INTERNET_GAME_OFFLINE">
 			<Text>[ICON_CheckFail] İnternet</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MULTIPLAYER_INTERNET_GAME_TT">
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_INTERNET_GAME_TT">
 			<Text>İnternet üzerinden çok oyunculu oyun.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MULTIPLAYER_INTERNET_GAME_OFFLINE_TT">
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_INTERNET_GAME_OFFLINE_TT">
 			<Text>Steam kapalıyken internet oyunları kullanılamaz.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MULTIPLAYER_LAN_GAME">
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_LAN_GAME">
 			<Text>Yerel ağ</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MULTIPLAYER_LAN_GAME_TT">
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_LAN_GAME_TT">
 			<Text>Yerel ağ üzerinden çok oyunculu oyun.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MULTIPLAYER_HOTSEAT_GAME">
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_HOTSEAT_GAME">
 			<Text>Sıcak koltuk</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MULTIPLAYER_HOTSEAT_GAME_TT">
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_HOTSEAT_GAME_TT">
 			<Text>Bu bilgisayarda çok oyunculu oyun; her oyuncu sırayla oynar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MENU_BACK">
+		<Replace Language="en_US" Tag="LOC_MENU_BACK">
 			<Text>Geri</Text>
 		</Replace>
 		<!-- Multiplayer Chat Commands -->
-		<Replace Language="pl_PL" Tag="LOC_CHAT_HELP_COMMAND_HINT">
+		<Replace Language="en_US" Tag="LOC_CHAT_HELP_COMMAND_HINT">
 			<Text>[COLOR:ChatMessage_Help]/help yazarak sohbet komutları yardımını alabilirsiniz.[ENDCOLOR]</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CHAT_HELP_COMMAND_TEXT">
+		<Replace Language="en_US" Tag="LOC_CHAT_HELP_COMMAND_TEXT">
 			<Text>[COLOR:ChatMessage_Help]SOHBET KOMUTLARI[NEWLINE]/t Genel kanala mesaj gönder[NEWLINE]/w [PlayerName] Oyuncuya özel mesaj gönder[NEWLINE]/r Özel mesaja cevap ver[NEWLINE]/help Bu yardımı göster[ENDCOLOR]</Text>
 		</Replace>
 		<!-- Multiplayer Lobby Screen -->
-		<Replace Language="pl_PL" Tag="LOC_MULTIPLAYER_REFRESH_GAME_LIST">
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_REFRESH_GAME_LIST">
 			<Text>GÜNCELLE</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MULTIPLAYER_REFRESH_GAME_LIST_TT">
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_REFRESH_GAME_LIST_TT">
 			<Text>En son oyun listesini al.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MULTIPLAYER_STOP_REFRESH_GAME_LIST">
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_STOP_REFRESH_GAME_LIST">
 			<Text>GÜNCELLEMEYİ DURDUR</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MULTIPLAYER_STOP_REFRESH_GAME_LIST_TT">
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_STOP_REFRESH_GAME_LIST_TT">
 			<Text>Oyun listesini almayı durdur.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MULTIPLAYER_BACK">
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_BACK">
 			<Text>GERİ</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MULTIPLAYER_END_GAME">
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_END_GAME">
 			<Text>SONLANDIR</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MULTIPLAYER_ENDING_GAME_PROMPT">
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_ENDING_GAME_PROMPT">
 			<Text>Oyun sonlandırılıyor...</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MULTIPLAYER_ENDING_GAME_FAIL">
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_ENDING_GAME_FAIL">
 			<Text>Oyunu sonlandırırken bir hata oluştu.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MULTIPLAYER_ENDING_GAME_FAIL_ACCEPT">
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_ENDING_GAME_FAIL_ACCEPT">
 			<Text>TAMAM</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MULTIPLAYER_GAME_LAUNCH_FAILED">
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_GAME_LAUNCH_FAILED">
 			<Text>Oyun başlatılamadı.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MULTIPLAYER_GAME_LAUNCH_FAILED_ACCEPT">
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_GAME_LAUNCH_FAILED_ACCEPT">
 			<Text>TAMAM</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MULTIPLAYER_JOIN_GAME">
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_JOIN_GAME">
 			<Text>Oyuna katıl</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MISC_BACK">
+		<Replace Language="en_US" Tag="LOC_MISC_BACK">
 			<Text>Geri</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MULTIPLAYER_CONNECT_TO_IP">
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_CONNECT_TO_IP">
 			<Text>IP adresine bağlan</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MULTIPLAYER_CONNECT_TO_IP_TT">
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_CONNECT_TO_IP_TT">
 			<Text>Genel IP adresini kullanarak pitboss oyununa bağlan.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MULTIPLAYER_CREATE_GAME">
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_CREATE_GAME">
 			<Text>Oyun oluştur</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MULTIPLAYER_CONFIRM_SETTINGS">
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_CONFIRM_SETTINGS">
 			<Text>Ayarları onayla</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MULTIPLAYER_HOST_GAME">
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_HOST_GAME">
 			<Text>ÇOK OYUNCULU OYUN AYARLARI</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MULTIPLAYER_HOST_GAME_TT">
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_HOST_GAME_TT">
 			<Text>Yeni bir çok oyunculu oyun başlat.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MULTIPLAYER_LOAD_GAME_TT">
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_LOAD_GAME_TT">
 			<Text>Önceki bir kaydı kullanarak çok oyunculu oyun oluştur.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MULTIPLAYER_FRIENDS">
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_FRIENDS">
 			<Text>Arkadaşlar</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MULTIPLAYER_SHOW_FRIENDS">
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_SHOW_FRIENDS">
 			<Text>Arkadaş listesini göster</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MULTIPLAYER_GAME_SETUP">
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_GAME_SETUP">
 			<Text>OYUN AYARLARI</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MULTIPLAYER_GAME_SUMMARY">
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_GAME_SUMMARY">
 			<Text>OYUN ÖZETİ</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MULTIPLAYER_GAME_NAME">
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_GAME_NAME">
 			<Text>Oyun adı</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MULTIPLAYER_GAME_RULESET">
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_GAME_RULESET">
 			<Text>Kurallar</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_AD_SETUP_MAP_TYPE">
+		<Replace Language="en_US" Tag="LOC_AD_SETUP_MAP_TYPE">
 			<Text>Harita türü</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_AD_SETUP_GAME_SPEED">
+		<Replace Language="en_US" Tag="LOC_AD_SETUP_GAME_SPEED">
 			<Text>Oyun hızı</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_AD_SETUP_MAP_SIZE">
+		<Replace Language="en_US" Tag="LOC_AD_SETUP_MAP_SIZE">
 			<Text>Harita boyutu</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MULTIPLAYER_PLAYERS">
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_PLAYERS">
 			<Text>Oyuncular</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MULTIPLAYER_DLCHOSTED">
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_DLCHOSTED">
 			<Text>Ek Paketler</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MULTIPLAYER_MODSHOSTED">
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_MODSHOSTED">
 			<Text>Modlar</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_STAGING_ROOM_LOADING_SAVE">
+		<Replace Language="en_US" Tag="LOC_STAGING_ROOM_LOADING_SAVE">
 			<Text>Kaydedilmiş oyun yükleniyor</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_STAGING_ROOM_GAME_IN_PROGRESS">
+		<Replace Language="en_US" Tag="LOC_STAGING_ROOM_GAME_IN_PROGRESS">
 			<Text>Oyun devam ediyor</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MULTIPLAYER_INTERNET_LOBBY">
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_INTERNET_LOBBY">
 			<Text>İNTERNET OYUNLARI</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MULTIPLAYER_LAN_LOBBY">
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_LAN_LOBBY">
 			<Text>YEREL AĞ OYUNLARI</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MULTIPLAYER_LOBBY_MODS">
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_LOBBY_MODS">
 			<Text>Ek İçerik</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MULTIPLAYER_LOBBY_GAMEMODES_OFFICIAL">
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_LOBBY_GAMEMODES_OFFICIAL">
 			<Text>Resmi oyun modları:</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MULTIPLAYER_LOBBY_MODS_OFFICIAL">
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_LOBBY_MODS_OFFICIAL">
 			<Text>Resmi içerik:</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MULTIPLAYER_LOBBY_MODS_COMMUNITY">
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_LOBBY_MODS_COMMUNITY">
 			<Text>Topluluk içeriği:</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MULTIPLAYER_UNKNOWN">
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_UNKNOWN">
 			<Text>Bilinmeyen</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MULTIPLAYER_UNKNOWN_MAP_SIZE">
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_UNKNOWN_MAP_SIZE">
 			<Text>Bilinmeyen harita boyutu</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MULTIPLAYER_TRUE">
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_TRUE">
 			<Text>Doğru</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MULTIPLAYER_FALSE">
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_FALSE">
 			<Text>Yanlış</Text>
 		</Replace>
 		<!-- Options -->
-		<Replace Language="pl_PL" Tag="LOC_CONFIRM_KEY_BINDING">
+		<Replace Language="en_US" Tag="LOC_CONFIRM_KEY_BINDING">
 			<Text>Tuş atamalarını onayla</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CONFIRM">
+		<Replace Language="en_US" Tag="LOC_CONFIRM">
 			<Text>Onayla</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_OPTIONS_GAME">
+		<Replace Language="en_US" Tag="LOC_OPTIONS_GAME">
 			<Text>Oyun</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_OPTIONS_GRAPHICS">
+		<Replace Language="en_US" Tag="LOC_OPTIONS_GRAPHICS">
 			<Text>Grafik</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_OPTIONS_AUDIO">
+		<Replace Language="en_US" Tag="LOC_OPTIONS_AUDIO">
 			<Text>Ses</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_OPTIONS_LANGUAGE">
+		<Replace Language="en_US" Tag="LOC_OPTIONS_LANGUAGE">
 			<Text>Dil</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_OPTIONS_INTERFACE">
+		<Replace Language="en_US" Tag="LOC_OPTIONS_INTERFACE">
 			<Text>Arayüz</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_OPTIONS_KEY_BINDINGS">
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_BINDINGS">
 			<Text>Tuş atamaları</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_OPTIONS_APPLICATION">
+		<Replace Language="en_US" Tag="LOC_OPTIONS_APPLICATION">
 			<Text>Uygulama</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_OPTIONS_GAME_OPTIONS">
+		<Replace Language="en_US" Tag="LOC_OPTIONS_GAME_OPTIONS">
 			<Text>Oyun ayarları</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_OPTIONS_GRAPHICS_OPTIONS">
+		<Replace Language="en_US" Tag="LOC_OPTIONS_GRAPHICS_OPTIONS">
 			<Text>Grafik ayarları</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_OPTIONS_AUDIO_OPTIONS">
+		<Replace Language="en_US" Tag="LOC_OPTIONS_AUDIO_OPTIONS">
 			<Text>Ses ayarları</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_OPTIONS_LANGUAGE_OPTIONS">
+		<Replace Language="en_US" Tag="LOC_OPTIONS_LANGUAGE_OPTIONS">
 			<Text>Dil seçenekleri</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_OPTIONS_INTERFACE_OPTIONS">
+		<Replace Language="en_US" Tag="LOC_OPTIONS_INTERFACE_OPTIONS">
 			<Text>Arayüz ayarları</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_OPTIONS_KEY_BINDINGS_OPTIONS">
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_BINDINGS_OPTIONS">
 			<Text>Tuş atamaları</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_OPTIONS_QUICK_COMBAT">
+		<Replace Language="en_US" Tag="LOC_OPTIONS_QUICK_COMBAT">
 			<Text>Hızlı savaş:</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_OPTIONS_QUICK_MOVEMENT">
+		<Replace Language="en_US" Tag="LOC_OPTIONS_QUICK_MOVEMENT">
 			<Text>Hızlı hareket:</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_OPTIONS_AUTO_END_TURN">
+		<Replace Language="en_US" Tag="LOC_OPTIONS_AUTO_END_TURN">
 			<Text>Otomatik tur sonu:</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_OPTIONS_CITY_RANGE_ATTACK">
+		<Replace Language="en_US" Tag="LOC_OPTIONS_CITY_RANGE_ATTACK">
 			<Text>Şehir menzili saldırısı tur engeli:</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_OPTIONS_CITY_RANGE_ATTACK_TOOLTIP">
+		<Replace Language="en_US" Tag="LOC_OPTIONS_CITY_RANGE_ATTACK_TOOLTIP">
 			<Text>Açık olduğunda, kullanılmayan şehir menzili saldırıları tur değişimlerini engeller.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_OPTIONS_TIME_OF_DAY">
+		<Replace Language="en_US" Tag="LOC_OPTIONS_TIME_OF_DAY">
 			<Text>Günün saati:</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_OPTIONS_TUNER">
+		<Replace Language="en_US" Tag="LOC_OPTIONS_TUNER">
 			<Text>Tuner (başarımları engeller):</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_OPTIONS_TUTORIAL">
+		<Replace Language="en_US" Tag="LOC_OPTIONS_TUTORIAL">
 			<Text>Danışman:</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_OPTIONS_TURNS_BETWEEN_AUTOSAVES">
+		<Replace Language="en_US" Tag="LOC_OPTIONS_TURNS_BETWEEN_AUTOSAVES">
 			<Text>Otomatik kaydetme arası turlar:</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_OPTIONS_AUTOSAVES_TO_KEEP">
+		<Replace Language="en_US" Tag="LOC_OPTIONS_AUTOSAVES_TO_KEEP">
 			<Text>Saklanacak otomatik kayıt sayısı:</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_OPTIONS_LAN_PLAYER_NAME">
+		<Replace Language="en_US" Tag="LOC_OPTIONS_LAN_PLAYER_NAME">
 			<Text>Yerel ağ oyuncu adı:</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_OPTIONS_AUTO_DOWNLOAD_ADDITIONAL_CONTENT">
+		<Replace Language="en_US" Tag="LOC_OPTIONS_AUTO_DOWNLOAD_ADDITIONAL_CONTENT">
 			<Text>Ek içeriği otomatik indir:</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_OPTIONS_AUTO_DOWNLOAD_ADDITIONAL_CONTENT_TOOLTIP">
+		<Replace Language="en_US" Tag="LOC_OPTIONS_AUTO_DOWNLOAD_ADDITIONAL_CONTENT_TOOLTIP">
 			<Text>Topluluk tarafından oluşturulan ek içerik, katıldığınız çok oyunculu oyunlarda otomatik olarak indirilir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_OPTIONS_STEAM_CONTROLLER_MESSAGE">
+		<Replace Language="en_US" Tag="LOC_OPTIONS_STEAM_CONTROLLER_MESSAGE">
 			<Text>Steam denetleyici ayarları Steam arayüzü üzerinden yapılır. Escape, sol fare tuşu ve sağ fare tuşu kullanılamaz.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_OPTIONS_BIND_HEADER_PRIMARY">
+		<Replace Language="en_US" Tag="LOC_OPTIONS_BIND_HEADER_PRIMARY">
 			<Text>Birincil işlev</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_OPTIONS_BIND_HEADER_ALT">
+		<Replace Language="en_US" Tag="LOC_OPTIONS_BIND_HEADER_ALT">
 			<Text>Alternatif işlev</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_OPTIONS_APPLICATION_OPTIONS">
+		<Replace Language="en_US" Tag="LOC_OPTIONS_APPLICATION_OPTIONS">
 			<Text>Uygulama ayarları</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_OPTIONS_SPOKEN_LANGUAGE">
+		<Replace Language="en_US" Tag="LOC_OPTIONS_SPOKEN_LANGUAGE">
 			<Text>Konuşulan dil:</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_OPTIONS_STRATEGIC_VIEW_START">
+		<Replace Language="en_US" Tag="LOC_OPTIONS_STRATEGIC_VIEW_START">
 			<Text>Stratejik görünümde başla:</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_OPTIONS_DISPLAY_LANGUAGE">
+		<Replace Language="en_US" Tag="LOC_OPTIONS_DISPLAY_LANGUAGE">
 			<Text>Görüntüleme dili:</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_OPTIONS_MASTER_VOLUME">
+		<Replace Language="en_US" Tag="LOC_OPTIONS_MASTER_VOLUME">
 			<Text>Genel ses seviyesi:</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_OPTIONS_MUSIC_VOLUME">
+		<Replace Language="en_US" Tag="LOC_OPTIONS_MUSIC_VOLUME">
 			<Text>Müzik sesi seviyesi:</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_OPTIONS_EFFECTS_VOLUME">
+		<Replace Language="en_US" Tag="LOC_OPTIONS_EFFECTS_VOLUME">
 			<Text>Efekt ses seviyesi:</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_OPTIONS_AMBIENT_VOLUME">
+		<Replace Language="en_US" Tag="LOC_OPTIONS_AMBIENT_VOLUME">
 			<Text>Ortam sesi seviyesi:</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_OPTIONS_SPEECH_VOLUME">
+		<Replace Language="en_US" Tag="LOC_OPTIONS_SPEECH_VOLUME">
 			<Text>Konuşma sesi seviyesi:</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_OPTIONS_MUTE_FOCUS">
+		<Replace Language="en_US" Tag="LOC_OPTIONS_MUTE_FOCUS">
 			<Text>Oyun aktif değilken sessize al:</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_OPTIONS_CLEAR">
+		<Replace Language="en_US" Tag="LOC_OPTIONS_CLEAR">
 			<Text>Temizle</Text>
 		</Replace>
 		<!-- Front End Popop -->
-		<Replace Language="pl_PL" Tag="LOC_CLOSE">
+		<Replace Language="en_US" Tag="LOC_CLOSE">
 			<Text>Kapat</Text>
 		</Replace>
 		<!-- Multiplayer Joining Room Screen -->
-		<Replace Language="pl_PL" Tag="LOC_MULTIPLAYER_JOINING_ROOM_TITLE">
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_JOINING_ROOM_TITLE">
 			<Text>BİR DAKİKA BEKLEYİN</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MULTIPLAYER_JOINING_ROOM">
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_JOINING_ROOM">
 			<Text>Odaya katılıyor...</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MULTIPLAYER_JOINING_HOST">
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_JOINING_HOST">
 			<Text>Ev sahibi bilgileri alınıyor...</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MULTIPLAYER_CONFIGURING_CONTENT">
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_CONFIGURING_CONTENT">
 			<Text>Oyun içeriği yapılandırılıyor...</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MULTIPLAYER_CONNECTING_TO_PLAYERS">
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_CONNECTING_TO_PLAYERS">
 			<Text>Oyunculara bağlanılıyor...</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MULTIPLAYER_MATCHMAKING">
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_MATCHMAKING">
 			<Text>Oyun aranıyor...</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MP_ROOM_FULL">
+		<Replace Language="en_US" Tag="LOC_MP_ROOM_FULL">
 			<Text>Katılamıyor: Oyun maksimum oyuncu sayısına ulaştı.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MP_ROOM_FULL_TITLE">
+		<Replace Language="en_US" Tag="LOC_MP_ROOM_FULL_TITLE">
 			<Text>Oyun dolu</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MP_JOIN_FAILED">
+		<Replace Language="en_US" Tag="LOC_MP_JOIN_FAILED">
 			<Text>Çok oyunculu oyuna katılma hatası.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MP_JOIN_FAILED_TITLE">
+		<Replace Language="en_US" Tag="LOC_MP_JOIN_FAILED_TITLE">
 			<Text>Katılma başarısız</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MP_ROOM_GAME_STARTED">
+		<Replace Language="en_US" Tag="LOC_MP_ROOM_GAME_STARTED">
 			<Text>Katılamıyor: Oyun zaten başladı.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MP_ROOM_GAME_STARTED_TITLE">
+		<Replace Language="en_US" Tag="LOC_MP_ROOM_GAME_STARTED_TITLE">
 			<Text>Katılma başarısız</Text>
 		</Replace>
 		<!-- Multiplayer Staging Room Screen -->
-		<Replace Language="pl_PL" Tag="LOC_MP_SWAP_PLAYER">
+		<Replace Language="en_US" Tag="LOC_MP_SWAP_PLAYER">
 			<Text>Değiştir</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="TXT_KEY_MP_SWAP_BUTTON_TT">
+		<Replace Language="en_US" Tag="TXT_KEY_MP_SWAP_BUTTON_TT">
 			<Text>Bu oyuncu yuvasına geç.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="TXT_KEY_MP_SWAP_WITH_PLAYER_BUTTON_TT">
+		<Replace Language="en_US" Tag="TXT_KEY_MP_SWAP_WITH_PLAYER_BUTTON_TT">
 			<Text>Bu oyuncu yuvasına geç, eğer diğer oyuncu da yer değiştirirse.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MP_KICK_PLAYER">
+		<Replace Language="en_US" Tag="LOC_MP_KICK_PLAYER">
 			<Text>Oyuncuyu at</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MULTIPLAYER_STAGING_ROOM">
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_STAGING_ROOM">
 			<Text>Hazırlık odası</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_READY_BUTTON">
+		<Replace Language="en_US" Tag="LOC_READY_BUTTON">
 			<Text>Hazır</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ARE_YOU_READY">
+		<Replace Language="en_US" Tag="LOC_ARE_YOU_READY">
 			<Text>Hazır mısınız?</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MP_GAME_SUMMARY_GAME_SETTINGS">
+		<Replace Language="en_US" Tag="LOC_MP_GAME_SUMMARY_GAME_SETTINGS">
 			<Text>Oyun ayarları</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MP_GAME_SUMMARY_ADDITIONAL_CONTENT">
+		<Replace Language="en_US" Tag="LOC_MP_GAME_SUMMARY_ADDITIONAL_CONTENT">
 			<Text>Ek içerik</Text>
 		</Replace>
 		<!-- Multiplayer Status Strings -->
-		<Replace Language="pl_PL" Tag="LOC_READY_LABEL">
+		<Replace Language="en_US" Tag="LOC_READY_LABEL">
 			<Text>Hazır!</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_NOT_READY">
+		<Replace Language="en_US" Tag="LOC_NOT_READY">
 			<Text>Hazır değil</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_INVALID_SLOT_MAP_SIZE">
+		<Replace Language="en_US" Tag="LOC_INVALID_SLOT_MAP_SIZE">
 			<Text>[COLOR:StagingStatus_Invalid]Harita boyutuna uygun değil[ENDCOLOR]</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_INVALID_SLOT_MAP_SIZE_TT">
+		<Replace Language="en_US" Tag="LOC_INVALID_SLOT_MAP_SIZE_TT">
 			<Text>Bu oyuncu yuvası mevcut harita boyutunda kullanılamaz. Ev sahibinden harita boyutunu büyütmesini isteyin veya uygun bir oyuncu yuvasına geçin.</Text>
 		</Replace>
 		<!-- Multiplayer Status Strings END -->
-		<Replace Language="pl_PL" Tag="LOC_JOIN">
+		<Replace Language="en_US" Tag="LOC_JOIN">
 			<Text>Katıl!</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_SLOTTYPE_OPEN">
+		<Replace Language="en_US" Tag="LOC_SLOTTYPE_OPEN">
 			<Text>Açık</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_SLOTTYPE_OPEN_TT">
+		<Replace Language="en_US" Tag="LOC_SLOTTYPE_OPEN_TT">
 			<Text>Katılan oyuncular açık yuvalara yerleşebilir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_SLOTTYPE_HUMANREQ">
+		<Replace Language="en_US" Tag="LOC_SLOTTYPE_HUMANREQ">
 			<Text>Açık</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_SLOTTYPE_HUMANREQ_TT">
+		<Replace Language="en_US" Tag="LOC_SLOTTYPE_HUMANREQ_TT">
 			<Text>Açık yuvalar, oyunun başlaması için insan oyuncu gerektirir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_SLOTTYPE_OBSERVER">
+		<Replace Language="en_US" Tag="LOC_SLOTTYPE_OBSERVER">
 			<Text>Gözlemci</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_SLOTTYPE_OBSERVER_TT">
+		<Replace Language="en_US" Tag="LOC_SLOTTYPE_OBSERVER_TT">
 			<Text>Oyunu doğrudan katılmadan izleyin.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_SLOTLABEL_HOST">
+		<Replace Language="en_US" Tag="LOC_SLOTLABEL_HOST">
 			<Text>[ICON_Host] Ev sahibi</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_SLOTLABEL_PLAYER">
+		<Replace Language="en_US" Tag="LOC_SLOTLABEL_PLAYER">
 			<Text>Oyuncu</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_SLOTLABEL_COMPUTER">
+		<Replace Language="en_US" Tag="LOC_SLOTLABEL_COMPUTER">
 			<Text>Bilgisayar</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_SLOTLABEL_OPEN">
+		<Replace Language="en_US" Tag="LOC_SLOTLABEL_OPEN">
 			<Text>Açık</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_SLOTLABEL_OBSERVER">
+		<Replace Language="en_US" Tag="LOC_SLOTLABEL_OBSERVER">
 			<Text>Gözlemci</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_SLOTLABEL_OBSERVER_HOST">
+		<Replace Language="en_US" Tag="LOC_SLOTLABEL_OBSERVER_HOST">
 			<Text>[ICON_Host] Gözlemci</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_SLOTTYPE_AI">
+		<Replace Language="en_US" Tag="LOC_SLOTTYPE_AI">
 			<Text>Yapay Zeka</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_SLOTTYPE_AI_TT">
+		<Replace Language="en_US" Tag="LOC_SLOTTYPE_AI_TT">
 			<Text>Yapay Zeka Oyuncusu</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_SLOTTYPE_CLOSED">
+		<Replace Language="en_US" Tag="LOC_SLOTTYPE_CLOSED">
 			<Text>Kapalı</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_SLOTTYPE_CLOSED_TT">
+		<Replace Language="en_US" Tag="LOC_SLOTTYPE_CLOSED_TT">
 			<Text>Oyuncular kapalı yuvaları kullanamaz.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_SLOTTYPE_HUMAN">
+		<Replace Language="en_US" Tag="LOC_SLOTTYPE_HUMAN">
 			<Text>İnsan</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_SLOTTYPE_HUMAN_TT">
+		<Replace Language="en_US" Tag="LOC_SLOTTYPE_HUMAN_TT">
 			<Text>İnsan Oyuncu</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MULTIPLAYER_DEFAULT_NO_TEAM_NAME">
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_DEFAULT_NO_TEAM_NAME">
 			<Text>İsimsiz</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MULTIPLAYER_DEFAULT_TEAM_NAME">
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_DEFAULT_TEAM_NAME">
 			<Text>{1_Num}</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CREATE_NEW_TEAM">
+		<Replace Language="en_US" Tag="LOC_CREATE_NEW_TEAM">
 			<Text>Yeni</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MULTIPLAYER_TEAM_HEADER">
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_TEAM_HEADER">
 			<Text>Takım</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MULTIPLAYER_DIFFICULTY_HEADER">
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_DIFFICULTY_HEADER">
 			<Text>Zorluk Seviyesi</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MULTIPLAYER_READY_HEADER">
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_READY_HEADER">
 			<Text>Hazır mı?</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MULTIPLAYER_CIV_LEADER_HEADER">
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_CIV_LEADER_HEADER">
 			<Text>Medeni ve Lider</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_GAMESTART_COUNTDOWN_FORMAT">
+		<Replace Language="en_US" Tag="LOC_GAMESTART_COUNTDOWN_FORMAT">
 			<Text>Oyun Başlıyor</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_READY_COUNTDOWN_FORMAT">
+		<Replace Language="en_US" Tag="LOC_READY_COUNTDOWN_FORMAT">
 			<Text>Hazırlan</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_WAITING_FOR_PLAYERS_COUNTDOWN_FORMAT">
+		<Replace Language="en_US" Tag="LOC_WAITING_FOR_PLAYERS_COUNTDOWN_FORMAT">
 			<Text>Oyuncular Bekleniyor</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_HOTSEAT_DEFAULT_PLAYER_NAME">
+		<Replace Language="en_US" Tag="LOC_HOTSEAT_DEFAULT_PLAYER_NAME">
 			<Text>Oyuncu</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MULTIPLAYER_HOTSEAT_PASSWORD">
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_HOTSEAT_PASSWORD">
 			<Text>Şifre</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MULTIPLAYER_HOTSEAT_PASSWORD_VERIFY">
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_HOTSEAT_PASSWORD_VERIFY">
 			<Text>Tekrar</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MULTIPLAYER_HOTSEAT_PASSWORDS_MATCH">
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_HOTSEAT_PASSWORDS_MATCH">
 			<Text>Şifreler eşleşiyor.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MULTIPLAYER_HOTSEAT_PASSWORDS_DONT_MATCH">
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_HOTSEAT_PASSWORDS_DONT_MATCH">
 			<Text>Şifreler eşleşmiyor.</Text>
 		</Replace>
 		<!-- Staging Room Ready Button-->
-		<Replace Language="pl_PL" Tag="LOC_READY_UNSUPPORTED">
+		<Replace Language="en_US" Tag="LOC_READY_UNSUPPORTED">
 			<Text>Desteklenmiyor.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_READY_UNSUPPORTED_TT">
+		<Replace Language="en_US" Tag="LOC_READY_UNSUPPORTED_TT">
 			<Text>Oyuncu sayısı desteklenmiyor.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_READY_BLOCKED_TEAMS_INVALID">
+		<Replace Language="en_US" Tag="LOC_READY_BLOCKED_TEAMS_INVALID">
 			<Text>Takım Hatası</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_READY_BLOCKED_TEAMS_INVALID_TT">
+		<Replace Language="en_US" Tag="LOC_READY_BLOCKED_TEAMS_INVALID_TT">
 			<Text>Oyun başlatılamaz: tüm medeniyetler aynı takımda.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_READY_BLOCKED_CONNECTING_PLAYER">
+		<Replace Language="en_US" Tag="LOC_READY_BLOCKED_CONNECTING_PLAYER">
 			<Text>Oyun başlatılamaz: oyuncular oyuna katılıyor.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_READY_BLOCKED_PLAYER_MAP_SIZE">
+		<Replace Language="en_US" Tag="LOC_READY_BLOCKED_PLAYER_MAP_SIZE">
 			<Text>Harita Boyutu Hatası</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_READY_BLOCKED_PLAYER_MAP_SIZE_TT">
+		<Replace Language="en_US" Tag="LOC_READY_BLOCKED_PLAYER_MAP_SIZE_TT">
 			<Text>Oyun başlatılamaz. Oyuncu, mevcut harita boyutunda geçerli olmayan bir oyuncu yuvasına yerleşti. Mevcut harita sadece {1_number} oyuncuyu destekliyor.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_READY_BLOCKED_NOT_ENOUGH_PLAYERS">
+		<Replace Language="en_US" Tag="LOC_READY_BLOCKED_NOT_ENOUGH_PLAYERS">
 			<Text>Yeterli Oyuncu Yok</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_READY_BLOCKED_NOT_ENOUGH_PLAYERS_TT">
+		<Replace Language="en_US" Tag="LOC_READY_BLOCKED_NOT_ENOUGH_PLAYERS_TT">
 			<Text>Oyun başlatılamaz: başlatmak için iki oyuncu gereklidir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_READY_BLOCKED_PLAYERS_CONNECTING">
+		<Replace Language="en_US" Tag="LOC_READY_BLOCKED_PLAYERS_CONNECTING">
 			<Text>Oyuncular Oyuna Katılıyor</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_READY_BLOCKED_PLAYERS_CONNECTING_TT">
+		<Replace Language="en_US" Tag="LOC_READY_BLOCKED_PLAYERS_CONNECTING_TT">
 			<Text>Oyuna katılan oyuncular bekleniyor.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_READY_BLOCKED_PLAYERS_NOT_MOD_READY">
+		<Replace Language="en_US" Tag="LOC_READY_BLOCKED_PLAYERS_NOT_MOD_READY">
 			<Text>Oyuncuda Modlar Eksik</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_READY_BLOCKED_PLAYERS_NOT_MOD_READY_TT">
+		<Replace Language="en_US" Tag="LOC_READY_BLOCKED_PLAYERS_NOT_MOD_READY_TT">
 			<Text>Bu oyunu oynamak için gerekli modlara sahip olmayan oyuncular bekleniyor.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_READY_BLOCKED_HOTSEAT_PASSWORD_MISMATCH">
+		<Replace Language="en_US" Tag="LOC_READY_BLOCKED_HOTSEAT_PASSWORD_MISMATCH">
 			<Text>Şifreler Eşleşmiyor</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_READY_BLOCKED_HOTSEAT_PASSWORD_MISMATCH_TT">
+		<Replace Language="en_US" Tag="LOC_READY_BLOCKED_HOTSEAT_PASSWORD_MISMATCH_TT">
 			<Text>Tüm şifrelerin eşleşmesi gerekiyor.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_READY_BLOCKED_HOTSEAT_NO_HUMAN_PLAYERS">
+		<Replace Language="en_US" Tag="LOC_READY_BLOCKED_HOTSEAT_NO_HUMAN_PLAYERS">
 			<Text>İnsan Oyuncu Yok</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_READY_BLOCKED_HOTSEAT_NO_HUMAN_PLAYERS_TT">
+		<Replace Language="en_US" Tag="LOC_READY_BLOCKED_HOTSEAT_NO_HUMAN_PLAYERS_TT">
 			<Text>En az bir insan oyuncu gereklidir</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_READY_BLOCKED_HOTSEAT_INVALID_TEAMS">
+		<Replace Language="en_US" Tag="LOC_READY_BLOCKED_HOTSEAT_INVALID_TEAMS">
 			<Text>Takım Hatası</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_READY_BLOCKED_HOTSEAT_INVALID_TEAMS_TT">
+		<Replace Language="en_US" Tag="LOC_READY_BLOCKED_HOTSEAT_INVALID_TEAMS_TT">
 			<Text>En az iki oyuncunun farklı takımlarda olması gerekiyor</Text>
 		</Replace>
 		<!-- Staging Room Invite Button -->
-		<Replace Language="pl_PL" Tag="LOC_INVITE_BUTTON">
+		<Replace Language="en_US" Tag="LOC_INVITE_BUTTON">
 			<Text>Arkadaşlarını davet et</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_INVITE_BUTTON_TT">
+		<Replace Language="en_US" Tag="LOC_INVITE_BUTTON_TT">
 			<Text>Bu oyuna Steam arkadaş listesinden arkadaşlarını davet et.</Text>
 		</Replace>
 		<!-- Confirm Kick Popup -->
-		<Replace Language="pl_PL" Tag="LOC_CANCEL_BUTTON">
+		<Replace Language="en_US" Tag="LOC_CANCEL_BUTTON">
 			<Text>İptal</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ACCEPT_BUTTON">
+		<Replace Language="en_US" Tag="LOC_ACCEPT_BUTTON">
 			<Text>Kabul et</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CONFIRM_KICK_PLAYER_DESC">
+		<Replace Language="en_US" Tag="LOC_CONFIRM_KICK_PLAYER_DESC">
 			<Text>{1_player} bu oyundan atılsın mı?</Text>
 		</Replace>
 		<!-- Edit Hotseat Player Popup -->
-		<Replace Language="pl_PL" Tag="LOC_HOTSEAT_EDIT_PLAYER_TT">
+		<Replace Language="en_US" Tag="LOC_HOTSEAT_EDIT_PLAYER_TT">
 			<Text>Sıcak koltuk oyuncusunu düzenle.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_HOTSEAT_EDIT_PLAYER">
+		<Replace Language="en_US" Tag="LOC_HOTSEAT_EDIT_PLAYER">
 			<Text>Sıcak koltuk oyuncusunu düzenle</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_HOTSEAT_PLAYER_NAME">
+		<Replace Language="en_US" Tag="LOC_HOTSEAT_PLAYER_NAME">
 			<Text>Oyuncu adı:</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_HOTSEAT_PASSWORD">
+		<Replace Language="en_US" Tag="LOC_HOTSEAT_PASSWORD">
 			<Text>Şifre:</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_HOTSEAT_RETYPE_PASSWORD">
+		<Replace Language="en_US" Tag="LOC_HOTSEAT_RETYPE_PASSWORD">
 			<Text>Şifreyi tekrar gir:</Text>
 		</Replace>
 		<!-- Network Connection Status -->
-		<Replace Language="pl_PL" Tag="LOC_MP_PLAYER_CONNECTED">
+		<Replace Language="en_US" Tag="LOC_MP_PLAYER_CONNECTED">
 			<Text>Oyuncu şu anda oyunda.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MP_PLAYER_CONNECTED_SUMMARY">
+		<Replace Language="en_US" Tag="LOC_MP_PLAYER_CONNECTED_SUMMARY">
 			<Text>[COLOR:ConnectionStatus_Connected]Bağlı[ENDCOLOR]</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MP_PLAYER_NOTCONNECTED">
+		<Replace Language="en_US" Tag="LOC_MP_PLAYER_NOTCONNECTED">
 			<Text>Oyuncu bağlı değil.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MP_PLAYER_NOTCONNECTED_SUMMARY">
+		<Replace Language="en_US" Tag="LOC_MP_PLAYER_NOTCONNECTED_SUMMARY">
 			<Text>[COLOR:ConnectionStatus_Offline]Çevrimdışı[ENDCOLOR]</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MP_PLAYER_CONNECTING">
+		<Replace Language="en_US" Tag="LOC_MP_PLAYER_CONNECTING">
 			<Text>Oyuncu oyuna katılıyor.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MP_PLAYER_CONNECTING_SUMMARY">
+		<Replace Language="en_US" Tag="LOC_MP_PLAYER_CONNECTING_SUMMARY">
 			<Text>[COLOR:ConnectionStatus_Connecting]Bağlanıyor[ENDCOLOR]</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MP_PLAYER_NOT_MOD_READY">
+		<Replace Language="en_US" Tag="LOC_MP_PLAYER_NOT_MOD_READY">
 			<Text>Oyuncunun bu oyunu oynamak için gerekli modları yok.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TIME_MILLISECONDS">
+		<Replace Language="en_US" Tag="LOC_TIME_MILLISECONDS">
 			<Text>ms</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TIME_SECONDS">
+		<Replace Language="en_US" Tag="LOC_TIME_SECONDS">
 			<Text>s</Text>
 		</Replace>
 		<!-- Friend Actions  -->
-		<Replace Language="pl_PL" Tag="LOC_FRIEND_ACTION_PROFILE">
+		<Replace Language="en_US" Tag="LOC_FRIEND_ACTION_PROFILE">
 			<Text>Steam profili</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_FRIEND_ACTION_PROFILE_TT">
+		<Replace Language="en_US" Tag="LOC_FRIEND_ACTION_PROFILE_TT">
 			<Text>Bu arkadaşın profil sayfasını görüntüle.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_FRIEND_ACTION_CHAT">
+		<Replace Language="en_US" Tag="LOC_FRIEND_ACTION_CHAT">
 			<Text>Mesaj gönder</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_FRIEND_ACTION_CHAT_TT">
+		<Replace Language="en_US" Tag="LOC_FRIEND_ACTION_CHAT_TT">
 			<Text>Bu arkadaşa mesaj gönder.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_FRIEND_ACTION_INVITE">
+		<Replace Language="en_US" Tag="LOC_FRIEND_ACTION_INVITE">
 			<Text>Oyuna davet et</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_FRIEND_ACTION_INVITE_TT">
+		<Replace Language="en_US" Tag="LOC_FRIEND_ACTION_INVITE_TT">
 			<Text>Bu arkadaşı oyuna davet et.</Text>
 		</Replace>
 		<!-- Friend Status  -->
-		<Replace Language="pl_PL" Tag="LOC_PRESENCE_ONLINE">
+		<Replace Language="en_US" Tag="LOC_PRESENCE_ONLINE">
 			<Text>[COLOR:ButtonCS]Çevrimiçi[ENDCOLOR]</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PRESENCE_IN_SHELL">
+		<Replace Language="en_US" Tag="LOC_PRESENCE_IN_SHELL">
 			<Text>[COLOR:ConnectionStatus_Connected]Ana menü[ENDCOLOR]</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PRESENCE_HOSTING_GAME">
+		<Replace Language="en_US" Tag="LOC_PRESENCE_HOSTING_GAME">
 			<Text>[COLOR:ConnectionStatus_Connected]Oyuna ev sahipliği yapıyor[ENDCOLOR]</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PRESENCE_IN_STAGING_ROOM">
+		<Replace Language="en_US" Tag="LOC_PRESENCE_IN_STAGING_ROOM">
 			<Text>[COLOR:ConnectionStatus_Connected]Hazırlık odası[ENDCOLOR]</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PRESENCE_IN_GAME_SP">
+		<Replace Language="en_US" Tag="LOC_PRESENCE_IN_GAME_SP">
 			<Text>[COLOR:ConnectionStatus_Connected]Tek oyunculu[ENDCOLOR]</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PRESENCE_IN_GAME_ONLINE">
+		<Replace Language="en_US" Tag="LOC_PRESENCE_IN_GAME_ONLINE">
 			<Text>[COLOR:ConnectionStatus_Connected]Çok oyunculu (Çevrimiçi)[ENDCOLOR]</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PRESENCE_IN_GAME_LAN">
+		<Replace Language="en_US" Tag="LOC_PRESENCE_IN_GAME_LAN">
 			<Text>[COLOR:ConnectionStatus_Connected]Çok oyunculu (LAN)[ENDCOLOR]</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PRESENCE_IN_GAME_HOTSEAT">
+		<Replace Language="en_US" Tag="LOC_PRESENCE_IN_GAME_HOTSEAT">
 			<Text>[COLOR:ConnectionStatus_Connected]Çok oyunculu (sıcak koltuk)[ENDCOLOR]</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PRESENCE_INVITED_ONLINE">
+		<Replace Language="en_US" Tag="LOC_PRESENCE_INVITED_ONLINE">
 			<Text>[COLOR:ConnectionStatus_Connected]Davet edildi[ENDCOLOR]</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PRESENCE_INVITED_OFFLINE">
+		<Replace Language="en_US" Tag="LOC_PRESENCE_INVITED_OFFLINE">
 			<Text>[COLOR:ButtonCS]Davet edildi[ENDCOLOR]</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PRESENCE_WORLD_BUILDER">
+		<Replace Language="en_US" Tag="LOC_PRESENCE_WORLD_BUILDER">
 			<Text>[COLOR:ConnectionStatus_Connected]Dünya kurucusu[ENDCOLOR]</Text>
 		</Replace>
 		<!-- Player Connection EVents -->
-		<Replace Language="pl_PL" Tag="LOC_MP_PLAYER_CONNECTED_CHAT">
+		<Replace Language="en_US" Tag="LOC_MP_PLAYER_CONNECTED_CHAT">
 			<Text>Bağlandı</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MP_PLAYER_DISCONNECTED_CHAT">
+		<Replace Language="en_US" Tag="LOC_MP_PLAYER_DISCONNECTED_CHAT">
 			<Text>Çıkış yaptı</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MP_PLAYER_HOST_MIGRATED_CHAT">
+		<Replace Language="en_US" Tag="LOC_MP_PLAYER_HOST_MIGRATED_CHAT">
 			<Text>Artık ev sahibi</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MP_PLAYER_KICKED_CHAT">
+		<Replace Language="en_US" Tag="LOC_MP_PLAYER_KICKED_CHAT">
 			<Text>Atıldı</Text>
 		</Replace>
 		<!-- Multiplayer Chat -->
-		<Replace Language="pl_PL" Tag="LOC_MULTIPLAYER_CHAT">
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_CHAT">
 			<Text>SOHBET</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MULTIPLAYER_TO_ALL">
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_TO_ALL">
 			<Text>Herkese:</Text>
 		</Replace>
 		<!-- Multiplayer Mod Downloads -->
-		<Replace Language="pl_PL" Tag="LOC_BYTES">
+		<Replace Language="en_US" Tag="LOC_BYTES">
 			<Text>bayt</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_KILOBYTES">
+		<Replace Language="en_US" Tag="LOC_KILOBYTES">
 			<Text>KB</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MEGABYTES">
+		<Replace Language="en_US" Tag="LOC_MEGABYTES">
 			<Text>MB</Text>
 		</Replace>
 		<!-- Setup -->
-		<Replace Language="pl_PL" Tag="LOC_SETUP_CREATE_GAME">
+		<Replace Language="en_US" Tag="LOC_SETUP_CREATE_GAME">
 			<Text>Oyun oluştur</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_SETUP_CHOOSE_RULESET">
+		<Replace Language="en_US" Tag="LOC_SETUP_CHOOSE_RULESET">
 			<Text>Kuralları seç</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_SETUP_CHOOSE_SCENARIO">
+		<Replace Language="en_US" Tag="LOC_SETUP_CHOOSE_SCENARIO">
 			<Text>Senaryo seç</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_SETUP_SCENARIOS">
+		<Replace Language="en_US" Tag="LOC_SETUP_SCENARIOS">
 			<Text>Senaryolar</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_SETUP_SCENARIO">
+		<Replace Language="en_US" Tag="LOC_SETUP_SCENARIO">
 			<Text>Senaryo</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_SETUP_CIVILIZATION">
+		<Replace Language="en_US" Tag="LOC_SETUP_CIVILIZATION">
 			<Text>Medeniyet seç</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_SETUP_DIFFICULTY">
+		<Replace Language="en_US" Tag="LOC_SETUP_DIFFICULTY">
 			<Text>Zorluk seviyesi seç</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_SETUP_SPEED">
+		<Replace Language="en_US" Tag="LOC_SETUP_SPEED">
 			<Text>Hız seç</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_SETUP_MAP_TYPE">
+		<Replace Language="en_US" Tag="LOC_SETUP_MAP_TYPE">
 			<Text>Harita türü seç</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_SETUP_MAP_SIZE">
+		<Replace Language="en_US" Tag="LOC_SETUP_MAP_SIZE">
 			<Text>Harita boyutu seç</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_SETUP_MODE_SELECT">
+		<Replace Language="en_US" Tag="LOC_SETUP_MODE_SELECT">
 			<Text>Oyun modları</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_SETUP_NO_GAME_MODES">
+		<Replace Language="en_US" Tag="LOC_SETUP_NO_GAME_MODES">
 			<Text>Kullanılabilir oyun modu yok</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_DELETE_AI">
+		<Replace Language="en_US" Tag="LOC_DELETE_AI">
 			<Text>Sil</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_SETUP_ADVANCED_OPTIONS">
+		<Replace Language="en_US" Tag="LOC_SETUP_ADVANCED_OPTIONS">
 			<Text>Gelişmiş ayarlar</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_SETUP_VICTORY_CONDITIONS">
+		<Replace Language="en_US" Tag="LOC_SETUP_VICTORY_CONDITIONS">
 			<Text>Zafer koşulları</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ADVANCED_OPTIONS">
+		<Replace Language="en_US" Tag="LOC_ADVANCED_OPTIONS">
 			<Text>Gelişmiş ayarlar</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_EDIT_BUTTON">
+		<Replace Language="en_US" Tag="LOC_EDIT_BUTTON">
 			<Text>Düzenle</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_SETUP_ADD_PLAYER">
+		<Replace Language="en_US" Tag="LOC_SETUP_ADD_PLAYER">
 			<Text>Oyuncu ekle</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_SETUP_ADD_PLAYER_TT">
+		<Replace Language="en_US" Tag="LOC_SETUP_ADD_PLAYER_TT">
 			<Text>Oyuna oyuncu ekle.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_SETUP_ADD_AI_PLAYER">
+		<Replace Language="en_US" Tag="LOC_SETUP_ADD_AI_PLAYER">
 			<Text>Yapay zeka ekle</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_SETUP_ADD_AI_PLAYER_TT">
+		<Replace Language="en_US" Tag="LOC_SETUP_ADD_AI_PLAYER_TT">
 			<Text>Oyuna yapay zeka oyuncusu ekle.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_SETUP_RESTORE_DEFAULT">
+		<Replace Language="en_US" Tag="LOC_SETUP_RESTORE_DEFAULT">
 			<Text>Varsayılanı geri yükle</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_SETUP_RESTORE_DEFAULT_TT">
+		<Replace Language="en_US" Tag="LOC_SETUP_RESTORE_DEFAULT_TT">
 			<Text>Tüm ayarları varsayılan değerlere geri yükler.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_SETUP_MAP_MAP_SELECT">
+		<Replace Language="en_US" Tag="LOC_SETUP_MAP_MAP_SELECT">
 			<Text>Harita seçimi</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_SETUP_MAP_CREATE_GAME_SELECT_MAP">
+		<Replace Language="en_US" Tag="LOC_SETUP_MAP_CREATE_GAME_SELECT_MAP">
 			<Text>Harita seç</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_SETUP_MAP_SELECT_MAP">
+		<Replace Language="en_US" Tag="LOC_SETUP_MAP_SELECT_MAP">
 			<Text>Harita seç</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_SETUP_MAP_OFFICIAL_MAPS">
+		<Replace Language="en_US" Tag="LOC_SETUP_MAP_OFFICIAL_MAPS">
 			<Text>Resmi haritalar</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_SETUP_MAP_FIRAXIS_MAPS">
+		<Replace Language="en_US" Tag="LOC_SETUP_MAP_FIRAXIS_MAPS">
 			<Text>Firaxis haritaları</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_SETUP_MAP_FIRAXIS_MAPS_TOOLTIP">
+		<Replace Language="en_US" Tag="LOC_SETUP_MAP_FIRAXIS_MAPS_TOOLTIP">
 			<Text>Sadece Firaxis'in resmi haritalarını göster.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_SETUP_MAP_WORLD_BUILDER_MAPS">
+		<Replace Language="en_US" Tag="LOC_SETUP_MAP_WORLD_BUILDER_MAPS">
 			<Text>Dünya kurucusu haritaları</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_SETUP_MAP_WORLD_BUILDER_MAPS_TOOLTIP">
+		<Replace Language="en_US" Tag="LOC_SETUP_MAP_WORLD_BUILDER_MAPS_TOOLTIP">
 			<Text>Sadece dünya kurucusu haritalarını göster.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_SETUP_MAP_ALL_MAPS">
+		<Replace Language="en_US" Tag="LOC_SETUP_MAP_ALL_MAPS">
 			<Text>Tüm haritalar</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_SETUP_MAP_ALL_MAPS_TOOLTIP">
+		<Replace Language="en_US" Tag="LOC_SETUP_MAP_ALL_MAPS_TOOLTIP">
 			<Text>Tüm haritaları göster</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_SETUP_MAP_MAP_INFO">
+		<Replace Language="en_US" Tag="LOC_SETUP_MAP_MAP_INFO">
 			<Text>Harita bilgisi</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_SETUP_MAP_SELECTED_MAP">
+		<Replace Language="en_US" Tag="LOC_SETUP_MAP_SELECTED_MAP">
 			<Text>Seçilen harita</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_START_GAME">
+		<Replace Language="en_US" Tag="LOC_START_GAME">
 			<Text>Oyunu başlat</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_START_WORLD_BUILDER">
+		<Replace Language="en_US" Tag="LOC_START_WORLD_BUILDER">
 			<Text>Dünya kurucusunu başlat</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_WORLD_BUILDER_START_NEW">
+		<Replace Language="en_US" Tag="LOC_WORLD_BUILDER_START_NEW">
 			<Text>Yeni harita</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_WORLD_BUILDER_LOAD">
+		<Replace Language="en_US" Tag="LOC_WORLD_BUILDER_LOAD">
 			<Text>Haritayı yükle</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_WORLD_BUILDER_IMPORT">
+		<Replace Language="en_US" Tag="LOC_WORLD_BUILDER_IMPORT">
 			<Text>Haritayı editörden içe aktar</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_WORLD_BUILDER_START_NEW_TOOLTIP">
+		<Replace Language="en_US" Tag="LOC_WORLD_BUILDER_START_NEW_TOOLTIP">
 			<Text>Düzenlemek için yeni boş veya oluşturulmuş bir dünya kurucusu haritası oluştur.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_WORLD_BUILDER_LOAD_TOOLTIP">
+		<Replace Language="en_US" Tag="LOC_WORLD_BUILDER_LOAD_TOOLTIP">
 			<Text>Daha önce kaydedilmiş bir dünya kurucusu haritasını yükle.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_WORLD_BUILDER_IMPORT_TOOLTIP">
+		<Replace Language="en_US" Tag="LOC_WORLD_BUILDER_IMPORT_TOOLTIP">
 			<Text>Doğru biçimlendirilmiş bir .TMX dosyasını dünya kurucusu haritasına dönüştür.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_RANDOM_LEADER">
+		<Replace Language="en_US" Tag="LOC_RANDOM_LEADER">
 			<Text>Rastgele lider</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_RANDOM_CIVILIZATION">
+		<Replace Language="en_US" Tag="LOC_RANDOM_CIVILIZATION">
 			<Text>Rastgele medeniyet</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_SETUP_ERROR_NO_DUPLICATE_LEADERS">
+		<Replace Language="en_US" Tag="LOC_SETUP_ERROR_NO_DUPLICATE_LEADERS">
 			<Text>Aynı liderler yok</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_SETUP_ERROR_HUMANS_REQUIRED">
+		<Replace Language="en_US" Tag="LOC_SETUP_ERROR_HUMANS_REQUIRED">
 			<Text>Daha fazla oyuncu bekleniyor</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_SETUP_ERROR_HUMANS_REQUIRED_TT">
+		<Replace Language="en_US" Tag="LOC_SETUP_ERROR_HUMANS_REQUIRED_TT">
 			<Text>Tüm oyuncu yuvaları doldurulana kadar oyun başlatılamaz.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_READY_BLOCKED_READY_COUNTDOWN_TT">
+		<Replace Language="en_US" Tag="LOC_READY_BLOCKED_READY_COUNTDOWN_TT">
 			<Text>Oyun, sayaç tamamlandığında veya oyun dolduğunda ve herkes hazır olduğunu belirttiğinde başlar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_READY_COUNTDOWN_TT">
+		<Replace Language="en_US" Tag="LOC_READY_COUNTDOWN_TT">
 			<Text>Sayaç sıfıra ulaştığında hazır olursunuz. Hazır olduğunuzu belirtmek için tıklayın.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_WAITING_FOR_PLAYERS_COUNTDOWN_TT">
+		<Replace Language="en_US" Tag="LOC_WAITING_FOR_PLAYERS_COUNTDOWN_TT">
 			<Text>Daha fazla oyuncu bekleniyor. Oyun, sayaç sıfıra ulaştığında veya herkes hazır olduğunu belirttiğinde başlar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_SETUP_ERROR_INVALID_OPTION">
+		<Replace Language="en_US" Tag="LOC_SETUP_ERROR_INVALID_OPTION">
 			<Text>Geçersiz seçenek</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_SETUP_ERROR_LEADER_NOT_OWNED">
+		<Replace Language="en_US" Tag="LOC_SETUP_ERROR_LEADER_NOT_OWNED">
 			<Text>Sahip değil</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_SETUP_PLAYER_PARAMETER_ERROR">
+		<Replace Language="en_US" Tag="LOC_SETUP_PLAYER_PARAMETER_ERROR">
 			<Text>Bir veya daha fazla oyuncu parametresi yanlış.</Text>
 		</Replace>
 		<!-- Configuration Parameters.  Move these to a better location -->
-		<Replace Language="pl_PL" Tag="LOC_RULESET">
+		<Replace Language="en_US" Tag="LOC_RULESET">
 			<Text>Kurallar:</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_GAME_NAME">
+		<Replace Language="en_US" Tag="LOC_GAME_NAME">
 			<Text>Oyun adı:</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_GAME_NAME_DESC">
+		<Replace Language="en_US" Tag="LOC_GAME_NAME_DESC">
 			<Text>Çok oyunculu sunucu listesinde gösterilecek oyun adı.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PRIVATE_GAME">
+		<Replace Language="en_US" Tag="LOC_PRIVATE_GAME">
 			<Text>Özel oyun</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PRIVATE_GAME_DESC">
+		<Replace Language="en_US" Tag="LOC_PRIVATE_GAME_DESC">
 			<Text>Özel oyunlar çok oyunculu lobide gösterilmez. Özel bir oyuna yalnızca davet veya Steam arkadaş listesi aracılığıyla erişilebilir. Bu ayar yerel ağ oyunlarını etkilemez.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_GAME_VICTORY_TIME">
+		<Replace Language="en_US" Tag="LOC_GAME_VICTORY_TIME">
 			<Text>Zaman</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_GAME_VICTORY_SCIENCE">
+		<Replace Language="en_US" Tag="LOC_GAME_VICTORY_SCIENCE">
 			<Text>Bilim</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_GAME_NO_GOODY_HUTS">
+		<Replace Language="en_US" Tag="LOC_GAME_NO_GOODY_HUTS">
 			<Text>Kabile köyü yok</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_GAME_NO_BARBARIANS">
+		<Replace Language="en_US" Tag="LOC_GAME_NO_BARBARIANS">
 			<Text>Barbar yok</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_GAME_ALLIES_SHARE_VISIBILITY">
+		<Replace Language="en_US" Tag="LOC_GAME_ALLIES_SHARE_VISIBILITY">
 			<Text>Takım görünürlüğü paylaşır</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_GAME_ALLIES_SHARE_VISIBILITY_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_GAME_ALLIES_SHARE_VISIBILITY_DESCRIPTION">
 			<Text>Takımdaki oyuncular haritada gördüklerini paylaşır.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_GAME_TURNTIMER_TYPE">
+		<Replace Language="en_US" Tag="LOC_GAME_TURNTIMER_TYPE">
 			<Text>Zaman modu</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_GAME_TURN_TIMER_TIME">
+		<Replace Language="en_US" Tag="LOC_GAME_TURN_TIMER_TIME">
 			<Text>Zaman sınırı</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_GAME_TURN_TIMER_TIME_TOOLTIP">
+		<Replace Language="en_US" Tag="LOC_GAME_TURN_TIMER_TIME_TOOLTIP">
 			<Text>Normal hızda zaman sınırlı modda tur süresi (saniye olarak).</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_GAME_TURNPHASE_TYPE">
+		<Replace Language="en_US" Tag="LOC_GAME_TURNPHASE_TYPE">
 			<Text>Tur modu</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_GAME_TURNPHASE_DESC">
+		<Replace Language="en_US" Tag="LOC_GAME_TURNPHASE_DESC">
 			<Text>Çok oyunculu insan oyuncuların kullandığı tur modu.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_GAME_SYNC_RANDOM_SEED">
+		<Replace Language="en_US" Tag="LOC_GAME_SYNC_RANDOM_SEED">
 			<Text>Oyun akışı tohum sayısı</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_GAME_SYNC_RANDOM_SEED_TOOLTIP">
+		<Replace Language="en_US" Tag="LOC_GAME_SYNC_RANDOM_SEED_TOOLTIP">
 			<Text>Oyun mantığının kullandığı rastgele tohum sayısı.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MAP_RANDOM_SEED">
+		<Replace Language="en_US" Tag="LOC_MAP_RANDOM_SEED">
 			<Text>Harita tohum sayısı</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MAP_RANDOM_SEED_TOOLTIP">
+		<Replace Language="en_US" Tag="LOC_MAP_RANDOM_SEED_TOOLTIP">
 			<Text>Harita oluşturucunun kullandığı rastgele tohum sayısı.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MAP_WORLD_AGE_NAME">
+		<Replace Language="en_US" Tag="LOC_MAP_WORLD_AGE_NAME">
 			<Text>Dünya yaşı</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MAP_WORLD_AGE_NEW_NAME">
+		<Replace Language="en_US" Tag="LOC_MAP_WORLD_AGE_NEW_NAME">
 			<Text>Yeni</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MAP_WORLD_AGE_STANDARD_NAME">
+		<Replace Language="en_US" Tag="LOC_MAP_WORLD_AGE_STANDARD_NAME">
 			<Text>Standart</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MAP_WORLD_AGE_OLD_NAME">
+		<Replace Language="en_US" Tag="LOC_MAP_WORLD_AGE_OLD_NAME">
 			<Text>Eski</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MAP_WORLD_AGE_RANDOM_NAME">
+		<Replace Language="en_US" Tag="LOC_MAP_WORLD_AGE_RANDOM_NAME">
 			<Text>Rastgele</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MAP_TEMPERATURE_NAME">
+		<Replace Language="en_US" Tag="LOC_MAP_TEMPERATURE_NAME">
 			<Text>Sıcaklık</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MAP_TEMPERATURE_HOT_NAME">
+		<Replace Language="en_US" Tag="LOC_MAP_TEMPERATURE_HOT_NAME">
 			<Text>Sıcak</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MAP_TEMPERATURE_STANDARD_NAME">
+		<Replace Language="en_US" Tag="LOC_MAP_TEMPERATURE_STANDARD_NAME">
 			<Text>Standart</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MAP_TEMPERATURE_COLD_NAME">
+		<Replace Language="en_US" Tag="LOC_MAP_TEMPERATURE_COLD_NAME">
 			<Text>Soğuk</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MAP_TEMPERATURE_RANDOM_NAME">
+		<Replace Language="en_US" Tag="LOC_MAP_TEMPERATURE_RANDOM_NAME">
 			<Text>Rastgele</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MAP_RAINFALL_NAME">
+		<Replace Language="en_US" Tag="LOC_MAP_RAINFALL_NAME">
 			<Text>Yağış</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MAP_RAINFALL_ARID_NAME">
+		<Replace Language="en_US" Tag="LOC_MAP_RAINFALL_ARID_NAME">
 			<Text>Kurak</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MAP_RAINFALL_STANDARD_NAME">
+		<Replace Language="en_US" Tag="LOC_MAP_RAINFALL_STANDARD_NAME">
 			<Text>Standart</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MAP_RAINFALL_WET_NAME">
+		<Replace Language="en_US" Tag="LOC_MAP_RAINFALL_WET_NAME">
 			<Text>Islak</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MAP_RAINFALL_RANDOM_NAME">
+		<Replace Language="en_US" Tag="LOC_MAP_RAINFALL_RANDOM_NAME">
 			<Text>Rastgele</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MAP_SEA_LEVEL_NAME">
+		<Replace Language="en_US" Tag="LOC_MAP_SEA_LEVEL_NAME">
 			<Text>Deniz seviyesi</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MAP_SEA_LEVEL_LOW_NAME">
+		<Replace Language="en_US" Tag="LOC_MAP_SEA_LEVEL_LOW_NAME">
 			<Text>Düşük</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MAP_SEA_LEVEL_STANDARD_NAME">
+		<Replace Language="en_US" Tag="LOC_MAP_SEA_LEVEL_STANDARD_NAME">
 			<Text>Standart</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MAP_SEA_LEVEL_HIGH_NAME">
+		<Replace Language="en_US" Tag="LOC_MAP_SEA_LEVEL_HIGH_NAME">
 			<Text>Yüksek</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MAP_SEA_LEVEL_RANDOM_NAME">
+		<Replace Language="en_US" Tag="LOC_MAP_SEA_LEVEL_RANDOM_NAME">
 			<Text>Rastgele</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MAP_RESOURCES_NAME">
+		<Replace Language="en_US" Tag="LOC_MAP_RESOURCES_NAME">
 			<Text>Kaynaklar</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MAP_RESOURCES_SPARSE_NAME">
+		<Replace Language="en_US" Tag="LOC_MAP_RESOURCES_SPARSE_NAME">
 			<Text>Seyrek</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MAP_RESOURCES_STANDARD_NAME">
+		<Replace Language="en_US" Tag="LOC_MAP_RESOURCES_STANDARD_NAME">
 			<Text>Standart</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MAP_RESOURCES_ABUNDANT_NAME">
+		<Replace Language="en_US" Tag="LOC_MAP_RESOURCES_ABUNDANT_NAME">
 			<Text>Bolluk</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MAP_RESOURCES_RANDOM_NAME">
+		<Replace Language="en_US" Tag="LOC_MAP_RESOURCES_RANDOM_NAME">
 			<Text>Rastgele</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MAP_START_POSITION_NAME">
+		<Replace Language="en_US" Tag="LOC_MAP_START_POSITION_NAME">
 			<Text>Başlangıç Pozisyonu</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MAP_START_POSITION_BALANCED_NAME">
+		<Replace Language="en_US" Tag="LOC_MAP_START_POSITION_BALANCED_NAME">
 			<Text>Dengeli</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MAP_START_POSITION_STANDARD_NAME">
+		<Replace Language="en_US" Tag="LOC_MAP_START_POSITION_STANDARD_NAME">
 			<Text>Standart</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MAP_START_POSITION_LEGENDARY_NAME">
+		<Replace Language="en_US" Tag="LOC_MAP_START_POSITION_LEGENDARY_NAME">
 			<Text>Efsanevi</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MAP_PREDEFINED_START_LOCATIONS_NAME">
+		<Replace Language="en_US" Tag="LOC_MAP_PREDEFINED_START_LOCATIONS_NAME">
 			<Text>Önceden Tanımlanmış Başlangıç Konumları</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MAP_START_POSITION_MIRRORED_NAME">
+		<Replace Language="en_US" Tag="LOC_MAP_START_POSITION_MIRRORED_NAME">
 			<Text>Aynalanmış</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MAP_PREDEFINED_START_LOCATIONS_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_MAP_PREDEFINED_START_LOCATIONS_DESCRIPTION">
 			<Text>Harita için önceden tanımlanmış başlangıç konumlarını kullan.</Text>
 		</Replace>
 		<!--Game Speed Descriptions -->
-		<Replace Language="pl_PL" Tag="LOC_GAMESPEED_MARATHON_HELP">
+		<Replace Language="en_US" Tag="LOC_GAMESPEED_MARATHON_HELP">
 			<Text>Çok uzun oyun (200% daha yavaş).</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_GAMESPEED_EPIC_HELP">
+		<Replace Language="en_US" Tag="LOC_GAMESPEED_EPIC_HELP">
 			<Text>Uzun oyun (50% daha yavaş).</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_GAMESPEED_STANDARD_HELP">
+		<Replace Language="en_US" Tag="LOC_GAMESPEED_STANDARD_HELP">
 			<Text>Standart hızda oyun.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_GAMESPEED_QUICK_HELP">
+		<Replace Language="en_US" Tag="LOC_GAMESPEED_QUICK_HELP">
 			<Text>Hızlı oyun (33% daha hızlı).</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_GAMESPEED_ONLINE_HELP">
+		<Replace Language="en_US" Tag="LOC_GAMESPEED_ONLINE_HELP">
 			<Text>Çevrimiçi çok oyunculu oyunlar için iki kat hız.</Text>
 		</Replace>
 		<!-- Map Type Descriptions -->
-		<Replace Language="pl_PL" Tag="LOC_MAP_ARCHIPELAGO_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_MAP_ARCHIPELAGO_DESCRIPTION">
 			<Text>Büyük adaların arasında birçok küçük ada.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MAP_CONTINENTS_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_MAP_CONTINENTS_DESCRIPTION">
 			<Text>Birkaç büyük kara parçası.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MAP_FRACTAL_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_MAP_FRACTAL_DESCRIPTION">
 			<Text>Bir veya daha fazla kara parçası sunabilen tahmin edilemez harita.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MAP_INLANDSEA_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_MAP_INLANDSEA_DESCRIPTION">
 			<Text>Haritanın ortasında büyük bir deniz.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MAP_SEVEN_SEAS_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_MAP_SEVEN_SEAS_DESCRIPTION">
 			<Text>Çevresi kara ile çevrili birçok büyük su kütlesi. Su kütlelerinde adalar bulunabilir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MAP_SMALL_CONTINENTS_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_MAP_SMALL_CONTINENTS_DESCRIPTION">
 			<Text>Dünya birkaç orta boy kara parçası ve birkaç küçük adadan oluşur.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MAP_ISLAND_PLATES_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_MAP_ISLAND_PLATES_DESCRIPTION">
 			<Text>Küçükten büyüğe değişen adalar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MAP_LAKES_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_MAP_LAKES_DESCRIPTION">
 			<Text>Sadece göller ve iç denizler içeren dünya.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MAP_MIRROR_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_MAP_MIRROR_DESCRIPTION">
 			<Text>Dört oyunculu dengeli rekabetçi çok oyunculu oyunlar için mükemmel rastgele oluşturulmuş harita.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MAP_PANGAEA_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_MAP_PANGAEA_DESCRIPTION">
 			<Text>Bir büyük kara parçası ve birkaç çevresel ada.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MAP_SHUFFLE_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_MAP_SHUFFLE_DESCRIPTION">
 			<Text>Bu harita hangi sırları barındırıyor?</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MAP_TERRA_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_MAP_TERRA_DESCRIPTION">
 			<Text>Tüm büyük ulusların en büyük kıtada başladığı kıta haritası.</Text>
 		</Replace>
 		<!-- Map Size Descriptions -->
-		<Replace Language="pl_PL" Tag="LOC_MAPSIZE_DUEL_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_MAPSIZE_DUEL_DESCRIPTION">
 			<Text>İki kişilik çok küçük harita.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MAPSIZE_TINY_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_MAPSIZE_TINY_DESCRIPTION">
 			<Text>Dört kişilik biraz daha küçük harita.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MAPSIZE_SMALL_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_MAPSIZE_SMALL_DESCRIPTION">
 			<Text>Altı kişilik küçük harita.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MAPSIZE_STANDARD_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_MAPSIZE_STANDARD_DESCRIPTION">
 			<Text>Sekiz kişilik orta boy harita.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MAPSIZE_LARGE_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_MAPSIZE_LARGE_DESCRIPTION">
 			<Text>On kişilik büyük harita.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MAPSIZE_HUGE_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_MAPSIZE_HUGE_DESCRIPTION">
 			<Text>On iki kişilik devasa harita.</Text>
 		</Replace>
 		<!-- City-State Exclusion -->
-		<Replace Language="pl_PL" Tag="LOC_EXCLUDE_CITY_STATES_NAME">
+		<Replace Language="en_US" Tag="LOC_EXCLUDE_CITY_STATES_NAME">
 			<Text>Şehir Devletlerini Seç</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_EXCLUDE_CITY_STATES_DESC">
+		<Replace Language="en_US" Tag="LOC_EXCLUDE_CITY_STATES_DESC">
 			<Text>Oyunda izin verilen şehir devletlerini seç.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITY_STATE_PICKER_SORT_BY">
+		<Replace Language="en_US" Tag="LOC_CITY_STATE_PICKER_SORT_BY">
 			<Text>Sıralama:</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITY_STATE_PICKER_SORT_NAME">
+		<Replace Language="en_US" Tag="LOC_CITY_STATE_PICKER_SORT_NAME">
 			<Text>İsim</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITY_STATE_PICKER_SORT_TYPE">
+		<Replace Language="en_US" Tag="LOC_CITY_STATE_PICKER_SORT_TYPE">
 			<Text>Tür</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITY_STATE_PICKER_COUNT_WARNING">
+		<Replace Language="en_US" Tag="LOC_CITY_STATE_PICKER_COUNT_WARNING">
 			<Text>[COLOR_RED]En az {1_Min} şehir devleti seçilmelidir. En az {2_Remaining} daha seçin.[ENDCOLOR]</Text>
 		</Replace>
 		<!-- Natural Wonder Exclusion -->
-		<Replace Language="pl_PL" Tag="LOC_EXCLUDE_NATURAL_WONDER_NAME">
+		<Replace Language="en_US" Tag="LOC_EXCLUDE_NATURAL_WONDER_NAME">
 			<Text>Doğal Harikaları Seç</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_EXCLUDE_NATURAL_WONDER_DESC">
+		<Replace Language="en_US" Tag="LOC_EXCLUDE_NATURAL_WONDER_DESC">
 			<Text>Oyunda izin verilen doğal harikaları seç.</Text>
 		</Replace>
 		<!-- Turn Timer Settings -->
-		<Replace Language="pl_PL" Tag="LOC_TURNTIMER_NONE">
+		<Replace Language="en_US" Tag="LOC_TURNTIMER_NONE">
 			<Text>Tur Zamanlayıcısı Yok</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TURNTIMER_NONE_DESC">
+		<Replace Language="en_US" Tag="LOC_TURNTIMER_NONE_DESC">
 			<Text>Oyuncular turlarını zaman sınırlaması olmadan oynar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TURNTIMER_DYNAMIC">
+		<Replace Language="en_US" Tag="LOC_TURNTIMER_DYNAMIC">
 			<Text>Dinamik Tur Zamanlayıcısı</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TURNTIMER_DYNAMIC_DESC">
+		<Replace Language="en_US" Tag="LOC_TURNTIMER_DYNAMIC_DESC">
 			<Text>Tur süresi, şehirlerin ve birimlerin sayısına göre dinamik olarak belirlenir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TURNTIMER_STANDARD">
+		<Replace Language="en_US" Tag="LOC_TURNTIMER_STANDARD">
 			<Text>Standart Tur Zamanlayıcısı</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TURNTIMER_STANDARD_DESC">
+		<Replace Language="en_US" Tag="LOC_TURNTIMER_STANDARD_DESC">
 			<Text>Tur süresi, zaman sınırlamasına göre belirlenir (saniye olarak).</Text>
 		</Replace>
 		<!-- Turn Mode Settings -->
-		<Replace Language="pl_PL" Tag="LOC_TURNPHASE_SIMULTANEOUS">
+		<Replace Language="en_US" Tag="LOC_TURNPHASE_SIMULTANEOUS">
 			<Text>Eşzamanlı Turlar</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TURNPHASE_SIMULTANEOUS_DESC">
+		<Replace Language="en_US" Tag="LOC_TURNPHASE_SIMULTANEOUS_DESC">
 			<Text>Oyuncular turlarını aynı anda oynar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TURNPHASE_DYNAMIC">
+		<Replace Language="en_US" Tag="LOC_TURNPHASE_DYNAMIC">
 			<Text>Dinamik Turlar</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TURNPHASE_DYNAMIC_DESC">
+		<Replace Language="en_US" Tag="LOC_TURNPHASE_DYNAMIC_DESC">
 			<Text>Oyuncular turlarını aynı anda oynar, ancak savaşta olan oyuncular turlarını sırayla oynar.</Text>
 		</Replace>
 		<!-- Map Config Descriptions -->
-		<Replace Language="pl_PL" Tag="LOC_MAP_WORLD_AGE_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_MAP_WORLD_AGE_DESCRIPTION">
 			<Text>Haritanın engebeliliğini belirler (tepe ve dağlar).</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MAP_WORLD_AGE_NEW_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_MAP_WORLD_AGE_NEW_DESCRIPTION">
 			<Text>Daha fazla tepe ve dağ.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MAP_WORLD_AGE_STANDARD_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_MAP_WORLD_AGE_STANDARD_DESCRIPTION">
 			<Text>Standart miktarda tepe ve dağ.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MAP_WORLD_AGE_OLD_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_MAP_WORLD_AGE_OLD_DESCRIPTION">
 			<Text>Daha az tepe ve dağ.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MAP_WORLD_AGE_RANDOM_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_MAP_WORLD_AGE_RANDOM_DESCRIPTION">
 			<Text>Tepe ve dağ miktarı rastgele belirlenir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MAP_TEMPERATURE_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_MAP_TEMPERATURE_DESCRIPTION">
 			<Text>Haritanın arazisini belirler.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MAP_TEMPERATURE_HOT_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_MAP_TEMPERATURE_HOT_DESCRIPTION">
 			<Text>Haritada daha fazla çöl ve daha az tundra ve buz bulunur.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MAP_TEMPERATURE_STANDARD_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_MAP_TEMPERATURE_STANDARD_DESCRIPTION">
 			<Text>Haritada dünya benzeri arazi bulunur.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MAP_TEMPERATURE_COLD_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_MAP_TEMPERATURE_COLD_DESCRIPTION">
 			<Text>Haritada daha fazla tundra ve buz, daha az çöl bulunur.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MAP_TEMPERATURE_RANDOM_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_MAP_TEMPERATURE_RANDOM_DESCRIPTION">
 			<Text>Haritanın sıcaklığı rastgele belirlenir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MAP_RAINFALL_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_MAP_RAINFALL_DESCRIPTION">
 			<Text>Haritada bulunan özelliklerin miktarını belirler.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MAP_RAINFALL_ARID_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_MAP_RAINFALL_ARID_DESCRIPTION">
 			<Text>Haritada daha az orman, yağmur ormanı ve bataklık bulunur.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MAP_RAINFALL_STANDARD_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_MAP_RAINFALL_STANDARD_DESCRIPTION">
 			<Text>Haritada standart miktarda orman, yağmur ormanı ve bataklık bulunur.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MAP_RAINFALL_WET_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_MAP_RAINFALL_WET_DESCRIPTION">
 			<Text>Haritada daha fazla orman, yağmur ormanı ve bataklık bulunur.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MAP_RAINFALL_RANDOM_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_MAP_RAINFALL_RANDOM_DESCRIPTION">
 			<Text>Haritanın özellikleri rastgele belirlenir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MAP_SEA_LEVEL_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_MAP_SEA_LEVEL_DESCRIPTION">
 			<Text>Haritadaki su miktarını ayarlar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MAP_SEA_LEVEL_LOW_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_MAP_SEA_LEVEL_LOW_DESCRIPTION">
 			<Text>Daha az su.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MAP_SEA_LEVEL_STANDARD_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_MAP_SEA_LEVEL_STANDARD_DESCRIPTION">
 			<Text>Standart miktarda su.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MAP_SEA_LEVEL_HIGH_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_MAP_SEA_LEVEL_HIGH_DESCRIPTION">
 			<Text>Bol miktarda su.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MAP_SEA_LEVEL_RANDOM_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_MAP_SEA_LEVEL_RANDOM_DESCRIPTION">
 			<Text>Su miktarı rastgele belirlenir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MAP_RESOURCES_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_MAP_RESOURCES_DESCRIPTION">
 			<Text>Doğal kaynakların bolluğunu belirler.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MAP_RESOURCES_SPARSE_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_MAP_RESOURCES_SPARSE_DESCRIPTION">
 			<Text>Haritada daha az doğal kaynak bulunur.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MAP_RESOURCES_STANDARD_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_MAP_RESOURCES_STANDARD_DESCRIPTION">
 			<Text>Haritada standart miktarda doğal kaynak bulunur.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MAP_RESOURCES_ABUNDANT_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_MAP_RESOURCES_ABUNDANT_DESCRIPTION">
 			<Text>Haritada daha fazla doğal kaynak bulunur.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MAP_RESOURCES_RANDOM_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_MAP_RESOURCES_RANDOM_DESCRIPTION">
 			<Text>Haritanın doğal kaynak miktarı rastgele belirlenir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MAP_START_POSITION_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_MAP_START_POSITION_DESCRIPTION">
 			<Text>Başlangıç pozisyonunun değerini değiştirir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MAP_START_POSITION_BALANCED_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_MAP_START_POSITION_BALANCED_DESCRIPTION">
 			<Text>Tüm oyunculara eşit başlangıç noktaları verilir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MAP_START_POSITION_STANDARD_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_MAP_START_POSITION_STANDARD_DESCRIPTION">
 			<Text>Standart başlangıç noktaları.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MAP_START_POSITION_LEGENDARY_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_MAP_START_POSITION_LEGENDARY_DESCRIPTION">
 			<Text>Tüm oyunculara iyi ama eşit olmayan başlangıçlar sunulur.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MAP_START_POSITION_MIRRORED_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_MAP_START_POSITION_MIRRORED_DESCRIPTION">
 			<Text>Her oyuncu kendi bölgesinde tam olarak aynı konumdan başlar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_GAME_START_ERA">
+		<Replace Language="en_US" Tag="LOC_GAME_START_ERA">
 			<Text>Başlangıç Dönemi</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_KICK_VOTE">
+		<Replace Language="en_US" Tag="LOC_KICK_VOTE">
 			<Text>Oyuncu Çıkarma Oylaması</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_KICK_VOTE_TT">
+		<Replace Language="en_US" Tag="LOC_KICK_VOTE_TT">
 			<Text>Oyuncu çıkarma oylamasında en çok oyu alan karar uygulanır.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MAP_SCRIPT">
+		<Replace Language="en_US" Tag="LOC_MAP_SCRIPT">
 			<Text>Harita</Text>
 		</Replace>
 		<!-- Tutorial Select Screen-->
-		<Replace Language="pl_PL" Tag="LOC_SETUP_TUTORIAL_TITLE">
+		<Replace Language="en_US" Tag="LOC_SETUP_TUTORIAL_TITLE">
 			<Text>Civilization'a Hoş Geldiniz</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_SETUP_TUTORIAL_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_SETUP_TUTORIAL_DESCRIPTION">
 			<Text>Burada krallığımızı sıfırdan büyütme yolculuğuna başlıyoruz ve böylece kendi tarihimize yön veriyoruz.[NEWLINE][NEWLINE]Dünyayı büyük savaşlarla mı fethedeceksiniz yoksa halkınızı yıldızlara mı göndereceksiniz? Kültürünüzle mi dünyayı etkileyeceksiniz yoksa inançlarınız mı dünyanın her köşesine yayılacak?[NEWLINE][NEWLINE]Sadece zaman gösterecek...[NEWLINE][NEWLINE]Tüm büyük uygarlıklar büyük bir liderden doğmuştur. Bu tanıtım boyunca oynamak istediğiniz ulusu seçin.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_SETUP_TUTORIAL_LEADER_1">
+		<Replace Language="en_US" Tag="LOC_SETUP_TUTORIAL_LEADER_1">
 			<Text>Mısır'ın Kleopatra'sı güçlü müttefiklere ve şehir kurucularına sahip bir halkı yönetir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_SETUP_TUTORIAL_LEADER_2">
+		<Replace Language="en_US" Tag="LOC_SETUP_TUTORIAL_LEADER_2">
 			<Text>Sümerli Gilgameş geniş alanları kontrol eder ve saygı duyulan bir fatih olarak bilinir.</Text>
 		</Replace>
 		<!-- Loading Screen / Dawn of man -->
-		<Replace Language="pl_PL" Tag="LOC_LOADING_DOMAIN_LAND">
+		<Replace Language="en_US" Tag="LOC_LOADING_DOMAIN_LAND">
 			<Text>Kara Birimi</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_LOADING_DOMAIN_SEA">
+		<Replace Language="en_US" Tag="LOC_LOADING_DOMAIN_SEA">
 			<Text>Deniz Birimi</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_LOADING_DOMAIN_AIR">
+		<Replace Language="en_US" Tag="LOC_LOADING_DOMAIN_AIR">
 			<Text>Hava Birimi</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_LOADING_PLEASE_WAIT">
+		<Replace Language="en_US" Tag="LOC_LOADING_PLEASE_WAIT">
 			<Text>Birkaç saniye bekleyin, yükleniyor...</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_LOADING_DISTRICT_BUILDING">
+		<Replace Language="en_US" Tag="LOC_LOADING_DISTRICT_BUILDING">
 			<Text>{1_DistrictName} (şehir alanı binası)</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_LOADING_UNIQUE_BUILDING">
+		<Replace Language="en_US" Tag="LOC_LOADING_UNIQUE_BUILDING">
 			<Text>Özel Bina</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_LOADING_UNIQUE_DISTRICT">
+		<Replace Language="en_US" Tag="LOC_LOADING_UNIQUE_DISTRICT">
 			<Text>Özel Şehir Alanı</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_LOADING_UNIQUE_IMPROVEMENT">
+		<Replace Language="en_US" Tag="LOC_LOADING_UNIQUE_IMPROVEMENT">
 			<Text>Özel Yapı</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_LOADING_JOIN_THE_WORLD_STAGE">
+		<Replace Language="en_US" Tag="LOC_LOADING_JOIN_THE_WORLD_STAGE">
 			<Text>dünya sahnesine katılıyor</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_LOADING_FEATURES_ABILITIES">
+		<Replace Language="en_US" Tag="LOC_LOADING_FEATURES_ABILITIES">
 			<Text>Özellikler &amp; Yetenekler</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_LOADING_START_GAME">
+		<Replace Language="en_US" Tag="LOC_LOADING_START_GAME">
 			<Text>Oyuna Başla</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_LOADING_CONTINUE_GAME">
+		<Replace Language="en_US" Tag="LOC_LOADING_CONTINUE_GAME">
 			<Text>Oyuna Devam Et</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_LOADING_INFO_LEADER_DEFAULT">
+		<Replace Language="en_US" Tag="LOC_LOADING_INFO_LEADER_DEFAULT">
 			<Text>Kendi uygarlığınıza liderlik etmek ve onu çağlardan çağlara taşıyacak bir medeniyet haline getirmek sizin elinizde.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_LOADING_INFO_LEADER_BARBAROSSA">
+		<Replace Language="en_US" Tag="LOC_LOADING_INFO_LEADER_BARBAROSSA">
 			<Text>Kahraman Fredrik, Almanların Kralı, göreviniz çevredeki bağımsız şehir devletlerinden bir imparatorluk kurmaktır. Savaş sanatında ustasınız – bu yeteneğinizi şehirleri egemenliğiniz altına almak için kullanın ki ticaret ve sanayi merkezleri haline gelsinler. Kızıl sakalıyla Fredrik, gelecekte en büyük Kutsal Roma İmparatoru olarak anılacak.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_LOADING_INFO_LEADER_CATHERINE_DE_MEDICI">
+		<Replace Language="en_US" Tag="LOC_LOADING_INFO_LEADER_CATHERINE_DE_MEDICI">
 			<Text>Değerli Catherine de' Medici, bilgiyi ve sanatı kullanarak halkınızı birleştirmek sizin elinizde. Fransa'nın kraliçe annesi olarak bu zor zamanlarda dikkatli yönetin. Dünyanın dört bir yanından ziyaretçiler çekecek büyük harikalar inşa edeceksiniz. Görünen ve görünmeyeni bilmek krallığınızı zamanın sınavından geçirerek kalıcı kılacak.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_LOADING_INFO_LEADER_CLEOPATRA">
+		<Replace Language="en_US" Tag="LOC_LOADING_INFO_LEADER_CLEOPATRA">
 			<Text>Kleopatra, sizi hafife alanlar var, ancak zekisiniz ve hilelerinizi biliyorsunuz. Cazibenizle dünyanın en güçlü hükümdarlarıyla güçlü ittifaklar kuracaksınız. Dostlarınızı yakın tutun ve Mısır’ın ihtişamı dünyayı fethederken dokunulmaz olacaksınız.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_LOADING_INFO_LEADER_GANDHI">
+		<Replace Language="en_US" Tag="LOC_LOADING_INFO_LEADER_GANDHI">
 			<Text>Sevgili Gandhi Bapu, dostluk dolu çevrelerle karşılaşacaksınız, eğer nazik olursanız. Hint halkını güvende tutun ve sınırları güçlü fil savaşçılarıyla koruyun. İnancınız sizi barış ve uyuma taşıyacak. Zihninizi açık tutun ve dünyada görmek istediğiniz değişimin kendisi olun.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_LOADING_INFO_LEADER_GILGAMESH">
+		<Replace Language="en_US" Tag="LOC_LOADING_INFO_LEADER_GILGAMESH">
 			<Text>Kral Gilgamesh, omuzlarınızda büyük bir yük var. Halkınız ve dünyanın birçok halkı sizi lider olarak görüyor. Ancak siz sıradan bir adam değilsiniz; dünyanın yükü sizi asla sarsamayacak. Sümer halkını zengin nehir kenarlarına yerleşmeye teşvik edin ve müttefiklerinizi dikkatle seçin, çünkü gücünüzden pay almak isteyenler çok. Destansı hikayeniz şimdi başlıyor.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_LOADING_INFO_LEADER_GORGO">
+		<Replace Language="en_US" Tag="LOC_LOADING_INFO_LEADER_GORGO">
 			<Text>Sparta’nın Kraliçesi Gorgo; onur size ve sadık hoplit ordularınıza! Yunanistan, her zaferle beraber gelen Ares’in lütfuna sahiptir. Halkınız dikkatli yönetiminizi ve kültürel harikalarınızı övgüyle anacak. Yunan mirası uğruna dik durun, başarılarınız nesilden nesile anlatılacak.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_LOADING_INFO_LEADER_HARDRADA">
+		<Replace Language="en_US" Tag="LOC_LOADING_INFO_LEADER_HARDRADA">
 			<Text>Norveç Kralı Harald, Kuzey’in Yıldırımı! Gemilerinizin gelişi korkuyla beklenir. Uzun gemileriniz dalgalara hükmeder ve her an kıyılara berserk orduları bırakmaya hazırdır. Odin krallığınızı kutsasın ve skaldlar, büyük savaşçılarınızın zaferlerini şarkılarla anlatsın.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_LOADING_INFO_LEADER_HOJO">
+		<Replace Language="en_US" Tag="LOC_LOADING_INFO_LEADER_HOJO">
 			<Text>Budizmin büyük dalgası sizinle, Japonya’nın şikkeni Hojo Tokimune. Halkınız dengeyi nasıl sağlayacağını çok iyi bilir ve samuraylarınız en bilge ve ruhen güçlü savaşçılardır. Güçlü olun, kutsal rüzgârın esmesine izin verin ve aydınlanmaya ulaşın.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_LOADING_INFO_LEADER_MVEMBA">
+		<Replace Language="en_US" Tag="LOC_LOADING_INFO_LEADER_MVEMBA">
 			<Text>Kral Mvemba a Nzinga, Yeryüzü Ana size birçok armağan sunuyor. Halkınız, evlerindeki sık ormanları ve yağmur ormanlarını rahatlıkla tanır. Uzak diyarlardan gelen seyyahların hediyeleri de büyüktür. Zihninizi açık tutun, çünkü dünyadan ilham almak halkımıza güçlü ve asil sanatlar yaratma yeteneği kazandıracak.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_LOADING_INFO_LEADER_PEDRO">
+		<Replace Language="en_US" Tag="LOC_LOADING_INFO_LEADER_PEDRO">
 			<Text>Yüce Pedro III, halkınız sizi Brezilya’yı dünya sahnesine taşımaya bekliyor. Sanatı, bilimi ve mühendisliği destekleyerek büyük zihinleri bereketli topraklarımıza çekin; yaşam dolu yağmur ormanları halkımızı büyütecek! Karnavallarda, halkınız büyük başarılarınızı kutlarken samba yaparken onları göreceksiniz, Yüce Gönüllü Pedro.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_LOADING_INFO_LEADER_PERICLES">
+		<Replace Language="en_US" Tag="LOC_LOADING_INFO_LEADER_PERICLES">
 			<Text>Söz sanatını ustaca kullanmanız, Perikles, Yunan halkının lideri olarak büyük bir armağandır. Bu yetenekle sadık bir devletler birliği kurabilir, güçlerini arkanızda toplayabilirsiniz. Yunanistan’ın kayalık kıyılarına kültürel alanlar inşa ederek halkınızı bir araya getirin. İşler yolunda gittiğinde, sirenler Perikles'in mirasını şarkılarla anlatacak!</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_LOADING_INFO_LEADER_PETER_GREAT">
+		<Replace Language="en_US" Tag="LOC_LOADING_INFO_LEADER_PETER_GREAT">
 			<Text>Ülkenizin dondurucu rüzgârlarını kucaklayın, Büyük Çar Petro. Bilim ve sanata olan ilginiz büyük bir armağandır ve yurtdışına gönderdiğiniz elçilikler sayesinde çok şey öğreneceksiniz. Liderliğiniz altında Rusya büyüyecek, genişleyecek ve belki de en büyük kara imparatorluğunu yaratacaktır.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_LOADING_INFO_LEADER_PHILIP_II">
+		<Replace Language="en_US" Tag="LOC_LOADING_INFO_LEADER_PHILIP_II">
 			<Text>Bütün İspanya dualarınıza yanıt vermeye hazır, dindar Kral II. Filip. El Escorial Sarayı'ndan elçiler, havariler ve konkistadorlar gönderebilirsiniz; onlar denizleri aşarak kutsal krallığınızın mesajını yaymaya hazırlar. Buldukları zenginlikler dünyayı bir inanç ve güç altında birleştirecek; böylece siz en dindar kral olacaksınız.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_LOADING_INFO_LEADER_QIN">
+		<Replace Language="en_US" Tag="LOC_LOADING_INFO_LEADER_QIN">
 			<Text>Halkınızda büyük bir güç yatıyor, İmparator Qin Shi Huang. Dünyanın dört bir yanından insanlar, muhteşem surlarınız ve etkileyici harikalarınızla birleşen Çin'i görmek için gelecek. Halkınız, en muazzam yapıları inşa etmek için yorulmadan çalışacak. Onları koruyun, böylece ebedi olacak bir miras bırakın.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_LOADING_INFO_LEADER_SALADIN">
+		<Replace Language="en_US" Tag="LOC_LOADING_INFO_LEADER_SALADIN">
 			<Text>Bilim ve inanç arasında denge kurmak ustalık gerektirir, ama bunu başardınız, büyük Saladin. Bilgiye ve anlayışa verdiğiniz değer takdire şayandır ve halkınız sizi derin bir sevgiyle anacaktır. Ancak aceleye gerek yok; zamanla, yaşamın büyük sorularının cevapları Arabistan’a geri dönecek.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_LOADING_INFO_LEADER_TOMYRIS">
+		<Replace Language="en_US" Tag="LOC_LOADING_INFO_LEADER_TOMYRIS">
 			<Text>Tomyris, büyük savaşçı kraliçe; herkes size hayranlık ve korkuyla bakıyor. İskitleri yönetiyor, halkınızı at sırtında izliyorsunuz. Savaş meydanlarının ön saflarındaki süvari savaşçılarınız efsanelere dönüşüyor – ve siz onların liderisiniz. İlerle, cesur kraliçe; gerçek dostlarınız düşmanlarınızın zaaflarında ortaya çıkacak.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_LOADING_INFO_LEADER_TRAJAN">
+		<Replace Language="en_US" Tag="LOC_LOADING_INFO_LEADER_TRAJAN">
 			<Text>İmparator Trajanus, muazzam Roma İmparatorluğu’nun lideri olarak ağınızı genişletin. Lejyonlarınız, tarihin gördüğü en büyük imparatorluğu kurmak için hazır bekliyor. Tüm yolları Roma’ya götürdüğünüzde, halkınız sizi en iyi lider olarak ilan edecek ve Optimus Princeps unvanını alacaksınız.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_LOADING_INFO_LEADER_T_ROOSEVELT">
+		<Replace Language="en_US" Tag="LOC_LOADING_INFO_LEADER_T_ROOSEVELT">
 			<Text>Theodore Roosevelt, geniş omuzlarınıza büyük bir sorumluluk yüklendi. Halkınız için hak ettikleri fırsatları yaratmak üzere askerî gücünüzü kullanın. Bu, Amerika Birleşik Devletleri'ni sahneye taşıyacak ve dünyayı topraklarınıza hayran bırakacak. Size başarılar, Sayın Başkan.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_LOADING_INFO_LEADER_VICTORIA">
+		<Replace Language="en_US" Tag="LOC_LOADING_INFO_LEADER_VICTORIA">
 			<Text>Majesteleri Kraliçe Victoria, İngiltere’nin sınırlarını dünyaya açın. Sadık kırmızı ceketlileriniz ve üstün donanmanız tüm zorlukların üstesinden gelecektir. Sakin ve dengeli yönetiminizle tüm dünyayı İngiltere’nin hâkimiyeti altına alın ve gerçek bir Pax Britannica yaratın.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ERA_ANCIENT_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ERA_ANCIENT_DESCRIPTION">
 			<Text>Yaşamın sular altında başlamasından ve insanın ilk adımlarından bu yana uzun bir yol kat edildi… Şimdi ise en büyük yolculuk başlıyor: ilkel uygarlığın beşiğinden uzak yıldızlara doğru bir macera.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ERA_CLASSICAL_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ERA_CLASSICAL_DESCRIPTION">
 			<Text>Mütevazı başlangıçlarımızdan bu yana büyük bir gelişim gösterdik. Artık bronzdan demire geçme ve atlarla, kılıçlarla hükmetme zamanı geldi. Gökyüzü sırlarını açığa çıkarmaya başlıyor ve bu sırlar kalplerimizi bilinmeyen diyarlara yönlendiriyor.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ERA_MEDIEVAL_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ERA_MEDIEVAL_DESCRIPTION">
 			<Text>Taştan görkemli şehirler inşa ettiniz ve krallıkların yükselişine ve çöküşüne tanık oldunuz. Kısa süre içinde kalelerinizin gölgelerinde, şövalyelerinizle birlikte duracaksınız. Yakında ulusumuzun hikâyesi yazılacak. Dünyadaki yerimizi tıpkı kılıcını öğrenen bir çırak gibi öğreneceğiz.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ERA_RENAISSANCE_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ERA_RENAISSANCE_DESCRIPTION">
 			<Text>Müsketlerin gücü ve gökyüzündeki yıldızların ışığı egemenlik kazanıyor. Küçük kelimeler bile kağıda döküldüğünde büyük değişimler getirebilir. Başta geniş ve bilinmeyen dünya, şimdi daha tanıdık hale geldi. Ancak hâlâ cevap bekleyen sorular, test edilecek inançlar ve oluşturulacak ulusal kimlikler var.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ERA_INDUSTRIAL_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ERA_INDUSTRIAL_DESCRIPTION">
 			<Text>Makinelerin sürekli uğultusu, dumanın keskin kokusu ve külle kaplı gökyüzü... Değişim zamanları bunlarla işaretlenir. Bilim ve kültürdeki ilerleme ulusun motorudur. İnsan ile doğa, savaş ile barış arasındaki dengeyi sağlamak, en büyük sınavımızdır.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ERA_MODERN_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ERA_MODERN_DESCRIPTION">
 			<Text>Zamanın başlangıcında uçan insanlar hakkında efsaneler vardı. Şimdi bu efsaneler gerçeğe dönüşüyor. Uçuş ve yeni iletişim yöntemleriyle dünya küçülüyor, daha samimi hale geliyor. Ancak bu gelişmenin bir bedeli var: Farklı ideolojiler arasındaki çatışma, uluslararası arenada gerginlik yaratıyor. Yükselen bu ideolojik rekabet içinde yolumuzu seçmek zorundayız.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ERA_ATOMIC_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ERA_ATOMIC_DESCRIPTION">
 			<Text>Yeni keşifler ufkumuzu genişletiyor; atomun gizemlerinden uzayın uçsuz bucaksızlığına kadar. Eski sırlar açığa çıkıyor ve daha önce görünmeyen gerçekler şekilleniyor. Bu bilgiyi nasıl kullanacağımızı seçmek bizim elimizde. Böylece insanlığın karşılaştığı en büyük karanlığı yenebiliriz.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ERA_INFORMATION_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ERA_INFORMATION_DESCRIPTION">
 			<Text>Bilgi çağı elimizde ve anında iletişim ağları dünyayı kaplıyor. Yine de geleceğe dair birleşik bir vizyon oluşturulmadı. Teknoloji, kültür ve politikada yarışıyoruz. Tüm gezegeni yok edebilecek silahlara sahibiz. Dikkatli ama cesurca liderlik etme ve önümüzdeki yıllara dayanacak uluslararası bir topluluk oluşturma zamanı.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TUTORIAL_DISABLE">
+		<Replace Language="en_US" Tag="LOC_TUTORIAL_DISABLE">
 			<Text>Danışmanı devre dışı bırak.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TUTORIAL_NEW_TO_STRATEGY">
+		<Replace Language="en_US" Tag="LOC_TUTORIAL_NEW_TO_STRATEGY">
 			<Text>Sıra tabanlı stratejiye yeni.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TUTORIAL_NEW_TO_CIV">
+		<Replace Language="en_US" Tag="LOC_TUTORIAL_NEW_TO_CIV">
 			<Text>Civilization'a yeni</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TUTORIAL_NEW_TO_CIV_6">
+		<Replace Language="en_US" Tag="LOC_TUTORIAL_NEW_TO_CIV_6">
 			<Text>Civilization VI'ya yeni</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_NO_DUPLICATE_LEADERS_NAME">
+		<Replace Language="en_US" Tag="LOC_NO_DUPLICATE_LEADERS_NAME">
 			<Text>Aynı liderler yok</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_NO_TEAMS_NAME">
+		<Replace Language="en_US" Tag="LOC_NO_TEAMS_NAME">
 			<Text>Takım yok</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_NO_DUPLICATE_LEADERS_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_NO_DUPLICATE_LEADERS_DESCRIPTION">
 			<Text>Bu ayar, iki oyuncunun aynı lideri seçmesini engeller.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_NO_TEAMS_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_NO_TEAMS_DESCRIPTION">
 			<Text>Bu ayar takım olarak oynamayı engeller.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_LIMIT_TURNS_NAME">
+		<Replace Language="en_US" Tag="LOC_LIMIT_TURNS_NAME">
 			<Text>Tur sınırı</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_LIMIT_TURNS_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_LIMIT_TURNS_DESCRIPTION">
 			<Text>En fazla izin verilen tur sayısını ayarlar</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TURNLIMIT_NONE_NAME">
+		<Replace Language="en_US" Tag="LOC_TURNLIMIT_NONE_NAME">
 			<Text>Tur sınırı yok</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TURNLIMIT_NONE_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_TURNLIMIT_NONE_DESCRIPTION">
 			<Text>Tur sayısında sınır yok.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TURNLIMIT_GAMESPEED_NAME">
+		<Replace Language="en_US" Tag="LOC_TURNLIMIT_GAMESPEED_NAME">
 			<Text>Hıza göre</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TURNLIMIT_GAMESPEED_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_TURNLIMIT_GAMESPEED_DESCRIPTION">
 			<Text>Oyun MS 2050 yılında sona erer.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TURNLIMIT_CUSTOM_NAME">
+		<Replace Language="en_US" Tag="LOC_TURNLIMIT_CUSTOM_NAME">
 			<Text>Özel</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TURNLIMIT_CUSTOM_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_TURNLIMIT_CUSTOM_DESCRIPTION">
 			<Text>Oyun belirlenen tur sayısı kadar sürer.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITYSTATE_COUNT_NAME">
+		<Replace Language="en_US" Tag="LOC_CITYSTATE_COUNT_NAME">
 			<Text>Şehir Devletleri:</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITYSTATE_COUNT_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_CITYSTATE_COUNT_DESCRIPTION">
 			<Text>Oyunda yer alan şehir devletlerinin sayısı.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MAX_TURNS_NAME">
+		<Replace Language="en_US" Tag="LOC_MAX_TURNS_NAME">
 			<Text>Tur sınırı:</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MAX_TURNS_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_MAX_TURNS_DESCRIPTION">
 			<Text>Oyunda oynanabilecek maksimum tur sayısı.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MAINMENU_RESUME_GAME_TT">
+		<Replace Language="en_US" Tag="LOC_MAINMENU_RESUME_GAME_TT">
 			<Text>Önceki oyuna devam et.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MAINMENU_LOAD_GAME_TT">
+		<Replace Language="en_US" Tag="LOC_MAINMENU_LOAD_GAME_TT">
 			<Text>Son kaydedilen oyunu yükle.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MAINMENU_PLAY_NOW_TT">
+		<Replace Language="en_US" Tag="LOC_MAINMENU_PLAY_NOW_TT">
 			<Text>Rastgele liderlerle küçük kıta haritasında oyna.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MAINMENU_CREATE_GAME_TT">
+		<Replace Language="en_US" Tag="LOC_MAINMENU_CREATE_GAME_TT">
 			<Text>Kendi ayarlarını kullanarak yeni bir oyun oluştur.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MAINMENU_SCENARIOS_TT">
+		<Replace Language="en_US" Tag="LOC_MAINMENU_SCENARIOS_TT">
 			<Text>Özel kurallar, liderler ve hedefler içeren farklı bir deneyim sunan senaryoları oyna.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MAINMENU_SINGLE_PLAYER_TT">
+		<Replace Language="en_US" Tag="LOC_MAINMENU_SINGLE_PLAYER_TT">
 			<Text>Şimdi oyna, yeni bir oyun oluştur veya önceki oyuna devam et.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MAINMENU_MULTIPLAYER_TT">
+		<Replace Language="en_US" Tag="LOC_MAINMENU_MULTIPLAYER_TT">
 			<Text>İnternet, yerel ağ ve sıcak koltuk oyunlarına buradan erişebilirsiniz.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MAINMENU_GAME_OPTIONS_TT">
+		<Replace Language="en_US" Tag="LOC_MAINMENU_GAME_OPTIONS_TT">
 			<Text>Grafik, ses, tuş atamaları ve diğer ayarlar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MAINMENU_MODS_TT">
+		<Replace Language="en_US" Tag="LOC_MAINMENU_MODS_TT">
 			<Text>Civilization VI'yı genişleten hayran yapımı içerikler.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MAINMENU_TUTORIAL_TT">
+		<Replace Language="en_US" Tag="LOC_MAINMENU_TUTORIAL_TT">
 			<Text>Bu oyuna yeni misiniz veya hafızanızı tazelemek mi istiyorsunuz? Yardımcı olmaktan mutluluk duyarız!</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MAINMENU_BENCHMARK_TT">
+		<Replace Language="en_US" Tag="LOC_MAINMENU_BENCHMARK_TT">
 			<Text>Bilgisayarınızın performansını test edin.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MAINMENU_WORLDBUILDER_TT">
+		<Replace Language="en_US" Tag="LOC_MAINMENU_WORLDBUILDER_TT">
 			<Text>Dünya kurucusu harita editörü.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MAINMENU_CREDITS_TT">
+		<Replace Language="en_US" Tag="LOC_MAINMENU_CREDITS_TT">
 			<Text>Civilization VI'nın yapımında emeği geçen herkes.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MAINMENU_EXIT_GAME_TT">
+		<Replace Language="en_US" Tag="LOC_MAINMENU_EXIT_GAME_TT">
 			<Text>Oyundan çık.</Text>
 		</Replace>
 		<!-- Copyright screen -->
-		<Replace Language="pl_PL" Tag="LOC_COPYRIGHT_TEXT">
+		<Replace Language="en_US" Tag="LOC_COPYRIGHT_TEXT">
 			<Text>© 1991-2021 Take-Two Interactive Software, Inc. Developed by Firaxis Games. 2K, Firaxis Games, Sid Meier's Civilization VI, Sid Meier's Civilization, Civilization, Civ, and their respective logos are trademarks of Take-Two Interactive Software, Inc. Uses Bink Video. Copyright © 1997-2021 by RAD Game Tools, Inc. Uses Granny Animation. Copyright © 1999-2021 by RAD Game Tools Inc. Fork Copyright © 2021 Fork Particle, Inc. Sid Meier's Civilization VI uses Havok®. © Copyright 1999 – 2021 Havok.com, Inc. (and its Licensors). All Rights Reserved. See www.havok.com for details. AMD, the AMD Arrow logo, Radeon, Crossfire, and combinations thereof are either registered trademarks or trademarks of Advanced Micro Devices, Inc. in the United States and/or other countries. Microsoft, DirectX, Visual Studio, and Windows are either registered trademarks or trademarks of Microsoft Corporation in the United States and/or other countries. Lua Copyright © 1994-2021 Lua.org, PUC-Rio. All other marks and trademarks are the property of their respective owners. All rights reserved. The content of this videogame is fictional and is not intended to represent or depict an actual record of the events, persons or entities in the game's historical setting.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_COPYRIGHT_ACCEPT">
+		<Replace Language="en_US" Tag="LOC_COPYRIGHT_ACCEPT">
 			<Text>Devam et</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_VICTORY_DEFAULT_NAME">
+		<Replace Language="en_US" Tag="LOC_VICTORY_DEFAULT_NAME">
 			<Text>Zafer</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_VICTORY_HEADER">
+		<Replace Language="en_US" Tag="LOC_VICTORY_HEADER">
 			<Text>ZAFER!</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_DEFEATED_SUBHEADER">
+		<Replace Language="en_US" Tag="LOC_DEFEATED_SUBHEADER">
 			<Text>YENİLGİ</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ELIMINATED_SUBHEADER">
+		<Replace Language="en_US" Tag="LOC_ELIMINATED_SUBHEADER">
 			<Text>YOK EDİLDİ</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_VICTORY_SCORE_SUBHEADER">
+		<Replace Language="en_US" Tag="LOC_VICTORY_SCORE_SUBHEADER">
 			<Text>PUAN ZAFERİ</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_VICTORY_SCIENCE_SUBHEADER">
+		<Replace Language="en_US" Tag="LOC_VICTORY_SCIENCE_SUBHEADER">
 			<Text>BİLİM ZAFERİ</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_VICTORY_CULTURE_SUBHEADER">
+		<Replace Language="en_US" Tag="LOC_VICTORY_CULTURE_SUBHEADER">
 			<Text>KÜLTÜR ZAFERİ</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_VICTORY_DOMINATION_SUBHEADER">
+		<Replace Language="en_US" Tag="LOC_VICTORY_DOMINATION_SUBHEADER">
 			<Text>HAKİMİYET ZAFERİ</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_VICTORY_RELIGIOUS_SUBHEADER">
+		<Replace Language="en_US" Tag="LOC_VICTORY_RELIGIOUS_SUBHEADER">
 			<Text>DİNİ ZAFER</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_VICTORY_SCENARIO_SUBHEADER">
+		<Replace Language="en_US" Tag="LOC_VICTORY_SCENARIO_SUBHEADER">
 			<Text>ZAFFER: {1_ScenarioName}</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_VICTORY_SCENARIO_VICTORY_TYPE_SUBHEADER">
+		<Replace Language="en_US" Tag="LOC_VICTORY_SCENARIO_VICTORY_TYPE_SUBHEADER">
 			<Text>{1_ScenarioVictoryType}</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_VICTORY_GAME_WINNER_SUBHEADER">
+		<Replace Language="en_US" Tag="LOC_VICTORY_GAME_WINNER_SUBHEADER">
 			<Text>OYUNUN KAZANANI</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_VICTORY_SCORE_NAME">
+		<Replace Language="en_US" Tag="LOC_VICTORY_SCORE_NAME">
 			<Text>Puan Zaferi</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_VICTORY_SCIENCE_NAME">
+		<Replace Language="en_US" Tag="LOC_VICTORY_SCIENCE_NAME">
 			<Text>Bilim Zaferi</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_VICTORY_CULTURE_NAME">
+		<Replace Language="en_US" Tag="LOC_VICTORY_CULTURE_NAME">
 			<Text>Kültür Zaferi</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_VICTORY_DOMINATION_NAME">
+		<Replace Language="en_US" Tag="LOC_VICTORY_DOMINATION_NAME">
 			<Text>Hakimiyet Zaferi</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_VICTORY_RELIGIOUS_NAME">
+		<Replace Language="en_US" Tag="LOC_VICTORY_RELIGIOUS_NAME">
 			<Text>Dini Zafer</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_VICTORY_SCORE_TT">
+		<Replace Language="en_US" Tag="LOC_VICTORY_SCORE_TT">
 			<Text>Bu zafer, başka bir zafer türü elde edilemediğinde ve zaman dolduğunda ilan edilir. İki kazanan ilan edilemez.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_VICTORY_SCIENCE_TT">
+		<Replace Language="en_US" Tag="LOC_VICTORY_SCIENCE_TT">
 			<Text>Marsa ilk yerleşen bilim zaferini kutlar. Bu zafer türü açıktır, ancak zaman dolmadan önce başarmak zordur.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_VICTORY_CULTURE_TT">
+		<Replace Language="en_US" Tag="LOC_VICTORY_CULTURE_TT">
 			<Text>Kültürel büyüklük, tüm dünya milletlerini halkımızı ziyaret etmeye çeker. Bu, en zor zafer türüdür.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_VICTORY_DOMINATION_TT">
+		<Replace Language="en_US" Tag="LOC_VICTORY_DOMINATION_TT">
 			<Text>Dünyayı askeri güç ve kurnazlıkla diz çöktürmek. Bu, en yaygın zafer yoludur.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_VICTORY_RELIGIOUS_TT">
+		<Replace Language="en_US" Tag="LOC_VICTORY_RELIGIOUS_TT">
 			<Text>Dünyanın her köşesine dini yaymak, ışığın karanlığı yenmesi için. Tüm dünyayı tek bir doğru dine inandırmak için diplomatik ilişkiler gerektirir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_RULESET_NAME">
+		<Replace Language="en_US" Tag="LOC_RULESET_NAME">
 			<Text>Temel Oyun</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_RULESET_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_RULESET_DESCRIPTION">
 			<Text>Civilization VI orijinal oyun mekaniği ile.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TUTORIAL_PLAY_CLEO_NAME">
+		<Replace Language="en_US" Tag="LOC_TUTORIAL_PLAY_CLEO_NAME">
 			<Text>Kleopatra olarak oyna</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TUTORIAL_PLAY_GILG_NAME">
+		<Replace Language="en_US" Tag="LOC_TUTORIAL_PLAY_GILG_NAME">
 			<Text>Gilgamesh olarak oyna</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MAIN_MENU_ADDITIONAL_CONTENT">
+		<Replace Language="en_US" Tag="LOC_MAIN_MENU_ADDITIONAL_CONTENT">
 			<Text>Ek İçerik</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MAIN_MENU_ADDITIONAL_CONTENT_TT">
+		<Replace Language="en_US" Tag="LOC_MAIN_MENU_ADDITIONAL_CONTENT_TT">
 			<Text>Civilization VI için ek içerik.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MAIN_MENU_DEMO">
+		<Replace Language="en_US" Tag="LOC_MAIN_MENU_DEMO">
 			<Text>Demo</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MAIN_MENU_DEMO_PURCHASE">
+		<Replace Language="en_US" Tag="LOC_MAIN_MENU_DEMO_PURCHASE">
 			<Text>Hemen Satın Al</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MAIN_MENU_DEMO_PURCHASE_TT">
+		<Replace Language="en_US" Tag="LOC_MAIN_MENU_DEMO_PURCHASE_TT">
 			<Text>Civilization VI'yı satın almak için Steam mağazasını aç.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_DEMO_COMPLETE_CONTENT">
+		<Replace Language="en_US" Tag="LOC_DEMO_COMPLETE_CONTENT">
 			<Text>Tebrikler! Sonsuzluğa kadar sürecek bir medeniyet yaratma yolunda ilk adımlarınızı attınız. Tarihin en büyük liderlerine karşı kendinizi sınamaya devam edecek misiniz? Kültürünüz gelişecek mi? Biliminiz aydınlatacak mı? İnancınız ilham verecek mi? Askeri gücünüz ezip geçecek mi?[NEWLINE][NEWLINE]Sid Meier's Civilization VI'da nasıl yöneteceksiniz? Şimdi yolculuğunuza devam edin.[NEWLINE][NEWLINE]İnşa Et. Fethet. İlham Ver.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_DEMO_COMPLETE_MAIN_MENU">
+		<Replace Language="en_US" Tag="LOC_DEMO_COMPLETE_MAIN_MENU">
 			<Text>Geri Dön</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_DEMO_COMPLETE_BUY">
+		<Replace Language="en_US" Tag="LOC_DEMO_COMPLETE_BUY">
 			<Text>Büyüklüğe Ulaş</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ARX_VICTORY_PROGRESS">
+		<Replace Language="en_US" Tag="LOC_ARX_VICTORY_PROGRESS">
 			<Text>{1_CivName} zafer ilerlemesi</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ARX_TOP_5">
+		<Replace Language="en_US" Tag="LOC_ARX_TOP_5">
 			<Text>En İyi 5</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ARX_GOSSIP_LOG">
+		<Replace Language="en_US" Tag="LOC_ARX_GOSSIP_LOG">
 			<Text>Dedikodu Günlüğü</Text>
 		</Replace>
 		<!-- File Errors -->
-		<Replace Language="pl_PL" Tag="LOC_SERIALIZATION_ERROR_VERSION_MISMATCH">
+		<Replace Language="en_US" Tag="LOC_SERIALIZATION_ERROR_VERSION_MISMATCH">
 			<Text>Kaydı bu oyun sürümünde yüklemek mümkün değil.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_SERIALIZATION_ERROR_FAILED_TO_OPEN">
+		<Replace Language="en_US" Tag="LOC_SERIALIZATION_ERROR_FAILED_TO_OPEN">
 			<Text>Kaydı açmak mümkün değil.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_SERIALIZATION_ERROR_FAILED_TO_WRITE">
+		<Replace Language="en_US" Tag="LOC_SERIALIZATION_ERROR_FAILED_TO_WRITE">
 			<Text>Kaydı yazmak mümkün değil.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_SERIALIZATION_ERROR_FAILED_TO_READ">
+		<Replace Language="en_US" Tag="LOC_SERIALIZATION_ERROR_FAILED_TO_READ">
 			<Text>Kaydı okumak mümkün değil.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_SERIALIZATION_ERROR_FAILED_TO_REMOVE">
+		<Replace Language="en_US" Tag="LOC_SERIALIZATION_ERROR_FAILED_TO_REMOVE">
 			<Text>Kaydı silmek mümkün değil.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_SERIALIZATION_ERROR_NOT_SAVE_GAME">
+		<Replace Language="en_US" Tag="LOC_SERIALIZATION_ERROR_NOT_SAVE_GAME">
 			<Text>Dosya bir oyun kaydı değil.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_SERIALIZATION_ERROR_CORRUPT_SAVE">
+		<Replace Language="en_US" Tag="LOC_SERIALIZATION_ERROR_CORRUPT_SAVE">
 			<Text>Oyun kaydı bozuk.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_SERIALIZATION_ERROR_UNEXPECTED_END_OF_FILE">
+		<Replace Language="en_US" Tag="LOC_SERIALIZATION_ERROR_UNEXPECTED_END_OF_FILE">
 			<Text>Kaydın yüklenmesi beklenmedik şekilde sona erdi.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_SERIALIZATION_ERROR_RESTORING_STATE">
+		<Replace Language="en_US" Tag="LOC_SERIALIZATION_ERROR_RESTORING_STATE">
 			<Text>Oyun durumunu geri yüklemek mümkün değil.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_SERIALIZATION_ERROR_PATH_NOT_FOUND">
+		<Replace Language="en_US" Tag="LOC_SERIALIZATION_ERROR_PATH_NOT_FOUND">
 			<Text>Kaydın yolu bulunamıyor.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_SERIALIZATION_ERROR_INVALID_DEVICE">
+		<Replace Language="en_US" Tag="LOC_SERIALIZATION_ERROR_INVALID_DEVICE">
 			<Text>Geçersiz kayıt cihazı.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_SERIALIZATION_ERROR_MISSING_REQUIRED_FILE_LIST">
+		<Replace Language="en_US" Tag="LOC_SERIALIZATION_ERROR_MISSING_REQUIRED_FILE_LIST">
 			<Text>Cihazdan gerekli dosya listesini almak mümkün değil.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_SERIALIZATION_ERROR_MISSING_REQUIRED_MOD">
+		<Replace Language="en_US" Tag="LOC_SERIALIZATION_ERROR_MISSING_REQUIRED_MOD">
 			<Text>Kaydın gerektirdiği bir veya daha fazla mod yüklenmemiş.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_SERIALIZATION_ERROR_MISSING_REQUIRED_DLC">
+		<Replace Language="en_US" Tag="LOC_SERIALIZATION_ERROR_MISSING_REQUIRED_DLC">
 			<Text>Kaydın gerektirdiği bir veya daha fazla DLC yüklenmemiş.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_SERIALIZATION_ERROR_MISSING_REQUIRED_EXPANSION">
+		<Replace Language="en_US" Tag="LOC_SERIALIZATION_ERROR_MISSING_REQUIRED_EXPANSION">
 			<Text>Kaydın gerektirdiği bir veya daha fazla genişleme paketi yüklenmemiş.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TEAM_NAME_SELECT_TITLE">
+		<Replace Language="en_US" Tag="LOC_TEAM_NAME_SELECT_TITLE">
 			<Text>Takım Adı</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TEAM_NAME_ENTRY_TITLE">
+		<Replace Language="en_US" Tag="LOC_TEAM_NAME_ENTRY_TITLE">
 			<Text>Takım Adını Gir</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CHOOSE_TEAM_ICON">
+		<Replace Language="en_US" Tag="LOC_CHOOSE_TEAM_ICON">
 			<Text>Takım Simgesini Seç</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MESSAGE_OF_THE_DAY_HEADING">
+		<Replace Language="en_US" Tag="LOC_MESSAGE_OF_THE_DAY_HEADING">
 			<Text>Günün Mesajı:</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_GAME_START_ERROR_DESC">
+		<Replace Language="en_US" Tag="LOC_GAME_START_ERROR_DESC">
 			<Text>Oyunu başlatırken bir hata oluştu.[NEWLINE][NEWLINE]Modları devre dışı bırakmanız ve tekrar denemeniz önerilir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_GAME_START_ERROR_CODE">
+		<Replace Language="en_US" Tag="LOC_GAME_START_ERROR_CODE">
 			<Text>Hata - {1_ErrorCode}</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_GAME_START_VIEW_MODS">
+		<Replace Language="en_US" Tag="LOC_GAME_START_VIEW_MODS">
 			<Text>Modları Yönet</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_GAME_START_ERROR_TITLE">
+		<Replace Language="en_US" Tag="LOC_GAME_START_ERROR_TITLE">
 			<Text>Oyunu başlatma hatası</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_GAME_START_ERROR_UNKNOWN_VERSION">
+		<Replace Language="en_US" Tag="LOC_GAME_START_ERROR_UNKNOWN_VERSION">
 			<Text>Uyumsuz kayıt sürümü.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_GAME_START_ERROR_MOD_CONTENT">
+		<Replace Language="en_US" Tag="LOC_GAME_START_ERROR_MOD_CONTENT">
 			<Text>Bir veya daha fazla mod içeriğini yükleyemedi.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_GAME_START_ERROR_MOD_CONFIG">
+		<Replace Language="en_US" Tag="LOC_GAME_START_ERROR_MOD_CONFIG">
 			<Text>Bir veya daha fazla mod içeriği veya veritabanı kayıtlarını yapılandıramadı.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_GAME_START_ERROR_MOD_OWNERSHIP">
+		<Replace Language="en_US" Tag="LOC_GAME_START_ERROR_MOD_OWNERSHIP">
 			<Text>Bir veya daha fazla mod satın alınmamış.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_GAME_START_ERROR_SCRIPT_PROCESSING">
+		<Replace Language="en_US" Tag="LOC_GAME_START_ERROR_SCRIPT_PROCESSING">
 			<Text>Bir veya daha fazla başlangıç betiği hata içeriyor. lua.log dosyasını kontrol edin.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CLOUD_SAVES_REQUIRE_LINKED_ACCOUNT">
+		<Replace Language="en_US" Tag="LOC_CLOUD_SAVES_REQUIRE_LINKED_ACCOUNT">
 			<Text>Bulut kayıtları 2K hesabı gerektirir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CLOUD_SAVES_SERVICE_NOT_CONNECTED">
+		<Replace Language="en_US" Tag="LOC_CLOUD_SAVES_SERVICE_NOT_CONNECTED">
 			<Text>Bulut kayıt hizmetleri erişilebilir değil.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PAUSEMENU_INFO_OVERVIEW_TOOLTIP">
+		<Replace Language="en_US" Tag="LOC_PAUSEMENU_INFO_OVERVIEW_TOOLTIP">
 			<Text>Bu oyun hakkında teknik bilgi:</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PAUSEMENU_INFO_VERSION_TOOLTIP">
+		<Replace Language="en_US" Tag="LOC_PAUSEMENU_INFO_VERSION_TOOLTIP">
 			<Text>Sürüm: {1_Version}</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PAUSEMENU_INFO_MAP_SEED">
+		<Replace Language="en_US" Tag="LOC_PAUSEMENU_INFO_MAP_SEED">
 			<Text>Harita tohumu: {1_MapSeed}</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PAUSEMENU_INFO_GAME_SEED">
+		<Replace Language="en_US" Tag="LOC_PAUSEMENU_INFO_GAME_SEED">
 			<Text>Oyun tohumu: {1_GameSeed}</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PAUSEMENU_INFO_MOUSE_COPY_TOOLTIP">
+		<Replace Language="en_US" Tag="LOC_PAUSEMENU_INFO_MOUSE_COPY_TOOLTIP">
 			<Text>Kopyalamak için sağ tıklayın.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PAUSEMENU_INFO_TOUCH_COPY_TOOLTIP">
+		<Replace Language="en_US" Tag="LOC_PAUSEMENU_INFO_TOUCH_COPY_TOOLTIP">
 			<Text>Kopyalamak için 5 saniye basılı tutun.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MOD_SCOUT_CAT_TITLE">
+		<Replace Language="en_US" Tag="LOC_MOD_SCOUT_CAT_TITLE">
 			<Text>Mod: keşif kedisi</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MOD_SCOUT_CAT_TEASER">
+		<Replace Language="en_US" Tag="LOC_MOD_SCOUT_CAT_TEASER">
 			<Text>Keşifçinin köpeğini kedi çetesiyle değiştirir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MOD_SCOUT_CAT_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_MOD_SCOUT_CAT_DESCRIPTION">
 			<Text>Bazen oyuncu köpeğini o kadar çok sever ki onun diyar diyar dolaşmasını görmek istemez. Bu nedenle, köpeğin köyünde dinlenmesi için kedi çetesini göndermek mantıklı bir alternatiftir. Ya da kedilere tutkunuz varsa, bu DLC sadece bir haksızlığı düzeltir.</Text>
 		</Replace>
 	</LocalizedText>

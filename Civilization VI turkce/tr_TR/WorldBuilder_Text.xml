@@ -1,229 +1,229 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameData>
 	<LocalizedText>
-		<Replace Language="pl_PL" Tag="LOC_WORLDBUILDER_TAB_TECHS">
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_TAB_TECHS">
 			<Text>Teknolojiler</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_WORLDBUILDER_TAB_CIVICS">
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_TAB_CIVICS">
 			<Text>Vatandaşlık</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_WORLDBUILDER_TAB_CITIES">
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_TAB_CITIES">
 			<Text>Şehirler</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_WORLDBUILDER_TAB_UNITS">
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_TAB_UNITS">
 			<Text>Birimler</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_WORLDBUILDER_TAB_GENERAL">
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_TAB_GENERAL">
 			<Text>Genel</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_WORLDBUILDER_TAB_DISTRICTS">
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_TAB_DISTRICTS">
 			<Text>Şehir Bölgeleri</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_WORLDBUILDER_TAB_BUILDINGS">
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_TAB_BUILDINGS">
 			<Text>Binalar</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_WORLDBUILDER_TAB_MOD">
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_TAB_MOD">
 			<Text>Bağımlılıklar</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_WORLDBUILDER_TAB_TEXT">
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_TAB_TEXT">
 			<Text>Metin</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_WORLDBUILDER_BUTTON_ADD_PLAYER">
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_BUTTON_ADD_PLAYER">
 			<Text>Oyuncu Ekle</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_WORLDBUILDER_BUTTON_ADD_AI_PLAYER">
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_BUTTON_ADD_AI_PLAYER">
 			<Text>Yapay Zeka Ekle</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_WORLDBUILDER_BUTTON_REMOVE_PLAYER">
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_BUTTON_REMOVE_PLAYER">
 			<Text>Oyuncuyu Kaldır</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_WORLDBUILDER_BUTTON_ADD_CITY">
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_BUTTON_ADD_CITY">
 			<Text>Şehir Ekle</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_WORLDBUILDER_BUTTON_REMOVE_CITY">
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_BUTTON_REMOVE_CITY">
 			<Text>Şehri Kaldır</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_WORLDBUILDER_ATTRIBUTE_PILLAGED">
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_ATTRIBUTE_PILLAGED">
 			<Text>Yağmalanmış</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_WORLDBUILDER_ATTRIBUTE_GOLD">
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_ATTRIBUTE_GOLD">
 			<Text>Altın</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_WORLDBUILDER_ATTRIBUTE_FAITH">
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_ATTRIBUTE_FAITH">
 			<Text>İnanç</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_WORLDBUILDER_ATTRIBUTE_GARRISON_DAMAGE">
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_ATTRIBUTE_GARRISON_DAMAGE">
 			<Text>Garnizon Hasarı</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_WORLDBUILDER_ATTRIBUTE_OUTER_DAMAGE">
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_ATTRIBUTE_OUTER_DAMAGE">
 			<Text>Dış Hasar</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_WORLDBUILDER_ATTRIBUTE_POPULATION">
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_ATTRIBUTE_POPULATION">
 			<Text>Nüfus</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_WORLDBUILDER_ATTRIBUTE_TERRAIN">
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_ATTRIBUTE_TERRAIN">
 			<Text>Arazi</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_WORLDBUILDER_ATTRIBUTE_FEATURE">
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_ATTRIBUTE_FEATURE">
 			<Text>Özellik</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_WORLDBUILDER_ATTRIBUTE_FEATURE_DIRECTION">
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_ATTRIBUTE_FEATURE_DIRECTION">
 			<Text>Özellik Yönü</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_WORLDBUILDER_ATTRIBUTE_RESOURCE">
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_ATTRIBUTE_RESOURCE">
 			<Text>Kaynak</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_WORLDBUILDER_ATTRIBUTE_RESOURCE_AMOUNT">
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_ATTRIBUTE_RESOURCE_AMOUNT">
 			<Text>Kaynak Miktarı</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_WORLDBUILDER_ATTRIBUTE_IMPROVEMENT">
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_ATTRIBUTE_IMPROVEMENT">
 			<Text>Geliştirme</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_WORLDBUILDER_ATTRIBUTE_IMPROVEMENT_PILLAGED">
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_ATTRIBUTE_IMPROVEMENT_PILLAGED">
 			<Text>Yağmalanmış Geliştirme</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_WORLDBUILDER_ATTRIBUTE_ROUTE">
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_ATTRIBUTE_ROUTE">
 			<Text>Rota</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_WORLDBUILDER_ATTRIBUTE_ROUTE_PILLAGED">
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_ATTRIBUTE_ROUTE_PILLAGED">
 			<Text>Yağmalanmış Rota</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_WORLDBUILDER_ATTRIBUTE_OWNER">
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_ATTRIBUTE_OWNER">
 			<Text>Sahip</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_TERRAIN">
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_TERRAIN">
 			<Text>Arazi</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_FEATURES">
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_FEATURES">
 			<Text>Özellikler</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_CONTINENT">
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_CONTINENT">
 			<Text>Kıta</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_RIVERS">
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_RIVERS">
 			<Text>Nehirler</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_CLIFFS">
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_CLIFFS">
 			<Text>Uçurumlar</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_RESOURCES">
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_RESOURCES">
 			<Text>Kaynaklar</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_CITIES">
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_CITIES">
 			<Text>Şehirler</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_DISTRICTS">
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_DISTRICTS">
 			<Text>Şehir Bölgeleri</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_BUILDINGS">
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_BUILDINGS">
 			<Text>Binalar</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_UNITS">
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_UNITS">
 			<Text>Birimler</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_IMPROVEMENTS">
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_IMPROVEMENTS">
 			<Text>Geliştirmeler</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_ROUTES">
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_ROUTES">
 			<Text>Rotalar</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_START_POSITIONS">
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_START_POSITIONS">
 			<Text>Başlangıç Pozisyonları</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_OWNER">
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_OWNER">
 			<Text>Sahip</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_SET_VISIBILITY">
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_SET_VISIBILITY">
 			<Text>Görünürlük Ayarı</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_WORLD_BUILDER_MAP_EDITOR_TT">
+		<Replace Language="en_US" Tag="LOC_WORLD_BUILDER_MAP_EDITOR_TT">
 			<Text>Harita bilgileri ve metni</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_WORLD_BUILDER_PLAYER_EDITOR_TT">
+		<Replace Language="en_US" Tag="LOC_WORLD_BUILDER_PLAYER_EDITOR_TT">
 			<Text>Oyuncu Düzenleyici</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_WORLD_BUILDER_PLACEMENT_HELP">
+		<Replace Language="en_US" Tag="LOC_WORLD_BUILDER_PLACEMENT_HELP">
 			<Text>Sol tıklama yerleştirir, sağ tıklama kaldırır, sağ tıklamayı basılı tutmak çizer. CTRL-Z geri alır ve CTRL-Y tekrar yapar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_WORLD_BUILDER_NO_PLOT_SELECTED_HELP">
+		<Replace Language="en_US" Tag="LOC_WORLD_BUILDER_NO_PLOT_SELECTED_HELP">
 			<Text>Seçilmiş arsa yok</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_WORLDBUILDER_ATTRIBUTE_ID">
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_ATTRIBUTE_ID">
 			<Text>ID</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_WORLDBUILDER_GENERATE_NEW_ID">
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_GENERATE_NEW_ID">
 			<Text>Yeni ID Oluştur...</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_WORLDBUILDER_ATTRIBUTE_WIDTH">
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_ATTRIBUTE_WIDTH">
 			<Text>Genişlik</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_WORLDBUILDER_ATTRIBUTE_HEIGHT">
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_ATTRIBUTE_HEIGHT">
 			<Text>Yükseklik</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_WORLDBUILDER_ATTRIBUTE_RULESET">
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_ATTRIBUTE_RULESET">
 			<Text>Kurallar</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_WORLDBUILDER_ATTRIBUTE_MAP_SCRIPT">
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_ATTRIBUTE_MAP_SCRIPT">
 			<Text>Harita Betiği</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_WORLDBUILDER_ATTRIBUTE_IS_MOD">
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_ATTRIBUTE_IS_MOD">
 			<Text>Haritayı mod olarak paketle</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_WORLDBUILDER_ATTRIBUTE_IS_MOD_TT">
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_ATTRIBUTE_IS_MOD_TT">
 			<Text>Seçildiğinde, harita bağımsız bir mod olarak oluşturulur ve oyun başlatılırken harita türü olarak kullanılabilir. Seçilmezse, harita daha büyük bir modun parçası olarak kabul edilir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_WORLDBUILDER_DEFAULT_MAP_NAME">
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_DEFAULT_MAP_NAME">
 			<Text>İsimsiz Harita</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_WORLDBUILDER_DEFAULT_MAP_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_DEFAULT_MAP_DESCRIPTION">
 			<Text>Dünya Yapıcı tarafından oluşturulmuş isimsiz harita</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_WORLDBUILDER_DEFAULT_MOD_TITLE">
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_DEFAULT_MOD_TITLE">
 			<Text>İsimsiz Harita Modu</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_WORLDBUILDER_DEFAULT_MOD_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_DEFAULT_MOD_DESCRIPTION">
 			<Text>Dünya Yapıcı tarafından oluşturulmuş harita modu</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_WORLDBUILDER_ADD_BUTTON">
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_ADD_BUTTON">
 			<Text>Ekle</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_WORLDBUILDER_REMOVE_BUTTON">
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_REMOVE_BUTTON">
 			<Text>Kaldır</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_WORLDBUILDER_NO_FEATURE">
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_NO_FEATURE">
 			<Text>Özellik Yok</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_WORLDBUILDER_NO_DIRECTION">
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_NO_DIRECTION">
 			<Text>Yön Yok</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_WORLDBUILDER_DIRECTION_NORTHEAST">
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_DIRECTION_NORTHEAST">
 			<Text>Kuzeydoğu</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_WORLDBUILDER_DIRECTION_EAST">
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_DIRECTION_EAST">
 			<Text>Doğu</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_WORLDBUILDER_DIRECTION_SOUTHEAST">
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_DIRECTION_SOUTHEAST">
 			<Text>Güneydoğu</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_WORLDBUILDER_DIRECTION_SOUTHWEST">
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_DIRECTION_SOUTHWEST">
 			<Text>Güneybatı</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_WORLDBUILDER_DIRECTION_WEST">
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_DIRECTION_WEST">
 			<Text>Batı</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_WORLDBUILDER_DIRECTION_NORTHWEST">
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_DIRECTION_NORTHWEST">
 			<Text>Kuzeybatı</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_WORLDBUILDER_NO_RESOURCE">
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_NO_RESOURCE">
 			<Text>Kaynak Yok</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_WORLDBUILDER_NO_IMPROVEMENT">
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_NO_IMPROVEMENT">
 			<Text>Geliştirme Yok</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_WORLDBUILDER_NO_ROUTE">
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_NO_ROUTE">
 			<Text>Rota Yok</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_WORLDBUILDER_REVEAL_ALL">
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_REVEAL_ALL">
 			<Text>Hepsini Göster</Text>
 		</Replace>
 	</LocalizedText>

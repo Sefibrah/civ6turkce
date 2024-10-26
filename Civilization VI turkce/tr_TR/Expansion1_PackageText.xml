@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameData>
 	<LocalizedText>
-		<Replace Language="pl_PL" Tag="LOC_EXPANSION1_MOD_TITLE">
+		<Replace Language="en_US" Tag="LOC_EXPANSION1_MOD_TITLE">
 			<Text>Genişleme: Yükseliş ve Çöküş</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_EXPANSION1_MOD_TEASER">
+		<Replace Language="en_US" Tag="LOC_EXPANSION1_MOD_TEASER">
 			<Text>Milletlerin değişen çağları, sadakat sistemi, valiler, acil durumlar, yeni milletler ve liderler gibi birçok yenilik getiren bir oyun genişlemesi!</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_EXPANSION1_MOD_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_EXPANSION1_MOD_DESCRIPTION">
 			<Text>Oyun, Yükseliş ve Çöküş genişlemesini kullanır ve milletlerin değişen çağları, sadakat sistemi, valiler ve acil durumlar gibi özellikler ekler. Halkınızı altın çağın zirvesine taşıyabilecek misiniz? Yoksa karanlık çağın zorluklarıyla mı yüzleşeceksiniz?</Text>
 		</Replace>
 	</LocalizedText>

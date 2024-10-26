@@ -2,56 +2,56 @@
 <GameData>
 	<LocalizedText>
 		<!-- Civ Info-->
-		<Replace Language="pl_PL" Tag="LOC_CIVILIZATION_AUSTRALIA_NAME">
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_AUSTRALIA_NAME">
 			<Text>Australia|australialaisten</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TRAIT_CIVILIZATION_LAND_DOWN_UNDER_NAME">
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_LAND_DOWN_UNDER_NAME">
 			<Text>Dünyanın Altında</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TRAIT_CIVILIZATION_LAND_DOWN_UNDER_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_LAND_DOWN_UNDER_DESCRIPTION">
 			<Text>Kıyı şehirleri +3 [ICON_Housing] konut alır. Çayırlar kültür bombası oluşturur. Kampüsler, ticaret merkezleri, kutsal alanlar ve tiyatro meydanları cazip karelerde +1, nefes kesici karelerde +3 verimlilik kazanır.</Text>
 		</Replace>
 		<!-- Improvement Info-->
-		<Replace Language="pl_PL" Tag="LOC_IMPROVEMENT_OUTBACK_STATION_NAME">
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_OUTBACK_STATION_NAME">
 			<Text>İç Bölge İstasyonu|iç bölge istasyonu|iç bölge istasyonunun</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_IMPROVEMENT_OUTBACK_STATION_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_OUTBACK_STATION_DESCRIPTION">
 			<Text>İnşaatçılara Avustralya'ya özgü iç bölge istasyonları inşa etme yeteneği verir.[NEWLINE][NEWLINE]+1 [ICON_FOOD] gıda ve +1 [ICON_PRODUCTION] üretim. Yakındaki çayırlardan +1 [ICON_FOOD] gıda. Teknoloji ve normlarda ilerledikçe yakındaki iç bölge istasyonları ve çayırlardan daha fazla [ICON_FOOD] gıda ve [ICON_PRODUCTION] üretim elde edilir. Sadece çöl, çöl tepesi, çimenlik ve ova üzerine inşa edilebilir.</Text>
 		</Replace>
 		<!-- Leader Info-->
-		<Replace Language="pl_PL" Tag="LOC_LEADER_JOHN_CURTIN_NAME">
+		<Replace Language="en_US" Tag="LOC_LEADER_JOHN_CURTIN_NAME">
 			<Text>John Curtin</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_LOADING_INFO_LEADER_JOHN_CURTIN">
+		<Replace Language="en_US" Tag="LOC_LOADING_INFO_LEADER_JOHN_CURTIN">
 			<Text>Başbakan Curtin, Avustralya'yı bir zorluktan diğerine yönlendiriyorsunuz ve halkınız bunlardan güçleniyor. Gücünüz karşısında diğerleri dostunuz olmaya çalışıyor. Bu dostlar sadık çıkarsa, gücünüz ve korumanız sizi ileriye taşıyacaktır. Ancak her zaman tetikte olun, çünkü saldırganlık size doğal değildir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TRAIT_LEADER_CITADEL_CIVILIZATION_NAME">
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_CITADEL_CIVILIZATION_NAME">
 			<Text>Medeniyet Kalesi</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TRAIT_LEADER_CITADEL_CIVILIZATION_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_CITADEL_CIVILIZATION_DESCRIPTION">
 			<Text>Son 10 tur içinde bize savaş ilan edilmişse veya son 20 tur içinde bir şehri kurtarmışsak +%100 [ICON_Production] üretim.</Text>
 		</Replace>
 		<!-- Unit Info-->
-		<Replace Language="pl_PL" Tag="LOC_UNIT_DIGGER_NAME">
+		<Replace Language="en_US" Tag="LOC_UNIT_DIGGER_NAME">
 			<Text>Digger|digger|diggerin|digger olarak</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UNIT_DIGGER_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_UNIT_DIGGER_DESCRIPTION">
 			<Text>Avustralya'ya özgü modern dönem birimi, saldırı tüfeğinin yerini alır. Kıyı karelerinde +10 [ICON_Strength] savaş gücü. Tarafsız topraklarda ve yabancı ülkelerde +5 [ICON_Strength] savaş gücü.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_DIGGER_NAME">
+		<Replace Language="en_US" Tag="LOC_ABILITY_DIGGER_NAME">
 			<Text>Madenci</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_DIGGER_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_DIGGER_DESCRIPTION">
 			<Text>Kıyı karelerinde +10 [ICON_Strength] savaş gücü. Tarafsız topraklarda ve yabancı ülkelerde +5 [ICON_Strength] savaş gücü.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_DIGGER_BONUS_ON_COAST_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_DIGGER_BONUS_ON_COAST_DESCRIPTION">
 			<Text>Kıyı karelerinde +{1_Amount} savaş gücü</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_DIGGER_NON_DOMESTIC_BONUS_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_DIGGER_NON_DOMESTIC_BONUS_DESCRIPTION">
 			<Text>Dost topraklarının dışında +{1_Amount} savaş gücü</Text>
 		</Replace>
 		<!-- XP2-->
-		<Replace Language="pl_PL" Tag="LOC_TRAIT_LEADER_CITADEL_CIVILIZATION_EXPANSION2_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_CITADEL_CIVILIZATION_EXPANSION2_DESCRIPTION">
 			<Text>Savaş ilanından sonraki 10 tur içinde ve bir şehri kurtardıktan sonraki 20 tur içinde +%100 [ICON_PRODUCTION] üretim.</Text>
 		</Replace>
 	</LocalizedText>

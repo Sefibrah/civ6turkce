@@ -2,169 +2,169 @@
 <GameData>
 	<LocalizedText>
 		<!-- Sections -->
-		<Replace Language="pl_PL" Tag="LOC_PEDIA_CONCEPTS_TITLE">
+		<Replace Language="en_US" Tag="LOC_PEDIA_CONCEPTS_TITLE">
 			<Text>Konseptler</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PEDIA_CIVILIZATIONS_TITLE">
+		<Replace Language="en_US" Tag="LOC_PEDIA_CIVILIZATIONS_TITLE">
 			<Text>Medeniyetler</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PEDIA_LEADERS_TITLE">
+		<Replace Language="en_US" Tag="LOC_PEDIA_LEADERS_TITLE">
 			<Text>Liderler</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PEDIA_CITYSTATES_TITLE">
+		<Replace Language="en_US" Tag="LOC_PEDIA_CITYSTATES_TITLE">
 			<Text>Şehir Devletleri</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PEDIA_DISTRICTS_TITLE">
+		<Replace Language="en_US" Tag="LOC_PEDIA_DISTRICTS_TITLE">
 			<Text>Bölgeler</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PEDIA_BUILDINGS_TITLE">
+		<Replace Language="en_US" Tag="LOC_PEDIA_BUILDINGS_TITLE">
 			<Text>Binalar</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PEDIA_WONDERS_TITLE">
+		<Replace Language="en_US" Tag="LOC_PEDIA_WONDERS_TITLE">
 			<Text>Harikalar ve projeler</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PEDIA_UNITS_TITLE">
+		<Replace Language="en_US" Tag="LOC_PEDIA_UNITS_TITLE">
 			<Text>Birimler</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PEDIA_UNITPROMOTIONS_TITLE">
+		<Replace Language="en_US" Tag="LOC_PEDIA_UNITPROMOTIONS_TITLE">
 			<Text>Birim terfileri</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PEDIA_GREATPEOPLE_TITLE">
+		<Replace Language="en_US" Tag="LOC_PEDIA_GREATPEOPLE_TITLE">
 			<Text>Büyük insanlar</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PEDIA_TECHNOLOGIES_TITLE">
+		<Replace Language="en_US" Tag="LOC_PEDIA_TECHNOLOGIES_TITLE">
 			<Text>Teknolojiler</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PEDIA_CIVICS_TITLE">
+		<Replace Language="en_US" Tag="LOC_PEDIA_CIVICS_TITLE">
 			<Text>Medeni bilgiler</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PEDIA_GOVERNMENTS_TITLE">
+		<Replace Language="en_US" Tag="LOC_PEDIA_GOVERNMENTS_TITLE">
 			<Text>Hükümetler ve politikalar</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PEDIA_RELIGIONS_TITLE">
+		<Replace Language="en_US" Tag="LOC_PEDIA_RELIGIONS_TITLE">
 			<Text>Dinler</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PEDIA_FEATURES_TITLE">
+		<Replace Language="en_US" Tag="LOC_PEDIA_FEATURES_TITLE">
 			<Text>Arazi ve özellikler</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PEDIA_RESOURCES_TITLE">
+		<Replace Language="en_US" Tag="LOC_PEDIA_RESOURCES_TITLE">
 			<Text>Kaynaklar</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PEDIA_IMPROVEMENTS_TITLE">
+		<Replace Language="en_US" Tag="LOC_PEDIA_IMPROVEMENTS_TITLE">
 			<Text>Geliştirmeler ve yollar</Text>
 		</Replace>
 		<!-- Common page text -->
-		<Replace Language="pl_PL" Tag="LOC_PEDIA_PAGE_INTRO_TITLE">
+		<Replace Language="en_US" Tag="LOC_PEDIA_PAGE_INTRO_TITLE">
 			<Text>Giriş</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PEDIA_CONCEPTS_PAGE_INTRO_TITLE">
+		<Replace Language="en_US" Tag="LOC_PEDIA_CONCEPTS_PAGE_INTRO_TITLE">
 			<Text>Temel konseptler</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PEDIA_CONCEPTS_GETTING_STARTED_TITLE">
+		<Replace Language="en_US" Tag="LOC_PEDIA_CONCEPTS_GETTING_STARTED_TITLE">
 			<Text>Oyuna başlama</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PEDIA_PAGE_CHAPTER_HISTORY_TITLE">
+		<Replace Language="en_US" Tag="LOC_PEDIA_PAGE_CHAPTER_HISTORY_TITLE">
 			<Text>Tarihsel arka plan</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PEDIA_PAGE_CHAPTER_CAPSULE_TITLE">
+		<Replace Language="en_US" Tag="LOC_PEDIA_PAGE_CHAPTER_CAPSULE_TITLE">
 			<Text>Özet</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PEDIA_PAGE_CHAPTER_DETAILED_TITLE">
+		<Replace Language="en_US" Tag="LOC_PEDIA_PAGE_CHAPTER_DETAILED_TITLE">
 			<Text>Ayrıntılar</Text>
 		</Replace>
 		<!-- Common chapter header -->
-		<Replace Language="pl_PL" Tag="LOC_PEDIA_PAGE_CHAPTER_INTRO_TITLE">
+		<Replace Language="en_US" Tag="LOC_PEDIA_PAGE_CHAPTER_INTRO_TITLE">
 			<Text>Giriş</Text>
 		</Replace>
 		<!-- Page group text>-->
-		<Replace Language="pl_PL" Tag="LOC_PEDIA_CITYSTATES_PAGEGROUP_CULTURAL_NAME">
+		<Replace Language="en_US" Tag="LOC_PEDIA_CITYSTATES_PAGEGROUP_CULTURAL_NAME">
 			<Text>Kültürel</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PEDIA_CITYSTATES_PAGEGROUP_INDUSTRIAL_NAME">
+		<Replace Language="en_US" Tag="LOC_PEDIA_CITYSTATES_PAGEGROUP_INDUSTRIAL_NAME">
 			<Text>Endüstriyel</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PEDIA_CITYSTATES_PAGEGROUP_MILITARISTIC_NAME">
+		<Replace Language="en_US" Tag="LOC_PEDIA_CITYSTATES_PAGEGROUP_MILITARISTIC_NAME">
 			<Text>Askeri</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PEDIA_CITYSTATES_PAGEGROUP_RELIGIOUS_NAME">
+		<Replace Language="en_US" Tag="LOC_PEDIA_CITYSTATES_PAGEGROUP_RELIGIOUS_NAME">
 			<Text>Dini</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PEDIA_CITYSTATES_PAGEGROUP_SCIENTIFIC_NAME">
+		<Replace Language="en_US" Tag="LOC_PEDIA_CITYSTATES_PAGEGROUP_SCIENTIFIC_NAME">
 			<Text>Bilimsel</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PEDIA_CITYSTATES_PAGEGROUP_TRADE_NAME">
+		<Replace Language="en_US" Tag="LOC_PEDIA_CITYSTATES_PAGEGROUP_TRADE_NAME">
 			<Text>Ticari</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PEDIA_FEATURES_PAGEGROUP_TERRAINS_NAME">
+		<Replace Language="en_US" Tag="LOC_PEDIA_FEATURES_PAGEGROUP_TERRAINS_NAME">
 			<Text>Araziler</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PEDIA_FEATURES_PAGEGROUP_FEATURES_NAME">
+		<Replace Language="en_US" Tag="LOC_PEDIA_FEATURES_PAGEGROUP_FEATURES_NAME">
 			<Text>Özellikler</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PEDIA_FEATURES_PAGEGROUP_NATURAL_WONDERS_NAME">
+		<Replace Language="en_US" Tag="LOC_PEDIA_FEATURES_PAGEGROUP_NATURAL_WONDERS_NAME">
 			<Text>Doğal harikalar</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PEDIA_GOVERNMENTS_PAGEGROUP_GOVERNMENTS_NAME">
+		<Replace Language="en_US" Tag="LOC_PEDIA_GOVERNMENTS_PAGEGROUP_GOVERNMENTS_NAME">
 			<Text>Hükümetler</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PEDIA_GOVERNMENTS_PAGEGROUP_MILITARY_POLICIES_NAME">
+		<Replace Language="en_US" Tag="LOC_PEDIA_GOVERNMENTS_PAGEGROUP_MILITARY_POLICIES_NAME">
 			<Text>Askeri politikalar</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PEDIA_GOVERNMENTS_PAGEGROUP_ECONOMIC_POLICES_NAME">
+		<Replace Language="en_US" Tag="LOC_PEDIA_GOVERNMENTS_PAGEGROUP_ECONOMIC_POLICES_NAME">
 			<Text>Ekonomik politikalar</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PEDIA_GOVERNMENTS_PAGEGROUP_DIPLOMATIC_POLICIES_NAME">
+		<Replace Language="en_US" Tag="LOC_PEDIA_GOVERNMENTS_PAGEGROUP_DIPLOMATIC_POLICIES_NAME">
 			<Text>Diplomatik politikalar</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PEDIA_GOVERNMENTS_PAGEGROUP_GREATPEOPLE_POLICIES_NAME">
+		<Replace Language="en_US" Tag="LOC_PEDIA_GOVERNMENTS_PAGEGROUP_GREATPEOPLE_POLICIES_NAME">
 			<Text>Büyük insanların politikaları</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PEDIA_GOVERNMENTS_PAGEGROUP_WILDCARD_POLICIES_NAME">
+		<Replace Language="en_US" Tag="LOC_PEDIA_GOVERNMENTS_PAGEGROUP_WILDCARD_POLICIES_NAME">
 			<Text>Joker kartlar (politikalar)</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PEDIA_IMPROVEMENTS_PAGEGROUP_IMPROVEMENTS_NAME">
+		<Replace Language="en_US" Tag="LOC_PEDIA_IMPROVEMENTS_PAGEGROUP_IMPROVEMENTS_NAME">
 			<Text>Geliştirmeler</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PEDIA_IMPROVEMENTS_PAGEGROUP_ROUTES_NAME">
+		<Replace Language="en_US" Tag="LOC_PEDIA_IMPROVEMENTS_PAGEGROUP_ROUTES_NAME">
 			<Text>Yollar</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PEDIA_RELIGIONS_PAGEGROUP_RELIGIONS_NAME">
+		<Replace Language="en_US" Tag="LOC_PEDIA_RELIGIONS_PAGEGROUP_RELIGIONS_NAME">
 			<Text>Tarihi dinler</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PEDIA_RELIGIONS_PAGEGROUP_PANTHEON_BELIEFS_NAME">
+		<Replace Language="en_US" Tag="LOC_PEDIA_RELIGIONS_PAGEGROUP_PANTHEON_BELIEFS_NAME">
 			<Text>Pantheon inançları</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PEDIA_RELIGIONS_PAGEGROUP_WORSHIP_BELIEFS_NAME">
+		<Replace Language="en_US" Tag="LOC_PEDIA_RELIGIONS_PAGEGROUP_WORSHIP_BELIEFS_NAME">
 			<Text>İbadet inançları</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PEDIA_RELIGIONS_PAGEGROUP_FOLLOWER_BELIEFS_NAME">
+		<Replace Language="en_US" Tag="LOC_PEDIA_RELIGIONS_PAGEGROUP_FOLLOWER_BELIEFS_NAME">
 			<Text>Takipçi inançları</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PEDIA_RELIGIONS_PAGEGROUP_FOUNDER_BELIEFS_NAME">
+		<Replace Language="en_US" Tag="LOC_PEDIA_RELIGIONS_PAGEGROUP_FOUNDER_BELIEFS_NAME">
 			<Text>Kurucu inançları</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PEDIA_RELIGIONS_PAGEGROUP_ENHANCER_BELIEFS_NAME">
+		<Replace Language="en_US" Tag="LOC_PEDIA_RELIGIONS_PAGEGROUP_ENHANCER_BELIEFS_NAME">
 			<Text>Geliştirici inançlar</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PEDIA_RESOURCES_PAGEGROUP_BONUS_NAME">
+		<Replace Language="en_US" Tag="LOC_PEDIA_RESOURCES_PAGEGROUP_BONUS_NAME">
 			<Text>Bonuslar</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PEDIA_RESOURCES_PAGEGROUP_LUXURY_NAME">
+		<Replace Language="en_US" Tag="LOC_PEDIA_RESOURCES_PAGEGROUP_LUXURY_NAME">
 			<Text>Lüksler</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PEDIA_RESOURCES_PAGEGROUP_STRATEGIC_NAME">
+		<Replace Language="en_US" Tag="LOC_PEDIA_RESOURCES_PAGEGROUP_STRATEGIC_NAME">
 			<Text>Stratejik</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PEDIA_RESOURCES_PAGEGROUP_ARTIFACT_NAME">
+		<Replace Language="en_US" Tag="LOC_PEDIA_RESOURCES_PAGEGROUP_ARTIFACT_NAME">
 			<Text>Artefaktlar</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PEDIA_WONDERS_PAGEGROUP_WONDERS_NAME">
+		<Replace Language="en_US" Tag="LOC_PEDIA_WONDERS_PAGEGROUP_WONDERS_NAME">
 			<Text>Harikalar</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PEDIA_WONDERS_PAGEGROUP_PROJECTS_NAME">
+		<Replace Language="en_US" Tag="LOC_PEDIA_WONDERS_PAGEGROUP_PROJECTS_NAME">
 			<Text>Projeler</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PEDIA_UNITPROMOTIONS_PAGEGROUP_UNIT_ABILITIES_NAME">
+		<Replace Language="en_US" Tag="LOC_PEDIA_UNITPROMOTIONS_PAGEGROUP_UNIT_ABILITIES_NAME">
 			<Text>Birim yetenekleri</Text>
 		</Replace>
 	</LocalizedText>

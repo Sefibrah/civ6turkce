@@ -1,454 +1,454 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameData>
 	<LocalizedText>
-		<Replace Language="pl_PL" Tag="LOC_TECH_POTTERY_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_TECH_POTTERY_DESCRIPTION">
 			<Text>Çiftlik kaynaklarının toplanmasını sağlar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TECH_ANIMAL_HUSBANDRY_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_TECH_ANIMAL_HUSBANDRY_DESCRIPTION">
 			<Text>[ICON_RESOURCE_CATTLE] Sığır, [ICON_RESOURCE_SHEEP] Koyun ve [ICON_RESOURCE_DEER] Geyik kaynaklarının toplanmasını sağlar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TECH_MINING_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_TECH_MINING_DESCRIPTION">
 			<Text>Ormanları kesmeyi ve [ICON_RESOURCE_Copper] bakır madenini toplamayı sağlar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TECH_SAILING_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_TECH_SAILING_DESCRIPTION">
 			<Text>İnşaatçıların sulara çıkmasını sağlar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TECH_IRRIGATION_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_TECH_IRRIGATION_DESCRIPTION">
 			<Text>Bataklıkları kurutmayı ve [ICON_RESOURCE_BANANAS] Muzların toplanmasını sağlar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TECH_MASONRY_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_TECH_MASONRY_DESCRIPTION">
 			<Text>[ICON_RESOURCE_STONE] Taşın toplanmasını sağlar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TECH_BRONZE_WORKING_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_TECH_BRONZE_WORKING_DESCRIPTION">
 			<Text>Yağmur ormanlarının kesilmesini sağlar. [ICON_RESOURCE_IRON] Demir kaynağını ortaya çıkarır.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TECH_SHIPBUILDING_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_TECH_SHIPBUILDING_DESCRIPTION">
 			<Text>Tüm kara birimlerinin sulara çıkmasını sağlar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TECH_CELESTIAL_NAVIGATION_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_TECH_CELESTIAL_NAVIGATION_DESCRIPTION">
 			<Text>Tüccarların sulara çıkmasını sağlar ve [ICON_RESOURCE_FISH] Balık ve [ICON_RESOURCE_CRABS] Yengeç kaynaklarının toplanmasını mümkün kılar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TECH_MATHEMATICS_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_TECH_MATHEMATICS_DESCRIPTION">
 			<Text>Tüm deniz birimlerine +1 [ICON_Movement] hareket kabiliyeti sağlar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TECH_STIRRUPS_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_TECH_STIRRUPS_DESCRIPTION">
 			<Text>Madenlerden +1 [ICON_Production] üretim sağlar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TECH_APPRENTICESHIP_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_TECH_APPRENTICESHIP_DESCRIPTION">
 			<Text>Çayırlar +1 [ICON_Food] gıda sağlar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TECH_CASTLES_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_TECH_CASTLES_DESCRIPTION">
 			<Text>Çin Seddi, komşu faydası olarak [ICON_Culture] kültür sağlar. Catherine de Medici ücretsiz bir casus alır.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TECH_CARTOGRAPHY_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_TECH_CARTOGRAPHY_DESCRIPTION">
 			<Text>Balıkçılardan +2 [ICON_Gold] altın sağlar. Tüm deniz ve su üzerindeki birimler okyanus karelerine girebilir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TECH_SQUARE_RIGGING_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_TECH_SQUARE_RIGGING_DESCRIPTION">
 			<Text>Su üzerindeki birimlere +1 [ICON_Movement] hareket kabiliyeti sağlar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TECH_BANKING_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_TECH_BANKING_DESCRIPTION">
 			<Text>Taş ocaklarından +2 [ICON_Gold] altın sağlar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TECH_PRINTING_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_TECH_PRINTING_DESCRIPTION">
 			<Text>Diğer uluslara karşı diplomatik görünürlüğü bir seviye artırır. [ICON_Tourism] Turizm, [ICON_GreatWork_Writing] edebi başyapıtlardan iki katına çıkar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TECH_RADIO_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_TECH_RADIO_DESCRIPTION">
 			<Text>[ICON_RESOURCE_ALUMINUM] Alüminyumu ortaya çıkarır.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TECH_INDUSTRIALIZATION_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_TECH_INDUSTRIALIZATION_DESCRIPTION">
 			<Text>Madenlerden +1 [ICON_Production] üretim sağlar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TECH_SCIENTIFIC_THEORY_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_TECH_SCIENTIFIC_THEORY_DESCRIPTION">
 			<Text>Diplomaside araştırma anlaşmalarını mümkün kılar. Plantasyonlardan +1 [ICON_Food] gıda sağlar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TECH_SANITATION_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_TECH_SANITATION_DESCRIPTION">
 			<Text>Hammamlar +1 [ICON_Housing] konut sağlar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TECH_STEAM_POWER_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_TECH_STEAM_POWER_DESCRIPTION">
 			<Text>Su üzerindeki birimlere +2 [ICON_Movement] hareket kabiliyeti sağlar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TECH_FLIGHT_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_TECH_FLIGHT_DESCRIPTION">
 			<Text>[ICON_Culture] Kültür sağlayan yapılar, aynı miktarda [ICON_Tourism] turizm sağlar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TECH_REPLACEABLE_PARTS_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_TECH_REPLACEABLE_PARTS_DESCRIPTION">
 			<Text>Çiftliklerin makineleşmesini sağlar. Çiftliklerin her komşu çiftlikten +1 [ICON_Food] gıda bonusu almasını sağlar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TECH_STEEL_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_TECH_STEEL_DESCRIPTION">
 			<Text>Kereste fabrikalarından +1 [ICON_Production] üretim sağlar. Tüm şehirler 400 savunma gücü alır ve ateş edebilme yeteneği kazanır.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TECH_COMBUSTION_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_TECH_COMBUSTION_DESCRIPTION">
 			<Text>Su üzerindeki birimlere +1 [ICON_Movement] hareket kabiliyeti sağlar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TECH_ROCKETRY_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_TECH_ROCKETRY_DESCRIPTION">
 			<Text>Taş ocaklarından +1 [ICON_Production] üretim sağlar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TECH_PLASTICS_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_TECH_PLASTICS_DESCRIPTION">
 			<Text>Balıkçı teknelerinden +1 [ICON_Food] gıda sağlar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TECH_COMPUTERS_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_TECH_COMPUTERS_DESCRIPTION">
 			<Text>Bir ekstra casus yetiştirilmesini sağlar. [ICON_Tourism] Turizm gelirleri iki katına çıkar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TECH_SYNTHETIC_MATERIALS_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_TECH_SYNTHETIC_MATERIALS_DESCRIPTION">
 			<Text>Kamp alanlarından +1 [ICON_Gold] altın sağlar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TECH_ROBOTICS_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_TECH_ROBOTICS_DESCRIPTION">
 			<Text>Çayırlardan +1 [ICON_Production] üretim sağlar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TECH_FUTURE_TECH_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_TECH_FUTURE_TECH_DESCRIPTION">
 			<Text>Tekrar tekrar tamamlanabilen bir teknoloji olup puan kazanmanıza yardımcı olur.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_SAILING">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_SAILING">
 			<Text>Kıyı kenti kur.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_ASTROLOGY">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_ASTROLOGY">
 			<Text>Doğal bir harika keşfet.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_IRRIGATION">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_IRRIGATION">
 			<Text>Çiftlik kurarak kaynak kullan.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_ARCHERY">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_ARCHERY">
 			<Text>Okçu birimle bir düşman birimini yok et.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_WRITING">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_WRITING">
 			<Text>Başka bir medeniyetle tanış.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_MASONRY">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_MASONRY">
 			<Text>Bir taş ocağı inşa et.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_BRONZE_WORKING">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_BRONZE_WORKING">
 			<Text>Üç barbar yok et.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_THE_WHEEL">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_THE_WHEEL">
 			<Text>Madeni kullanarak bir maden inşa et.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_CELESTIAL_NAVIGATION">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_CELESTIAL_NAVIGATION">
 			<Text>İki deniz kaynağı kullan.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_CURRENCY">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_CURRENCY">
 			<Text>[ICON_TradeRoute] Ticaret rotası kur.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_HORSEBACK_RIDING">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_HORSEBACK_RIDING">
 			<Text>Bir çayır inşa et.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_IRON_WORKING">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_IRON_WORKING">
 			<Text>Bir demir madeni inşa et.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_SHIPBUILDING">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_SHIPBUILDING">
 			<Text>İki kadırgaya sahip ol.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_MATHEMATICS">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_MATHEMATICS">
 			<Text>Üç farklı şehir bölgesi inşa et.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_CONSTRUCTION">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_CONSTRUCTION">
 			<Text>Bir su değirmeni inşa et.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_ENGINEERING">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_ENGINEERING">
 			<Text>Antik duvar inşa et.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_MILITARY_TACTICS">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_MILITARY_TACTICS">
 			<Text>Birim yok etmek için bir mızrakçı kullan.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_APPRENTICESHIP">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_APPRENTICESHIP">
 			<Text>Üç maden inşa et.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_STIRRUPS">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_STIRRUPS">
 			<Text>Feodalizm normunu geliştir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_MACHINERY">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_MACHINERY">
 			<Text>Üç okçuya sahip ol.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_EDUCATION">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_EDUCATION">
 			<Text>Önemli bir bilim insanını işe al.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_MILITARY_ENGINEERING">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_MILITARY_ENGINEERING">
 			<Text>Bir su kemeri inşa et.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_CASTLES">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_CASTLES">
 			<Text>En az altı politika yuvası olan bir hükümet kur.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_CARTOGRAPHY">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_CARTOGRAPHY">
 			<Text>İki liman inşa et.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_MASS_PRODUCTION">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_MASS_PRODUCTION">
 			<Text>Bir kereste fabrikası inşa et.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_BANKING">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_BANKING">
 			<Text>Loncalar normunu geliştir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_GUNPOWDER">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_GUNPOWDER">
 			<Text>Bir silah deposu inşa et.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_PRINTING">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_PRINTING">
 			<Text>İki üniversite inşa et.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_SQUARE_RIGGING">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_SQUARE_RIGGING">
 			<Text>Misket tüfeği birimiyle bir düşman yok et.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_ASTRONOMY">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_ASTRONOMY">
 			<Text>Bir üniversiteyi dağ yanında inşa et.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_METAL_CASTING">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_METAL_CASTING">
 			<Text>İki arbalete sahip ol.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_SIEGE_TACTICS">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_SIEGE_TACTICS">
 			<Text>İki bombardımana sahip ol.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_INDUSTRIALIZATION">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_INDUSTRIALIZATION">
 			<Text>Üç atölye inşa et.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_SCIENTIFIC_THEORY">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_SCIENTIFIC_THEORY">
 			<Text>Aydınlanma normunu geliştir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_BALLISTICS">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_BALLISTICS">
 			<Text>Kendi topraklarında iki kale inşa et, ikisi de askeri mühendisler tarafından yapılmış olmalı.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_MILITARY_SCIENCE">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_MILITARY_SCIENCE">
 			<Text>Bir şövalyeyle bir birimi yok et.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_STEAM_POWER">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_STEAM_POWER">
 			<Text>İki tersane inşa et.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_SANITATION">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_SANITATION">
 			<Text>İki mahalle inşa et.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_ECONOMICS">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_ECONOMICS">
 			<Text>İki banka inşa et.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_RIFLING">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_RIFLING">
 			<Text>Bir güherçile madeni inşa et.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_FLIGHT">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_FLIGHT">
 			<Text>Endüstri veya daha sonraki bir dönemin harikasını inşa et.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_REPLACEABLE_PARTS">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_REPLACEABLE_PARTS">
 			<Text>Üç misket tüfeği birimine sahip ol.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_STEEL">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_STEEL">
 			<Text>Bir kömür madeni ve bir zırhlı gemi inşa et.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_ELECTRICITY">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_ELECTRICITY">
 			<Text>Üç korsan gemisine sahip ol.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_RADIO">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_RADIO">
 			<Text>Bir doğa parkı kur.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_CHEMISTRY">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_CHEMISTRY">
 			<Text>Bir araştırma anlaşmasını tamamla.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_COMBUSTION">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_COMBUSTION">
 			<Text>Bir eser kazısı yap.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_ADVANCED_FLIGHT">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_ADVANCED_FLIGHT">
 			<Text>Üç çift kanatlı uçağa sahip ol.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_ADVANCED_BALLISTICS">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_ADVANCED_BALLISTICS">
 			<Text>İki enerji santrali inşa et.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_COMBINED_ARMS">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_COMBINED_ARMS">
 			<Text>Üç ordu veya armadaya sahip ol.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_PLASTICS">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_PLASTICS">
 			<Text>Bir sondaj kulesi inşa et.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_COMPUTERS">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_COMPUTERS">
 			<Text>En az sekiz politika yuvasına sahip bir hükümet kur.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_SYNTHETIC_MATERIALS">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_SYNTHETIC_MATERIALS">
 			<Text>İki havaalanı inşa et.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_TELECOMMUNICATIONS">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_TELECOMMUNICATIONS">
 			<Text>İki yayın merkezi inşa et.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_GUIDANCE_SYSTEMS">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_GUIDANCE_SYSTEMS">
 			<Text>Bir savaş uçağını yok et.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_COMPOSITES">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_COMPOSITES">
 			<Text>Üç tank birimine sahip ol.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_ROBOTICS">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_ROBOTICS">
 			<Text>Küreselleşme normunu geliştir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_NANOTECHNOLOGY">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_NANOTECHNOLOGY">
 			<Text>Bir alüminyum madeni inşa et.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_MUST_STEAL">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_MUST_STEAL">
 			<Text>Gelişimi önemli bir bilim insanı veya casusla hızlandır.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_SAILING">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_SAILING">
 			<Text>Kıyı şehri, halkımıza deniz yolculuğu konusunda ilham verdi.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_ASTROLOGY">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_ASTROLOGY">
 			<Text>Doğal bir harika keşfi, halkımızı evrenin büyüsüne hayran bıraktı.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_IRRIGATION">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_IRRIGATION">
 			<Text>Bir çiftlikle doğal kaynakları kullanmak, sulamanın önemini anlamamızı sağladı.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_ARCHERY">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_ARCHERY">
 			<Text>Düşmanı okçularla alt ettikten sonra daha etkili bir atış aracı arayışı başladı.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_WRITING">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_WRITING">
 			<Text>Başka bir uygarlıkla karşılaşmamız, yeni iletişim yollarına olan ihtiyacı fark etmemizi sağladı.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_MASONRY">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_MASONRY">
 			<Text>Madencilik, duvar ustalarının ihtiyaç duyduğu malzemeleri sağlamamıza olanak tanıdı.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_BRONZE_WORKING">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_BRONZE_WORKING">
 			<Text>Barbarlara karşı mücadelemiz, daha iyi silahlar geliştirme ihtiyacını vurguladı.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_THE_WHEEL">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_THE_WHEEL">
 			<Text>Madencilik, aks inşa etmemize olanak tanıdı. Sırada tekerlek mi var?</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_CELESTIAL_NAVIGATION">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_CELESTIAL_NAVIGATION">
 			<Text>Balıkçılarımız, gece yolculuklarında yıldızları kullanmayı öğrenmeye başladı.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_CURRENCY">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_CURRENCY">
 			<Text>[ICON_TradeRoute] Ticaret yolu, malların değişimini sağladı. Ancak ortak bir değişim aracı ticareti kolaylaştırabilir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_HORSEBACK_RIDING">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_HORSEBACK_RIDING">
 			<Text>Hayvanlarımız sayesinde binicilik öğrenmenin vakti geldi.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_IRON_WORKING">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_IRON_WORKING">
 			<Text>Düzenli demir kaynağı, daha iyi silahlar ve güçlü zırhlar yapmamızı sağladı.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_SHIPBUILDING">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_SHIPBUILDING">
 			<Text>Birden fazla kadırga yaparak daha büyük gemilerin yapımını öğrendik.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_MATHEMATICS">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_MATHEMATICS">
 			<Text>Şehir planlamacılarımız, geometriyi anlamaya başladı. Belki tam bir matematik sistemi yakındır?</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_CONSTRUCTION">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_CONSTRUCTION">
 			<Text>Su değirmenindeki çalışmalar, yapıcılarımıza birçok inşaat prensibini öğretti.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_ENGINEERING">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_ENGINEERING">
 			<Text>Şehir duvarlarının yapımı, su kemeri ve mancınık inşa etmek için gereken mühendislik bilgisini sağladı.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_MILITARY_TACTICS">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_MILITARY_TACTICS">
 			<Text>Mızrakçılarımız güçlü ancak rakiplerimiz daha hızlı ve güçlü. Daha uzun bir silah yapmanın zamanı mı?</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_APPRENTICESHIP">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_APPRENTICESHIP">
 			<Text>Farklı madenlerden gelen kaynaklarla zanaatkârlarımızı eğitmek için hazırız.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_STIRRUPS">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_STIRRUPS">
 			<Text>Feodal beyler, topraklarını savunmak için süvariler ister. Zırhlı askerler bu ihtiyacı karşılayabilir mi?</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_MACHINERY">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_MACHINERY">
 			<Text>Mekanizasyon, okçularımızın verimliliğini artırabilir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_EDUCATION">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_EDUCATION">
 			<Text>Önemli bilim insanımız, krallığımızda eğitim için yeni bir heves uyandırdı.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_MILITARY_ENGINEERING">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_MILITARY_ENGINEERING">
 			<Text>Su kemeri yapımını izleyen askeri liderler, öğrendikleri mühendislik becerilerini savaş için kullanmayı düşündüler.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_CASTLES">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_CASTLES">
 			<Text>Yeni savunma bakanımız, başkentimizi koruyacak güçlü yapılar inşa etmeyi önerdi.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_CARTOGRAPHY">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_CARTOGRAPHY">
 			<Text>Limanlarımızdan birçok gemi kalktı ve seferleri kaydetme arzusu arttı.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_MASS_PRODUCTION">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_MASS_PRODUCTION">
 			<Text>Standart kereste tedariki, taşımacılık endüstrisine hız kazandırdı.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_BANKING">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_BANKING">
 			<Text>Gelişen loncalarımız, büyük miktarda sermaye gerektiren planlar yapıyor. Belki kredi sistemi geliştirebiliriz?</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_GUNPOWDER">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_GUNPOWDER">
 			<Text>Cephaneliğimizdeki adamlar, düşmanı şaşırtacak yeni bir silah düşünüyorlar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_PRINTING">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_PRINTING">
 			<Text>Bilginlerimiz, kitapları hızlı bir şekilde çoğaltmanın yollarını arıyor.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_SQUARE_RIGGING">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_SQUARE_RIGGING">
 			<Text>Misket tüfekçilerimizin başarısı, denizde de aynı başarıyı elde edip edemeyeceğimizi düşündürdü.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_ASTRONOMY">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_ASTRONOMY">
 			<Text>Bilim insanlarımız, gökyüzünü incelemek için dağlara gidiyor. Kalıcı bir yapı faydalı olabilir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_METAL_CASTING">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_METAL_CASTING">
 			<Text>Çok sayıda arbalet, bize çeşitli silah uzmanları kazandırdı.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_SIEGE_TACTICS">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_SIEGE_TACTICS">
 			<Text>Bombardimanların yapımı, kalelerin savunmasız olduğunu gösterdi. Daha sağlam savunmalar gerekli!</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_INDUSTRIALIZATION">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_INDUSTRIALIZATION">
 			<Text>Atölyelerimiz, büyük bir devrimin eşiğinde olduğumuzu gösteriyor. Sanayi devrimi kapıda mı?</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_SCIENTIFIC_THEORY">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_SCIENTIFIC_THEORY">
 			<Text>Aydınlanma çağında bilimsel yöntemler üzerine derin tartışmalar başladı.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_BALLISTICS">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_BALLISTICS">
 			<Text>Şehirlerimiz surlarla korunuyor. Toplar, savunmamızı güçlendirebilir mi?</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_MILITARY_SCIENCE">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_MILITARY_SCIENCE">
 			<Text>Cesur şövalyemiz düşmanı yendi. Bu zaferden ders alıp savaş sanatını öğrenelim.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_STEAM_POWER">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_STEAM_POWER">
 			<Text>Kullanabileceğimiz sanayi bilgimizi yeni tersanelerimize aktaralım: buharlı gemiler denizleri fethedebilir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_SANITATION">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_SANITATION">
 			<Text>Banliyölerin gelişimiyle şehirlerimiz büyümeye başladı. Kanalizasyon sistemleri planlamak artık hayati önem taşıyor.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_ECONOMICS">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_ECONOMICS">
 			<Text>Bankalarımız güçleniyor: artık ulusal ekonomimizin yapı taşlarını inceleme zamanı geldi.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_RIFLING">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_RIFLING">
 			<Text>Barut üretimi, ateşli silah sanayimizi geliştirdi. Artık silahlarımızın doğruluğunu artırma vakti.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_FLIGHT">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_FLIGHT">
 			<Text>Modern bir harikanın tamamlanması mühendislerimizi her şeyi başarabileceklerine inandırdı. Uçuş mu sırada?</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_REPLACEABLE_PARTS">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_REPLACEABLE_PARTS">
 			<Text>Silah üreticilerimiz tüfekleri tek tek yapmaktan bıktı. Üretimi standartlaştırmanın zamanı geldi mi?</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_STEEL">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_STEEL">
 			<Text>Kömürle çalışan fırınlarımız ve zırhlı gemilerimiz, yüksek kaliteli çelik üretmeye hazır!</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_ELECTRICITY">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_ELECTRICITY">
 			<Text>Elektrik akımının keşfi, korsanlarımızı daha sessiz güç kaynakları üzerinde düşünmeye yönlendirdi.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_RADIO">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_RADIO">
 			<Text>Yeni milli parkımız ziyaretçi bekliyor. Onu tanıtmak için yeni iletişim yolları işe yarar mı?</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_CHEMISTRY">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_CHEMISTRY">
 			<Text>Diğer uluslarla işbirliği, bilimsel atılımları tetikledi. Kimya alanında ilerlemeler yakın olabilir mi?</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_COMBUSTION">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_COMBUSTION">
 			<Text>Arkeologlarımız taşlardan sızan petrol keşfetti. Bir jeolog bu konuyu incelemeli mi?</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_ADVANCED_FLIGHT">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_ADVANCED_FLIGHT">
 			<Text>İki kanatlı uçaklarla edindiğimiz deneyimler, havacılıkta birçok atılım sağladı.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_ADVANCED_BALLISTICS">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_ADVANCED_BALLISTICS">
 			<Text>Yeni enerji santrallerimizin gelişimi, silah üretimimizi destekleyebilir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_COMBINED_ARMS">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_COMBINED_ARMS">
 			<Text>Ordumuz büyüdükçe, birliklerimizi daha da geliştirmek için yeni yöntemler arıyoruz.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_PLASTICS">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_PLASTICS">
 			<Text>Petrokimya kaynakları, özellikle esneklik açısından yeni ilerlemelere yol açabilir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_COMPUTERS">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_COMPUTERS">
 			<Text>Mevcut hükümetimiz çok fazla bürokrasi gerektiriyor. Etkin bilgi takibi büyük bir yardım olacaktır.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_SYNTHETIC_MATERIALS">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_SYNTHETIC_MATERIALS">
 			<Text>Havacılık tesislerinin yaygınlaşması, havacılık sektörümüzü hızla büyütüyor.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_TELECOMMUNICATIONS">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_TELECOMMUNICATIONS">
 			<Text>Radyo ve televizyon öncüleri sayesinde hızlı iletişimde ustalaştık.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_GUIDANCE_SYSTEMS">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_GUIDANCE_SYSTEMS">
 			<Text>Ordumuz bir savaş uçağını yendi. Artık en iyi savunma sistemlerini inşa etme zamanı.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_COMPOSITES">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_COMPOSITES">
 			<Text>Zırhlarımız ordumuzun belkemiği oldu, bilim insanlarımız ise daha gelişmiş modelleri sabırsızlıkla bekliyor.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_ROBOTICS">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_ROBOTICS">
 			<Text>Geniş metal kaynakları, bilim insanlarımızı yeni ufuklara itiyor.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_NANOTECHNOLOGY">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_NANOTECHNOLOGY">
 			<Text>Geniş metal kaynakları, bilim insanlarımızı yeni ufuklara itiyor.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BOOST_TRIGGER_LONGDESC_TEAM_MEMBER_OWNS_TECH">
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_TEAM_MEMBER_OWNS_TECH">
 			<Text>Takım arkadaşımız yeni bir teknolojiyi keşfetti ve bulgularını bizimle paylaştı. Bu inovasyon, ilerlememizi hızlandıracak.</Text>
 		</Replace>
 	</LocalizedText>

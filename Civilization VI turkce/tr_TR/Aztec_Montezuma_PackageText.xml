@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameData>
 	<LocalizedText>
-		<Replace Language="pl_PL" Tag="LOC_AZTEC_MONTEZUMA_MOD_TITLE">
+		<Replace Language="en_US" Tag="LOC_AZTEC_MONTEZUMA_MOD_TITLE">
 			<Text>Eklenti: Aztekler</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_AZTEC_MONTEZUMA_MOD_TEASER">
+		<Replace Language="en_US" Tag="LOC_AZTEC_MONTEZUMA_MOD_TEASER">
 			<Text>Yeni ulus ve lider: Azteklerin Montezuma</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_AZTEC_MONTEZUMA_MOD_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_AZTEC_MONTEZUMA_MOD_DESCRIPTION">
 			<Text>Yeni bir ulus ve lider, ayrıca yeni bir dünya harikası içerir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_AZTEC_MONTEZUMA_MOD_AUTHORS">
+		<Replace Language="en_US" Tag="LOC_AZTEC_MONTEZUMA_MOD_AUTHORS">
 			<Text>Firaxis</Text>
 		</Replace>
 	</LocalizedText>

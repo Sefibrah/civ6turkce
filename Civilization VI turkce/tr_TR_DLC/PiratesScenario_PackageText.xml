@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameData>
 	<LocalizedText>
-		<Replace Language="pl_PL" Tag="LOC_PIRATES_MOD_TITLE">
+		<Replace Language="en_US" Tag="LOC_PIRATES_MOD_TITLE">
 			<Text>Eklenti: Korsanlar</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PIRATES_MOD_TEASER">
+		<Replace Language="en_US" Tag="LOC_PIRATES_MOD_TEASER">
 			<Text>Korsanların altın çağında denizleri yağmala</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PIRATES_MOD_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_PIRATES_MOD_DESCRIPTION">
 			<Text>Hoş geldin dostum! Bu, korsanların altın çağı. Tropik denizler, kanundan yoksun ve tehlikeli. Sebebi sen olacaksın! Altınlar İspanyol kalyonlarında, İngiliz köylerinde, Fransız fırkateynlerinde ve Hollandalı tüccar gemilerinde saklı — ve o altınlar bizim olacak. Zengin ve ünlü bir korsan olabilecek misin? Siyah bayrak altında gemiyi kontrol edebilecek misin? Yoksa Davy Jones’un ya da Jack Ketch’in pençelerine mi düşeceksin? Filonu ve mürettebatını kur, gizli hazineleri bul ve hain köyleri ateşe ver!</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PIRATES_MOD_DESCRIPTION_ALT_1">
+		<Replace Language="en_US" Tag="LOC_PIRATES_MOD_DESCRIPTION_ALT_1">
 			<Text>Korsanların altın çağında, tropik denizler tehlikeli ve kanunsuz yerlerdir. Bu durumun sebebi sen olacaksın. Kolonici güçlerin zenginliklerini çalıp, ününü denizlere yayarak başını beladan uzak tutabilir misin? Korsan filosu kur, gizli hazineleri bul, diğer korsanlarla yüzleş ve güney denizlerindeki şehirleri yağmala, şan ve şerefini büyüt!</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MOD_PIRATES_SCENARIO_TITLE">
+		<Replace Language="en_US" Tag="LOC_MOD_PIRATES_SCENARIO_TITLE">
 			<Text>Çok Oyunculu Senaryo: Korsanlar</Text>
 		</Replace>
 	</LocalizedText>

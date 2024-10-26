@@ -2,33 +2,33 @@
 <GameData>
 	<LocalizedText>
 		<!-- Ruleset -->
-		<Replace Language="pl_PL" Tag="LOC_COMPSTOMP_RULESET_TITLE">
+		<Replace Language="en_US" Tag="LOC_COMPSTOMP_RULESET_TITLE">
 			<Text>Yapay Zeka Ezici</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_COMPSTOMP_RULESET_TEASER">
+		<Replace Language="en_US" Tag="LOC_COMPSTOMP_RULESET_TEASER">
 			<Text>Bu savaş odaklı senaryoda arkadaşlarınızla birlikte yapay zekayı ezin. Tüm yapay zeka oyuncuları yenildiğinde sona erer.[NEWLINE]Zafer Koşulları[NEWLINE]Tüm yapay zekaları yenin! Oyunu, yapay zekadan en çok şehir ele geçiren insan oyuncu kazanır.</Text>
 		</Replace>
 		<!-- Victories  -->
-		<Replace Language="pl_PL" Tag="LOC_COMPSTOMP_VICTORY_TITLE">
+		<Replace Language="en_US" Tag="LOC_COMPSTOMP_VICTORY_TITLE">
 			<Text>Yapay Zeka Ezildi</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_COMPSTOMP_VICTORY_DESC">
+		<Replace Language="en_US" Tag="LOC_COMPSTOMP_VICTORY_DESC">
 			<Text>Tüm yapay zekaları yenin! Oyunu, yapay zekadan en çok şehir ele geçiren insan oyuncu kazanır.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_COMPSTOMP_VICTORY_WIN_BLURB">
+		<Replace Language="en_US" Tag="LOC_COMPSTOMP_VICTORY_WIN_BLURB">
 			<Text>"I do not fear computers. I fear the lack of them." —Isaac Asimov</Text>
 		</Replace>
 		<!-- Mod Package Text -->
-		<Replace Language="pl_PL" Tag="LOC_COMPSTOMP_MOD_TITLE">
+		<Replace Language="en_US" Tag="LOC_COMPSTOMP_MOD_TITLE">
 			<Text>Çok Oyunculu Senaryo: Yapay Zeka Ezici</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_COMPSTOMP_MOD_TEASER">
+		<Replace Language="en_US" Tag="LOC_COMPSTOMP_MOD_TEASER">
 			<Text>Bu savaş odaklı senaryoda arkadaşlarınızla birlikte yapay zekayı ezin. Tüm yapay zeka oyuncuları yenildiğinde sona erer.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_COMPSTOMP_MOD_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_COMPSTOMP_MOD_DESCRIPTION">
 			<Text>Zafer Koşulları[NEWLINE]Tüm yapay zekaları yenin! Oyunu, yapay zekadan en çok şehir ele geçiren insan oyuncu kazanır.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_VICTORY_COMPSTOMP_PROGRESS">
+		<Replace Language="en_US" Tag="LOC_VICTORY_COMPSTOMP_PROGRESS">
 			<Text>Yapay zekadan ele geçirilen şehirler {AICitiesCaptured}/{TotalAICities} {CompStompIcon}</Text>
 		</Replace>
 	</LocalizedText>

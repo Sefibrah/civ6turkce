@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameData>
 	<LocalizedText>
-		<Replace Language="pl_PL" Tag="LOC_ROUTE_ANCIENT_ROAD_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ROUTE_ANCIENT_ROAD_DESCRIPTION">
 			<Text>[ICON_TradeRoute] Ticaret yolları veya askeri mühendisler tarafından inşa edilebilir. Herhangi bir karodan diğerine geçen birimin [ICON_Movement] hareketliliğini artırır.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ROUTE_MEDIEVAL_ROAD_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ROUTE_MEDIEVAL_ROAD_DESCRIPTION">
 			<Text>[ICON_TradeRoute] Ticaret yolları veya askeri mühendisler tarafından inşa edilebilir. Herhangi bir karodan diğerine geçen birimin [ICON_Movement] hareketliliğini artırır.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ROUTE_INDUSTRIAL_ROAD_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ROUTE_INDUSTRIAL_ROAD_DESCRIPTION">
 			<Text>[ICON_TradeRoute] Ticaret yolları veya askeri mühendisler tarafından inşa edilebilir. Herhangi bir karodan diğerine geçen birimin [ICON_Movement] hareketliliğini artırır.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ROUTE_MODERN_ROAD_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ROUTE_MODERN_ROAD_DESCRIPTION">
 			<Text>[ICON_TradeRoute] Ticaret yolları veya askeri mühendisler tarafından inşa edilebilir. Herhangi bir karodan diğerine geçen birimin [ICON_Movement] hareketliliğini artırır.</Text>
 		</Replace>
 	</LocalizedText>

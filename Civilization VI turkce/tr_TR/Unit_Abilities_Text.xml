@@ -2,571 +2,571 @@
 <GameData>
 	<LocalizedText>
 		<!-- Names -->
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_ANTI_CAVALRY_NAME">
+		<Replace Language="en_US" Tag="LOC_ABILITY_ANTI_CAVALRY_NAME">
 			<Text>Atlılara Karşı Savunma</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_HEAVY_CHARIOT_NAME">
+		<Replace Language="en_US" Tag="LOC_ABILITY_HEAVY_CHARIOT_NAME">
 			<Text>Ağır Savaş Arabası</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_IGNORE_TERRAIN_COST_NAME">
+		<Replace Language="en_US" Tag="LOC_ABILITY_IGNORE_TERRAIN_COST_NAME">
 			<Text>Arazi Maliyeti Yok</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_IGNORE_CROSSING_RIVERS_COST_NAME">
+		<Replace Language="en_US" Tag="LOC_ABILITY_IGNORE_CROSSING_RIVERS_COST_NAME">
 			<Text>Nehir Geçişi Ücretsiz</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_IGNORE_ZOC_NAME">
+		<Replace Language="en_US" Tag="LOC_ABILITY_IGNORE_ZOC_NAME">
 			<Text>Bölge Kontrolünü Görmezden Gelme</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_LIGHT_CHARIOT_NAME">
+		<Replace Language="en_US" Tag="LOC_ABILITY_LIGHT_CHARIOT_NAME">
 			<Text>Hafif Savaş Arabası</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_NO_MOVE_AND_SHOOT_NAME">
+		<Replace Language="en_US" Tag="LOC_ABILITY_NO_MOVE_AND_SHOOT_NAME">
 			<Text>Hareket Edip Ateş Edemez</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_NO_OCEAN_NAME">
+		<Replace Language="en_US" Tag="LOC_ABILITY_NO_OCEAN_NAME">
 			<Text>Sadece Kıyıya Sınırlı</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_CANNOT_ATTACK">
+		<Replace Language="en_US" Tag="LOC_ABILITY_CANNOT_ATTACK">
 			<Text>Saldıramaz</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_FRIENDLY_TERRITORY_COMBAT">
+		<Replace Language="en_US" Tag="LOC_ABILITY_FRIENDLY_TERRITORY_COMBAT">
 			<Text>Dost Toprak Avantajı</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_ENABLE_WALL_ATTACK_NAME">
+		<Replace Language="en_US" Tag="LOC_ABILITY_ENABLE_WALL_ATTACK_NAME">
 			<Text>Duvara Saldırıyı Etkinleştirir</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_BYPASS_WALLS_NAME">
+		<Replace Language="en_US" Tag="LOC_ABILITY_BYPASS_WALLS_NAME">
 			<Text>Duvarları Aşar</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_ANTI_SPEAR_NAME">
+		<Replace Language="en_US" Tag="LOC_ABILITY_ANTI_SPEAR_NAME">
 			<Text>Mızrakçılara Karşı Savunma</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_GRANT_RANGE_BONUS_NAME">
+		<Replace Language="en_US" Tag="LOC_ABILITY_GRANT_RANGE_BONUS_NAME">
 			<Text>Menzil Bonusu Sağlar</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_UNOBSTRUCTED_VIEW_NAME">
+		<Replace Language="en_US" Tag="LOC_ABILITY_UNOBSTRUCTED_VIEW_NAME">
 			<Text>Engelsiz Görüş</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_OLIGARCHY_MELEE_BUFF_NAME">
+		<Replace Language="en_US" Tag="LOC_ABILITY_OLIGARCHY_MELEE_BUFF_NAME">
 			<Text>Oligarşi Yakın Dövüş Güçlendirmesi</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_THEOCRACY_RELIGIOUS_BUFF_NAME">
+		<Replace Language="en_US" Tag="LOC_ABILITY_THEOCRACY_RELIGIOUS_BUFF_NAME">
 			<Text>Teokrasi Güçlendirmesi</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_RELIGIOUS_ORDERS_BUFF_NAME">
+		<Replace Language="en_US" Tag="LOC_ABILITY_RELIGIOUS_ORDERS_BUFF_NAME">
 			<Text>Dini Emirler</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_FASCISM_ATTACK_BUFF_NAME">
+		<Replace Language="en_US" Tag="LOC_ABILITY_FASCISM_ATTACK_BUFF_NAME">
 			<Text>Faşizm Saldırı Güçlendirmesi</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_COMMUNISM_DEFENSE_BUFF_NAME">
+		<Replace Language="en_US" Tag="LOC_ABILITY_COMMUNISM_DEFENSE_BUFF_NAME">
 			<Text>Komünizm Savunma Güçlendirmesi</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_MEDIC_HEAL_NAME">
+		<Replace Language="en_US" Tag="LOC_ABILITY_MEDIC_HEAL_NAME">
 			<Text>Alan Hekimi Tedavisi</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_STEALTH_NAME">
+		<Replace Language="en_US" Tag="LOC_ABILITY_STEALTH_NAME">
 			<Text>Gizlenme</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_SEE_HIDDEN_NAME">
+		<Replace Language="en_US" Tag="LOC_ABILITY_SEE_HIDDEN_NAME">
 			<Text>Gizlenmiş Birimleri Görme</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_COASTAL_RAID_NAME">
+		<Replace Language="en_US" Tag="LOC_ABILITY_COASTAL_RAID_NAME">
 			<Text>Sahil Baskını</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_MELEE_COASTAL_RAID_NAME">
+		<Replace Language="en_US" Tag="LOC_ABILITY_MELEE_COASTAL_RAID_NAME">
 			<Text>Sahil Yakın Dövüş Baskını</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_BYPASS_COMBAT_UNIT_NAME">
+		<Replace Language="en_US" Tag="LOC_ABILITY_BYPASS_COMBAT_UNIT_NAME">
 			<Text>Yönlendirilmiş Saldırı</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_HEAL_NEUTRAL_TERRITORY_NAME">
+		<Replace Language="en_US" Tag="LOC_ABILITY_HEAL_NEUTRAL_TERRITORY_NAME">
 			<Text>Nötr Topraklarda İyileşir</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_TRADE_ROUTE_PLUNDER_IMMUNITY_SEA_NAME">
+		<Replace Language="en_US" Tag="LOC_ABILITY_TRADE_ROUTE_PLUNDER_IMMUNITY_SEA_NAME">
 			<Text>Deniz Yağmasına Karşı Bağışıklık</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_BERSERKER_RAGE_NAME">
+		<Replace Language="en_US" Tag="LOC_ABILITY_BERSERKER_RAGE_NAME">
 			<Text>Berserk Öfkesi</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_BERSERKER_MOVEMENT_NAME">
+		<Replace Language="en_US" Tag="LOC_ABILITY_BERSERKER_MOVEMENT_NAME">
 			<Text>Berserk Hareketi</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_LONGSHIP_MOVEMENT_NAME">
+		<Replace Language="en_US" Tag="LOC_ABILITY_LONGSHIP_MOVEMENT_NAME">
 			<Text>Uzun Gemi Hareketi</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_PRIZE_SHIPS_NAME">
+		<Replace Language="en_US" Tag="LOC_ABILITY_PRIZE_SHIPS_NAME">
 			<Text>Ödül Gemileri</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_CAPTIVE_WORKERS_NAME">
+		<Replace Language="en_US" Tag="LOC_ABILITY_CAPTIVE_WORKERS_NAME">
 			<Text>Esir İşçiler</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_BALKAN_CAVALRY_NAME">
+		<Replace Language="en_US" Tag="LOC_ABILITY_BALKAN_CAVALRY_NAME">
 			<Text>Balkan Süvarisi</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_ALTITUDE_TRAINING_NAME">
+		<Replace Language="en_US" Tag="LOC_ABILITY_ALTITUDE_TRAINING_NAME">
 			<Text>Rakım Antrenmanı</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_COSSACK_NAME">
+		<Replace Language="en_US" Tag="LOC_ABILITY_COSSACK_NAME">
 			<Text>Sakin Don</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_REDCOAT_NAME">
+		<Replace Language="en_US" Tag="LOC_ABILITY_REDCOAT_NAME">
 			<Text>Dünyanın Ordusu</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_VARU_NAME">
+		<Replace Language="en_US" Tag="LOC_ABILITY_VARU_NAME">
 			<Text>Korku</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_NAGAO_NAME">
+		<Replace Language="en_US" Tag="LOC_ABILITY_NAGAO_NAME">
 			<Text>Orman Savaşçısı</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_CONQUISTADOR_NAME">
+		<Replace Language="en_US" Tag="LOC_ABILITY_CONQUISTADOR_NAME">
 			<Text>Zorla Hristiyanlaştırma</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_GARDE_NAME">
+		<Replace Language="en_US" Tag="LOC_ABILITY_GARDE_NAME">
 			<Text>Napolyon'un Eliti</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_HOPLITE_NAME">
+		<Replace Language="en_US" Tag="LOC_ABILITY_HOPLITE_NAME">
 			<Text>Falanj</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_UBOAT_NAME">
+		<Replace Language="en_US" Tag="LOC_ABILITY_UBOAT_NAME">
 			<Text>Kurt Sürüsü</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_ROUGH_RIDER_NAME">
+		<Replace Language="en_US" Tag="LOC_ABILITY_ROUGH_RIDER_NAME">
 			<Text>Teddy'nin Sert Binicisi</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_MUSTANG_NAME">
+		<Replace Language="en_US" Tag="LOC_ABILITY_MUSTANG_NAME">
 			<Text>Mustang</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_MAMLUK_NAME">
+		<Replace Language="en_US" Tag="LOC_ABILITY_MAMLUK_NAME">
 			<Text>Furusiyya</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_SAMURAI_NAME">
+		<Replace Language="en_US" Tag="LOC_ABILITY_SAMURAI_NAME">
 			<Text>Samurai</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_NO_FOREIGN_SPREAD_NAME">
+		<Replace Language="en_US" Tag="LOC_ABILITY_NO_FOREIGN_SPREAD_NAME">
 			<Text>Yerel Yayılım</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_ARCHAEOLOGIST_ENTER_FOREIGN_LANDS_NAME">
+		<Replace Language="en_US" Tag="LOC_ABILITY_ARCHAEOLOGIST_ENTER_FOREIGN_LANDS_NAME">
 			<Text>Yabancı Topraklara Giriş</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_RELIGIOUS_CANNOT_ATTACK_NAME">
+		<Replace Language="en_US" Tag="LOC_ABILITY_RELIGIOUS_CANNOT_ATTACK_NAME">
 			<Text>Barış Temsilcisi</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_FRIENDLY_TERRITORY_RELIGIOUS_NAME">
+		<Replace Language="en_US" Tag="LOC_ABILITY_FRIENDLY_TERRITORY_RELIGIOUS_NAME">
 			<Text>Dost Bölge Avantajı</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_RELIGIOUS_ENTER_FOREIGN_LANDS_NAME">
+		<Replace Language="en_US" Tag="LOC_ABILITY_RELIGIOUS_ENTER_FOREIGN_LANDS_NAME">
 			<Text>Sınırları Tanımama</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_RELIGIOUS_IGNORE_TERRAIN_COST_NAME">
+		<Replace Language="en_US" Tag="LOC_ABILITY_RELIGIOUS_IGNORE_TERRAIN_COST_NAME">
 			<Text>Havada Yürüyen</Text>
 		</Replace>
 		<!-- Full description -->
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_ANTI_CAVALRY_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_ANTI_CAVALRY_DESCRIPTION">
 			<Text>+10 [ICON_Strength] hafif ve ağır süvari birliklerine karşı savaş gücü.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_ANTI_SPEAR_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_ANTI_SPEAR_DESCRIPTION">
 			<Text>+5 [ICON_Strength] süvari karşıtı birimlere karşı savaş gücü.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_HEAVY_CHARIOT_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_HEAVY_CHARIOT_DESCRIPTION">
 			<Text>Çöl, düzlük, çayır veya tundradan başlanıldığında +1 [ICON_Movement] hareket kabiliyeti.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_RELIGIOUS_IGNORE_TERRAIN_COST_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_RELIGIOUS_IGNORE_TERRAIN_COST_DESCRIPTION">
 			<Text>Orman, yağmur ormanı, tepe ve bataklık yalnızca bir [ICON_Movement] puanı tüketir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_IGNORE_ZOC_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_IGNORE_ZOC_DESCRIPTION">
 			<Text>Düşman kontrol bölgesinin etkisi yoktur (zone of control).</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_LIGHT_CHARIOT_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_LIGHT_CHARIOT_DESCRIPTION">
 			<Text>Çöl, düzlük, çayır veya tundrada başlanıldığında +2 [ICON_Movement] hareket kabiliyeti.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_NO_MOVE_AND_SHOOT_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_NO_MOVE_AND_SHOOT_DESCRIPTION">
 			<Text>Aynı tur içinde hareket edip saldırı yapamaz.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_NO_OCEAN_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_NO_OCEAN_DESCRIPTION">
 			<Text>Okyanusta ilerleyemez.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_CANNOT_ATTACK_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_CANNOT_ATTACK_DESCRIPTION">
 			<Text>Sadece savunma yapabilir, saldırı yapamaz.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_FRIENDLY_TERRITORY_COMBAT_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_FRIENDLY_TERRITORY_COMBAT_DESCRIPTION">
 			<Text>Dost topraklarda savaş avantajı.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_ENABLE_WALL_ATTACK_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_ENABLE_WALL_ATTACK_DESCRIPTION">
 			<Text>Düşman şehri yanında, yakın dövüş birimlerine şehir duvarlarına tam hasar verme yetisi kazandırır.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_BYPASS_WALLS_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_BYPASS_WALLS_DESCRIPTION">
 			<Text>Düşman şehri yanında, dost birliklere şehir duvarlarını aşma ve doğrudan şehre saldırma yetisi kazandırır.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_ANIT_SPEAR_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_ANIT_SPEAR_DESCRIPTION">
 			<Text>+5 [ICON_Strength] mızraklı ve zıpkınlı askerlere karşı savaş gücü.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_GRANT_RANGE_BONUS_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_GRANT_RANGE_BONUS_DESCRIPTION">
 			<Text>Yakınlardaki kuşatma birliklerine +1 [ICON_Range] menzil.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_UNOBSTRUCTED_VIEW_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_UNOBSTRUCTED_VIEW_DESCRIPTION">
 			<Text>Arazi görüşü engellemez.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_OBSERVATION_STRENGTH_BONUS_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_OBSERVATION_STRENGTH_BONUS_DESCRIPTION">
 			<Text>Kuşatma sınıfı birimlere bir kare mesafede +1 [ICON_Range] menzil verir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_OLIGARCHY_MELEE_BUFF_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_OLIGARCHY_MELEE_BUFF_DESCRIPTION">
 			<Text>+4 [ICON_Strength] saldırı gücü oligarşiden (bir yönetim biçimi).</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_THEOCRACY_RELIGIOUS_BUFF_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_THEOCRACY_RELIGIOUS_BUFF_DESCRIPTION">
 			<Text>+5 [ICON_Religion] dini güç teokrasiden (bir yönetim biçimi).</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_RELIGIOUS_ORDERS_BUFF_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_RELIGIOUS_ORDERS_BUFF_DESCRIPTION">
 			<Text>+5 [ICON_Religion] dini güç, dini emirlerden (bir politika).</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_FASCISM_ATTACK_BUFF_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_FASCISM_ATTACK_BUFF_DESCRIPTION">
 			<Text>+5 [ICON_Strength] saldırı gücü faşizmden (bir yönetim biçimi).</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_COMMUNISM_DEFENSE_BUFF_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_COMMUNISM_DEFENSE_BUFF_DESCRIPTION">
 			<Text>+6 [ICON_Strength] savunma gücü komünizmden (bir yönetim biçimi).</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_MEDIC_HEAL_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_MEDIC_HEAL_DESCRIPTION">
 			<Text>Bir kare içindeki oyuncu birimlerine +20 HP iyileştirme.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_STEALTH_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_STEALTH_DESCRIPTION">
 			<Text>Bir kareden daha uzaktaki birimlere gizlenmiş kalır.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_SEE_HIDDEN_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_SEE_HIDDEN_DESCRIPTION">
 			<Text>Kendi görüş alanı içindeki gizli birimleri görür.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_COASTAL_RAID_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_COASTAL_RAID_DESCRIPTION">
 			<Text>Sahil karelerinde yapıları ve sivil birimleri yağmalar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_MELEE_COASTAL_RAID_NAME_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_MELEE_COASTAL_RAID_NAME_DESCRIPTION">
 			<Text>Sahil karelerinde yapıları ve sivil birimleri yağmalar. (Harald Sert)</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_BYPASS_COMBAT_UNIT_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_BYPASS_COMBAT_UNIT_DESCRIPTION">
 			<Text>Destek birimlerine doğrudan saldırır, koruyucu savaş birimi olsa bile.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_HEAL_NEUTRAL_TERRITORY_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_HEAL_NEUTRAL_TERRITORY_DESCRIPTION">
 			<Text>Tarafsız topraklarda iyileşir. (Knarr)</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_TRADE_ROUTE_PLUNDER_IMMUNITY_SEA_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_TRADE_ROUTE_PLUNDER_IMMUNITY_SEA_DESCRIPTION">
 			<Text>Deniz karelerindeki [ICON_TradeRoute] ticaret yolları düşmanlar tarafından yağmalanamaz. Bu yetki, Lizbon şehir devleti ile dostluktan kazanılır.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_BERSERKER_RAGE_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_BERSERKER_RAGE_DESCRIPTION">
 			<Text>+10 [ICON_Strength] saldırı gücü[NEWLINE][ICON_Bullet]-5 [ICON_Strength] savunma gücü.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_BERSERKER_MOVEMENT_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_BERSERKER_MOVEMENT_DESCRIPTION">
 			<Text>Düşman topraklarında +2 [ICON_Movement] hareket kabiliyeti.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_LONGSHIP_MOVEMENT_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_LONGSHIP_MOVEMENT_DESCRIPTION">
 			<Text>Kıyı sularında +1 [ICON_Movement] hareket kabiliyeti.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_PRIZE_SHIPS_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_PRIZE_SHIPS_DESCRIPTION">
 			<Text>Yenilmiş düşman gemilerini ele geçirir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_CAPTIVE_WORKERS_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_CAPTIVE_WORKERS_DESCRIPTION">
 			<Text>Düşman savaş birimlerini yakalayıp inşaatçıya dönüştürür.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_BALKAN_CAVALRY_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_BALKAN_CAVALRY_DESCRIPTION">
 			<Text>Preslav şehir devleti ile dostluktan, tepelik alandaki süvari birlikleri için +5 [ICON_Strength] saldırı gücü.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_ALTITUDE_TRAINING_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_ALTITUDE_TRAINING_DESCRIPTION">
 			<Text>Misyonerler, engizisyonerler ve havariler, Everest Dağı yakınından geçtikten sonra tepelerde daha hızlı hareket eder.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_COSSACK_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_COSSACK_DESCRIPTION">
 			<Text>Saldırıdan sonra hareket etmeye devam edebilir.[NEWLINE][ICON_Bullet]Kendi topraklarında ve komşu karelerde +5 [ICON_Strength] saldırı gücü.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_REDCOAT_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_REDCOAT_DESCRIPTION">
 			<Text>Başkent dışındaki bir kıtada +10 [ICON_Strength] saldırı gücü.[NEWLINE][ICON_Bullet]Denizden çıkışta [ICON_Movement] hareket cezası yoktur.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_VARU_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_VARU_DESCRIPTION">
 			<Text>Komşu düşman birimlerinin -5 [ICON_Strength] saldırı gücü.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_NAGAO_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_NAGAO_DESCRIPTION">
 			<Text>Atıcı birimlere karşı +10 [ICON_Strength] savunma gücü.[NEWLINE][ICON_Bullet]Arazinin özelliklerini görmezden gelir.[NEWLINE][ICON_Bullet]Orman ve yağmur ormanlarında serbest hareket eder.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_CONQUISTADOR_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_CONQUISTADOR_DESCRIPTION">
 			<Text>Aynı karede dini bir birim varsa +10 [ICON_Strength] saldırı gücü.[NEWLINE][ICON_Bullet]Bir şehri ele geçirdiğinde veya ele geçirilme sırasında yakında bulunursa şehir, bu birimin dinine geçer.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_GARDE_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_GARDE_DESCRIPTION">
 			<Text>Başkentle aynı kıtada +10 [ICON_Strength] saldırı gücü.[NEWLINE][ICON_Bullet]Her öldürmede +10 [ICON_GreatGeneral] önemli general puanı kazanır.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_HOPLITE_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_HOPLITE_DESCRIPTION">
 			<Text>Yanında bir hoplit olduğunda +10 [ICON_Strength] saldırı gücü.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_UBOAT_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_UBOAT_DESCRIPTION">
 			<Text>Deniz savaşlarında +10 [ICON_Strength] saldırı gücü.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_ROUGH_RIDER_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_ROUGH_RIDER_DESCRIPTION">
 			<Text>Başkent kıtasında düşman birimi yenmek, birimin temel [ICON_Strength] gücünün %50'si kadar [ICON_Culture] kültür sağlar.[NEWLINE][ICON_Bullet]Tepelik arazilerde +10 [ICON_Strength] saldırı gücü.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_MUSTANG_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_MUSTANG_DESCRIPTION">
 			<Text>Avcı uçaklarına karşı +5 [ICON_Strength] saldırı gücü.[NEWLINE][ICON_Bullet]Savaşlardan %50 daha fazla deneyim kazanır.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_MAMLUK_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_MAMLUK_DESCRIPTION">
 			<Text>Her turda, savaş veya hareketten sonra bile kendini iyileştirir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_SAMURAI_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_SAMURAI_DESCRIPTION">
 			<Text>Birimi yaralandığında savaş performansı düşmez.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_BARRACKS_TRAINED_UNIT_XP_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_BARRACKS_TRAINED_UNIT_XP_DESCRIPTION">
 			<Text>Kışladan +25% deneyim.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_STABLE_TRAINED_UNIT_XP_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_STABLE_TRAINED_UNIT_XP_DESCRIPTION">
 			<Text>Ahtıhanelerden +25% deneyim.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_ARMORY_TRAINED_UNIT_XP_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_ARMORY_TRAINED_UNIT_XP_DESCRIPTION">
 			<Text>Silah depolarından +25% deneyim.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_MILITARY_ACADEMY_TRAINED_UNIT_XP_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_MILITARY_ACADEMY_TRAINED_UNIT_XP_DESCRIPTION">
 			<Text>Askeri akademilerden +25% deneyim.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_LIGHTHOUSE_TRAINED_UNIT_XP_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_LIGHTHOUSE_TRAINED_UNIT_XP_DESCRIPTION">
 			<Text>+25% deneyim deniz fenerinden.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_SHIPYARD_TRAINED_UNIT_XP_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_SHIPYARD_TRAINED_UNIT_XP_DESCRIPTION">
 			<Text>+25% deneyim tersaneden.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_SEAPORT_TRAINED_UNIT_XP_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_SEAPORT_TRAINED_UNIT_XP_DESCRIPTION">
 			<Text>+25% deneyim limandan.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_HANGAR_TRAINED_AIRCRAFT_XP_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_HANGAR_TRAINED_AIRCRAFT_XP_DESCRIPTION">
 			<Text>+25% deneyim hangardan.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_AIRPORT_TRAINED_AIRCRAFT_XP_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_AIRPORT_TRAINED_AIRCRAFT_XP_DESCRIPTION">
 			<Text>+50% deneyim havaalanından.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_ROYAL_NAVY_DOCKYARD_MOVEMENT_BONUS_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_ROYAL_NAVY_DOCKYARD_MOVEMENT_BONUS_DESCRIPTION">
 			<Text>+1 [ICON_Movement] hareket kabiliyeti Kraliyet Donanması tersanesinden.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_ROMAN_LEGION_BUILD_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_ROMAN_LEGION_BUILD_DESCRIPTION">
 			<Text>Romalı kalesi inşa edebilir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_GREAT_LIGHTHOUSE_MOVEMENT_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_GREAT_LIGHTHOUSE_MOVEMENT_DESCRIPTION">
 			<Text>+1 [ICON_Movement] hareket kabiliyeti Faros deniz fenerinden.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_GREAT_LIGHTHOUSE_EMBARKED_MOVEMENT_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_GREAT_LIGHTHOUSE_EMBARKED_MOVEMENT_DESCRIPTION">
 			<Text>+1 [ICON_Movement] su üzerindeki hareket kabiliyeti Faros deniz fenerinden.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_RANGED_ATTACK_DISTRICT_DEBUFF_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_RANGED_ATTACK_DISTRICT_DEBUFF_DESCRIPTION">
 			<Text>[COLOR_RED]-17 [ICON_Ranged][ENDCOLOR] uzak mesafe saldırı gücü şehir alanlarına ve deniz birimlerine karşı.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_BOMBARD_ATTACK_UNIT_DEBUFF_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_BOMBARD_ATTACK_UNIT_DEBUFF_DESCRIPTION">
 			<Text>[COLOR_RED]-17 [ICON_Bombard][ENDCOLOR] bombardıman gücü birimlere karşı.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_AIR_FIGHTER_ATTACK_DISTRICT_DEBUFF_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_AIR_FIGHTER_ATTACK_DISTRICT_DEBUFF_DESCRIPTION">
 			<Text>[COLOR_RED]-17 [ICON_Ranged][ENDCOLOR] uzak mesafe saldırı gücü şehir alanlarına karşı.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_AIR_BOMBER_ATTACK_UNIT_DEBUFF_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_AIR_BOMBER_ATTACK_UNIT_DEBUFF_DESCRIPTION">
 			<Text>[COLOR_RED]-17 [ICON_Bombard][ENDCOLOR] bombardıman gücü birimlere karşı.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_ANTI_AIR_COVER_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_ANTI_AIR_COVER_DESCRIPTION">
 			<Text>Bir kare içindeki hava saldırılarına karşı savunma sağlar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PREVIEW_MONTEZUMA_COMBAT_BONUS_PER_LUXURY_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_PREVIEW_MONTEZUMA_COMBAT_BONUS_PER_LUXURY_DESCRIPTION">
 			<Text>+{1_Amount} [ICON_Strength] savaş gücü lüks kaynaklardan. (Montezuma)</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_PHILIP_II_COMBAT_BONUS_OTHER_RELIGION_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_PHILIP_II_COMBAT_BONUS_OTHER_RELIGION_DESCRIPTION">
 			<Text>+4 [ICON_Strength] farklı dine sahip birimlere karşı savaş gücü. (Filip II)</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_BARBAROSSA_COMBAT_BONUS_VS_CITY_STATES_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_BARBAROSSA_COMBAT_BONUS_VS_CITY_STATES_DESCRIPTION">
 			<Text>+7 [ICON_Strength] şehir devletlerine karşı savaş gücü. (Barbarossa)</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_ROOSEVELT_COMBAT_BONUS_HOME_CONTINENT_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_ROOSEVELT_COMBAT_BONUS_HOME_CONTINENT_DESCRIPTION">
 			<Text>+5 [ICON_Strength] kendi kıtasında savaş gücü. (Roosevelt)</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_TOMYRIS_BONUS_VS_WOUNDED_UNITS_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_TOMYRIS_BONUS_VS_WOUNDED_UNITS_DESCRIPTION">
 			<Text>+5 [ICON_Strength] yaralı birimlere karşı savaş gücü. (Tomyris)</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_TOMYRIS_HEAL_AFTER_DEFEATING_UNIT_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_TOMYRIS_HEAL_AFTER_DEFEATING_UNIT_DESCRIPTION">
 			<Text>+30 [ICON_Damaged] birim yenildikten sonra iyileşme. (Tomyris)</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_KNARR_IGNORE_EMBARK_DISEMBARK_COST_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_KNARR_IGNORE_EMBARK_DISEMBARK_COST_DESCRIPTION">
 			<Text>Denize açılma ve karaya çıkış maliyetlerini görmezden gelir. (Knarr)</Text>
 		</Replace>
 		<!--Great People Assigned-->
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_RAJENDRA_CHOLA_PLUNDER_BONUS_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_RAJENDRA_CHOLA_PLUNDER_BONUS_DESCRIPTION">
 			<Text>+40% ticaret yollarını yağmalama ödülleri. (Rajendra Chola)</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_FRANCIS_DRAKE_PLUNDER_BONUS_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_FRANCIS_DRAKE_PLUNDER_BONUS_DESCRIPTION">
 			<Text>+50% ticaret yollarını yağmalama ödülleri. (Francis Drake)</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_CHING_SHIH_PLUNDER_BONUS_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_CHING_SHIH_PLUNDER_BONUS_DESCRIPTION">
 			<Text>+60% ticaret yollarını yağmalama ödülleri. (Ching Shih)</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_CLANCY_FERNANDO_BONUS_EXPERIENCE_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_CLANCY_FERNANDO_BONUS_EXPERIENCE_DESCRIPTION">
 			<Text>+200% savaş deneyimi. (Clancy Fernando)</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_HORATIO_NELSON_FLANKING_BONUS_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_HORATIO_NELSON_FLANKING_BONUS_DESCRIPTION">
 			<Text>+50% kanat desteği avantajı. (Horatio Nelson)</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_LASKARINA_BOUBOULINA_BONUS_EXPERIENCE_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_LASKARINA_BOUBOULINA_BONUS_EXPERIENCE_DESCRIPTION">
 			<Text>+50% savaş deneyimi. (Laskarina Bouboulina)</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_SERGEY_GORSHKOV_BONUS_EXPERIENCE_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_SERGEY_GORSHKOV_BONUS_EXPERIENCE_DESCRIPTION">
 			<Text>+100% savaş deneyimi. (Sergey Gorshkov)</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_GEORGY_ZHUKOV_FLANKING_BONUS_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_GEORGY_ZHUKOV_FLANKING_BONUS_DESCRIPTION">
 			<Text>+50% kanat desteği avantajı. (Georgy Zhukov)</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_JOHN_MONASH_BONUS_EXPERIENCE_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_JOHN_MONASH_BONUS_EXPERIENCE_DESCRIPTION">
 			<Text>+75 savaş deneyimi. (John Monash)</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_VIJAYA_WIMALARATNE_BONUS_EXPERIENCE_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_VIJAYA_WIMALARATNE_BONUS_EXPERIENCE_DESCRIPTION">
 			<Text>+100 savaş deneyimi. (Vijaya Wimalaratne)</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_HOJO_TOKIMUNE_COASTAL_COMBAT_BONUS_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_HOJO_TOKIMUNE_COASTAL_COMBAT_BONUS_DESCRIPTION">
 			<Text>+5 [ICON_Strength] sahilde savaş gücü. (Hojo Tokimune)</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_HOJO_TOKIMUNE_SHALLOW_WATER_COMBAT_BONUS_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_HOJO_TOKIMUNE_SHALLOW_WATER_COMBAT_BONUS_DESCRIPTION">
 			<Text>+5 [ICON_Strength] sığ sularda savaş gücü. (Hojo Tokimune)</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_MONTEZUMA_COMBAT_BONUS_PER_LUXURY_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_MONTEZUMA_COMBAT_BONUS_PER_LUXURY_DESCRIPTION">
 			<Text>+1 [ICON_Strength] her farklı lüks kaynak için savaş gücü.</Text>
 		</Replace>
 		<!-- Combat preview description -->
-		<Replace Language="pl_PL" Tag="LOC_COMBAT_DIFFICULTY_SCALING">
+		<Replace Language="en_US" Tag="LOC_COMBAT_DIFFICULTY_SCALING">
 			<Text>+{Amount} [ICON_Strength] zorluk seviyesine göre savaş gücü.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_ANTI_CAVALRY_MODIFIER_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_ANTI_CAVALRY_MODIFIER_DESCRIPTION">
 			<Text>+10 [ICON_Strength] süvarilere karşı savaş gücü.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_ANTI_FIGHTER_AIRCRAFT_MODIFIER_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_ANTI_FIGHTER_AIRCRAFT_MODIFIER_DESCRIPTION">
 			<Text>+5 [ICON_Strength] savaş uçaklarına karşı savaş gücü.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_HEAVY_CHARIOT_MODIFIER_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_HEAVY_CHARIOT_MODIFIER_DESCRIPTION">
 			<Text>+1 [ICON_Movement] düz arazide başlangıç hareket kabiliyeti.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_IGNORE_TERRAIN_COST_MODIFIER_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_IGNORE_TERRAIN_COST_MODIFIER_DESCRIPTION">
 			<Text>Tüm araziler bir [ICON_Movement] hareket puanı harcar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_IGNORE_ZOC_MODIFIER_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_IGNORE_ZOC_MODIFIER_DESCRIPTION">
 			<Text>Kontrol bölgesi etkisizdir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_LIGHT_CHARIOT_MODIFIER_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_LIGHT_CHARIOT_MODIFIER_DESCRIPTION">
 			<Text>+2 [ICON_Movement] düz arazide başlangıç hareket kabiliyeti.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_NO_MOVE_AND_SHOOT_MODIFIER_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_NO_MOVE_AND_SHOOT_MODIFIER_DESCRIPTION">
 			<Text>Saldırı sonrası hareket edemez.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_NO_OCEAN_MODIFIER_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_NO_OCEAN_MODIFIER_DESCRIPTION">
 			<Text>Denize giremez.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_CANNOT_ATTACK_MODIFIER_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_CANNOT_ATTACK_MODIFIER_DESCRIPTION">
 			<Text>Birim saldırı yapamaz.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_FRIENDLY_TERRITORY_COMBAT_MODIFIER_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_FRIENDLY_TERRITORY_COMBAT_MODIFIER_DESCRIPTION">
 			<Text>+ [ICON_Strength] dost topraklarda savaş gücü avantajı.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_ENABLE_WALL_ATTACK_MODIFIER_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_ENABLE_WALL_ATTACK_MODIFIER_DESCRIPTION">
 			<Text>Yakın dövüş birimlerine duvarlara saldırma yeteneği kazandırır.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_BYPASS_WALLS_MODIFIER_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_BYPASS_WALLS_MODIFIER_DESCRIPTION">
 			<Text>Yakın dövüş birimleri duvarları aşabilir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_ANIT_SPEAR_MODIFIER_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_ANIT_SPEAR_MODIFIER_DESCRIPTION">
 			<Text>+5 [ICON_Strength] süvari karşıtı birimlere karşı savaş gücü.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_GRANT_RANGE_BONUS_MODIFIER_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_GRANT_RANGE_BONUS_MODIFIER_DESCRIPTION">
 			<Text>+1 [ICON_Ranged] kuşatma makinelerine menzil.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_UNOBSTRUCTED_VIEW_MODIFIER_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_UNOBSTRUCTED_VIEW_MODIFIER_DESCRIPTION">
 			<Text>Engelsiz görüş.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_OLIGARCHY_MELEE_BUFF_MODIFIER_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_OLIGARCHY_MELEE_BUFF_MODIFIER_DESCRIPTION">
 			<Text>+4 [ICON_Strength] savaş gücü oligarşiden.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_THEOCRACY_RELIGIOUS_BUFF_MODIFIER_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_THEOCRACY_RELIGIOUS_BUFF_MODIFIER_DESCRIPTION">
 			<Text>+5 [ICON_Strength] savaş gücü teokrasiden.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_RELIGIOUS_ORDERS_BUFF_MODIFIER_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_RELIGIOUS_ORDERS_BUFF_MODIFIER_DESCRIPTION">
 			<Text>+5 [ICON_Strength] savaş gücü dini emirlerden.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_FASCISM_ATTACK_BUFF_MODIFIER_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_FASCISM_ATTACK_BUFF_MODIFIER_DESCRIPTION">
 			<Text>+5 [ICON_Strength] saldırı gücü faşizmden.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_COMMUNISM_DEFENSE_BUFF_MODIFIER_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_COMMUNISM_DEFENSE_BUFF_MODIFIER_DESCRIPTION">
 			<Text>+4 [ICON_Strength] savunma gücü komünizmden.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PROMOTION_COMBAT_OTHER_RELIGION_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_PROMOTION_COMBAT_OTHER_RELIGION_DESCRIPTION">
 			<Text>+4 [ICON_Strength] farklı dinlere sahip milletlere karşı savaş gücü.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PROMOTION_COMBAT_WARS_OF_RELIGION">
+		<Replace Language="en_US" Tag="LOC_PROMOTION_COMBAT_WARS_OF_RELIGION">
 			<Text>Din Savaşları: +4 [ICON_Strength] farklı dinlere sahip milletlere karşı savaş gücü.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PROMOTION_COMBAT_HOME_CONTINENT_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_PROMOTION_COMBAT_HOME_CONTINENT_DESCRIPTION">
 			<Text>+5 [ICON_Strength] kendi kıtasında savaş gücü.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PROMOTION_COMBAT_VS_CITY_STATES_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_PROMOTION_COMBAT_VS_CITY_STATES_DESCRIPTION">
 			<Text>+7 şehir devletlerine karşı savaş gücü.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PROMOTION_COMBAT_LAND_ON_COAST_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_PROMOTION_COMBAT_LAND_ON_COAST_DESCRIPTION">
 			<Text>+5 [ICON_Strength] sahil topraklarında savaş gücü.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PROMOTION_COMBAT_SHALLOW_WATER_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_PROMOTION_COMBAT_SHALLOW_WATER_DESCRIPTION">
 			<Text>+5 [ICON_Strength] sığ sularda savaş gücü.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_MEDIC_HEAL_MODIFIER_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_MEDIC_HEAL_MODIFIER_DESCRIPTION">
 			<Text>+{1_Amount} HP, bir kare mesafedeki birimleri iyileştirir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_STRONG_WHEN_ATTACKING_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_STRONG_WHEN_ATTACKING_DESCRIPTION">
 			<Text>+{1_Amount} [ICON_Strength] saldırırken savaş gücü.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_WEAK_WHEN_DEFENDING_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_WEAK_WHEN_DEFENDING_DESCRIPTION">
 			<Text>{1_Amount} [ICON_Strength] savunmada savaş gücü kaybı.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_PRIZE_SHIPS_MODIFIER_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_PRIZE_SHIPS_MODIFIER_DESCRIPTION">
 			<Text>{1_Amount}% düşman gemisini ele geçirme şansı.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_CAPTIVE_WORKERS_MODIFIER_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_CAPTIVE_WORKERS_MODIFIER_DESCRIPTION">
 			<Text>{1_Amount}% düşmanı esir alma şansı.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_BALKAN_CAVALRY_COMBAT_HILLS_MODIFIER_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_BALKAN_CAVALRY_COMBAT_HILLS_MODIFIER_DESCRIPTION">
 			<Text>+{1_Amount} [ICON_Strength] tepelerde savaş gücü.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_COSSACK_LOCAL_COMBAT_MODIFIER_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_COSSACK_LOCAL_COMBAT_MODIFIER_DESCRIPTION">
 			<Text>+{1_Amount} [ICON_Strength] kendi topraklarımızda veya yakınında savaş gücü.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_REDCOAT_FOREIGN_COMBAT_MODIFIER_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_REDCOAT_FOREIGN_COMBAT_MODIFIER_DESCRIPTION">
 			<Text>+{1_Amount} [ICON_Strength] başkentimizin olmadığı kıtada savaş gücü.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_VARU_NEGATIVE_COMBAT_MODIFIER_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_VARU_NEGATIVE_COMBAT_MODIFIER_DESCRIPTION">
 			<Text>{1_Amount} [ICON_Strength] savaş gücü kaybı, varu yakında olduğunda.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_NAGAO_RANGED_DEFENSE_MODIFIER_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_NAGAO_RANGED_DEFENSE_MODIFIER_DESCRIPTION">
 			<Text>+{1_Amount} [ICON_Strength] menzilli saldırılara karşı savunma gücü.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_CONQUISTADOR_SPECIFIC_UNIT_COMBAT_MODIFIER_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_CONQUISTADOR_SPECIFIC_UNIT_COMBAT_MODIFIER_DESCRIPTION">
 			<Text>+{1_Amount} [ICON_Strength] aynı karede dini birim olduğunda savaş gücü.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_GARDE_CONTINENT_COMBAT_MODIFIER_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_GARDE_CONTINENT_COMBAT_MODIFIER_DESCRIPTION">
 			<Text>+{1_Amount} [ICON_Strength] başkent kıtasında savaş gücü.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_HOPLITE_NEIGHBOR_COMBAT_MODIFIER_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_HOPLITE_NEIGHBOR_COMBAT_MODIFIER_DESCRIPTION">
 			<Text>+{1_Amount} [ICON_Strength] komşu hoplit ile savaş gücü.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_UBOAT_OCEAN_COMBAT_MODIFIER_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_UBOAT_OCEAN_COMBAT_MODIFIER_DESCRIPTION">
 			<Text>+{1_Amount} [ICON_Strength] deniz karelerinde savaş gücü.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_ROUGH_RIDER_BONUS_IN_HILLS_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_ROUGH_RIDER_BONUS_IN_HILLS_DESCRIPTION">
 			<Text>+{1_Amount} [ICON_Strength] tepelerde savaş gücü.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_NO_FOREIGN_SPREAD_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_NO_FOREIGN_SPREAD_DESCRIPTION">
 			<Text>Dini yalnızca kendi topraklarında yayabilir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_RELIGIOUS_CANNOT_ATTACK_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_RELIGIOUS_CANNOT_ATTACK_DESCRIPTION">
 			<Text>Dini savaş başlatamaz.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_FRIENDLY_TERRITORY_RELIGIOUS_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_FRIENDLY_TERRITORY_RELIGIOUS_DESCRIPTION">
 			<Text>Kendi topraklarında dini savaşlarda büyük avantaj sağlar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_RELIGIOUS_ENTER_FOREIGN_LANDS_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_RELIGIOUS_ENTER_FOREIGN_LANDS_DESCRIPTION">
 			<Text>Açık sınır anlaşması olmadan yabancı topraklara girebilir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_IGNORE_TERRAIN_COST_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_IGNORE_TERRAIN_COST_DESCRIPTION">
 			<Text>Orman, yağmur ormanı, tepe ve bataklık sadece bir [ICON_Movement] hareket puanı harcar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_IGNORE_CROSSING_RIVERS_COST_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_IGNORE_CROSSING_RIVERS_COST_DESCRIPTION">
 			<Text>Nehir geçiş maliyetini önemsemez.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_ARCHAEOLOGIST_ENTER_FOREIGN_LANDS_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_ARCHAEOLOGIST_ENTER_FOREIGN_LANDS_DESCRIPTION">
 			<Text>Açık sınır anlaşması olmadan yabancı topraklara girebilir.</Text>
 		</Replace>
 	</LocalizedText>

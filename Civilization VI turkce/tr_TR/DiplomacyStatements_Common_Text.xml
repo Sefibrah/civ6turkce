@@ -1,176 +1,176 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameData>
 	<LocalizedText>
-		<Replace Language="pl_PL" Tag="LOC_DIPLO_PERSON_CLEO">
+		<Replace Language="en_US" Tag="LOC_DIPLO_PERSON_CLEO">
 			<Text>Mısır'ın Kleopatra'sı</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_DIPLO_GREETING_CLEO">
+		<Replace Language="en_US" Tag="LOC_DIPLO_GREETING_CLEO">
 			<Text>Merhaba yolcu. Bilmelisiniz ki büyüklüğün önünde duruyorsunuz.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_DIPLO_ADVISOR_READY">
+		<Replace Language="en_US" Tag="LOC_DIPLO_ADVISOR_READY">
 			<Text>Sadık tebaam benden ne yapmamı ister?</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_DIPLO_CHOICE_DECLARE_FRIENDSHIP">
+		<Replace Language="en_US" Tag="LOC_DIPLO_CHOICE_DECLARE_FRIENDSHIP">
 			<Text>Dostluğu İlan Et</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_DIPLO_CHOICE_MAKE_PEACE">
+		<Replace Language="en_US" Tag="LOC_DIPLO_CHOICE_MAKE_PEACE">
 			<Text>Barış Yap</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_DIPLO_CHOICE_OPEN_BORDERS">
+		<Replace Language="en_US" Tag="LOC_DIPLO_CHOICE_OPEN_BORDERS">
 			<Text>[SIZE_16]Açık Sınırlar Talep Et[NEWLINE][SIZE_12]</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_DIPLO_CHOICE_DIPLOMATIC_DELEGATION">
+		<Replace Language="en_US" Tag="LOC_DIPLO_CHOICE_DIPLOMATIC_DELEGATION">
 			<Text>[SIZE_16]Heyet Gönder[NEWLINE][SIZE_12]</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_DIPLO_CHOICE_RESIDENT_EMBASSY">
+		<Replace Language="en_US" Tag="LOC_DIPLO_CHOICE_RESIDENT_EMBASSY">
 			<Text>[SIZE_16]Büyükelçilik Kur[NEWLINE][SIZE_12]</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_DIPLO_CHOICE_DENOUNCE">
+		<Replace Language="en_US" Tag="LOC_DIPLO_CHOICE_DENOUNCE">
 			<Text>[SIZE_16]Kınama Yayınla[NEWLINE][SIZE_12]</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_DIPLO_CHOICE_DECLARE_SURPRISE_WAR">
+		<Replace Language="en_US" Tag="LOC_DIPLO_CHOICE_DECLARE_SURPRISE_WAR">
 			<Text>[SIZE_16]Ani Savaş İlan Et[NEWLINE][SIZE_12]</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_DIPLO_CHOICE_DECLARE_FORMAL_WAR">
+		<Replace Language="en_US" Tag="LOC_DIPLO_CHOICE_DECLARE_FORMAL_WAR">
 			<Text>[SIZE_16]Resmi Savaş İlan Et[NEWLINE][SIZE_12]</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_DIPLO_CHOICE_DECLARE_HOLY_WAR">
+		<Replace Language="en_US" Tag="LOC_DIPLO_CHOICE_DECLARE_HOLY_WAR">
 			<Text>[SIZE_16]Kutsal Savaş İlan Et[NEWLINE][SIZE_12]</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_DIPLO_CHOICE_DECLARE_LIBERATION_WAR">
+		<Replace Language="en_US" Tag="LOC_DIPLO_CHOICE_DECLARE_LIBERATION_WAR">
 			<Text>[SIZE_16]Kurtuluş Savaşı İlan Et[NEWLINE][SIZE_12]</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_DIPLO_CHOICE_DECLARE_LIBERATION_WAR_TOOLTIP">
+		<Replace Language="en_US" Tag="LOC_DIPLO_CHOICE_DECLARE_LIBERATION_WAR_TOOLTIP">
 			<Text>[NEWLINE][NEWLINE](Dostane şehirleri fethetmek savaş suçlusu sayılmaz)</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_DIPLO_CHOICE_DECLARE_RECONQUEST_WAR">
+		<Replace Language="en_US" Tag="LOC_DIPLO_CHOICE_DECLARE_RECONQUEST_WAR">
 			<Text>[SIZE_16]Yeniden Fetih Savaşı İlan Et[NEWLINE][SIZE_12]</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_DIPLO_CHOICE_DECLARE_RECONQUEST_WAR_TOOLTIP">
+		<Replace Language="en_US" Tag="LOC_DIPLO_CHOICE_DECLARE_RECONQUEST_WAR_TOOLTIP">
 			<Text>[NEWLINE][NEWLINE](Kendi şehirlerinizi geri almak savaş suçlusu sayılmaz)</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_DIPLO_CHOICE_DECLARE_PROTECTORATE_WAR">
+		<Replace Language="en_US" Tag="LOC_DIPLO_CHOICE_DECLARE_PROTECTORATE_WAR">
 			<Text>[SIZE_16]Koruyucu Savaş İlan Et[NEWLINE][SIZE_12]</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_DIPLO_CHOICE_DECLARE_PROTECTORATE_WAR_TOOLTIP">
+		<Replace Language="en_US" Tag="LOC_DIPLO_CHOICE_DECLARE_PROTECTORATE_WAR_TOOLTIP">
 			<Text>[NEWLINE][NEWLINE](Müttefik şehir devletlerini savunmak savaş suçu değildir)</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_DIPLO_CHOICE_DECLARE_COLONIAL_WAR">
+		<Replace Language="en_US" Tag="LOC_DIPLO_CHOICE_DECLARE_COLONIAL_WAR">
 			<Text>[SIZE_16]Sömürge Savaşı İlan Et[NEWLINE][SIZE_12]</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_DIPLO_CHOICE_DECLARE_TERRITORIAL_WAR">
+		<Replace Language="en_US" Tag="LOC_DIPLO_CHOICE_DECLARE_TERRITORIAL_WAR">
 			<Text>[SIZE_16]Bölgesel Savaş İlan Et[NEWLINE][SIZE_12]</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_DIPLO_CHOICE_WARMONGER_INFO">
+		<Replace Language="en_US" Tag="LOC_DIPLO_CHOICE_WARMONGER_INFO">
 			<Text>Savaş Suçlusu Etkisi: {1_WarmongerLevel}</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_DIPLO_CHOICE_GOLD_INFO">
+		<Replace Language="en_US" Tag="LOC_DIPLO_CHOICE_GOLD_INFO">
 			<Text>Maliyeti: {1_Cost} [ICON_Gold] altın</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CASUS_BELLI_HOLY_WAR_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_CASUS_BELLI_HOLY_WAR_DESCRIPTION">
 			<Text>Hedef, bir şehrimizin dinini değiştirdi.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CASUS_BELLI_RECONQUEST_WAR_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_CASUS_BELLI_RECONQUEST_WAR_DESCRIPTION">
 			<Text>Hedef, bizden bir şehri ele geçirdi.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CASUS_BELLI_LIBERATION_WAR_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_CASUS_BELLI_LIBERATION_WAR_DESCRIPTION">
 			<Text>Hedef, bir dostumuzun ya da müttefikimizin şehrini fethetti.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CASUS_BELLI_PROTECTORATE_WAR_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_CASUS_BELLI_PROTECTORATE_WAR_DESCRIPTION">
 			<Text>Hedef, bir müttefik şehir devletimize savaş ilan etti.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CASUS_BELLI_COLONIAL_WAR_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_CASUS_BELLI_COLONIAL_WAR_DESCRIPTION">
 			<Text>Hedef, bizden iki teknoloji çağı geride.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CASUS_BELLI_TERRITORIAL_WAR_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_CASUS_BELLI_TERRITORIAL_WAR_DESCRIPTION">
 			<Text>Hedefin iki şehri, iki rakibin şehirlerinden 10 kare içinde bulunuyor.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_DIPLO_ARE_YOU_SURE_WAR">
+		<Replace Language="en_US" Tag="LOC_DIPLO_ARE_YOU_SURE_WAR">
 			<Text>Savaşa girmeye emin miyiz?</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_DIPLO_ARE_YOU_SURE_YES">
+		<Replace Language="en_US" Tag="LOC_DIPLO_ARE_YOU_SURE_YES">
 			<Text>Evet</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_DIPLO_ARE_YOU_SURE_NO">
+		<Replace Language="en_US" Tag="LOC_DIPLO_ARE_YOU_SURE_NO">
 			<Text>Hayır</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_DIPLO_CHOICE_MAKE_DEAL">
+		<Replace Language="en_US" Tag="LOC_DIPLO_CHOICE_MAKE_DEAL">
 			<Text>Anlaşma Yap</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_DIPLO_CHOICE_MAKE_DEMAND">
+		<Replace Language="en_US" Tag="LOC_DIPLO_CHOICE_MAKE_DEMAND">
 			<Text>Talepte Bulun</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_DIPLO_CHOICE_IGNORE">
+		<Replace Language="en_US" Tag="LOC_DIPLO_CHOICE_IGNORE">
 			<Text>Görmezden Gel</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_DIPLO_CHOICE_EXIT">
+		<Replace Language="en_US" Tag="LOC_DIPLO_CHOICE_EXIT">
 			<Text>Hoşça Kal</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_DIPLO_CHOICE_PROPOSE_AUCTION">
+		<Replace Language="en_US" Tag="LOC_DIPLO_CHOICE_PROPOSE_AUCTION">
 			<Text>Müzayede Öner</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_DIPLO_DEAL_INTRO">
+		<Replace Language="en_US" Tag="LOC_DIPLO_DEAL_INTRO">
 			<Text>Nasıl yardımcı olabilirim?</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_DIPLO_DEAL_INTRO_AI">
+		<Replace Language="en_US" Tag="LOC_DIPLO_DEAL_INTRO_AI">
 			<Text>Bu konuda ne düşünüyorsunuz?</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_DIPLO_DEMAND_INTRO">
+		<Replace Language="en_US" Tag="LOC_DIPLO_DEMAND_INTRO">
 			<Text>Taleplerime uyulmalıdır.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_DIPLO_CHOICE_VIEW_DEAL">
+		<Replace Language="en_US" Tag="LOC_DIPLO_CHOICE_VIEW_DEAL">
 			<Text>Anlaşmayı Göster</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_DIPLO_CHOICE_VIEW_DEMAND">
+		<Replace Language="en_US" Tag="LOC_DIPLO_CHOICE_VIEW_DEMAND">
 			<Text>Talebi Göster</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_DIPLO_DEMAND_NO_AVAILABLE_ITEMS">
+		<Replace Language="en_US" Tag="LOC_DIPLO_DEMAND_NO_AVAILABLE_ITEMS">
 			<Text>Talep edilecek öğe yok.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_DIPLO_DEAL_NO_AVAILABLE_ITEMS">
+		<Replace Language="en_US" Tag="LOC_DIPLO_DEAL_NO_AVAILABLE_ITEMS">
 			<Text>Anlaşmaya konulacak öğe yok.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_DIPLO_CHOICE_DEMAND_PROMISE_DONT_SPY">
+		<Replace Language="en_US" Tag="LOC_DIPLO_CHOICE_DEMAND_PROMISE_DONT_SPY">
 			<Text>Bizi casusluk yapmamaya söz verin</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_DIPLO_CHOICE_DEMAND_PROMISE_DONT_SETTLE_TOO_NEAR">
+		<Replace Language="en_US" Tag="LOC_DIPLO_CHOICE_DEMAND_PROMISE_DONT_SETTLE_TOO_NEAR">
 			<Text>Bize yakın yerlere yerleşmeyeceğinize söz verin</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_DIPLO_CHOICE_DEMAND_PROMISE_DONT_CONVERT_CITY">
+		<Replace Language="en_US" Tag="LOC_DIPLO_CHOICE_DEMAND_PROMISE_DONT_CONVERT_CITY">
 			<Text>Şehirlerimizi dönüştürmeyeceğinize söz verin</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_DIPLO_CHOICE_DEMAND_PROMISE_DONT_DIG_ARTIFACTS">
+		<Replace Language="en_US" Tag="LOC_DIPLO_CHOICE_DEMAND_PROMISE_DONT_DIG_ARTIFACTS">
 			<Text>Artefaktlarımızı kazmamaya söz verin</Text>
 		</Replace>
 		<!-- Action Failure Reasons -->
-		<Replace Language="pl_PL" Tag="LOC_DIPLOMACY_ACTION_FAILURE_REASON_FRIENDLY_TEAM_MEMBERS">
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_ACTION_FAILURE_REASON_FRIENDLY_TEAM_MEMBERS">
 			<Text>{1_WarActionType} başarısız oldu[NEWLINE]Takımımızda, bu oyuncunun takımına dost veya müttefik olan biri var.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_DIPLOMACY_ACTION_FAILURE_REASON_NO_DENOUNCEMENT">
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_ACTION_FAILURE_REASON_NO_DENOUNCEMENT">
 			<Text>{1_WarActionType} başarısız oldu[NEWLINE]Bu oyuncuyu kınamadık.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_DIPLOMACY_ACTION_FAILURE_REASON_DENOUNCEMENT_TOO_RECENT">
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_ACTION_FAILURE_REASON_DENOUNCEMENT_TOO_RECENT">
 			<Text>{1_WarActionType} başarısız oldu[NEWLINE]{2_Turns} tur beklemeliyiz (kalan {3_Remaining} tur) kınamanın ardından.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_DIPLOMACY_ACTION_FAILURE_REASON_DEFENSIVE_PACT">
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_ACTION_FAILURE_REASON_DEFENSIVE_PACT">
 			<Text>{1_WarActionType} başarısız oldu[NEWLINE]Bu hükümdarla savunma paktımız var.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_DIPLOMACY_ACTION_FAILURE_REASON_CASUS_BELLI_NOT_MET">
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_ACTION_FAILURE_REASON_CASUS_BELLI_NOT_MET">
 			<Text>{1_WarActionType} başarısız oldu[NEWLINE][COLOR_RED]Bu savaş gerekçesinin şartlarını karşılamıyoruz.[ENDCOLOR][NEWLINE][{2_CasusBelliDescription}]</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_DIPLOMACY_ACTION_FAILURE_REASON_PEACE_TOO_RECENT">
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_ACTION_FAILURE_REASON_PEACE_TOO_RECENT">
 			<Text>{1_WarActionType} başarısız oldu[NEWLINE]Barış yaptıktan sonra {2_Turns} tur beklemeliyiz (kalan {3_Remaining} tur).</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_DIPLOMACY_ACTION_FAILURE_REASON_WAR_TOO_EARLY">
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_ACTION_FAILURE_REASON_WAR_TOO_EARLY">
 			<Text>{1_WarActionType} başarısız oldu[NEWLINE]Bu oyunda büyük bir ulusa savaş ilan edebilmek için {2_TurnNumber} turuna kadar beklemeliyiz.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_DIPLOMACY_ACTION_FAILURE_REASON_INSUFFICIENT_GOLD">
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_ACTION_FAILURE_REASON_INSUFFICIENT_GOLD">
 			<Text>{1_ActionType} başarısız oldu[NEWLINE][COLOR_RED]{2_GoldRequirement} [ICON_Gold] altına ihtiyacımız var.[ENDCOLOR]</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_DIPLOMACY_ACTION_FAILURE_REASON_WAR_TOO_RECENT">
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_ACTION_FAILURE_REASON_WAR_TOO_RECENT">
 			<Text>{1_WarActionType} başarısız oldu[NEWLINE]Savaş ilanının ardından {2_Turns} tur beklemeliyiz (kalan {3_Remaining} tur).</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_DIPLOMACY_ACTION_FAILURE_REASON_WAR_WITHOUT_END">
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_ACTION_FAILURE_REASON_WAR_WITHOUT_END">
 			<Text>{1_WarActionType} başarısız oldu[NEWLINE]Bu oyunda savaşlar kalıcıdır.</Text>
 		</Replace>
 	</LocalizedText>

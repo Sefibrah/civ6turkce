@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameData>
-    <LocalizedText>
-		<Replace Language="pl_PL" Tag="LOC_ETHIOPIA_MOD_TITLE">
+	<LocalizedText>
+		<Replace Language="en_US" Tag="LOC_ETHIOPIA_MOD_TITLE">
 			<Text>Eklenti: Etiyopya</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ETHIOPIA_MOD_TEASER">
+		<Replace Language="en_US" Tag="LOC_ETHIOPIA_MOD_TEASER">
 			<Text>Yeni ulus ve lider: Etiyopya'nın Menelik II</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ETHIOPIA_MOD_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ETHIOPIA_MOD_DESCRIPTION">
 			<Text>Yeni bir ulus ve lider, yeni bir şehir bölgesi, 2 yeni bina ve Gizli Toplumlar oyun modunu içerir.</Text>
 		</Replace>
-   </LocalizedText>
+	</LocalizedText>
 </GameData>

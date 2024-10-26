@@ -2,103 +2,103 @@
 <GameData>
 	<LocalizedText>
 		<!-- Civ Info-->
-		<Replace Language="pl_PL" Tag="LOC_CIVILIZATION_MACEDON_NAME">
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_MACEDON_NAME">
 			<Text>Makedonya|makedonyalıların</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TRAIT_LEADER_HELLENISTIC_FUSION_NAME">
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_HELLENISTIC_FUSION_NAME">
 			<Text>Helenistik Birleşim</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TRAIT_LEADER_HELLENISTIC_FUSION_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_HELLENISTIC_FUSION_DESCRIPTION">
 			<Text>Şehir ele geçirme bonusu: [ICON_TechBoosted] her ele geçirilen şehrin garnizonu ve kampüsü için buluş, ve [ICON_CivicBoosted] her kutsal alan ve tiyatro meydanı için ilham.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVILIZATION_PERSIA_NAME">
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_PERSIA_NAME">
 			<Text>Persia|perslerin</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TRAIT_CIVILIZATION_SATRAPIES_NAME">
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_SATRAPIES_NAME">
 			<Text>Satraplıklar</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TRAIT_CIVILIZATION_SATRAPIES_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_SATRAPIES_DESCRIPTION">
 			<Text>+1 [ICON_TradeRoute] ticaret yolu kapasitesi politik felsefe ile. Kendi şehirleriniz arasındaki ticaret yolları +2 [ICON_Gold] altın ve +1 [ICON_Culture] kültür sağlar. Topraklarımızdaki yollar diğerlerinden bir seviye daha gelişmiştir.</Text>
 		</Replace>
 		<!-- Leader Info-->
-		<Replace Language="pl_PL" Tag="LOC_LEADER_ALEXANDER_NAME">
+		<Replace Language="en_US" Tag="LOC_LEADER_ALEXANDER_NAME">
 			<Text>Büyük İskender</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TRAIT_LEADER_TO_WORLDS_END_NAME">
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_TO_WORLDS_END_NAME">
 			<Text>Dünyanın Sonuna Kadar</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TRAIT_LEADER_TO_WORLDS_END_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_TO_WORLDS_END_DESCRIPTION">
 			<Text>Şehirler savaş yorgunluğu yaratmaz. Tüm askeri birimler, oyuncu bir dünya harikası bulunan bir şehri ele geçirdiğinde tamamen iyileşir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_LEADER_CYRUS_NAME">
+		<Replace Language="en_US" Tag="LOC_LEADER_CYRUS_NAME">
 			<Text>Keyhüsrev</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TRAIT_LEADER_FALL_BABYLON_NAME">
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_FALL_BABYLON_NAME">
 			<Text>Babil'in Düşüşü</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TRAIT_LEADER_FALL_BABYLON_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_FALL_BABYLON_DESCRIPTION">
 			<Text>+2 [ICON_Movement] hareketlilik, başka bir büyük ulusa sürpriz savaş ilanının ilk 10 turu içinde. İşgal altındaki şehirlerde üretim kaybı yok. Sürpriz savaş ilanı, savaş kışkırtma ve savaş yorgunluğu açısından yalnızca resmi savaş olarak kabul edilir.</Text>
 		</Replace>
 		<!-- Building Info-->
-		<Replace Language="pl_PL" Tag="LOC_BUILDING_BASILIKOI_PAIDES_NAME">
+		<Replace Language="en_US" Tag="LOC_BUILDING_BASILIKOI_PAIDES_NAME">
 			<Text>Basilikoì paîdes|basilikoì paîdes|basilikoì paîdesin</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BUILDING_BASILIKOI_PAIDES_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BUILDING_BASILIKOI_PAIDES_DESCRIPTION">
 			<Text>Makedonya'ya özgü bina. Bu şehirde üretilen tüm yakın dövüş, fırlatma silahı ve hetairoi birimlerine +%25 savaş gücü. Bu şehir, askeri olmayan bir birim üretildiğinde birim eğitim maliyetlerinin %25'ine eşdeğer [ICON_SCIENCE] bilim sağlar.[NEWLINE][NEWLINE]Ahır bulunan bir garnizona inşa edilemez.</Text>
 		</Replace>
 		<!-- Improvement Info-->
-		<Replace Language="pl_PL" Tag="LOC_IMPROVEMENT_PAIRIDAEZA_NAME">
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_PAIRIDAEZA_NAME">
 			<Text>Pairidaēza|pairidaēza|pairidaēzan</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_IMPROVEMENT_PAIRIDAEZA_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_PAIRIDAEZA_DESCRIPTION">
 			<Text>İnşaatçıya Perslere özgü pairidaēza inşa etme yeteneği verir.[NEWLINE][NEWLINE]+1 [ICON_CULTURE] kültür ve +2 [ICON_GOLD] altın. +2 cazibe. Her bitişik kutsal alan ve tiyatro meydanı için +1 [ICON_CULTURE] kültür. Her bitişik ticaret merkezi ve şehir merkezi için +1 [ICON_GOLD] altın. Teknoloji ve normlarda ilerledikçe [ICON_Culture] kültür ve [ICON_Tourism] turizm artar. Kar, tundra, kar tepesine veya başka bir pairidaēza'nın yanına inşa edilemez.</Text>
 		</Replace>
 		<!-- Unit Info-->
-		<Replace Language="pl_PL" Tag="LOC_UNIT_MACEDONIAN_HYPASPIST_NAME">
+		<Replace Language="en_US" Tag="LOC_UNIT_MACEDONIAN_HYPASPIST_NAME">
 			<Text>Hypaspist|hypaspist|hypaspistin|hypaspist olarak</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UNIT_MACEDONIAN_HETAIROI_NAME">
+		<Replace Language="en_US" Tag="LOC_UNIT_MACEDONIAN_HETAIROI_NAME">
 			<Text>Hetairoi|hetairoi|hetairoin|hetairoi olarak</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UNIT_PERSIAN_IMMORTAL_NAME">
+		<Replace Language="en_US" Tag="LOC_UNIT_PERSIAN_IMMORTAL_NAME">
 			<Text>Ölümsüz|ölümsüz|ölümsüzün|ölümsüz olarak</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UNIT_MACEDONIAN_HYPASPIST_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_UNIT_MACEDONIAN_HYPASPIST_DESCRIPTION">
 			<Text>Makedonya'ya özgü yakın dövüş birimi, kılıç ustasının yerini alır. Şehir bölgesi kuşatıldığında +5 [ICON_Strength] savaş gücü. %50 ekstra destek bonusu.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UNIT_MACEDONIAN_HETAIROI_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_UNIT_MACEDONIAN_HETAIROI_DESCRIPTION">
 			<Text>Makedonya'ya özgü ağır süvari birimi, atlı birimin yerini alır. Önemli bir generalin yakınında +5 [ICON_Strength] savaş gücü. Düşman birimi yok edildiğinde +5 önemli general puanı. Ücretsiz terfi ile başlar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UNIT_PERSIAN_IMMORTAL_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_UNIT_PERSIAN_IMMORTAL_DESCRIPTION">
 			<Text>Perslere özgü yakın dövüş birimi, kılıç ustasının yerini alır. Yakın dövüş sınıfı birim, menzilli saldırıya sahiptir, [ICON_Range] menzil 2. Güçlü savunma.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_HYPASPIST_SIEGE_BONUS_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_HYPASPIST_SIEGE_BONUS_DESCRIPTION">
 			<Text>Şehir bölgesi kuşatıldığında +5</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_HETAIROI_GREAT_GENERAL_COMBAT_BONUS_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_HETAIROI_GREAT_GENERAL_COMBAT_BONUS_DESCRIPTION">
 			<Text>Önemli bir generalden +5 savaş gücü</Text>
 		</Replace>
 		<!-- Expansion 1 -->
-		<Replace Language="pl_PL" Tag="LOC_TRAIT_LEADER_FALL_BABYLON_EXPANSION1_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_FALL_BABYLON_EXPANSION1_DESCRIPTION">
 			<Text>+2 [ICON_Movement] hareketlilik, başka bir büyük ulusa sürpriz savaş ilanının ilk 10 turu içinde. Bir birimin bulunduğu işgal altındaki şehirlerde +5 sadakat. Sürpriz savaş ilanı, savaş kışkırtma ve savaş yorgunluğu açısından yalnızca resmi savaş olarak kabul edilir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TRAIT_LEADER_HELLENISTIC_FUSION_EXPANSION1_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_HELLENISTIC_FUSION_EXPANSION1_DESCRIPTION">
 			<Text>Serbest olmayan bir şehrin ele geçirilmesinde bonus: [ICON_TechBoosted] her ele geçirilen şehrin garnizonu ve kampüsü için buluş, ve [ICON_CivicBoosted] her kutsal alan ve tiyatro meydanı için ilham.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_HYPASPIST_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_HYPASPIST_DESCRIPTION">
 			<Text>Şehir bölgesi kuşatıldığında +5 [ICON_Strength] savaş gücü.[NEWLINE][ICON_Bullet] +%50 destek bonusu.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_HETAIROI_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_HETAIROI_DESCRIPTION">
 			<Text>Önemli bir generalin yakınında +5 [ICON_Strength] savaş gücü.[NEWLINE][ICON_Bullet] Düşman birimi yok edildiğinde +5 önemli general puanı.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ABILITY_BASILIKOI_TRAINED_UNIT_XP_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_ABILITY_BASILIKOI_TRAINED_UNIT_XP_DESCRIPTION">
 			<Text>+%25 savaş deneyimi. (Basilikoì paîdes)</Text>
 		</Replace>
 		<!-- Expansion 2 -->
-		<Replace Language="pl_PL" Tag="LOC_TRAIT_LEADER_FALL_BABYLON_EXPANSION2_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_FALL_BABYLON_EXPANSION2_DESCRIPTION">
 			<Text>+2 [ICON_Movement] hareketlilik, başka bir büyük ulusa sürpriz savaş ilanının ilk 10 turu içinde. Bir birimin bulunduğu işgal altındaki şehirlerde +5 sadakat. Sürpriz savaş ilanı, yalnızca resmi savaş olarak kabul edilir [ICON_STAT_GRIEVANCE] kin ve savaş kışkırtma açısından.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BUILDING_BASILIKOI_PAIDES_EXPANSION2_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BUILDING_BASILIKOI_PAIDES_EXPANSION2_DESCRIPTION">
 			<Text>Makedonya'ya özgü bina. Bu şehirde üretilen tüm yakın dövüş, fırlatma silahı ve hetairoi birimlerine +%25 savaş gücü. Bu şehir, askeri olmayan bir birim üretildiğinde birim eğitim maliyetlerinin %25'ine eşdeğer [ICON_SCIENCE] bilim sağlar.[NEWLINE][NEWLINE]Stratejik kaynak stokları +10 artar (normal hızda).[NEWLINE][NEWLINE]Ahır bulunan bir garnizona inşa edilemez.</Text>
 		</Replace>
 	</LocalizedText>

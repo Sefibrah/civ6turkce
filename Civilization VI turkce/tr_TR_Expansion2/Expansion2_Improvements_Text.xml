@@ -2,102 +2,102 @@
 <GameData>
 	<LocalizedText>
 		<!--Improvements-->
-		<Replace Language="pl_PL" Tag="LOC_IMPROVEMENT_CHATEAU_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_CHATEAU_DESCRIPTION">
 			<Text>Bir inşaatçının Fransa'ya özgü bir şato inşa etmesine izin verir.[NEWLINE][NEWLINE]+2 [ICON_Culture] kültür. +1 cazibe. +1 [ICON_Culture] kültür bir harikanın yanında. +1 [ICON_Gold] altın lüks bir kaynağın yanında. Sadece nehir kenarına, sel ovası dahil, inşa edilebilir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_IMPROVEMENT_ZIGGURAT_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_ZIGGURAT_DESCRIPTION">
 			<Text>Bir inşaatçının Sümer'e özgü bir ziggurat inşa etmesine izin verir.[NEWLINE][NEWLINE]+2 [ICON_Science] bilim. Nehir kenarında +1 [ICON_Culture] kültür. Tepeye inşa edilemez, ancak sel ovasına inşa edilebilir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_IMPROVEMENT_GEOTHERMAL_PLANT_NAME">
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_GEOTHERMAL_PLANT_NAME">
 			<Text>Jeotermal Santral|jeotermal santral|jeotermal santralin</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_IMPROVEMENT_GEOTHERMAL_PLANT_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_GEOTHERMAL_PLANT_DESCRIPTION">
 			<Text>Bir inşaatçının jeotermal santral inşa etmesine izin verir.[NEWLINE][NEWLINE]+1 [ICON_Science] bilim. +2 [ICON_Production] üretim. Tur başına 4 [ICON_Power] güç sağlar. Jeotermal çatlağa inşa edilmelidir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_IMPROVEMENT_SOLAR_FARM_NAME">
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_SOLAR_FARM_NAME">
 			<Text>Güneş Çiftliği|güneş çiftliği|güneş çiftliğinin</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_IMPROVEMENT_SOLAR_FARM_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_SOLAR_FARM_DESCRIPTION">
 			<Text>Bir inşaatçının güneş çiftliği inşa etmesine izin verir.[NEWLINE][NEWLINE]+1 [ICON_Gold] altın. +1 [ICON_Production] üretim. Tur başına 2 [ICON_Power] güç sağlar. Düz araziye inşa edilmelidir. Kar üzerine inşa edilemez.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_IMPROVEMENT_WIND_FARM_NAME">
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_WIND_FARM_NAME">
 			<Text>Rüzgar Çiftliği|rüzgar çiftliği|rüzgar çiftliğinin</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_IMPROVEMENT_WIND_FARM_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_WIND_FARM_DESCRIPTION">
 			<Text>Bir inşaatçının rüzgar çiftliği inşa etmesine izin verir.[NEWLINE][NEWLINE]+2 [ICON_Gold] altın. +1 [ICON_Production] üretim. Tur başına 2 [ICON_Power] güç sağlar. Tepeye inşa edilmelidir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_IMPROVEMENT_OFFSHORE_WIND_FARM_NAME">
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_OFFSHORE_WIND_FARM_NAME">
 			<Text>Kıyı Rüzgar Çiftliği|kıyı rüzgar çiftliği|kıyı rüzgar çiftliğinin</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_IMPROVEMENT_OFFSHORE_WIND_FARM_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_OFFSHORE_WIND_FARM_DESCRIPTION">
 			<Text>Bir inşaatçının kıyı rüzgar çiftliği inşa etmesine izin verir.[NEWLINE][NEWLINE]+2 [ICON_Production] üretim. Tur başına 2 [ICON_Power] güç sağlar. Kıyıya veya göle inşa edilmelidir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_IMPROVEMENT_SEASTEAD_NAME">
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_SEASTEAD_NAME">
 			<Text>Deniz Yerleşimi|deniz yerleşimi|deniz yerleşiminin</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_IMPROVEMENT_SEASTEAD_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_SEASTEAD_DESCRIPTION">
 			<Text>Bir inşaatçının deniz yerleşimi inşa etmesine izin verir.[NEWLINE][NEWLINE]+2 [ICON_FOOD] gıda. Her bitişik balıkçıdan +1 [ICON_Production] üretim. Balıkçılar her bitişik deniz yerleşiminden +1 [ICON_Production] üretim alır. Her bitişik resiften +1 [ICON_Culture] kültür ve [ICON_Tourism] turizm. +2 [ICON_HOUSING] konut. Kıyıya, göle veya denize inşa edilmelidir. Başka bir deniz yerleşiminin yanına inşa edilemez.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_IMPROVEMENT_MOAI_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_MOAI_DESCRIPTION">
 			<Text>Bir inşaatçının moai heykeli inşa etmesine izin verir.[NEWLINE][NEWLINE]+1 [ICON_Culture] kültür. Her iki bitişik moai için +1 [ICON_Culture] kültür. Volkanik toprakta veya bitişiğinde +2 [ICON_Culture] kültür. Kıyı veya göl karesinin yanında +1 [ICON_Culture] kültür. Teknoloji ve normlarda ilerledikçe [ICON_Culture] kültür ve [ICON_Tourism] turizm artar. Düzlüklere, düz tepelere, çayırlara, çayır tepelere veya volkanik topraklara inşa edilebilir. Ormanın veya yağmur ormanının yanına yerleştirilemez.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_IMPROVEMENT_MOUND_NAME">
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_MOUND_NAME">
 			<Text>Tapınak Höyüğü|tapınak höyüğü|tapınak höyüğünün</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_IMPROVEMENT_MOUND_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_MOUND_DESCRIPTION">
 			<Text>Bir inşaatçının tapınak höyüğü inşa etmesine izin verir.[NEWLINE][NEWLINE]+3 [ICON_GOLD] altın. Şehirler ilk tapınak höyüğünden +1 [ICON_AMENITIES] yaşam standardı alır. Doğa Tarihi geliştikçe şehirler ikinci tapınak höyüğünden +1 [ICON_AMENITIES] yaşam standardı alır. Feodalizm geliştikçe her iki bitişik şehir bölgesinden veya değişim parçaları geliştikçe her bitişik şehir bölgesinden +1 [ICON_FOOD] gıda. +1 [ICON_HOUSING] konut sağlar. Kültürel Miras geliştikçe [ICON_HOUSING] konut artar. Başka bir tapınak höyüğünün yanına inşa edilemez.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_IMPROVEMENT_NAZCA_LINE_NAME">
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_NAZCA_LINE_NAME">
 			<Text>Nazca Çizgisi|Nazca çizgisi|Nazca çizgisinin</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_IMPROVEMENT_NAZCA_LINE_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_NAZCA_LINE_DESCRIPTION">
 			<Text>Bir inşaatçının Nazca çizgisi inşa etmesine izin verir.[NEWLINE][NEWLINE]Bitişik karelere +1 [ICON_Faith] inanç. Doğal kaynak bulunan bitişik karelere +1 [ICON_Faith] inanç. Vatandaşlık hizmetleri geliştikçe bitişik çöl ve çöl tepe karelerine +1 [ICON_FOOD] gıda. Seri üretim geliştikçe düz karelere +1 [ICON_PRODUCTION] üretim. +1 cazibe. Sadece düz çöle inşa edilebilir. Kare işlenemez.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_IMPROVEMENT_MOAI_NAME">
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_MOAI_NAME">
 			<Text>Moai|moai|moai heykelinin</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_IMPROVEMENT_SKI_RESORT_NAME">
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_SKI_RESORT_NAME">
 			<Text>Kayak Merkezi|kayak merkezi|kayak merkezinin</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_IMPROVEMENT_SKI_RESORT_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_SKI_RESORT_DESCRIPTION">
 			<Text>Bir inşaatçının kayak merkezi inşa etmesine izin verir.[NEWLINE][NEWLINE]Kare cazibesi kadar [ICON_Tourism] turizm sağlar. [ICON_AMENITIES] yaşam standardı sağlar. Sadece dağa inşa edilebilir. Başka bir kayak merkezinin yanına inşa edilemez. Kare yağmalanamaz, işlenemez veya kaldırılamaz.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_IMPROVEMENT_MOUNTAIN_TUNNEL_NAME">
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_MOUNTAIN_TUNNEL_NAME">
 			<Text>Dağ Tüneli|dağ tüneli|dağ tünelinin</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_IMPROVEMENT_MOUNTAIN_TUNNEL_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_MOUNTAIN_TUNNEL_DESCRIPTION">
 			<Text>Bir askeri mühendisin dağ tüneli inşa etmesine izin verir.[NEWLINE][NEWLINE]Dağ sıraları boyunca hareket aracı olarak işlev görür, birimlerin tünele girip 2 [ICON_Movement] hareketlilik kullanarak çıkmasına izin verir. Tünel boyunca geçen [ICON_TradeRoute] ticaret yolları, hedef şehir bölgelerinden ürettikleri [ICON_Gold] altını katlayabilir. Sadece bitişik dağa inşa edilebilir. Yağmalanamaz veya kaldırılamaz.</Text>
 		</Replace>
 		<!--Goody Huts -->
-		<Replace Language="pl_PL" Tag="LOC_GOODYHUT_DIPLOMACY_GOVERNOR_TITLE_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_GOODYHUT_DIPLOMACY_GOVERNOR_TITLE_DESCRIPTION">
 			<Text>[COLOR_FLOAT_DIPLOMATIC]+1 [ICON_Governor] vali unvanı[ENDCOLOR]</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_GOODYHUT_DIPLOMACY_ENVOY_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_GOODYHUT_DIPLOMACY_ENVOY_DESCRIPTION">
 			<Text>[COLOR_FLOAT_DIPLOMATIC]+{1_Num} [ICON_Envoy] elçi[ENDCOLOR]</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_GOODYHUT_DIPLOMACY_FAVOR_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_GOODYHUT_DIPLOMACY_FAVOR_DESCRIPTION">
 			<Text>[COLOR_FLOAT_DIPLOMATIC]+{1_Num} [ICON_FAVOR] diplomatik iyilik[ENDCOLOR]</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_GOODYHUT_MILITARY_RESOURCES_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_GOODYHUT_MILITARY_RESOURCES_DESCRIPTION">
 			<Text>[COLOR_FLOAT_MILITARY]+{1_Num} [ICON_{2_Icon}] {3_Resources}[ENDCOLOR]</Text>
 		</Replace>
 		<!-- Updates-->
-		<Replace Language="pl_PL" Tag="LOC_IMPROVEMENT_ALCAZAR_EXPANSION2_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_ALCAZAR_EXPANSION2_DESCRIPTION">
 			<Text>Bir inşaatçının alcázar inşa etmesine izin verir.[NEWLINE][NEWLINE]+2 [ICON_Culture] kültür. Kare cazibesinin %50'si kadar [ICON_SCIENCE] bilim sağlar. İşgal eden birim +4 [ICON_Strength] savunma gücü alır ve 2 tur boyunca garnizon avantajı kazanır. Uçuş geliştikçe [ICON_TOURISM] turizm sağlar. Başka bir alcázarın yanına inşa edilemez.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_IMPROVEMENT_CAMP_EXPANSION2_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_CAMP_EXPANSION2_DESCRIPTION">
 			<Text>Bir inşaatçının kamplar inşa etmesine izin verir.[NEWLINE][NEWLINE]+2 [ICON_Gold] altın. Sadece uygun doğal kaynak karelerine inşa edilebilir.[NEWLINE][NEWLINE]Lüks kaynaklar şehrin kullanımına sunulur.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_IMPROVEMENT_COLOSSAL_HEAD_EXPANSION2_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_COLOSSAL_HEAD_EXPANSION2_DESCRIPTION">
 			<Text>Bir inşaatçının devasa taş kafalar inşa etmesine izin verir.[NEWLINE][NEWLINE]+2 [ICON_Faith] inanç. Her iki bitişik yağmur ormanından veya hümanizm geliştikten sonra her bitişik yağmur ormanından +1 [ICON_Faith] inanç. Her iki bitişik ormandan veya hümanizm geliştikten sonra her bitişik ormandan +1 [ICON_Faith] inanç. Uçuş geliştikçe [ICON_FAITH] inançtan [ICON_TOURISM] turizm sağlar. Kar veya kar tepesine inşa edilemez.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_IMPROVEMENT_MONASTERY_EXPANSION2_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_MONASTERY_EXPANSION2_DESCRIPTION">
 			<Text>Bir inşaatçının manastır inşa etmesine izin verir.[NEWLINE][NEWLINE]+2 [ICON_Faith] inanç. Aynı turda saldırmamış dost dini birimlere +15 HP iyileştirme sağlar. Her iki bitişik şehir bölgesinden +1 [ICON_FAITH] inanç. +1 [ICON_HOUSING] konut sağlar. Kolonyalizm geliştikçe [ICON_HOUSING] konut artar. Başka bir manastırın yanına inşa edilemez.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_IMPROVEMENT_LUMBER_MILL_EXPANSION2_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_LUMBER_MILL_EXPANSION2_DESCRIPTION">
 			<Text>Bir inşaatçının kereste fabrikası inşa etmesine izin verir.[NEWLINE][NEWLINE]+2 [ICON_Production] üretim. Sadece ormanlara inşa edilebilir. Merkantilizm geliştikçe yağmur ormanlarına da inşa edilebilir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BARB_CAMP_DISPERSAL_DESCRIPTION_HEALING">
+		<Replace Language="en_US" Tag="LOC_BARB_CAMP_DISPERSAL_DESCRIPTION_HEALING">
 			<Text>[COLOR_FLOAT_FAITH]+{1_Num} HP[ENDCOLOR]</Text>
 		</Replace>
 	</LocalizedText>

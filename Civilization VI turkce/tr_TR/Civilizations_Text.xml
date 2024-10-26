@@ -2,729 +2,729 @@
 <GameData>
 	<LocalizedText>
 		<!-- Empire Names-->
-		<Replace Language="pl_PL" Tag="LOC_CIVILIZATION_AMERICA_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_AMERICA_DESCRIPTION">
 			<Text>Amerika İmparatorluğu|Amerika'nın</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVILIZATION_ARABIA_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_ARABIA_DESCRIPTION">
 			<Text>Arap İmparatorluğu|Arapların</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVILIZATION_BARBARIAN_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_BARBARIAN_DESCRIPTION">
 			<Text>Barbarlar|Barbarların</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVILIZATION_BRAZIL_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_BRAZIL_DESCRIPTION">
 			<Text>Brezilya İmparatorluğu|Brezilya'nın</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVILIZATION_CHINA_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_CHINA_DESCRIPTION">
 			<Text>Çin İmparatorluğu|Çin'in</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVILIZATION_EGYPT_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_EGYPT_DESCRIPTION">
 			<Text>Mısır İmparatorluğu|Mısır'ın</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVILIZATION_ENGLAND_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_ENGLAND_DESCRIPTION">
 			<Text>İngiltere İmparatorluğu|İngiltere'nin</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVILIZATION_FRANCE_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_FRANCE_DESCRIPTION">
 			<Text>Fransa İmparatorluğu|Fransa'nın</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVILIZATION_GERMANY_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_GERMANY_DESCRIPTION">
 			<Text>Almanya İmparatorluğu|Almanya'nın</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVILIZATION_GREECE_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_GREECE_DESCRIPTION">
 			<Text>Yunan İmparatorluğu|Yunanistan'ın</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVILIZATION_INDIA_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_INDIA_DESCRIPTION">
 			<Text>Hindistan İmparatorluğu|Hindistan'ın</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVILIZATION_JAPAN_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_JAPAN_DESCRIPTION">
 			<Text>Japon İmparatorluğu|Japonya'nın</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVILIZATION_KONGO_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_KONGO_DESCRIPTION">
 			<Text>Kongo İmparatorluğu|Kongo'nun</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVILIZATION_NORWAY_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_NORWAY_DESCRIPTION">
 			<Text>Norveç İmparatorluğu|Norveç'in</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVILIZATION_ROME_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_ROME_DESCRIPTION">
 			<Text>Roma İmparatorluğu|Roma'nın</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVILIZATION_RUSSIA_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_RUSSIA_DESCRIPTION">
 			<Text>Rus İmparatorluğu|Rusya'nın</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVILIZATION_SCYTHIA_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_SCYTHIA_DESCRIPTION">
 			<Text>İskit İmparatorluğu|İskitlerin</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVILIZATION_SPAIN_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_SPAIN_DESCRIPTION">
 			<Text>İspanya İmparatorluğu|İspanya'nın</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVILIZATION_SUMERIA_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_SUMERIA_DESCRIPTION">
 			<Text>Sümer İmparatorluğu|Sümer'in</Text>
 		</Replace>
 		<!-- City-State Empire Names-->
-		<Replace Language="pl_PL" Tag="LOC_CIVILIZATION_AMSTERDAM_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_AMSTERDAM_DESCRIPTION">
 			<Text>Amsterdam Şehir Devleti|Amsterdam'ın</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVILIZATION_BANDAR_BRUNEI_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_BANDAR_BRUNEI_DESCRIPTION">
 			<Text>Bandar Seri Begawan Şehir Devleti|Bandar Seri Begawan'ın</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVILIZATION_BRUSSELS_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_BRUSSELS_DESCRIPTION">
 			<Text>Brüksel Şehir Devleti|Brüksel'in</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVILIZATION_BUENOS_AIRES_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_BUENOS_AIRES_DESCRIPTION">
 			<Text>Buenos Aires Şehir Devleti|Buenos Aires'in</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVILIZATION_CARTHAGE_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_CARTHAGE_DESCRIPTION">
 			<Text>Kartaca Şehir Devleti|Kartaca'nın</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVILIZATION_GENEVA_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_GENEVA_DESCRIPTION">
 			<Text>Cenevre Şehir Devleti|Cenevre'nin</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVILIZATION_HATTUSA_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_HATTUSA_DESCRIPTION">
 			<Text>Hattuşa Şehir Devleti|Hattuşa'nın</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVILIZATION_HONG_KONG_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_HONG_KONG_DESCRIPTION">
 			<Text>Hong Kong Şehir Devleti|Hong Kong'un</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVILIZATION_JAKARTA_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_JAKARTA_DESCRIPTION">
 			<Text>Cakarta Şehir Devleti|Cakarta'nın</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVILIZATION_JERUSALEM_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_JERUSALEM_DESCRIPTION">
 			<Text>Kudüs Şehir Devleti|Kudüs'ün</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVILIZATION_KABUL_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_KABUL_DESCRIPTION">
 			<Text>Kabil Şehir Devleti|Kabil'in</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVILIZATION_KANDY_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_KANDY_DESCRIPTION">
 			<Text>Kandy Şehir Devleti|Kandy'nin</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVILIZATION_KUMASI_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_KUMASI_DESCRIPTION">
 			<Text>Kumasi Şehir Devleti|Kumasi'nin</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVILIZATION_LA_VENTA_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_LA_VENTA_DESCRIPTION">
 			<Text>La Venta Şehir Devleti|La Venta'nın</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVILIZATION_LISBON_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_LISBON_DESCRIPTION">
 			<Text>Lizbon Şehir Devleti|Lizbon'un</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVILIZATION_MOHENJO_DARO_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_MOHENJO_DARO_DESCRIPTION">
 			<Text>Mohenjo-Daro Şehir Devleti|Mohenjo-Daro'nun</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVILIZATION_PRESLAV_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_PRESLAV_DESCRIPTION">
 			<Text>Preslav Şehir Devleti|Preslav'ın</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVILIZATION_NAN_MADOL_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_NAN_MADOL_DESCRIPTION">
 			<Text>Nan Madol Şehir Devleti|Nan Madol'un</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVILIZATION_SEOUL_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_SEOUL_DESCRIPTION">
 			<Text>Seul Şehir Devleti|Seul'un</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVILIZATION_STOCKHOLM_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_STOCKHOLM_DESCRIPTION">
 			<Text>Stockholm Şehir Devleti|Stockholm'ün</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVILIZATION_TORONTO_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_TORONTO_DESCRIPTION">
 			<Text>Toronto Şehir Devleti|Toronto'nun</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVILIZATION_VALLETTA_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_VALLETTA_DESCRIPTION">
 			<Text>Valletta Şehir Devleti|Valletta'nın</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVILIZATION_VILNIUS_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_VILNIUS_DESCRIPTION">
 			<Text>Vilnius Şehir Devleti|Vilnius'un</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVILIZATION_YEREVAN_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_YEREVAN_DESCRIPTION">
 			<Text>Erivan Şehir Devleti|Erivan'ın</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVILIZATION_ZANZIBAR_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_ZANZIBAR_DESCRIPTION">
 			<Text>Zanzibar Şehir Devleti|Zanzibar'ın</Text>
 		</Replace>
 		<!-- Adjectives -->
-		<Replace Language="pl_PL" Tag="LOC_CIVILIZATION_AMERICA_ADJECTIVE">
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_AMERICA_ADJECTIVE">
 			<Text>Amerikan</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVILIZATION_ARABIA_ADJECTIVE">
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_ARABIA_ADJECTIVE">
 			<Text>Arabistan</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVILIZATION_BARBARIAN_ADJECTIVE">
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_BARBARIAN_ADJECTIVE">
 			<Text>Barbarların</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVILIZATION_BRAZIL_ADJECTIVE">
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_BRAZIL_ADJECTIVE">
 			<Text>Brezilya</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVILIZATION_CHINA_ADJECTIVE">
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_CHINA_ADJECTIVE">
 			<Text>Çin</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVILIZATION_EGYPT_ADJECTIVE">
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_EGYPT_ADJECTIVE">
 			<Text>Mısır</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVILIZATION_ENGLAND_ADJECTIVE">
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_ENGLAND_ADJECTIVE">
 			<Text>İngiltere</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVILIZATION_FRANCE_ADJECTIVE">
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_FRANCE_ADJECTIVE">
 			<Text>Fransa</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVILIZATION_GERMANY_ADJECTIVE">
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_GERMANY_ADJECTIVE">
 			<Text>Almanya</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVILIZATION_GREECE_ADJECTIVE">
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_GREECE_ADJECTIVE">
 			<Text>Yunan</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVILIZATION_INDIA_ADJECTIVE">
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_INDIA_ADJECTIVE">
 			<Text>Hindistan</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVILIZATION_JAPAN_ADJECTIVE">
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_JAPAN_ADJECTIVE">
 			<Text>Japon</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVILIZATION_KONGO_ADJECTIVE">
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_KONGO_ADJECTIVE">
 			<Text>Kongo</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVILIZATION_NORWAY_ADJECTIVE">
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_NORWAY_ADJECTIVE">
 			<Text>Norveç</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVILIZATION_ROME_ADJECTIVE">
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_ROME_ADJECTIVE">
 			<Text>Roma</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVILIZATION_RUSSIA_ADJECTIVE">
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_RUSSIA_ADJECTIVE">
 			<Text>Rus</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVILIZATION_SCYTHIA_ADJECTIVE">
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_SCYTHIA_ADJECTIVE">
 			<Text>İskit</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVILIZATION_SPAIN_ADJECTIVE">
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_SPAIN_ADJECTIVE">
 			<Text>İspanya</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVILIZATION_SUMERIA_ADJECTIVE">
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_SUMERIA_ADJECTIVE">
 			<Text>Sümer</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVILIZATION_AMSTERDAM_ADJECTIVE">
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_AMSTERDAM_ADJECTIVE">
 			<Text>Amsterdam</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVILIZATION_BANDAR_BRUNEI_ADJECTIVE">
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_BANDAR_BRUNEI_ADJECTIVE">
 			<Text>Bandar Seri Begawan</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVILIZATION_BRUSSELS_ADJECTIVE">
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_BRUSSELS_ADJECTIVE">
 			<Text>Brüksel</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVILIZATION_BUENOS_AIRES_ADJECTIVE">
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_BUENOS_AIRES_ADJECTIVE">
 			<Text>Buenos Aires</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVILIZATION_CARTHAGE_ADJECTIVE">
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_CARTHAGE_ADJECTIVE">
 			<Text>Kartaca</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVILIZATION_GENEVA_ADJECTIVE">
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_GENEVA_ADJECTIVE">
 			<Text>Cenevre</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVILIZATION_HATTUSA_ADJECTIVE">
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_HATTUSA_ADJECTIVE">
 			<Text>Hattuşa</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVILIZATION_HONG_KONG_ADJECTIVE">
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_HONG_KONG_ADJECTIVE">
 			<Text>Hong Kong</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVILIZATION_JAKARTA_ADJECTIVE">
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_JAKARTA_ADJECTIVE">
 			<Text>Cakarta</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVILIZATION_JERUSALEM_ADJECTIVE">
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_JERUSALEM_ADJECTIVE">
 			<Text>Kudüs</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVILIZATION_KABUL_ADJECTIVE">
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_KABUL_ADJECTIVE">
 			<Text>Kabil</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVILIZATION_KANDY_ADJECTIVE">
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_KANDY_ADJECTIVE">
 			<Text>Kandy</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVILIZATION_KUMASI_ADJECTIVE">
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_KUMASI_ADJECTIVE">
 			<Text>Kumasi</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVILIZATION_LA_VENTA_ADJECTIVE">
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_LA_VENTA_ADJECTIVE">
 			<Text>La Venta</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVILIZATION_LISBON_ADJECTIVE">
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_LISBON_ADJECTIVE">
 			<Text>Lizbon</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVILIZATION_MOHENJO_DARO_ADJECTIVE">
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_MOHENJO_DARO_ADJECTIVE">
 			<Text>Mohenjo-Daro</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVILIZATION_PRESLAV_ADJECTIVE">
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_PRESLAV_ADJECTIVE">
 			<Text>Preslav</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVILIZATION_NAN_MADOL_ADJECTIVE">
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_NAN_MADOL_ADJECTIVE">
 			<Text>Nan Madol</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVILIZATION_SEOUL_ADJECTIVE">
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_SEOUL_ADJECTIVE">
 			<Text>Seul</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVILIZATION_STOCKHOLM_ADJECTIVE">
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_STOCKHOLM_ADJECTIVE">
 			<Text>Stockholm</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVILIZATION_TORONTO_ADJECTIVE">
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_TORONTO_ADJECTIVE">
 			<Text>Toronto</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVILIZATION_VALLETTA_ADJECTIVE">
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_VALLETTA_ADJECTIVE">
 			<Text>Valletta</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVILIZATION_VILNIUS_ADJECTIVE">
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_VILNIUS_ADJECTIVE">
 			<Text>Vilnius</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVILIZATION_YEREVAN_ADJECTIVE">
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_YEREVAN_ADJECTIVE">
 			<Text>Erivan</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVILIZATION_ZANZIBAR_ADJECTIVE">
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_ZANZIBAR_ADJECTIVE">
 			<Text>Zanzibar</Text>
 		</Replace>
 		<!-- Civ Traits-->
-		<Replace Language="pl_PL" Tag="LOC_TRAIT_CIVILIZATION_AMAZON_NAME">
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_AMAZON_NAME">
 			<Text>Amazon</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TRAIT_CIVILIZATION_AMAZON_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_AMAZON_DESCRIPTION">
 			<Text>Yağmur ormanı kareleri, kampüsler, ticaret merkezleri, kutsal alanlar ve tiyatro meydanları için +1 bitişiklik bonusu sağlar ve bitişik karelere normalde -1 yerine +1 çekicilik verir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TRAIT_CIVILIZATION_DYNASTIC_CYCLE_NAME">
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_DYNASTIC_CYCLE_NAME">
 			<Text>Hanedan Döngüsü</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TRAIT_CIVILIZATION_DYNASTIC_CYCLE_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_DYNASTIC_CYCLE_DESCRIPTION">
 			<Text>[ICON_TechBoosted] Eureka ve [ICON_CivicBoosted] ilhamlar, normlar ve teknolojiler için %50 yerine %60 sağlar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TRAIT_INEXPENSIVE_BUILDERS_NAME">
+		<Replace Language="en_US" Tag="LOC_TRAIT_INEXPENSIVE_BUILDERS_NAME">
 			<Text>Ucuz İnşaatçılar</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TRAIT_INEXPENSIVE_BUILDERS_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_TRAIT_INEXPENSIVE_BUILDERS_DESCRIPTION">
 			<Text>İnşaatçılar yarı sürede tamamlanır.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TRAIT_CIVILIZATION_ADJACENT_DISTRICTS_NAME">
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_ADJACENT_DISTRICTS_NAME">
 			<Text>Meiji Restorasyonu</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TRAIT_CIVILIZATION_ADJACENT_DISTRICTS_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_ADJACENT_DISTRICTS_DESCRIPTION">
 			<Text>Tüm şehir bölgeleri, bitişik olmaktan ekstra genel bitişiklik bonusu alır.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TRAIT_CIVILIZATION_DOUBLE_ARCHAEOLOGY_SLOTS_NAME">
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_DOUBLE_ARCHAEOLOGY_SLOTS_NAME">
 			<Text>Britanya Müzesi</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TRAIT_CIVILIZATION_DOUBLE_ARCHAEOLOGY_SLOTS_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_DOUBLE_ARCHAEOLOGY_SLOTS_DESCRIPTION">
 			<Text>Her arkeolojik müze, üç yerine altı [ICON_GreatWork_Artifact] eser içerebilir ve aynı anda iki arkeoloğu destekleyebilir. Arkeolojik müzeler, altı [ICON_GreatWork_Artifact] eser içerdiğinde otomatik olarak temalı hale gelir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TRAIT_CIVILIZATION_EXTRA_LIGHT_CAVALRY_NAME">
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_EXTRA_LIGHT_CAVALRY_NAME">
 			<Text>Bozkır Halkı</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TRAIT_CIVILIZATION_EXTRA_LIGHT_CAVALRY_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_EXTRA_LIGHT_CAVALRY_DESCRIPTION">
 			<Text>Hafif süvari birimi veya Saka okçusu tamamlandığında, aynı türden bir tane daha ücretsiz olarak verir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BONUS_AGAINST_BARBS_NAME">
+		<Replace Language="en_US" Tag="LOC_BONUS_AGAINST_BARBS_NAME">
 			<Text>Vahşet</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BONUS_AGAINST_BARBS_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BONUS_AGAINST_BARBS_DESCRIPTION">
 			<Text>Barbarlara karşı bonus.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TRAIT_CIVILIZATION_FIRST_CIVILIZATION_NAME">
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_FIRST_CIVILIZATION_NAME">
 			<Text>Efsanevi Görevler</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TRAIT_CIVILIZATION_FIRST_CIVILIZATION_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_FIRST_CIVILIZATION_DESCRIPTION">
 			<Text>Barbar karakolu ele geçirildiğinde, normal [ICON_Gold] altın ödülüne ek olarak kabile köyü ödülü de verir. Şehir devletlerinin birimlerini işe almak, normal maliyetin yarısına mal olur.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TRAIT_CIVILIZATION_ITERU_NAME">
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_ITERU_NAME">
 			<Text>Iteru</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TRAIT_CIVILIZATION_ITERU_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_ITERU_DESCRIPTION">
 			<Text>+%15 [ICON_Production] üretim, şehir bölgeleri ve harikalar nehir kenarında olduğunda. Taşkın ovaları, şehir bölgeleri ve harikaların yerleştirilmesini engellemez.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TRAIT_CIVILIZATION_PLATOS_REPUBLIC_NAME">
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_PLATOS_REPUBLIC_NAME">
 			<Text>Platon'un Cumhuriyeti</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TRAIT_CIVILIZATION_PLATOS_REPUBLIC_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_PLATOS_REPUBLIC_DESCRIPTION">
 			<Text>Tüm hükümet türlerinde ekstra bir serbest politika yuvası.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TRAIT_CIVILIZATION_MOTHER_RUSSIA_NAME">
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_MOTHER_RUSSIA_NAME">
 			<Text>Ana Rusya</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TRAIT_CIVILIZATION_MOTHER_RUSSIA_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_MOTHER_RUSSIA_DESCRIPTION">
 			<Text>Şehir kurarken ekstra topraklar. Tundradan +1 [ICON_Faith] inanç ve +1 [ICON_Production] üretim.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TRAIT_CIVILIZATION_LAST_PROPHET_NAME">
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_LAST_PROPHET_NAME">
 			<Text>Son Peygamber</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TRAIT_CIVILIZATION_LAST_PROPHET_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_LAST_PROPHET_DESCRIPTION">
 			<Text>Eğer [ICON_GreatProphet] büyük bir peygamber almadıysak, sonuncusu alındığında sonuncuyu alırız. Her yabancı şehirden +1 [ICON_Science] bilim, Arap dinini takip eden.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TRAIT_CIVILIZATION_NKISI_NAME">
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_NKISI_NAME">
 			<Text>Nkisi</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TRAIT_CIVILIZATION_NKISI_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_NKISI_DESCRIPTION">
 			<Text>Her [ICON_GreatWork_Relic] kalıntı, [ICON_GreatWork_Artifact] eser ve [ICON_GreatWork_Sculpture] önemli heykel için +2 [ICON_Food] yiyecek, +2 [ICON_Production] üretim ve +4 [ICON_Gold] altın, normalde sağladıkları [ICON_Culture] kültüre ek olarak. Önemli [ICON_GreatWriter] yazarlar, [ICON_GreatArtist] sanatçılar, [ICON_GreatMusician] müzisyenler ve [ICON_GreatMerchant] tüccarlar için %50 bonus. Sarayda beş eser yeri var.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TRAIT_CIVILIZATION_TREASURE_FLEET_NAME">
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_TREASURE_FLEET_NAME">
 			<Text>Hazine Filosu</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TRAIT_CIVILIZATION_TREASURE_FLEET_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_TREASURE_FLEET_DESCRIPTION">
 			<Text>Filo ve armadaları normalden daha erken oluşturabilir (merkantilizm). [ICON_TradeRoute] Kıtalararası ticaret yolları, diğer uluslara olan rotalardan ekstra [ICON_Gold] altın ve kendi şehirlerimiz arasındaki rotalardan ekstra [ICON_Food] yiyecek ve [ICON_Production] üretim sağlar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TRAIT_CIVILIZATION_FOUNDING_FATHERS_NAME">
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_FOUNDING_FATHERS_NAME">
 			<Text>Kurucu Babalar</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TRAIT_CIVILIZATION_FOUNDING_FATHERS_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_FOUNDING_FATHERS_DESCRIPTION">
 			<Text>Hükümet için miras avantajları, normal süresinin yarısında elde edilir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TRAIT_CIVILIZATION_DHARMA_NAME">
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_DHARMA_NAME">
 			<Text>Dharma</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TRAIT_CIVILIZATION_DHARMA_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_DHARMA_DESCRIPTION">
 			<Text>Her dinin takipçisi olan şehirlerde, takipçi inançlarının avantajları geçerlidir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TRAIT_CIVILIZATION_WONDER_TOURISM_NAME">
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_WONDER_TOURISM_NAME">
 			<Text>Büyük Tur</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TRAIT_CIVILIZATION_WONDER_TOURISM_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_WONDER_TOURISM_DESCRIPTION">
 			<Text>Ortaçağ, Rönesans ve Sanayi Çağı harikaları için +%20 [ICON_Production] üretim. Tüm çağların harikalarının oluşturduğu [ICON_Tourism] turizm iki katına çıkar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TRAIT_CIVILIZATION_IMPERIAL_FREE_CITIES_NAME">
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_IMPERIAL_FREE_CITIES_NAME">
 			<Text>İmparatorluk Serbest Şehirleri</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TRAIT_CIVILIZATION_IMPERIAL_FREE_CITIES_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_IMPERIAL_FREE_CITIES_DESCRIPTION">
 			<Text>Tüm şehirler, normal [ICON_Citizen] nüfus tabanlı sınırın ötesinde bir şehir bölgesi daha inşa edebilir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TRAIT_CIVILIZATION_ALL_ROADS_TO_ROME_NAME">
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_ALL_ROADS_TO_ROME_NAME">
 			<Text>Tüm Yollar Roma'ya Çıkar</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TRAIT_CIVILIZATION_ALL_ROADS_TO_ROME_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_ALL_ROADS_TO_ROME_DESCRIPTION">
 			<Text>Kurulan ve fethedilen tüm şehirler, bir ticaret merkezi ile başlar. [ICON_TradeRoute] Ticaret yolu mesafesinde [ICON_Capital] başkente sahip olduklarında, oraya bir yol da alırlar. [ICON_TradeRoute] Ticaret yollarımız, kendi ticaret merkezimizden geçen her geçiş için +1 [ICON_Gold] altın alır.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TRAIT_CIVILIZATION_EARLY_OCEAN_NAVIGATION_NAME">
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_EARLY_OCEAN_NAVIGATION_NAME">
 			<Text>Knarr</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TRAIT_CIVILIZATION_EARLY_OCEAN_NAVIGATION_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_EARLY_OCEAN_NAVIGATION_DESCRIPTION">
 			<Text>Birimler, gemi yapımı geliştirmesinden sonra deniz karelerine yelken açabilir. Yakın dövüş deniz birimleri, tarafsız topraklarda iyileşir. Suya çıkmak ve karaya çıkmak, [ICON_Movement] hareket için ekstra maliyet getirmez.</Text>
 		</Replace>
 		<!-- Civilization Info -->
-		<Replace Language="pl_PL" Tag="LOC_CIVINFO_LOCATION">
+		<Replace Language="en_US" Tag="LOC_CIVINFO_LOCATION">
 			<Text>Konum</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVINFO_SIZE">
+		<Replace Language="en_US" Tag="LOC_CIVINFO_SIZE">
 			<Text>Boyut</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVINFO_POPULATION">
+		<Replace Language="en_US" Tag="LOC_CIVINFO_POPULATION">
 			<Text>Nüfus</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVINFO_CAPITAL">
+		<Replace Language="en_US" Tag="LOC_CIVINFO_CAPITAL">
 			<Text>Başkent</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVINFO_AMERICA_LOCATION">
+		<Replace Language="en_US" Tag="LOC_CIVINFO_AMERICA_LOCATION">
 			<Text>Kuzey Amerika</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVINFO_AMERICA_SIZE">
+		<Replace Language="en_US" Tag="LOC_CIVINFO_AMERICA_SIZE">
 			<Text>Yaklaşık 9,6 milyon kilometrekare</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVINFO_AMERICA_POPULATION">
+		<Replace Language="en_US" Tag="LOC_CIVINFO_AMERICA_POPULATION">
 			<Text>Yaklaşık 318 milyon</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVINFO_AMERICA_CAPITAL">
+		<Replace Language="en_US" Tag="LOC_CIVINFO_AMERICA_CAPITAL">
 			<Text>Çeşitli (Philadelphia, New York, şu anda Washington)</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVINFO_ARABIA_LOCATION">
+		<Replace Language="en_US" Tag="LOC_CIVINFO_ARABIA_LOCATION">
 			<Text>Asya-Afrika</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVINFO_ARABIA_SIZE">
+		<Replace Language="en_US" Tag="LOC_CIVINFO_ARABIA_SIZE">
 			<Text>Umayyad Halifeliği altında yaklaşık 15 milyon kilometrekare</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVINFO_ARABIA_POPULATION">
+		<Replace Language="en_US" Tag="LOC_CIVINFO_ARABIA_POPULATION">
 			<Text>Umayyad döneminde yaklaşık 34 milyon</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVINFO_ARABIA_CAPITAL">
+		<Replace Language="en_US" Tag="LOC_CIVINFO_ARABIA_CAPITAL">
 			<Text>Çeşitli (Medine, Kufa, Şam, Bağdat, Kahire)</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVINFO_BRAZIL_LOCATION">
+		<Replace Language="en_US" Tag="LOC_CIVINFO_BRAZIL_LOCATION">
 			<Text>Güney Amerika</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVINFO_BRAZIL_SIZE">
+		<Replace Language="en_US" Tag="LOC_CIVINFO_BRAZIL_SIZE">
 			<Text>Yaklaşık 8,5 milyon kilometrekare</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVINFO_BRAZIL_POPULATION">
+		<Replace Language="en_US" Tag="LOC_CIVINFO_BRAZIL_POPULATION">
 			<Text>Yaklaşık 193 milyon</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVINFO_BRAZIL_CAPITAL">
+		<Replace Language="en_US" Tag="LOC_CIVINFO_BRAZIL_CAPITAL">
 			<Text>Çeşitli (Salvador, Rio de Janeiro, şu anda Brasilia)</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVINFO_CHINA_LOCATION">
+		<Replace Language="en_US" Tag="LOC_CIVINFO_CHINA_LOCATION">
 			<Text>Asya</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVINFO_CHINA_SIZE">
+		<Replace Language="en_US" Tag="LOC_CIVINFO_CHINA_SIZE">
 			<Text>Yaklaşık 9,6 milyon kilometrekare</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVINFO_CHINA_POPULATION">
+		<Replace Language="en_US" Tag="LOC_CIVINFO_CHINA_POPULATION">
 			<Text>1990 yılında 1,1 milyar</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVINFO_CHINA_CAPITAL">
+		<Replace Language="en_US" Tag="LOC_CIVINFO_CHINA_CAPITAL">
 			<Text>Çeşitli (dört ana: Nanjing, Luoyang, Chang'an ve şu anda Pekin)</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVINFO_ENGLAND_LOCATION">
+		<Replace Language="en_US" Tag="LOC_CIVINFO_ENGLAND_LOCATION">
 			<Text>Avrupa</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVINFO_ENGLAND_SIZE">
+		<Replace Language="en_US" Tag="LOC_CIVINFO_ENGLAND_SIZE">
 			<Text>Yaklaşık 243458,88 kilometrekare</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVINFO_ENGLAND_POPULATION">
+		<Replace Language="en_US" Tag="LOC_CIVINFO_ENGLAND_POPULATION">
 			<Text>Yaklaşık 64,1 milyon</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVINFO_ENGLAND_CAPITAL">
+		<Replace Language="en_US" Tag="LOC_CIVINFO_ENGLAND_CAPITAL">
 			<Text>Londra (çoğunlukla)</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVINFO_EGYPT_LOCATION">
+		<Replace Language="en_US" Tag="LOC_CIVINFO_EGYPT_LOCATION">
 			<Text>Afrika</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVINFO_EGYPT_SIZE">
+		<Replace Language="en_US" Tag="LOC_CIVINFO_EGYPT_SIZE">
 			<Text>Yaklaşık 1 milyon kilometrekare</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVINFO_EGYPT_POPULATION">
+		<Replace Language="en_US" Tag="LOC_CIVINFO_EGYPT_POPULATION">
 			<Text>Tahmini 7,5 milyon (Ptolemaios hanedanı)</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVINFO_EGYPT_CAPITAL">
+		<Replace Language="en_US" Tag="LOC_CIVINFO_EGYPT_CAPITAL">
 			<Text>Çeşitli (Memfis, Thebes, İskenderiye ve şu anda Kahire)</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVINFO_FRANCE_LOCATION">
+		<Replace Language="en_US" Tag="LOC_CIVINFO_FRANCE_LOCATION">
 			<Text>Avrupa</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVINFO_FRANCE_SIZE">
+		<Replace Language="en_US" Tag="LOC_CIVINFO_FRANCE_SIZE">
 			<Text>Tahmini 640.600 kilometrekare</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVINFO_FRANCE_POPULATION">
+		<Replace Language="en_US" Tag="LOC_CIVINFO_FRANCE_POPULATION">
 			<Text>Tahmini 66,6 milyon</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVINFO_FRANCE_CAPITAL">
+		<Replace Language="en_US" Tag="LOC_CIVINFO_FRANCE_CAPITAL">
 			<Text>Çeşitli (Orleans, Tours, Versailles, Vichy, çoğunlukla Paris)</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVINFO_GERMANY_LOCATION">
+		<Replace Language="en_US" Tag="LOC_CIVINFO_GERMANY_LOCATION">
 			<Text>Avrupa</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVINFO_GERMANY_SIZE">
+		<Replace Language="en_US" Tag="LOC_CIVINFO_GERMANY_SIZE">
 			<Text>1050 yılında yaklaşık 1 milyon kilometrekare</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVINFO_GERMANY_POPULATION">
+		<Replace Language="en_US" Tag="LOC_CIVINFO_GERMANY_POPULATION">
 			<Text>1780 yılında yaklaşık 26,3 milyon</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVINFO_GERMANY_CAPITAL">
+		<Replace Language="en_US" Tag="LOC_CIVINFO_GERMANY_CAPITAL">
 			<Text>Şu anda Berlin</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVINFO_GREECE_LOCATION">
+		<Replace Language="en_US" Tag="LOC_CIVINFO_GREECE_LOCATION">
 			<Text>Avrupa</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVINFO_GREECE_SIZE">
+		<Replace Language="en_US" Tag="LOC_CIVINFO_GREECE_SIZE">
 			<Text>Yaklaşık 131.900 kilometrekare</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVINFO_GREECE_POPULATION">
+		<Replace Language="en_US" Tag="LOC_CIVINFO_GREECE_POPULATION">
 			<Text>Peleponnes Savaşı sırasında yaklaşık 667.500</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVINFO_GREECE_CAPITAL">
+		<Replace Language="en_US" Tag="LOC_CIVINFO_GREECE_CAPITAL">
 			<Text>Tüm şehirler, ama çoğunlukla Sparta ve Atina, şu anda Atina</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVINFO_INDIA_LOCATION">
+		<Replace Language="en_US" Tag="LOC_CIVINFO_INDIA_LOCATION">
 			<Text>Asya</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVINFO_INDIA_SIZE">
+		<Replace Language="en_US" Tag="LOC_CIVINFO_INDIA_SIZE">
 			<Text>Yaklaşık 3,3 milyon kilometrekare</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVINFO_INDIA_POPULATION">
+		<Replace Language="en_US" Tag="LOC_CIVINFO_INDIA_POPULATION">
 			<Text>Tahmini 1,2 milyar (her gün artıyor)</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVINFO_INDIA_CAPITAL">
+		<Replace Language="en_US" Tag="LOC_CIVINFO_INDIA_CAPITAL">
 			<Text>Çeşitli (Kalküta, Delhi, şu anda Yeni Delhi)</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVINFO_JAPAN_LOCATION">
+		<Replace Language="en_US" Tag="LOC_CIVINFO_JAPAN_LOCATION">
 			<Text>Asya</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVINFO_JAPAN_SIZE">
+		<Replace Language="en_US" Tag="LOC_CIVINFO_JAPAN_SIZE">
 			<Text>Yaklaşık 378.000 kilometrekare</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVINFO_JAPAN_POPULATION">
+		<Replace Language="en_US" Tag="LOC_CIVINFO_JAPAN_POPULATION">
 			<Text>Son tahmin 126,4 milyon</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVINFO_JAPAN_CAPITAL">
+		<Replace Language="en_US" Tag="LOC_CIVINFO_JAPAN_CAPITAL">
 			<Text>Çeşitli (Kyoto'dan önce listelenemeyecek kadar çok; şu anda Tokyo)</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVINFO_KONGO_LOCATION">
+		<Replace Language="en_US" Tag="LOC_CIVINFO_KONGO_LOCATION">
 			<Text>Afrika</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVINFO_KONGO_SIZE">
+		<Replace Language="en_US" Tag="LOC_CIVINFO_KONGO_SIZE">
 			<Text>En büyük 129,4 bin kilometrekare</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVINFO_KONGO_POPULATION">
+		<Replace Language="en_US" Tag="LOC_CIVINFO_KONGO_POPULATION">
 			<Text>1650 yılında yaklaşık 509 bin</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVINFO_KONGO_CAPITAL">
+		<Replace Language="en_US" Tag="LOC_CIVINFO_KONGO_CAPITAL">
 			<Text>M'banza Kongo</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVINFO_NORWAY_LOCATION">
+		<Replace Language="en_US" Tag="LOC_CIVINFO_NORWAY_LOCATION">
 			<Text>Avrupa</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVINFO_NORWAY_SIZE">
+		<Replace Language="en_US" Tag="LOC_CIVINFO_NORWAY_SIZE">
 			<Text>Yaklaşık 385,2 bin kilometrekare</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVINFO_NORWAY_POPULATION">
+		<Replace Language="en_US" Tag="LOC_CIVINFO_NORWAY_POPULATION">
 			<Text>Son tahmin 5,1 milyon</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVINFO_NORWAY_CAPITAL">
+		<Replace Language="en_US" Tag="LOC_CIVINFO_NORWAY_CAPITAL">
 			<Text>Çeşitli (Trondheim, Bergen ve şu anda Oslo)</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVINFO_ROME_LOCATION">
+		<Replace Language="en_US" Tag="LOC_CIVINFO_ROME_LOCATION">
 			<Text>Avrupa (ve Küçük Asya, Afrika, Orta Doğu ve birkaç başka yer)</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVINFO_ROME_SIZE">
+		<Replace Language="en_US" Tag="LOC_CIVINFO_ROME_SIZE">
 			<Text>Trajan döneminde yaklaşık 6,5 milyon kilometrekare</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVINFO_ROME_POPULATION">
+		<Replace Language="en_US" Tag="LOC_CIVINFO_ROME_POPULATION">
 			<Text>En iyi tahminle 88 milyon</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVINFO_ROME_CAPITAL">
+		<Replace Language="en_US" Tag="LOC_CIVINFO_ROME_CAPITAL">
 			<Text>Roma</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVINFO_RUSSIA_LOCATION">
+		<Replace Language="en_US" Tag="LOC_CIVINFO_RUSSIA_LOCATION">
 			<Text>Avrupa-Asya (ve kısa bir süre için Kuzey Amerika'nın bir kısmı)</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVINFO_RUSSIA_SIZE">
+		<Replace Language="en_US" Tag="LOC_CIVINFO_RUSSIA_SIZE">
 			<Text>Yaklaşık 21,8 milyon kilometrekare</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVINFO_RUSSIA_POPULATION">
+		<Replace Language="en_US" Tag="LOC_CIVINFO_RUSSIA_POPULATION">
 			<Text>Yaklaşık 181,5 milyon</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVINFO_RUSSIA_CAPITAL">
+		<Replace Language="en_US" Tag="LOC_CIVINFO_RUSSIA_CAPITAL">
 			<Text>Moskova, sonra St. Petersburg</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVINFO_SCYTHIA_LOCATION">
+		<Replace Language="en_US" Tag="LOC_CIVINFO_SCYTHIA_LOCATION">
 			<Text>Asya</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVINFO_SCYTHIA_SIZE">
+		<Replace Language="en_US" Tag="LOC_CIVINFO_SCYTHIA_SIZE">
 			<Text>Yaklaşık 994 bin kilometrekare</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVINFO_SCYTHIA_POPULATION">
+		<Replace Language="en_US" Tag="LOC_CIVINFO_SCYTHIA_POPULATION">
 			<Text>Bilinmiyor, en iyi tahminle 40 ila 50 bin arasında</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVINFO_SCYTHIA_CAPITAL">
+		<Replace Language="en_US" Tag="LOC_CIVINFO_SCYTHIA_CAPITAL">
 			<Text>Yok (tarihte adı geçen tek şehir "Skythian Neapolis", Gotlar tarafından üçüncü yüzyılda yok edilmiştir)</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVINFO_SPAIN_LOCATION">
+		<Replace Language="en_US" Tag="LOC_CIVINFO_SPAIN_LOCATION">
 			<Text>Avrupa</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVINFO_SPAIN_SIZE">
+		<Replace Language="en_US" Tag="LOC_CIVINFO_SPAIN_SIZE">
 			<Text>Yaklaşık 504,4 bin kilometrekare</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVINFO_SPAIN_POPULATION">
+		<Replace Language="en_US" Tag="LOC_CIVINFO_SPAIN_POPULATION">
 			<Text>Yaklaşık 47,6 milyon</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVINFO_SPAIN_CAPITAL">
+		<Replace Language="en_US" Tag="LOC_CIVINFO_SPAIN_CAPITAL">
 			<Text>Madrid (çoğunlukla)</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVINFO_SUMERIA_LOCATION">
+		<Replace Language="en_US" Tag="LOC_CIVINFO_SUMERIA_LOCATION">
 			<Text>Asya</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVINFO_SUMERIA_SIZE">
+		<Replace Language="en_US" Tag="LOC_CIVINFO_SUMERIA_SIZE">
 			<Text>Söylemek imkansız</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVINFO_SUMERIA_POPULATION">
+		<Replace Language="en_US" Tag="LOC_CIVINFO_SUMERIA_POPULATION">
 			<Text>Yaklaşık 1,1 ila 1,5 milyon arasında</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVINFO_SUMERIA_CAPITAL">
+		<Replace Language="en_US" Tag="LOC_CIVINFO_SUMERIA_CAPITAL">
 			<Text>Çeşitli (Lagash, Eridu, Uruk, Kish, Ur, veya kralın nerede olduğuna bağlı olarak)</Text>
 		</Replace>
 		<!-- Uniques -->
-		<Replace Language="pl_PL" Tag="LOC_TRAIT_CIVILIZATION_BUILDING_FILM_STUDIO_NAME">
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_BUILDING_FILM_STUDIO_NAME">
 			<Text>Amerikalıların özel binası: Film Stüdyosu</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TRAIT_CIVILIZATION_BUILDING_MADRASA_NAME">
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_BUILDING_MADRASA_NAME">
 			<Text>Arapların özel binası: Medrese</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_GREAT_WALL_NAME">
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_GREAT_WALL_NAME">
 			<Text>Çinlilerin özel yapısı: Çin Seddi</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_SPHINX_NAME">
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_SPHINX_NAME">
 			<Text>Mısırlıların özel yapısı: Sfenks</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TRAIT_CIVILIZATION_UNIT_EGYPTIAN_CHARIOT_ARCHER_NAME">
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_UNIT_EGYPTIAN_CHARIOT_ARCHER_NAME">
 			<Text>Mısırlıların özel birimi: Maryannu Okçu Arabası</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TRAIT_CIVILIZATION_UNIT_CHINESE_CROUCHING_TIGER_NAME">
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_UNIT_CHINESE_CROUCHING_TIGER_NAME">
 			<Text>Çinlilerin özel birimi: Pusuya Yatan Kaplan</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_CHATEAU_NAME">
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_CHATEAU_NAME">
 			<Text>Fransızların özel yapısı: Şato</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TRAIT_CIVILIZATION_DISTRICT_HANSA_NAME">
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_DISTRICT_HANSA_NAME">
 			<Text>Almanların özel bölgesi: Hansa</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TRAIT_CIVILIZATION_DISTRICT_ACROPOLIS_NAME">
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_DISTRICT_ACROPOLIS_NAME">
 			<Text>Yunanlıların özel bölgesi: Akropolis</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TRAIT_CIVILIZATION_UNIT_GREEK_HOPLITE_NAME">
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_UNIT_GREEK_HOPLITE_NAME">
 			<Text>Yunanlıların özel birimi: Hoplit</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_STEPWELL_NAME">
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_STEPWELL_NAME">
 			<Text>Hintlilerin özel yapısı: Basamaklı Kuyu</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TRAIT_CIVILIZATION_BUILDING_ELECTRONICS_FACTORY_NAME">
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_BUILDING_ELECTRONICS_FACTORY_NAME">
 			<Text>Japonların özel binası: Elektronik Fabrikası</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TRAIT_CIVILIZATION_UNIT_JAPANESE_SAMURAI_NAME">
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_UNIT_JAPANESE_SAMURAI_NAME">
 			<Text>Japonların özel birimi: Samuray</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TRAIT_CIVILIZATION_MBANZA_NAME">
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_MBANZA_NAME">
 			<Text>Kongoluların özel bölgesi: Mbanza</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TRAIT_CIVILIZATION_BUILDING_STAVE_CHURCH_NAME">
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_BUILDING_STAVE_CHURCH_NAME">
 			<Text>Norveçlilerin özel binası: Ahşap Kilise</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TRAIT_CIVILIZATION_DISTRICT_BATH_NAME">
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_DISTRICT_BATH_NAME">
 			<Text>Romalıların özel bölgesi: Hamam</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TRAIT_CIVILIZATION_UNIT_ROMAN_LEGION_NAME">
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_UNIT_ROMAN_LEGION_NAME">
 			<Text>Romalıların özel birimi: Lejyon</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TRAIT_CIVILIZATION_UNIT_KONGO_SHIELD_BEARER_NAME">
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_UNIT_KONGO_SHIELD_BEARER_NAME">
 			<Text>Kongoluların özel birimi: Ngao Mbeba</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TRAIT_CIVILIZATION_DISTRICT_LAVRA_NAME">
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_DISTRICT_LAVRA_NAME">
 			<Text>Rusların özel bölgesi: Lavra</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_KURGAN_NAME">
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_KURGAN_NAME">
 			<Text>İskitlerin özel yapısı: Kurgan</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TRAIT_CIVILIZATION_UNIT_SCYTHIAN_HORSE_ARCHER_NAME">
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_UNIT_SCYTHIAN_HORSE_ARCHER_NAME">
 			<Text>İskitlerin özel birimi: Saka Atlı Okçusu</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_MISSION_NAME">
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_MISSION_NAME">
 			<Text>İspanyolların özel yapısı: Misyon</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TRAIT_CIVILIZATION_UNIT_SPANISH_CONQUISTADOR_NAME">
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_UNIT_SPANISH_CONQUISTADOR_NAME">
 			<Text>İspanyolların özel birimi: Konkistador</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TRAIT_CIVILIZATION_UNIT_RUSSIAN_COSSACK_NAME">
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_UNIT_RUSSIAN_COSSACK_NAME">
 			<Text>Rusların özel birimi: Kazak</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_ZIGGURAT_NAME">
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_ZIGGURAT_NAME">
 			<Text>Sümerlerin özel yapısı: Ziggurat</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TRAIT_CIVILIZATION_UNIT_SUMERIAN_WAR_CART_NAME">
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_UNIT_SUMERIAN_WAR_CART_NAME">
 			<Text>Sümerlerin özel birimi: Savaş Arabası</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TRAIT_CIVILIZATION_UNIT_INDIAN_VARU_NAME">
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_UNIT_INDIAN_VARU_NAME">
 			<Text>Hintlilerin özel birimi: Varu</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TRAIT_CIVILIZATION_UNIT_ENGLISH_SEADOG_NAME">
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_UNIT_ENGLISH_SEADOG_NAME">
 			<Text>İngilizlerin özel birimi: Deniz Köpeği</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TRAIT_CIVILIZATION_UNIT_ARABIAN_MAMLUK">
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_UNIT_ARABIAN_MAMLUK">
 			<Text>Arapların özel birimi: Memlük</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TRAIT_CIVILIZATION_UNIT_FRENCH_GARDE_IMPERIALE_NAME">
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_UNIT_FRENCH_GARDE_IMPERIALE_NAME">
 			<Text>Fransızların özel birimi: Garde Impériale</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TRAIT_CIVILIZATION_UNIT_GERMAN_UBOAT_NAME">
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_UNIT_GERMAN_UBOAT_NAME">
 			<Text>Almanların özel birimi: U-bot</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TRAIT_CIVILIZATION_UNIT_AMERICAN_P51_NAME">
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_UNIT_AMERICAN_P51_NAME">
 			<Text>Amerikalıların özel birimi: P-51 Mustang</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TRAIT_CIVILIZATION_UNIT_BRAZILIAN_MINAS_GERAES_NAME">
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_UNIT_BRAZILIAN_MINAS_GERAES_NAME">
 			<Text>Brezilyalıların özel birimi: Minas Geraes</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TRAIT_CIVILIZATION_UNIT_NORWEGIAN_BERSERKER_NAME">
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_UNIT_NORWEGIAN_BERSERKER_NAME">
 			<Text>Norveçlilerin özel birimi: Berserker</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TRAIT_CIVILIZATION_STREET_CARNIVAL_NAME">
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_STREET_CARNIVAL_NAME">
 			<Text>Brezilyalıların özel bölgesi: Sokak Karnavalı</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TRAIT_CIVILIZATION_ROYAL_NAVY_DOCKYARD_NAME">
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_ROYAL_NAVY_DOCKYARD_NAME">
 			<Text>İngilizlerin özel bölgesi: Kraliyet Donanması Tersanesi</Text>
 		</Replace>
 	</LocalizedText>

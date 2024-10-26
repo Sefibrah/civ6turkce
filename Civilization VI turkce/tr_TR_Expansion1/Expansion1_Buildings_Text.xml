@@ -2,174 +2,174 @@
 <GameData>
 	<LocalizedText>
 		<!-- Government Buildings -->
-		<Replace Language="pl_PL" Tag="LOC_BUILDING_GOV_TALL_NAME">
+		<Replace Language="en_US" Tag="LOC_BUILDING_GOV_TALL_NAME">
 			<Text>Halk Meclisi|halk meclisi|halk meclisinin</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BUILDING_GOV_WIDE_NAME">
+		<Replace Language="en_US" Tag="LOC_BUILDING_GOV_WIDE_NAME">
 			<Text>Geleneksel Ev|geleneksel ev|geleneksel evin</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BUILDING_GOV_CONQUEST_NAME">
+		<Replace Language="en_US" Tag="LOC_BUILDING_GOV_CONQUEST_NAME">
 			<Text>Savaş Lordu'nun Tahtı|savaş lordu'nun tahtı|savaş lordu'nun tahtının</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BUILDING_GOV_FAITH_NAME">
+		<Replace Language="en_US" Tag="LOC_BUILDING_GOV_FAITH_NAME">
 			<Text>Büyük Üstat Şapeli|büyük üstat şapeli|büyük üstat şapelinin</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BUILDING_GOV_CITYSTATES_NAME">
+		<Replace Language="en_US" Tag="LOC_BUILDING_GOV_CITYSTATES_NAME">
 			<Text>Dışişleri Bakanlığı|dışişleri bakanlığı|dışişleri bakanlığının</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BUILDING_GOV_SPIES_NAME">
+		<Replace Language="en_US" Tag="LOC_BUILDING_GOV_SPIES_NAME">
 			<Text>İstihbarat Servisi|istihbarat servisi|istihbarat servisinin</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BUILDING_GOV_MILITARY_NAME">
+		<Replace Language="en_US" Tag="LOC_BUILDING_GOV_MILITARY_NAME">
 			<Text>Askeri Bölüm|askeri bölüm|askeri bölümün</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BUILDING_GOV_CULTURE_NAME">
+		<Replace Language="en_US" Tag="LOC_BUILDING_GOV_CULTURE_NAME">
 			<Text>Doğa Tarihi Müzesi|doğa tarihi müzesi|doğa tarihi müzesinin</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BUILDING_GOV_SCIENCE_NAME">
+		<Replace Language="en_US" Tag="LOC_BUILDING_GOV_SCIENCE_NAME">
 			<Text>Kraliyet Cemiyeti|kraliyet cemiyeti|kraliyet cemiyetinin</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BUILDING_GOV_TALL_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BUILDING_GOV_TALL_DESCRIPTION">
 			<Text>+1 [ICON_Amenities] yaşam standardı ve +3 [ICON_Housing] konut [ICON_Governor] valilerin şehirlerine[NEWLINE]-2 sadakat [ICON_Governor] valisiz şehirlerde.[NEWLINE]Bir [Icon_Governor] vali pozisyonu ödüllendirir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BUILDING_GOV_WIDE_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BUILDING_GOV_WIDE_DESCRIPTION">
 			<Text>Bu şehirde yerleşimcilere +%50 [ICON_Production] üretim.[NEWLINE]Yeni şehirler ücretsiz bir inşaatçı alır.[NEWLINE]Bir [Icon_Governor] vali pozisyonu ödüllendirir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BUILDING_GOV_CONQUEST_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BUILDING_GOV_CONQUEST_DESCRIPTION">
 			<Text>Düşman şehrini ele geçirmek, tüm şehirlerde beş tur boyunca %20 [ICON_Production] üretim bonusu sağlar.[NEWLINE]Bir [Icon_Governor] vali pozisyonu ödüllendirir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BUILDING_GOV_CITYSTATES_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BUILDING_GOV_CITYSTATES_DESCRIPTION">
 			<Text>Şehir devletlerinin birliklerini kiralamak sadece yarı [ICON_Gold] altın gerektirir.[NEWLINE]Şehir devletlerinin birimleri, şehir devletine hakim olduğumuzda +4 [ICON_Strength] savaş gücü kazanır (kiralanan birimler dahil).[NEWLINE]Bir [Icon_Governor] vali pozisyonu ödüllendirir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="GOV_CITYSTATES_LEVIED_COMBAT_STRENGTH_DESCRIPTION">
+		<Replace Language="en_US" Tag="GOV_CITYSTATES_LEVIED_COMBAT_STRENGTH_DESCRIPTION">
 			<Text>Dışişleri Bakanlığı'ndan +4</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="GOV_CITYSTATES_COMBAT_STRENGTH_DESCRIPTION">
+		<Replace Language="en_US" Tag="GOV_CITYSTATES_COMBAT_STRENGTH_DESCRIPTION">
 			<Text>Dışişleri Bakanlığı'ndan +4</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BUILDING_GOV_SPIES_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BUILDING_GOV_SPIES_DESCRIPTION">
 			<Text>+1 casus ve casus kapasitesi.[NEWLINE]Tüm casusluk faaliyetleri daha başarılı olur.[NEWLINE]Bir [Icon_Governor] vali pozisyonu ödüllendirir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BUILDING_GOV_FAITH_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BUILDING_GOV_FAITH_DESCRIPTION">
 			<Text>Kara birimlerinin [ICON_Faith] inançla satın alınmasını sağlar.[NEWLINE]Yapıların ve şehir bölgelerinin yağmalanması daha fazla [ICON_Faith] inanç üretir.[NEWLINE]Bir [Icon_Governor] vali pozisyonu ödüllendirir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BUILDING_GOV_MILITARY_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BUILDING_GOV_MILITARY_DESCRIPTION">
 			<Text>Tüm birimler, bir birimi yendiklerinde 20 sağlık puanına kadar iyileşir.[NEWLINE]Bir [Icon_Governor] vali pozisyonu ödüllendirir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BUILDING_GOV_CULTURE_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BUILDING_GOV_CULTURE_DESCRIPTION">
 			<Text>Her türlü büyük eser için 4 yer sağlar.[NEWLINE]Bir [Icon_Governor] vali pozisyonu ödüllendirir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BUILDING_GOV_SCIENCE_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BUILDING_GOV_SCIENCE_DESCRIPTION">
 			<Text>İnşaatçılar, tüm işçiliklerini kullanarak şehir bölgesi projesine bir üretim bonusu sağlama yeteneği kazanır, şehir başına turda bir kez.[NEWLINE]Bir [Icon_Governor] vali pozisyonu ödüllendirir.</Text>
 		</Replace>
 		<!-- Water Entertainment Complex Buildings -->
-		<Replace Language="pl_PL" Tag="LOC_BUILDING_FERRIS_WHEEL_NAME">
+		<Replace Language="en_US" Tag="LOC_BUILDING_FERRIS_WHEEL_NAME">
 			<Text>Dönme Dolap|dönme dolap|dönme dolabın</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BUILDING_FERRIS_WHEEL_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BUILDING_FERRIS_WHEEL_DESCRIPTION">
 			<Text>+2 [ICON_Tourism] turizm.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BUILDING_AQUARIUM_NAME">
+		<Replace Language="en_US" Tag="LOC_BUILDING_AQUARIUM_NAME">
 			<Text>Akvaryum|akvaryum|akvaryumun</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BUILDING_AQUARIUM_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BUILDING_AQUARIUM_DESCRIPTION">
 			<Text>[ICON_Amenities] yaşam standardı avantajları, 9 kare içindeki her şehir merkezine ulaşır. Avantaj, şehir başına yalnızca bir kez çalışır, bu nedenle 9 kare içinde birden fazla bina ek avantaj sağlamaz. Bu şehrin her sahil kaynağı, enkazı ve resifi için +1 [ICON_SCIENCE] bilim.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BUILDING_AQUATICS_CENTER_NAME">
+		<Replace Language="en_US" Tag="LOC_BUILDING_AQUATICS_CENTER_NAME">
 			<Text>Akvaryum Merkezi|akvaryum merkezi|akvaryum merkezinin</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BUILDING_AQUATICS_CENTER_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BUILDING_AQUATICS_CENTER_DESCRIPTION">
 			<Text>[ICON_Amenities] yaşam standardı avantajları, 9 kare içindeki her şehir merkezine ulaşır. Avantaj, şehir başına yalnızca bir kez çalışır, bu nedenle 9 kare içinde birden fazla bina ek avantaj sağlamaz. Şehrin sahilde veya kıyıda bulunan her harikası için +2 [ICON_Tourism] turizm.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BUILDING_ARENA_EXPANSION1_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BUILDING_ARENA_EXPANSION1_DESCRIPTION">
 			<Text>Doğa koruma geliştirmesi ile 1 [ICON_TOURISM] turizm sağlar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BUILDING_TLACHTLI_EXPANSION1_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BUILDING_TLACHTLI_EXPANSION1_DESCRIPTION">
 			<Text>Doğa koruma geliştirmesi ile 1 [ICON_TOURISM] turizm sağlar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BUILDING_ZOO_EXPANSION1_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BUILDING_ZOO_EXPANSION1_DESCRIPTION">
 			<Text>[ICON_Amenities] yaşam standardı avantajları, 6 kare içindeki her şehir merkezine ulaşır. Avantaj, şehir başına yalnızca bir kez çalışır, bu nedenle 6 kare içinde birden fazla bina ek avantaj sağlamaz. Şehrin her yağmur ormanı veya bataklık karesi için +1 [ICON_SCIENCE] bilim.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BUILDING_STADIUM_EXPANSION1_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BUILDING_STADIUM_EXPANSION1_DESCRIPTION">
 			<Text>[ICON_Amenities] yaşam standardı avantajları, 6 kare içindeki her şehir merkezine ulaşır. Avantaj, şehir başına yalnızca bir kez çalışır, bu nedenle 6 kare içinde birden fazla bina ek avantaj sağlamaz. Şehrin [ICON_CITIZEN] nüfusu 10 veya daha fazla ise +2 [ICON_Tourism] turizm ve şehrin [ICON_CITIZEN] nüfusu 20 veya daha fazla ise +5 [ICON_Tourism] turizm.</Text>
 		</Replace>
 		<!-- Neighborhood Buildings -->
-		<Replace Language="pl_PL" Tag="LOC_BUILDING_FOOD_MARKET_NAME">
+		<Replace Language="en_US" Tag="LOC_BUILDING_FOOD_MARKET_NAME">
 			<Text>Gıda Pazarı|gıda pazarı|gıda pazarının</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BUILDING_FOOD_MARKET_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BUILDING_FOOD_MARKET_DESCRIPTION">
 			<Text>Bir şehirde birden fazla mahalle olsa bile, şehir başına yalnızca bir kez inşa edilebilir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BUILDING_SHOPPING_MALL_NAME">
+		<Replace Language="en_US" Tag="LOC_BUILDING_SHOPPING_MALL_NAME">
 			<Text>Alışveriş Merkezi|alışveriş merkezi|alışveriş merkezinin</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BUILDING_SHOPPING_MALL_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BUILDING_SHOPPING_MALL_DESCRIPTION">
 			<Text>+4 [ICON_Tourism] turizm. Bir şehirde birden fazla mahalle olsa bile, şehir başına yalnızca bir kez inşa edilebilir.</Text>
 		</Replace>
 		<!-- Wonders -->
-		<Replace Language="pl_PL" Tag="LOC_BUILDING_AMUNDSEN_SCOTT_RESEARCH_STATION_NAME">
+		<Replace Language="en_US" Tag="LOC_BUILDING_AMUNDSEN_SCOTT_RESEARCH_STATION_NAME">
 			<Text>Amundsen-Scott Araştırma İstasyonu|Amundsen-Scott Araştırma İstasyonu|Amundsen-Scott Araştırma İstasyonunun</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BUILDING_AMUNDSEN_SCOTT_RESEARCH_STATION_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BUILDING_AMUNDSEN_SCOTT_RESEARCH_STATION_DESCRIPTION">
 			<Text>+%20 [ICON_SCIENCE] bilim ve %10 [ICON_PRODUCTION] üretim tüm şehirlerde. Eğer oyuncunun sahip olduğu bir şehir merkezinden 3 kare içinde beş kar veya kar tepe karesi varsa, bu üretimler iki katına çıkar. Kar veya kar tepe karesinde bulunan bir kampüste araştırma laboratuvarı içermelidir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BUILDING_CASA_DE_CONTRATACION_NAME">
+		<Replace Language="en_US" Tag="LOC_BUILDING_CASA_DE_CONTRATACION_NAME">
 			<Text>Casa de Contratación|Casa de Contratación|Casa de Contratación'ın</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BUILDING_CASA_DE_CONTRATACION_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BUILDING_CASA_DE_CONTRATACION_DESCRIPTION">
 			<Text>3 [ICON_Governor] vali terfisi. [ICON_Governor] Valiliği olan şehirler, orijinal [ICON_Capital] başkentin kıtasında bulunmuyorsa, %15 [ICON_Production] üretim, %15 [ICON_Faith] inanç ve %15 [ICON_Gold] altın kazanır. Yönetim temsilciliğinin yanına inşa edilmelidir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BUILDING_COLOSSEUM_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BUILDING_COLOSSEUM_DESCRIPTION">
 			<Text>Colosseum, 6 kare içindeki her şehir merkezine 2 [ICON_Culture] kültür, sadakat ve [ICON_Amenities] yaşam standardı sağlar. Düz bir araziye, arena içeren bir eğlence kompleksinin yanına inşa edilmelidir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BUILDING_GREAT_LIBRARY_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BUILDING_GREAT_LIBRARY_DESCRIPTION">
 			<Text>Antik ve klasik dönem teknolojileri için destek sağlar. Bir başka oyuncu [ICON_GreatScientist] büyük bilim insanı işe aldığında rastgele bir teknoloji desteği alırız. Düz bir araziye, kütüphane içeren bir kampüsün yanına inşa edilmelidir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BUILDING_KILWA_KISIWANI_NAME">
+		<Replace Language="en_US" Tag="LOC_BUILDING_KILWA_KISIWANI_NAME">
 			<Text>Kilwa Kisiwani|Kilwa Kisiwani|Kilwa Kisiwanin</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BUILDING_KILWA_KISIWANI_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BUILDING_KILWA_KISIWANI_DESCRIPTION">
 			<Text>+3 [ICON_ENVOY] elçi verir. Bir şehir devletine hakim olduğumuzda, bu şehir şehir devletinin sağladığı bonus türüne %15 ek bonus alır. Aynı türden iki veya daha fazla şehir devletine hakimsek, tüm şehirlerimiz %15 ek bonus alır. Kıyıda düz bir araziye inşa edilmelidir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BUILDING_KOTOKU_IN_NAME">
+		<Replace Language="en_US" Tag="LOC_BUILDING_KOTOKU_IN_NAME">
 			<Text>Kōtoku-in|Kōtoku-in|Kōtoku-inin</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BUILDING_KOTOKU_IN_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BUILDING_KOTOKU_IN_DESCRIPTION">
 			<Text>Şehre +%20 [ICON_Faith] inanç verir. 4 savaşçı keşiş sağlar.[NEWLINE][NEWLINE]Tapınak içeren bir kutsal alanın yanına inşa edilmelidir. Savaşçı keşişler sadece oyuncu bir din kurmuşsa veya oyuncunun ya da şehrin hakim dini varsa alınabilir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BUILDING_ST_BASILS_CATHEDRAL_NAME">
+		<Replace Language="en_US" Tag="LOC_BUILDING_ST_BASILS_CATHEDRAL_NAME">
 			<Text>Aziz Vasil Katedrali|Aziz Vasil Katedrali|Aziz Vasil Katedrali'nin</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BUILDING_ST_BASILS_CATHEDRAL_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BUILDING_ST_BASILS_CATHEDRAL_DESCRIPTION">
 			<Text>Bu şehirde %100 [ICON_Tourism] dini turizm sağlar. Şehrin tüm tundra karelerine +1 [ICON_Food] gıda, +1 [ICON_Production] üretim ve +1 [ICON_Culture] kültür verir. Şehir merkezinin yanına inşa edilmelidir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BUILDING_STATUE_LIBERTY_NAME">
+		<Replace Language="en_US" Tag="LOC_BUILDING_STATUE_LIBERTY_NAME">
 			<Text>Özgürlük Heykeli|Özgürlük Heykeli|Özgürlük Heykeli'nin</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BUILDING_STATUE_LIBERTY_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BUILDING_STATUE_LIBERTY_DESCRIPTION">
 			<Text>2 yerleşimci verir. 6 kare içindeki tüm şehirlerimiz her zaman %100 sadık olur. Kıyıda, kara ve limanın yanına inşa edilmelidir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BUILDING_TAJ_MAHAL_NAME">
+		<Replace Language="en_US" Tag="LOC_BUILDING_TAJ_MAHAL_NAME">
 			<Text>Tac Mahal|Tac Mahal|Tac Mahal'in</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BUILDING_TAJ_MAHAL_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BUILDING_TAJ_MAHAL_DESCRIPTION">
 			<Text>İnşa edildikten sonra, en az 2 dönem puanı veren tarihi bir an için +1 dönem puanı sağlar. Nehir kenarına inşa edilmelidir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BUILDING_TEMPLE_ARTEMIS_NAME">
+		<Replace Language="en_US" Tag="LOC_BUILDING_TEMPLE_ARTEMIS_NAME">
 			<Text>Artemis Tapınağı|Artemis Tapınağı|Artemis Tapınağı'nın</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BUILDING_TEMPLE_ARTEMIS_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BUILDING_TEMPLE_ARTEMIS_DESCRIPTION">
 			<Text>4 kare içindeki her kamp, otlak ve plantasyon için +1 [ICON_AMENITIES] yaşam standardı sağlar. Bir kampın yanına inşa edilmelidir.</Text>
 		</Replace>
 		<!-- Trade balance changes -->
-		<Replace Language="pl_PL" Tag="LOC_BUILDING_MARKET_EXPANSION1_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BUILDING_MARKET_EXPANSION1_DESCRIPTION">
 			<Text>+1 [ICON_TradeRoute] ticaret yolu kapasitesi, eğer şehirde deniz feneri yoksa.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_BUILDING_LIGHTHOUSE_EXPANSION1_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BUILDING_LIGHTHOUSE_EXPANSION1_DESCRIPTION">
 			<Text>Şehirde üretilen her deniz birimi için +%25 savaş deneyimi. Şehrin her kıyı karesi için +1 [ICON_FOOD] gıda. Eğer şehirde pazar yoksa +1 [ICON_TradeRoute] ticaret yolu kapasitesi.</Text>
 		</Replace>
 		<!-- Other balance changes -->
-		<Replace Language="pl_PL" Tag="LOC_BUILDING_MONUMENT_EXPANSION1_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_BUILDING_MONUMENT_EXPANSION1_DESCRIPTION">
 			<Text>Şehre tur başına +1 sadakat sağlar. Şehir tamamen sadık ise +1 [ICON_Culture] kültür sağlar.</Text>
 		</Replace>
 	</LocalizedText>

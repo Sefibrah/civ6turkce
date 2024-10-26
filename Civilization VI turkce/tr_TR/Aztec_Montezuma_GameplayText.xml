@@ -1,436 +1,436 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameData>
 	<LocalizedText>
-		<Replace Language="pl_PL" Tag="LOC_LOADING_INFO_LEADER_MONTEZUMA">
+		<Replace Language="en_US" Tag="LOC_LOADING_INFO_LEADER_MONTEZUMA">
 			<Text>Tlatoani Montezuma, kartal savaşçılarını mutlu ve tok tut ki onlar senin için sonsuza dek savaşsınlar. Aztek İmparatorluğu dünyalar arasında ilerlerken duvarlar inşa etmeyi umursamazsın, çünkü çevrendeki diğerlerini fethederken sana sadık yeni işçilerle kutsanacaksın. Şimdi yola çık; Huitzilopochtli çağırıyor.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AZTEC_MALE_1">
+		<Replace Language="en_US" Tag="LOC_CITIZEN_AZTEC_MALE_1">
 			<Text>Acamapichtli</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AZTEC_MALE_2">
+		<Replace Language="en_US" Tag="LOC_CITIZEN_AZTEC_MALE_2">
 			<Text>Chimalli</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AZTEC_MALE_3">
+		<Replace Language="en_US" Tag="LOC_CITIZEN_AZTEC_MALE_3">
 			<Text>Cuauhtemoc</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AZTEC_MALE_4">
+		<Replace Language="en_US" Tag="LOC_CITIZEN_AZTEC_MALE_4">
 			<Text>Huitzilli</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AZTEC_MALE_5">
+		<Replace Language="en_US" Tag="LOC_CITIZEN_AZTEC_MALE_5">
 			<Text>Itzcoatl</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AZTEC_MALE_6">
+		<Replace Language="en_US" Tag="LOC_CITIZEN_AZTEC_MALE_6">
 			<Text>Nochehuatl</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AZTEC_MALE_7">
+		<Replace Language="en_US" Tag="LOC_CITIZEN_AZTEC_MALE_7">
 			<Text>Tlaloc</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AZTEC_MALE_8">
+		<Replace Language="en_US" Tag="LOC_CITIZEN_AZTEC_MALE_8">
 			<Text>Xiuhpilli</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AZTEC_MALE_9">
+		<Replace Language="en_US" Tag="LOC_CITIZEN_AZTEC_MALE_9">
 			<Text>Yaotl</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AZTEC_MALE_10">
+		<Replace Language="en_US" Tag="LOC_CITIZEN_AZTEC_MALE_10">
 			<Text>Zolin</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AZTEC_FEMALE_1">
+		<Replace Language="en_US" Tag="LOC_CITIZEN_AZTEC_FEMALE_1">
 			<Text>Centehua</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AZTEC_FEMALE_2">
+		<Replace Language="en_US" Tag="LOC_CITIZEN_AZTEC_FEMALE_2">
 			<Text>Chalchiuitl</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AZTEC_FEMALE_3">
+		<Replace Language="en_US" Tag="LOC_CITIZEN_AZTEC_FEMALE_3">
 			<Text>Chicomecoatl</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AZTEC_FEMALE_4">
+		<Replace Language="en_US" Tag="LOC_CITIZEN_AZTEC_FEMALE_4">
 			<Text>Chimalma</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AZTEC_FEMALE_5">
+		<Replace Language="en_US" Tag="LOC_CITIZEN_AZTEC_FEMALE_5">
 			<Text>Citlalli</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AZTEC_FEMALE_6">
+		<Replace Language="en_US" Tag="LOC_CITIZEN_AZTEC_FEMALE_6">
 			<Text>Cozamalotl</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AZTEC_FEMALE_7">
+		<Replace Language="en_US" Tag="LOC_CITIZEN_AZTEC_FEMALE_7">
 			<Text>Tlacotl</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AZTEC_FEMALE_8">
+		<Replace Language="en_US" Tag="LOC_CITIZEN_AZTEC_FEMALE_8">
 			<Text>Xilonen</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AZTEC_FEMALE_9">
+		<Replace Language="en_US" Tag="LOC_CITIZEN_AZTEC_FEMALE_9">
 			<Text>Xochitl</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AZTEC_FEMALE_10">
+		<Replace Language="en_US" Tag="LOC_CITIZEN_AZTEC_FEMALE_10">
 			<Text>Yaretzi</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AZTEC_MODERN_MALE_1">
+		<Replace Language="en_US" Tag="LOC_CITIZEN_AZTEC_MODERN_MALE_1">
 			<Text>Carlos</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AZTEC_MODERN_MALE_2">
+		<Replace Language="en_US" Tag="LOC_CITIZEN_AZTEC_MODERN_MALE_2">
 			<Text>Estévan</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AZTEC_MODERN_MALE_3">
+		<Replace Language="en_US" Tag="LOC_CITIZEN_AZTEC_MODERN_MALE_3">
 			<Text>Ignacio</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AZTEC_MODERN_MALE_4">
+		<Replace Language="en_US" Tag="LOC_CITIZEN_AZTEC_MODERN_MALE_4">
 			<Text>José</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AZTEC_MODERN_MALE_5">
+		<Replace Language="en_US" Tag="LOC_CITIZEN_AZTEC_MODERN_MALE_5">
 			<Text>Montago</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AZTEC_MODERN_MALE_6">
+		<Replace Language="en_US" Tag="LOC_CITIZEN_AZTEC_MODERN_MALE_6">
 			<Text>Niguel</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AZTEC_MODERN_MALE_7">
+		<Replace Language="en_US" Tag="LOC_CITIZEN_AZTEC_MODERN_MALE_7">
 			<Text>Pedro</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AZTEC_MODERN_MALE_8">
+		<Replace Language="en_US" Tag="LOC_CITIZEN_AZTEC_MODERN_MALE_8">
 			<Text>Richardo</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AZTEC_MODERN_MALE_9">
+		<Replace Language="en_US" Tag="LOC_CITIZEN_AZTEC_MODERN_MALE_9">
 			<Text>Teyo</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AZTEC_MODERN_MALE_10">
+		<Replace Language="en_US" Tag="LOC_CITIZEN_AZTEC_MODERN_MALE_10">
 			<Text>Tino</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AZTEC_MODERN_FEMALE_1">
+		<Replace Language="en_US" Tag="LOC_CITIZEN_AZTEC_MODERN_FEMALE_1">
 			<Text>Amorita</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AZTEC_MODERN_FEMALE_2">
+		<Replace Language="en_US" Tag="LOC_CITIZEN_AZTEC_MODERN_FEMALE_2">
 			<Text>Bellona</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AZTEC_MODERN_FEMALE_3">
+		<Replace Language="en_US" Tag="LOC_CITIZEN_AZTEC_MODERN_FEMALE_3">
 			<Text>Eldora</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AZTEC_MODERN_FEMALE_4">
+		<Replace Language="en_US" Tag="LOC_CITIZEN_AZTEC_MODERN_FEMALE_4">
 			<Text>Guadalupe</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AZTEC_MODERN_FEMALE_5">
+		<Replace Language="en_US" Tag="LOC_CITIZEN_AZTEC_MODERN_FEMALE_5">
 			<Text>Luminosa</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AZTEC_MODERN_FEMALE_6">
+		<Replace Language="en_US" Tag="LOC_CITIZEN_AZTEC_MODERN_FEMALE_6">
 			<Text>Orlena</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AZTEC_MODERN_FEMALE_7">
+		<Replace Language="en_US" Tag="LOC_CITIZEN_AZTEC_MODERN_FEMALE_7">
 			<Text>Perdita</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AZTEC_MODERN_FEMALE_8">
+		<Replace Language="en_US" Tag="LOC_CITIZEN_AZTEC_MODERN_FEMALE_8">
 			<Text>Pilar</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AZTEC_MODERN_FEMALE_9">
+		<Replace Language="en_US" Tag="LOC_CITIZEN_AZTEC_MODERN_FEMALE_9">
 			<Text>Senalda</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITIZEN_AZTEC_MODERN_FEMALE_10">
+		<Replace Language="en_US" Tag="LOC_CITIZEN_AZTEC_MODERN_FEMALE_10">
 			<Text>Zola</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_TENOCHTITLAN">
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_TENOCHTITLAN">
 			<Text>Tenochtitlan</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_TEXCOCO">
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_TEXCOCO">
 			<Text>Texcoco</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_ATZCAPOTZALCO">
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_ATZCAPOTZALCO">
 			<Text>Atzcapotzalco</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_TEOTIHUACAN">
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_TEOTIHUACAN">
 			<Text>Teotihuacán</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_TLACOPAN">
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_TLACOPAN">
 			<Text>Tlacopán</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_XOCHICALCO">
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_XOCHICALCO">
 			<Text>Xochicalco</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_MALINALCO">
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_MALINALCO">
 			<Text>Malinalco</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_TEAYO">
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_TEAYO">
 			<Text>Teayo</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_CEMPOALA">
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_CEMPOALA">
 			<Text>Cempoala</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_CHALCO">
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_CHALCO">
 			<Text>Chalco</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_IXTAPALUCA">
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_IXTAPALUCA">
 			<Text>Ixtapaluca</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_TENAYUCA">
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_TENAYUCA">
 			<Text>Tenayuca</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_HUEXOTLA">
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_HUEXOTLA">
 			<Text>Huexotla</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_CHAPULTEPEC">
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_CHAPULTEPEC">
 			<Text>Chapultepec</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_TEPEXPAN">
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_TEPEXPAN">
 			<Text>Tepexpan</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_ZITLALTEPEC">
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_ZITLALTEPEC">
 			<Text>Zitlaltepec</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_XALAPA">
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_XALAPA">
 			<Text>Xalapa</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_TAMUIN">
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_TAMUIN">
 			<Text>Tamuín</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_TELOLOAPAN">
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_TELOLOAPAN">
 			<Text>Teloloapan</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_MITLA">
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_MITLA">
 			<Text>Mixquic</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_TLATELOLCO">
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_TLATELOLCO">
 			<Text>Tlatelolco</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_COYOTEPEC">
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_COYOTEPEC">
 			<Text>Coyotepec</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_ZACATULA">
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_ZACATULA">
 			<Text>Zacatula</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_YUCUNUDAHUI">
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_YUCUNUDAHUI">
 			<Text>Yucuñudahui</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_ECATEPEC">
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_ECATEPEC">
 			<Text>Ecatepec</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_MAZATAN">
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_MAZATAN">
 			<Text>Mazatán</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_IZTAPALAPA">
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_IZTAPALAPA">
 			<Text>Iztapalapa</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_TLALMANALCO">
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_TLALMANALCO">
 			<Text>Tlalmanalco</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_HUAXYACAC">
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_HUAXYACAC">
 			<Text>Huaxyacac</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CITY_NAME_ACATITLAN">
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_ACATITLAN">
 			<Text>Acatitlan</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVILIZATION_AZTEC_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_AZTEC_DESCRIPTION">
 			<Text>Aztek İmparatorluğu|Azteklerin</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVILIZATION_AZTEC_ADJECTIVE">
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_AZTEC_ADJECTIVE">
 			<Text>Aztek</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVINFO_AZTEC_LOCATION">
+		<Replace Language="en_US" Tag="LOC_CIVINFO_AZTEC_LOCATION">
 			<Text>Kuzey Amerika</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVINFO_AZTEC_SIZE">
+		<Replace Language="en_US" Tag="LOC_CIVINFO_AZTEC_SIZE">
 			<Text>Yaklaşık 304.000 kilometrekare</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVINFO_AZTEC_POPULATION">
+		<Replace Language="en_US" Tag="LOC_CIVINFO_AZTEC_POPULATION">
 			<Text>En büyük nüfusu yaklaşık 5,1 milyon</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_CIVINFO_AZTEC_CAPITAL">
+		<Replace Language="en_US" Tag="LOC_CIVINFO_AZTEC_CAPITAL">
 			<Text>Tenochtitlan</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TRAIT_CIVILIZATION_BUILDING_TLACHTLI_NAME">
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_BUILDING_TLACHTLI_NAME">
 			<Text>Azteklerin özel yapısı: Tlachtli</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_TRAIT_CIVILIZATION_UNIT_AZTEC_EAGLE_WARRIOR_NAME">
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_UNIT_AZTEC_EAGLE_WARRIOR_NAME">
 			<Text>Azteklerin özel birimi: Kartal Savaşçısı</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AZTEC_CHAPTER_HISTORY_PARA_1">
+		<Replace Language="en_US" Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AZTEC_CHAPTER_HISTORY_PARA_1">
 			<Text>Hernando Cortes ve ordusu geldiğinde Aztek İmparatorluğu hâlâ emekleme dönemindeydi, çünkü yaklaşık 1428 yılında kurulmuştu. Excan Tlahtoloyan (Aztek İmparatorluğu) sadece yüz yıl sürdü, ancak bu yüz yıl son derece olaylıydı.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AZTEC_CHAPTER_HISTORY_PARA_2">
+		<Replace Language="en_US" Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AZTEC_CHAPTER_HISTORY_PARA_2">
 			<Text>Başlangıçta Meksika Vadisi boyunca birkaç küçük şehir devleti (altepetl) vardı: Zumpango, Xaltocan, Texcoco, Xochimilco ve Chalco. Bölge bol yağmur alıyordu, iklim sıcak ve toprak verimliydi. Bu nedenle Nahua halkı (aynı zamanda Mexihcati olarak bilinir) 1250 civarında Aztlan'dan (“Beyaz Toprak”) buraya yerleşti ve böylece “Aztekler” ortaya çıktı.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AZTEC_CHAPTER_HISTORY_PARA_3">
+		<Replace Language="en_US" Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AZTEC_CHAPTER_HISTORY_PARA_3">
 			<Text>Ne yazık ki, birçok başka kabile de aynı bölgeye yerleşmişti; bunların en önemlileri Azcapotzalcot ve Culhuacanit'ti. 1325 yılında Azcapotzalcot, göçebe Azteklere Texcoco Gölü'ndeki küçük bir adada yerleşme izni verdi ve burada Tenochtitlan kuruldu. Efsaneye göre bir rahip, bir kartalın nopalin (bir tür kaktüs) üzerinde yuva yaptığını gördü ve bunun seçilmiş yer olduğuna inanıldı. Tenochtitlan mükemmel bir konumdaydı: Kolay savunulabilir (çünkü ada), bol su ve balık kaynağına sahip ve inşaat malzemeleri yakındaydı. Aztekler, şimdilik Azcapotzalcotlara haraç ödemekten memnundu.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AZTEC_CHAPTER_HISTORY_PARA_4">
+		<Replace Language="en_US" Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AZTEC_CHAPTER_HISTORY_PARA_4">
 			<Text>Aztekler, Azcapotzalcotların egemenliği altında bir asır geçirdi. Bu dönemde başka bir altepetl, Texcoco'daki Alcohua, ticaretle zenginleşti ve Azcapotzalcotların gücüne meydan okuyacak noktaya ulaştı. Savaş patlak verdiğinde, Tenochtitlan Azcapotzalcotlara sadık kaldı ve Texcoco'nun fethinde önemli bir rol oynadı. Sadakatleri karşılığında Azteklere fethedilen şehirden haraç alma hakkı verildi.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AZTEC_CHAPTER_HISTORY_PARA_5">
+		<Replace Language="en_US" Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AZTEC_CHAPTER_HISTORY_PARA_5">
 			<Text>Hayat sakin devam etti, ta ki Azcapotzalcotların kralı Tezozomoc 1426'da aniden ölene kadar. Kısa bir iç savaş patlak verdi ve Aztekler, önceki kralın desteklediği Tayhuahia’yı destekledi. Ancak Tayhuahia, en iyi seçenek olmadığını kanıtladı çünkü kardeşi Maxtla savaşı kazandı ve Tayhuahia'yı destekleyen herkesi cezalandırdı. Bu kargaşanın ortasında, Aztek kralı muhtemelen Maxtla’nın emriyle öldürüldü. Yeni kral Itzcoatl, direnişe devam etmeye karar verdi. Maxtla, şehri kuşatarak adayı dış dünyadan izole etti ve tam teslimiyet talep etti.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AZTEC_CHAPTER_HISTORY_PARA_6">
+		<Replace Language="en_US" Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AZTEC_CHAPTER_HISTORY_PARA_6">
 			<Text>Aynı zamanda Maztla, Texcoco'daki Alcohua'ya karşı harekete geçti. Texcoco'nun hükümdarı Nezahualcoyotl sürgüne kaçtı ve Itzcoatl'a katıldı. Azcapotzalco'nun muhalif şehri Tlacopan da Itzcoatl'ın tarafına geçti. Böylece ünlü Üçlü İttifak kuruldu: Ortak hedefi Maxtla'yı devirmek olan üç şehir-devlet, 1427'nin sonunda bunu başardı. Azcapotzalco tamamen yıkıldıktan sonra, üç kral "uyum içinde" yaşamaya karar verdi. İlk adımları, fethedilen toprakları paylaşmak oldu; en büyük payı Tenochtitlan aldı. Bu başarıdan memnun kalan şehirler ittifaklarını resmileştirdi. Anlaşmaya göre tüm haraçlar paylaşılacak ve gelecekteki fetih savaşlarında ganimetler ortaklaşa bölüşülecekti. Krallar sırayla "huetlatoani" (kıdemli konuşmacı) unvanını alarak fiilen ittifakın imparatoru olarak görev yaptılar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AZTEC_CHAPTER_HISTORY_PARA_7">
+		<Replace Language="en_US" Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AZTEC_CHAPTER_HISTORY_PARA_7">
 			<Text>Sonraki yüzyılda, bir dizi yetenekli kıdemli konuşmacı yönetiminde Aztek İttifakı gelişti. İmparatorluk, Atlantik'ten Pasifik'e kadar Mesoamerika'nın büyük bir kısmına yayıldı. Aslında, bu “imparatorluk” sürekli bir savaş hali içindeydi; sosyal ya da dini bir zorunluluk olarak. Aztek dünyagörüşüne göre, yaşamın devamı için ölüm gerekliydi ve hem tanrılar hem de insanlar dengeyi korumak için fedakarlık yapmalıydı. Kan – özellikle insan kanı – güneşin düşmesini engelliyordu. Vatandaşlar kan vermeye istekli olmadığından, esirler, köleler ve fakirler kurban ediliyordu. 1487'de Tenochtitlan'daki Templo Mayor'un (Büyük Piramit) adanışı sırasında 10 ila 80 bin kişinin başı kesilerek kurban edildiği tahmin ediliyor.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AZTEC_CHAPTER_HISTORY_PARA_8">
+		<Replace Language="en_US" Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AZTEC_CHAPTER_HISTORY_PARA_8">
 			<Text>Aztekler kanlı ritüellerle meşgul olmadıklarında, Amerika kıtasında benzersiz bir kültür ve bilim geliştirdiler. Örneğin, karmaşık Aztek takvimi, Avrupa veya Asya'daki herhangi bir takvimle eşdeğerdi. Tonalpohualli (gün sayısı), 13 sayı ve 20 günlük işaretlerle işaretlenmiş 260 günlük bir döngüden oluşuyordu; xiuhpohualli veya "yıl sayısı" ise yılı 18 dönemden oluşan 20 günlük döngülere ayırıyordu. Böylece, bir yıl 360 isimli gün ve beş isimsiz gün içeriyordu; bu isimsiz günlerin uğursuz olduğuna inanılıyordu (bu günlerde kurban edilenlerin kötü kaderini engellemek için). Bu takvimin, gökleri inceleme tutkusundan doğduğu düşünülüyor. Aztekler tüm bu bilgileri, kendi karakteristik ideografik sistemleriyle amate (ağaç kabuğu) kağıdına yazdılar.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AZTEC_CHAPTER_HISTORY_PARA_9">
+		<Replace Language="en_US" Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AZTEC_CHAPTER_HISTORY_PARA_9">
 			<Text>Itzcoatl 1440 yılında öldüğünde, yerine yeğeni Montezuma (ilk Montezuma, daha yeteneksiz olan ikinci Montezuma ile karıştırılmamalıdır) geçti. Montezuma'nın üvey ağabeyi Tlacaelel, Avrupa'daki bir başbakana denk olan Cihuacoatl olarak atandı. İkili, Tenochtitlan'ı ittifakın baskın ortağı yaparak Aztek İmparatorluğu'nu fiilen resmileştirdi. Montezuma, Huastec, Totonac, Mixtec, Cosamaloapan, Orizaba ve Cotaxtla şehirlerini fethederek yayılmacı politikayı sürdürdü. Tlacaelel ise Aztek uygarlığını kendi vizyonuna göre şekillendirdi.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AZTEC_CHAPTER_HISTORY_PARA_10">
+		<Replace Language="en_US" Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AZTEC_CHAPTER_HISTORY_PARA_10">
 			<Text>Montezuma savaşlarla meşgulken, Tlacaelel Aztek tarihini ve geleceğini yeniden yazdı. Bazı kaynaklara göre, yüzlerce metin “tarihsel yanlışlıklar” nedeniyle Tlacaelel'in emriyle yakıldı. Tlacaelel'in revize ettiği Aztek dini, Azteklerin seçilmiş bir halk olduğunu ve diğer tüm milletlerin üzerinde olduğunu öğretiyordu. Yeni dini doktrin, militarizm ve ritüel kurbanların önemini vurguluyordu. Tlacaelel, Templo Mayor da dahil olmak üzere birçok tapınak ve dini yapı inşa ettirdi.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AZTEC_CHAPTER_HISTORY_PARA_11">
+		<Replace Language="en_US" Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AZTEC_CHAPTER_HISTORY_PARA_11">
 			<Text>Kardeşlerin yönetiminde Aztekler otuz yıl boyunca refah içinde yaşadılar. Montezuma döneminde imparatorluk, yüz bin mil karelik bir alana yayıldı ve yaklaşık beş milyon kişiyi kontrol altına aldı. Tlacaelel'in yönetiminde ise bağlı kabileler kendi hallerine bırakıldı, yeter ki haraç ve asker sağlasınlar. Tenochtitlan, büyük bir ticaret ağı haline geldi. Para birimi olmadan, ticaret takas yoluyla yapılıyordu. Taşıma için yük hayvanları ve tekerlekli araçlar olmadan, Tlacaelel insan gücüne dayalı geniş bir yol ağı inşa ettirdi. Aztek askerleri yolları güvenli hale getirerek, kadınların bile yalnız seyahat etmesine olanak tanıdı. Ayrıca her mahallede erkek çocuklara dini eğitim ve askeri eğitim verilen telpochcalli (okullar) inşa ettirdi.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AZTEC_CHAPTER_HISTORY_PARA_12">
+		<Replace Language="en_US" Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AZTEC_CHAPTER_HISTORY_PARA_12">
 			<Text>Montezuma I, 1468 yılında öldü ve yerine oğlu Axayacatl geçti. Axayacatl, babasının fetihlerini pekiştirmek ve ayaklanmaları bastırmak için on üç yılını harcadı. 1487'de Tlacaelel öldü. Axayacatl'ın ölümüyle, yerini beceriksiz kardeşi Tizoc aldı. Ancak Tizoc, beş yıl içinde soylular tarafından öldürüldü. Yerine diğer kardeşi Ahuitzotl geçti. Ahuitzotl, Otzoma şehir-devletini fethederek nüfusunu ya katletti ya da toplu olarak kurban etti ve tartışmalı sınır bölgelerine kaleler inşa etmeye başladı. Ahuitzotl, Tavşan Yılı'nda (karmaşık Aztek takvimine göre) öldü ve taht, yeğeni Montezuma II'ye geçti.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AZTEC_CHAPTER_HISTORY_PARA_13">
+		<Replace Language="en_US" Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AZTEC_CHAPTER_HISTORY_PARA_13">
 			<Text>Yeni Montezuma'nın yönetimi kötü başladı ve daha da kötüleşti. Ahuitzotl'un yetenekli danışmanlarını görevden alarak birçoğunu idam ettirdi. Aztek toplumundaki quauhpilli sınıfını – bir tür yarı soylu sınıfı – ortadan kaldırdı ve halkın sosyal olarak ilerlemesini engelledi. Halkın artık imparatorluğa askeri ya da başka bir şekilde hizmet etme motivasyonu kalmamıştı. Soylularla ve halkla arası açılan Montezuma, 1519'da açgözlü İspanyollar geldiğinde hazırlıksız yakalandı.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AZTEC_CHAPTER_HISTORY_PARA_14">
+		<Replace Language="en_US" Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AZTEC_CHAPTER_HISTORY_PARA_14">
 			<Text>Aynı yılın başlarında, Hernando Cortes'in komutasındaki bir keşif ekibi – 11 gemi, 630 adam, 13 at ve birkaç küçük toptan oluşan – Mayaların topraklarına, Yucatan'a indi. Aslında, Cortes'in seferi için verilen yetki, Küba valisi tarafından iptal edilmişti ancak Cortes, emirleri hiçe sayarak sefere çıktı. Veracruz'daki bir Aztek yerleşimini ele geçirerek oradaki Aztek valileriyle tanıştı. Bu valiler, Cortes ile Montezuma II arasında bir görüşme ayarlamayı kabul etti.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AZTEC_CHAPTER_HISTORY_PARA_15">
+		<Replace Language="en_US" Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AZTEC_CHAPTER_HISTORY_PARA_15">
 			<Text>Montezuma, İspanyol "elçiyi" kabul etmeyi reddetti, bu yüzden Cortes, davetsiz bir şekilde Tenochtitlan'a yöneldi. Cortes, yerel savaşçılarla birleşerek başkente doğru ilerledi ve Cholula'ya ulaştı. Orada, binlerce silahsız Aztek asilzadesi, Büyük Piramit'in önünde katledildi. Ardından İspanyollar şehri yaktılar. Bu kanlı olay, daha fazla Aztek vassalını Cortes'in tarafına çekti ve Tenochtitlan'a vardığında Cortes'in önemli bir takipçi grubu oluşmuştu.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AZTEC_CHAPTER_HISTORY_PARA_16">
+		<Replace Language="en_US" Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AZTEC_CHAPTER_HISTORY_PARA_16">
 			<Text>Kaçınılmazı kabul eden Montezuma II, İspanyolları barışçıl bir şekilde karşılayarak konuşmak üzere davet etti. Ancak Cortes, Montezuma'yı tutsak aldı. Sonunda, Aztekler Montezuma'yı taşlayarak öldürdü ve İspanyolları başkentten kovdu. Fakat Cortes, takviye güçlerle geri döndü ve Tenochtitlan'ı kuşattı. Ateşli silahlar, toplar ve atlar (Azteklerin çok etkilendiği unsurlar) ile şehir kısa sürede düştü ve yerle bir edildi. Ağustos 1521'de, Azteklerin son hükümdarı Cuauhtémoc yakalandı ve daha sonra idam edildi.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AZTEC_CHAPTER_HISTORY_PARA_17">
+		<Replace Language="en_US" Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AZTEC_CHAPTER_HISTORY_PARA_17">
 			<Text>Kanlı Aztek egemenliği sona erdi ve imparatorluk, İspanyol hakimiyetinde tekrar bağımsız şehir-devletlere bölündü.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MONTEZUMA_TITLE">
+		<Replace Language="en_US" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MONTEZUMA_TITLE">
 			<Text>Montezuma I</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MONTEZUMA_SUBTITLE">
+		<Replace Language="en_US" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MONTEZUMA_SUBTITLE">
 			<Text>Tenochtitlan'ın huetlatoani, Azteklerin beşinci tlatoani</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MONTEZUMA_QUOTE">
+		<Replace Language="en_US" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MONTEZUMA_QUOTE">
 			<Text>Güneş doğar doğmaz sıcak değildir; ancak yolculuğunu tamamladıktan sonra sıcak olur.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MONTEZUMA_CHAPTER_HISTORY_PARA_1">
+		<Replace Language="en_US" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MONTEZUMA_CHAPTER_HISTORY_PARA_1">
 			<Text>Motecuhzoma Ilhuicamina (her dilde söylenmesi zor bir isim), Azteklerin beşinci tlatoani'si ("seçilmiş imparator") idi. 29 yıllık hükümdarlığı sırasında, Tenochtitlan'ı Tlacopan ve Texcoco ile olan ittifakı güçlendirerek bölgedeki en güçlü şehir haline getirdi. Üçlü ittifak, Huastec, Totonac, Mixtec, Cosamaloapan, Orizaba ve Cotaxtla gibi komşularına saldırarak bu gücünü kanıtladı. İttifakın şartlarına göre, fethedilen toprakların yaklaşık %40'ı Tenochtitlan'a verildi. Montezuma'nın yaşamının sonunda, Aztek imparatorluğu Meksika Vadisi'ni aşarak Meksika Körfezi'ne kadar genişledi.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MONTEZUMA_CHAPTER_HISTORY_PARA_2">
+		<Replace Language="en_US" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MONTEZUMA_CHAPTER_HISTORY_PARA_2">
 			<Text>Montezuma (ismi kabaca “bir lord gibi kaşlarını çatan” anlamına gelir), soylu bir aileden geliyordu. Babası Huitzilihuitl, Tenochtitlan'ın kralıydı; annesi Miahuaxihuitl ise Cuauhnahuac'ın hükümdarının kızıydı. Dört erkek kardeşten biriydi ve ağabeyi Tlacaelel I ile yakın bir ilişkisi vardı. Babasının 1417 yılında ölmesinin ardından, Montezuma'nın amcası Itzcoatl tlatoani seçildi. Tlacaelel I, Itzcoatl'ın danışmanlarından biri oldu ve Nahuati, yani “Baş Danışman” unvanını aldı. Montezuma ise Aztek ordusunda general olarak görev yaptı.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MONTEZUMA_CHAPTER_HISTORY_PARA_3">
+		<Replace Language="en_US" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MONTEZUMA_CHAPTER_HISTORY_PARA_3">
 			<Text>Itzcoatl 1440 yılında öldüğünde, Montezuma imparator seçildi. Tlacaelel I, tahta geçemediği için mutsuz görünmüyordu (belki de tacı giymemenin ömrünü uzatacağını düşündü) ve kardeşine sadık bir şekilde hizmet etti. Ayrıca, Tlacaelel I dini işlerle fazlasıyla meşguldü. Azteklerin efsanelerini seçilmiş bir halk olarak yeniden yazdı, savaş ve güneş tanrısı Huitzilopochtli'yi Tenochtitlan'ın hamisi olarak yüceltti ve militarizmi dine bağladı. Zorlukların sıkça yaşandığı zamanlarda insan kurbanlarının sayısını ve sıklığını da artırdı.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MONTEZUMA_CHAPTER_HISTORY_PARA_4">
+		<Replace Language="en_US" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MONTEZUMA_CHAPTER_HISTORY_PARA_4">
 			<Text>Montezuma ise imparator olmasına rağmen mütevazı bir yaşam sürüyordu. İspanyol fethinden sadece 14 yıl sonra oluşturulan Codex Mendoza'ya göre, “basit” bir sarayda yaşıyor ve “sadece birkaç eşi” vardı. Ancak, sonunda on haremi olduğu, üçünün kardeşi Huehue Zaca'dan miras kaldığı kaydedilmiştir. İlk eşi olan Chichimecacihuatzin, kuzeni ve en az üç çocuğunun annesiydi. Montezuma, dini görevleri ve devlet işlerinin yanı sıra arkadaşları ve danışmanlarıyla uzun sohbetlerden hoşlanıyordu.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MONTEZUMA_CHAPTER_HISTORY_PARA_5">
+		<Replace Language="en_US" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MONTEZUMA_CHAPTER_HISTORY_PARA_5">
 			<Text>Bu sohbetlerin çoğu, Aztek şehri ve fethedilen toprakların nasıl geliştirileceği üzerine odaklanmıştı. Bunlardan biri olan Tenochtitlan'a bol miktarda tatlı su sağlamak için inşa edilen çift su kemeri, Aztek İmparatorluğu'nun en büyük mühendislik başarısı olarak kabul edilir. Ancak, büyüyen şehir, nüfusunu beslemek için giderek daha fazla yiyeceğe ihtiyaç duyuyordu. Orta Amerika'da yük hayvanları bulunmadığından, tüm yiyecekler kölelerin sırtında taşınıyordu (ritüel kurban edilmeyenler, tabii). Montezuma'nın hükümeti, her bir tarım arazisinin verimli bir şekilde işlendiğinden emin olmak için devlet müfettişleri görevlendirdi ve taşkınları önlemek ve bataklıkları tarım arazisine dönüştürmek için setler inşa edilmesini emretti.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MONTEZUMA_CHAPTER_HISTORY_PARA_6">
+		<Replace Language="en_US" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MONTEZUMA_CHAPTER_HISTORY_PARA_6">
 			<Text>Kardeşi Tlacaelel I'ın teşvikiyle, Montezuma, tüketim mallarına – özellikle lükslere – sınırlamalar getiren yasalar çıkardı. Bu yasalar, Aztek sınıf sistemini pekiştiriyordu. Bir Aztek'in toplumsal statüsü, ne giyebileceğini ve nasıl konuşabileceğini belirliyordu. Örneğin, Montezuma'nın yeni yasalarına göre fakirlerin pamuklu giysiler, sandaletler veya dizlerinin altına kadar uzanan kıyafetler giymesi yasaktı. Sadece soylular birden fazla katlı evlerde yaşayabiliyordu. Suçlar ya kölelikle ya da kurban edilmekle cezalandırıldığından, bu yasalara uyum neredeyse evrenseldi.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MONTEZUMA_CHAPTER_HISTORY_PARA_7">
+		<Replace Language="en_US" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MONTEZUMA_CHAPTER_HISTORY_PARA_7">
 			<Text>Montezuma ve dindar ağabeyi, kırsal bölgelerde birçok tapınak inşa etti. Bunlardan biri, Huitzilopochtli için yapılan yeni tapınaktı. Huitzilopochtli tapınağı, 1455 yılında yüzlerce Huaxtec savaş esirinin kurban edilmesiyle “kutsandı”. Bazı tarihçilere göre, kurban edilecek esirlere duyulan ihtiyaç, Aztek dış politikasının önemli bir unsuru haline gelmişti. Tlacaelel ayrıca Aztek dini metinlerini yeniden yazdı ve kendi tarih ve inanç yorumlarına uymayan önceki metinlerin yok edilmesini emretti.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MONTEZUMA_CHAPTER_HISTORY_PARA_8">
+		<Replace Language="en_US" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MONTEZUMA_CHAPTER_HISTORY_PARA_8">
 			<Text>Bununla birlikte, Montezuma'nın büyüyen imparatorluğu, sürekli savaş haliyle tanınır. Bazı tarihçiler, Montezuma'nın komşu kabileleri fethederek Tenochtitlan'ın gıda arzını güvence altına almayı amaçladığını öne sürer. Diğer, daha kötümser bir teoriye göre ise imparatorluk, kanlı devlet dininin kurban ihtiyaçlarını karşılamak için sık sık savaşlar yapıyordu. Bir başka teori de, Azteklerin fetih yapmayı sevdiği için savaşların çok sık yaşandığıdır. Tarihin birçok noktasında olduğu gibi, olayların neden yaşandığı kesin olarak bilinmez.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MONTEZUMA_CHAPTER_HISTORY_PARA_9">
+		<Replace Language="en_US" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MONTEZUMA_CHAPTER_HISTORY_PARA_9">
 			<Text>Montezuma I, 1469 yılında bilinmeyen bir nedenle öldü. Yerine 19 yaşındaki oğlu Axayacatl geçti. Axayacatl, şanssız Montezuma II'nin babasıydı. Montezuma II, Cortes ve bir grup düzensiz fatih karşısında iki yıl içinde her şeyi kaybetti.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MONTEZUMA_CHAPTER_CAPSULE_BODY">
+		<Replace Language="en_US" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MONTEZUMA_CHAPTER_CAPSULE_BODY">
 			<Text>Montezuma, mevcut tüm lüksleri ele geçirmek için krallığını genişleten agresif bir liderdir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MONTEZUMA_CHAPTER_DETAILED_BODY">
+		<Replace Language="en_US" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MONTEZUMA_CHAPTER_DETAILED_BODY">
 			<Text>Aztekler oyun boyunca sürekli savaş peşinde olacaklar, ancak ortaya çıkan savaş yorgunluğunu giderecek bol miktarda [ICON_Amenities] yaşam standardına sahip olacaklar. Başlangıçta, Düşmanlarını Kartal Savaşçıları ile yenerek bu düşman birliklerini Aztek İnşaatçılarına dönüştürecekler. Bu İnşaatçılar, Aztek şehirlerinin hızlı genişlemesine yakıt sağlayarak, ilçelerin inşasında benzersiz yeteneklerini kullanacak. Nihai hedefleri, mümkün olduğunca geniş bir imparatorluk kurmaktır, çünkü ele geçirdikleri her ekstra Lüks, [ICON_Amenities] yaşam standardını artıracak ve saldırı güçlerini daha da kuvvetlendirecektir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_AZTEC_EAGLE_WARRIOR_CHAPTER_HISTORY_PARA_1">
+		<Replace Language="en_US" Tag="LOC_PEDIA_UNITS_PAGE_UNIT_AZTEC_EAGLE_WARRIOR_CHAPTER_HISTORY_PARA_1">
 			<Text>Aztek ordusunun iki elit piyade sınıfından biri olan Kartal Savaşçıları (diğeri Jaguar Savaşçıları), soylu doğmuş veya savaşta en fazla esiri ele geçirmiş cesur gençlerden oluşuyordu. Jaguarlar gibi, Kartallar da atlatl, yay, mızrak ve macuahuitl (obsidyen parçalarıyla kaplanmış ahşap kılıç) kullanıyordu; ancak Jaguarların aksine, Kartallar zırhlarını kartal tüyleriyle süslüyor ve gagası açık bir kartal kafası şeklindeki başlıkları takıyordu. Ayrıca Malinalco'da bir tepe tapınakları vardı. 20 esir alarak – insan kurbanı olarak kullanılabilecek kadar sağlam olan – genç bir savaşçı, Kartal Savaşçısı olmaya hak kazanıyordu ve bu, ailesini şüphesiz çok gururlandırıyordu. İspanyolların toplar, tüfekler ve atlarla gelmesine kadar, Kartal ve Jaguar savaşçıları, Mezoamerika'nın en korkulan savaşçılarıydı.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_MONTEZUMA_ANY">
+		<Replace Language="en_US" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_MONTEZUMA_ANY">
 			<Text>Azteklerin dostu değilsin. Bu onur kazanılmalıdır.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_DIPLO_MODIFIER_TLATOANI_HAS_DESIRED_LUXURY">
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_TLATOANI_HAS_DESIRED_LUXURY">
 			<Text>Montezuma, sahip olmadığı lükslerimizi saldırı için olgun bir hedef olarak görüyor</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_DIPLO_MODIFIER_TLATOANI_HAS_NO_DESIRED_LUXURY">
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_TLATOANI_HAS_NO_DESIRED_LUXURY">
 			<Text>Montezuma, sahip olduğumuz lükslerden memnun</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_MONTEZUMA_ANY">
+		<Replace Language="en_US" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_MONTEZUMA_ANY">
 			<Text>Bu teklifiniz kalbimi aydınlatıyor. Dostluğumuzu kutlayalım.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_MONTEZUMA_ANY">
+		<Replace Language="en_US" Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_MONTEZUMA_ANY">
 			<Text>Bu dünyanın kötülüklerine karşı birlikte dost olalım.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_MONTEZUMA_ANY">
+		<Replace Language="en_US" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_MONTEZUMA_ANY">
 			<Text>Teşekkür ederim.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_MONTEZUMA_ANY">
+		<Replace Language="en_US" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_MONTEZUMA_ANY">
 			<Text>Sabrımı zorluyorsun...</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_MONTEZUMA_ANY">
+		<Replace Language="en_US" Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_MONTEZUMA_ANY">
 			<Text>Askerleriniz savaş alanında ya da sunakta ölecek. Huitzilopochtli için fark etmez.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_MONTEZUMA_ANY">
+		<Replace Language="en_US" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_MONTEZUMA_ANY">
 			<Text>Şimdi korkak mı yoksa savaşçı mı olduğunuzu göreceğiz!</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_MONTEZUMA_ANY">
+		<Replace Language="en_US" Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_MONTEZUMA_ANY">
 			<Text>Huitzilopochtli, zayıflığımızı affet... benim zayıflığımı. Size hizmet etmek için yeterince güçlü değildim.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_MONTEZUMA_ANY">
+		<Replace Language="en_US" Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_MONTEZUMA_ANY">
 			<Text>Delegasyonunuzu onurlu bir yere koyuyoruz. Hediyeniz için minnettarız.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_MONTEZUMA_ANY">
+		<Replace Language="en_US" Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_MONTEZUMA_ANY">
 			<Text>Bugün değil.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_MONTEZUMA_ANY">
+		<Replace Language="en_US" Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_MONTEZUMA_ANY">
 			<Text>Mısır ve çikolata hediyelerimiz delegasyonumuzla birlikte geliyor. Size sunuyoruz.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_MONTEZUMA_ANY">
+		<Replace Language="en_US" Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_MONTEZUMA_ANY">
 			<Text>Korkanlar en yüksek sesle konuşur. Bize korkuyorsunuz.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_MONTEZUMA_ANY">
+		<Replace Language="en_US" Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_MONTEZUMA_ANY">
 			<Text>Bu dünyaya zehirsin. Sen kötülüğün kendisisin! (Bizi kınıyorlar.)</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_DIPLO_FIRST_MEET_LEADER_MONTEZUMA_ANY">
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_LEADER_MONTEZUMA_ANY">
 			<Text>Ben Tenochtitlan’ın keskin gözlü lordu, tlatoani'yim. Karşımda kim var? Savaşçı mı yoksa korkak mı?</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_MONTEZUMA_ANY">
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_MONTEZUMA_ANY">
 			<Text>Sizi tanımak bir onurdur. Yakınlardaki şehrimize davet ediyorum, Ollamaliztli’de yeteneklerinizi test edebilirsiniz.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_MONTEZUMA_ANY">
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_MONTEZUMA_ANY">
 			<Text>Böyle yapalım.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_MONTEZUMA_ANY">
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_MONTEZUMA_ANY">
 			<Text>Tenochtitlan, Huitzilopochtli'ye en yakın olan yerdir; şimdi bana başkentinizden bahsedin!</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_DIPLO_GREETING_LEADER_MONTEZUMA_ANY">
+		<Replace Language="en_US" Tag="LOC_DIPLO_GREETING_LEADER_MONTEZUMA_ANY">
 			<Text>Ne istiyorsun???</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_DIPLO_KUDO_EXIT_LEADER_MONTEZUMA_ANY">
+		<Replace Language="en_US" Tag="LOC_DIPLO_KUDO_EXIT_LEADER_MONTEZUMA_ANY">
 			<Text>Bizim düşündüğümüzden daha çok ortak noktamız var; Tlacaelel'in öğretilerine uyuyorsunuz.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_DIPLO_KUDO_LEADER_MONTEZUMA_REASON_ANY">
+		<Replace Language="en_US" Tag="LOC_DIPLO_KUDO_LEADER_MONTEZUMA_REASON_ANY">
 			<Text>(Onun arzuladığı lüksler bizde yok.)</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_DIPLO_WARNING_EXIT_LEADER_MONTEZUMA_ANY">
+		<Replace Language="en_US" Tag="LOC_DIPLO_WARNING_EXIT_LEADER_MONTEZUMA_ANY">
 			<Text>Sizde olan şeylere ihtiyacım var! Halkınızı köle olarak görmek mi istiyorsunuz?</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_DIPLO_WARNING_LEADER_MONTEZUMA_REASON_ANY">
+		<Replace Language="en_US" Tag="LOC_DIPLO_WARNING_LEADER_MONTEZUMA_REASON_ANY">
 			<Text>(Onun arzuladığı lükse sahibiz.)</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_MONTEZUMA_ANY">
+		<Replace Language="en_US" Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_MONTEZUMA_ANY">
 			<Text>Bir ittifak kurar mıyız?</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_MONTEZUMA_ANY">
+		<Replace Language="en_US" Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_MONTEZUMA_ANY">
 			<Text>Bu savaş tanrıları mutlu etti. Şimdi kutlayalım.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_MONTEZUMA_ANY">
+		<Replace Language="en_US" Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_MONTEZUMA_ANY">
 			<Text>Kabul etmiyorum.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_MONTEZUMA_ANY">
+		<Replace Language="en_US" Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_MONTEZUMA_ANY">
 			<Text>Hadi evlerimize dönüp güç toplayalım, bir dahaki sefere hazır olalım.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_MONTEZUMA_ANY">
+		<Replace Language="en_US" Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_MONTEZUMA_ANY">
 			<Text>Sizin tarafınızdan korkacak bir şeyimiz yok. Geçebilirsiniz.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_MONTEZUMA_ANY">
+		<Replace Language="en_US" Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_MONTEZUMA_ANY">
 			<Text>Huitzilopochtli'nin toprakları size kapalıdır; geçemezsiniz.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_MONTEZUMA_ANY">
+		<Replace Language="en_US" Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_MONTEZUMA_ANY">
 			<Text>Bize topraklarınızdan geçiş izni verin! Huitzilopochtli bunu istiyor!</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_MONTEZUMA_ANY">
+		<Replace Language="en_US" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_MONTEZUMA_ANY">
 			<Text>Krallığımıza sürpriz yapamazsınız. Saldırınızı görüyoruz. Bir an önce geri çekilmezseniz ilk biz vururuz.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_TLACHTLI_CHAPTER_HISTORY_PARA_1">
+		<Replace Language="en_US" Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_TLACHTLI_CHAPTER_HISTORY_PARA_1">
 			<Text>Mezoamerikalılar, 2700 yılı aşkın bir süredir geleneksel "top oyunlarını" – Nahuatl dilinde Ollamaliztli – oynuyorlardı ve (şaşırtıcı olmayan bir şekilde) bu oyunları "top sahalarında" yapıyorlardı. Oyunun kuralları, takım raketboluna biraz benzese de, bu "spor etkinliklerinin" belirgin ritüel boyutları vardı; çünkü kaybedenler (ve bazen kazananlar) genellikle oyun sonrası kurban edilir, çoğu zaman başları kesilerek infaz edilirdi. Oyundan sonra gerçekleşen insan kurbanlarına dair açık tasvirler, El Tajin ve Chichen Itza gibi birçok Maya top sahasında görülebilir. Spor, farklı yerlerde ve zamanlarda biraz farklı kurallara sahip olmasına rağmen, Mezoamerika genelinde yayılmış ve güneyde Nikaragua'ya, kuzeyde Arizona'ya kadar ulaşmıştır. İki buçuk binyıl boyunca neredeyse hiç değişmeyen bir düzende inşa edilen top sahaları, yüksek eğimli duvarların arasında uzun ve dar bir oyun alanı ve açık uçlu (daha sonra kapalı) geniş gol bölgelerinden oluşuyordu. Boyanıp süslenen bu stadyumlar, Mezoamerikan uygarlığının zirvesini temsil ediyordu ... ta ki İspanyollar gelip yerli halka başka oyunlar tanıtana kadar.</Text>
 		</Replace>
 	</LocalizedText>

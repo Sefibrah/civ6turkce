@@ -2,68 +2,68 @@
 <GameData>
 	<LocalizedText>
 		<!--Instance Names-->
-		<Replace Language="pl_PL" Tag="LOC_QUEST_TRAIN_UNIT_TYPE_INSTANCE_NAME">
+		<Replace Language="en_US" Tag="LOC_QUEST_TRAIN_UNIT_TYPE_INSTANCE_NAME">
 			<Text>{1_UnitName[2]} birimini eğit.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_QUEST_ZONE_DISTRICT_TYPE_INSTANCE_NAME">
+		<Replace Language="en_US" Tag="LOC_QUEST_ZONE_DISTRICT_TYPE_INSTANCE_NAME">
 			<Text>{1_DistrictName[2]} bölgesini inşa et.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_QUEST_TRIGGER_TECH_BOOST_INSTANCE_NAME">
+		<Replace Language="en_US" Tag="LOC_QUEST_TRIGGER_TECH_BOOST_INSTANCE_NAME">
 			<Text>{1_TechName[2]} için bir [ICON_TechBoosted] buluş gerçekleştir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_QUEST_TRIGGER_CIVIC_BOOST_INSTANCE_NAME">
+		<Replace Language="en_US" Tag="LOC_QUEST_TRIGGER_CIVIC_BOOST_INSTANCE_NAME">
 			<Text>{1_CivicName[2]} için [ICON_CivicBoosted] ilham yarat.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_QUEST_RECRUIT_GREAT_PERSON_CLASS_INSTANCE_NAME">
+		<Replace Language="en_US" Tag="LOC_QUEST_RECRUIT_GREAT_PERSON_CLASS_INSTANCE_NAME">
 			<Text>{1_GreatPersonClassName[2]} kişisini işe al.</Text>
 		</Replace>
 		<!-- Descriptions -->
-		<Replace Language="pl_PL" Tag="LOC_QUEST_CONVERT_CAPITAL_TO_RELIGION_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_QUEST_CONVERT_CAPITAL_TO_RELIGION_DESCRIPTION">
 			<Text>Şehir devletini [ICON_Religion] dinimize çevir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_QUEST_SEND_TRADE_ROUTE_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_QUEST_SEND_TRADE_ROUTE_DESCRIPTION">
 			<Text>Şehir devletine [ICON_TradeRoute] ticaret rotası oluştur.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_QUEST_CLEAR_BARBARIAN_CAMP_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_QUEST_CLEAR_BARBARIAN_CAMP_DESCRIPTION">
 			<Text>Şehirden beş kare mesafede bulunan [ICON_Barbarian] barbar kampını yok et.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_QUEST_TRAIN_UNIT_TYPE_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_QUEST_TRAIN_UNIT_TYPE_DESCRIPTION">
 			<Text>Rastgele seçilen bir [ICON_Unit] askeri birim eğit.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_QUEST_ZONE_DISTRICT_TYPE_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_QUEST_ZONE_DISTRICT_TYPE_DESCRIPTION">
 			<Text>Rastgele seçilen bir [ICON_District] şehir bölgesi inşa et.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_QUEST_TRIGGER_TECH_BOOST_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_QUEST_TRIGGER_TECH_BOOST_DESCRIPTION">
 			<Text>Rastgele seçilen bir [ICON_TechBoosted] buluş gerçekleştir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_QUEST_TRIGGER_CIVIC_BOOST_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_QUEST_TRIGGER_CIVIC_BOOST_DESCRIPTION">
 			<Text>Rastgele seçilen bir [ICON_CivicBoosted] ilham yarat.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_QUEST_RECRUIT_GREAT_PERSON_CLASS_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_QUEST_RECRUIT_GREAT_PERSON_CLASS_DESCRIPTION">
 			<Text>Rastgele seçilen bir [ICON_GreatPerson] büyük kişiyi işe al.</Text>
 		</Replace>
 		<!-- Instance Descriptions -->
-		<Replace Language="pl_PL" Tag="LOC_QUEST_TRAIN_UNIT_TYPE_INSTANCE_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_QUEST_TRAIN_UNIT_TYPE_INSTANCE_DESCRIPTION">
 			<Text>{1_UnitName[2]} askeri birimini eğit.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_QUEST_ZONE_DISTRICT_TYPE_INSTANCE_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_QUEST_ZONE_DISTRICT_TYPE_INSTANCE_DESCRIPTION">
 			<Text>{1_DistrictName[2]} şehir bölgesini inşa et.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_QUEST_TRIGGER_TECH_BOOST_INSTANCE_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_QUEST_TRIGGER_TECH_BOOST_INSTANCE_DESCRIPTION">
 			<Text>{1_TechnologyName[2]} için [ICON_TechBoosted] buluş gerçekleştir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_QUEST_TRIGGER_CIVIC_BOOST_INSTANCE_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_QUEST_TRIGGER_CIVIC_BOOST_INSTANCE_DESCRIPTION">
 			<Text>{1_CivicName[2]} için [ICON_CivicBoosted] ilham yarat.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_QUEST_RECRUIT_GREAT_PERSON_CLASS_INSTANCE_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_QUEST_RECRUIT_GREAT_PERSON_CLASS_INSTANCE_DESCRIPTION">
 			<Text>Bir {1_IconString} {2_GreatPersonClassName[2]} işe al.</Text>
 		</Replace>
 		<!-- Rewards -->
-		<Replace Language="pl_PL" Tag="LOC_QUEST_REWARD_ENVOYS">
+		<Replace Language="en_US" Tag="LOC_QUEST_REWARD_ENVOYS">
 			<Text>[ICON_Envoy] Temsilciler</Text>
 		</Replace>
 		<!-- Instance Rewards -->
-		<Replace Language="pl_PL" Tag="LOC_QUEST_REWARD_ENVOYS_NUMBER">
+		<Replace Language="en_US" Tag="LOC_QUEST_REWARD_ENVOYS_NUMBER">
 			<Text>[ICON_Envoy] {1_Amount} {1_Amount: plural 1?temsilci; other?temsilci;}</Text>
 		</Replace>
 	</LocalizedText>

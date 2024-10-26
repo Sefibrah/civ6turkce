@@ -1,69 +1,69 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameData>
 	<LocalizedText>
-		<Replace Language="pl_PL" Tag="LOC_UNIT_SKIRMISHER_NAME">
+		<Replace Language="en_US" Tag="LOC_UNIT_SKIRMISHER_NAME">
 			<Text>Destek Grubu|destek grubu|destek grubunun|destek grubu olarak</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UNIT_SKIRMISHER_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_UNIT_SKIRMISHER_DESCRIPTION">
 			<Text>Ortaçağ keşif birimi.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UNIT_COURSER_NAME">
+		<Replace Language="en_US" Tag="LOC_UNIT_COURSER_NAME">
 			<Text>Savaş Atı|savaş atı|savaş atının|savaş atı olarak</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UNIT_COURSER_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_UNIT_COURSER_DESCRIPTION">
 			<Text>Ortaçağ hafif süvari birimi.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UNIT_CUIRASSIER_NAME">
+		<Replace Language="en_US" Tag="LOC_UNIT_CUIRASSIER_NAME">
 			<Text>Kurasyer|kurasyer|kurasyerin|kurasyer olarak</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UNIT_CUIRASSIER_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_UNIT_CUIRASSIER_DESCRIPTION">
 			<Text>Sanayi Çağı ağır süvari birimi.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UNIT_GIANT_DEATH_ROBOT_NAME">
+		<Replace Language="en_US" Tag="LOC_UNIT_GIANT_DEATH_ROBOT_NAME">
 			<Text>Ölüm Robotu|ölüm robotu|ölüm robotunun|ölüm robotu olarak</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UNIT_GIANT_DEATH_ROBOT_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_UNIT_GIANT_DEATH_ROBOT_DESCRIPTION">
 			<Text>Bilgi Çağı'nın güç merkezi. Suda hareket edebilir ve savaşabilir. Kitle imha silahlarına dayanıklıdır. Gelecek teknolojilerle yetenekleri gelişir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UNIT_MILITARY_ENGINEER_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_UNIT_MILITARY_ENGINEER_DESCRIPTION">
 			<Text>Ortaçağ destek birimi. Eğitim için silah deposu gerektirir. Yollar, demiryolları, kaleler, pistler, füze siloları ve dağ tünelleri inşa edebilir. Bir işçilik, kanal veya barajın %20'sini tamamlamak için de kullanılabilir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UNIT_MILITARY_ENGINEER_ALT_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_UNIT_MILITARY_ENGINEER_ALT_DESCRIPTION">
 			<Text>Ortaçağ destek birimi. Eğitim için silah deposu gerektirir. Yollar, demiryolları, kaleler, pistler, füze siloları ve dağ tünelleri inşa edebilir. Bir işçilik, kanal, baraj, su kemeri veya taşkın setinin %20'sini tamamlamak için de kullanılabilir.</Text>
 		</Replace>
 		<!--Rock Band Text-->
-		<Replace Language="pl_PL" Tag="LOC_UNIT_ROCK_BAND_NAME">
+		<Replace Language="en_US" Tag="LOC_UNIT_ROCK_BAND_NAME">
 			<Text>Rock Grubu|rock grubu|rock grubunun|rock grubu olarak</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UNIT_ROCK_BAND_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_UNIT_ROCK_BAND_DESCRIPTION">
 			<Text>Uygun bir konumda rock konseri verebilir. Bunlar, harikalar, uygun bir bina içeren şehir bölgeleri veya grubun terfisiyle mümkün olan özel konumlar olabilir. Satılan albümler, bir sonraki konserden beklenen [ICON_TOURISM] turizmi temsil eder. Konserden sonra albüm satışları ve rock grubu seviyesi artabilir. [ICON_Faith] inançla satın alınmalıdır. Her karede yalnızca bir kez performans sergileyebilir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_RESULT_LEGENDS_OF_ROCK_NAME">
+		<Replace Language="en_US" Tag="LOC_RESULT_LEGENDS_OF_ROCK_NAME">
 			<Text>Rock Efsaneleri</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_RESULT_HEADLINERS_NAME">
+		<Replace Language="en_US" Tag="LOC_RESULT_HEADLINERS_NAME">
 			<Text>Manşetler</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_RESULT_RISING_STARS_NAME">
+		<Replace Language="en_US" Tag="LOC_RESULT_RISING_STARS_NAME">
 			<Text>Yükselen Yıldızlar</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_RESULT_OPENING_ACT_NAME">
+		<Replace Language="en_US" Tag="LOC_RESULT_OPENING_ACT_NAME">
 			<Text>Açılış Performansı</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_RESULT_CREATIVE_DIFFERENCES_NAME">
+		<Replace Language="en_US" Tag="LOC_RESULT_CREATIVE_DIFFERENCES_NAME">
 			<Text>Yaratıcı Farklılıklar</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_RESULT_AGING_ROCKERS_NAME">
+		<Replace Language="en_US" Tag="LOC_RESULT_AGING_ROCKERS_NAME">
 			<Text>Yaşlanan Rockçılar</Text>
 		</Replace>
 		<!--Updated Text-->
-		<Replace Language="pl_PL" Tag="LOC_UNIT_INQUISITOR_EXPANSION2_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_UNIT_INQUISITOR_EXPANSION2_DESCRIPTION">
 			<Text>Diğer dinlerin etkisini %75 azaltabilir ve diğer dinlerin birimleriyle dini savaşlar yapabilir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UNIT_BATTERING_RAM_EXPANSION2_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_UNIT_BATTERING_RAM_EXPANSION2_DESCRIPTION">
 			<Text>Antik destek birimi. Bu şehir yanındayken saldıran yakın dövüş ve süvari birimleri, şehrin duvarlarına tam hasar verir. Ortaçağ ve Rönesans duvarlarına etkisi yoktur. Yerleşim yerlerinin savunmalarına karşı etkisizdir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_UNIT_SIEGE_TOWER_EXPANSION2_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_UNIT_SIEGE_TOWER_EXPANSION2_DESCRIPTION">
 			<Text>Antik destek birimi. Bu şehir yanındayken saldıran yakın dövüş ve süvari birimleri, duvarları görmezden gelir ve doğrudan şehre saldırır. Rönesans duvarlarına etkisi yoktur. Yerleşim yerlerinin savunmalarına karşı etkisizdir.</Text>
 		</Replace>
 	</LocalizedText>

@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <GameData>
 	<LocalizedText>
-		<Replace Language="pl_PL" Tag="LOC_KNOWN_GRAPHICS_CARD_ISSUES">
+		<Replace Language="en_US" Tag="LOC_KNOWN_GRAPHICS_CARD_ISSUES">
 			<Text>Maalesef, mevcut donanım yapılandırmanızla Civilization VI'nın DirectX 12 modunda çalıştırılmasında bilinen sorunlar var. Uyumlu bir AMD veya nVidia grafik kartı (Maxwell veya daha yeni) gereklidir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_USER_WARNING_PROCEED_ANYWAY">
+		<Replace Language="en_US" Tag="LOC_USER_WARNING_PROCEED_ANYWAY">
 			<Text>Yine de devam et</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_USER_WARNING_QUIT">
+		<Replace Language="en_US" Tag="LOC_USER_WARNING_QUIT">
 			<Text>Çıkış</Text>
 		</Replace>
 	</LocalizedText>

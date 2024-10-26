@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameData>
 	<LocalizedText>
-		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_CITY_BECAME_CIV_SUMMARY">
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_CITY_BECAME_CIV_SUMMARY">
 			<Text>Sadakat tükendiğinde {1_CityName} isyan etti ve şimdi {2_CivName[2]} imparatorluğunun bir parçası. Onu geri almak için sadakatimizi güçlendirmeli veya ordumuzu kullanmalıyız.</Text>
 		</Replace>
 	</LocalizedText>

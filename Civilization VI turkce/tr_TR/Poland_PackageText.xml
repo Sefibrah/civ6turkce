@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameData>
 	<LocalizedText>
-		<Replace Language="pl_PL" Tag="LOC_POLAND_JADWIGA_MOD_TITLE">
+		<Replace Language="en_US" Tag="LOC_POLAND_JADWIGA_MOD_TITLE">
 			<Text>Eklenti: Polonya</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_POLAND_JADWIGA_MOD_TEASER">
+		<Replace Language="en_US" Tag="LOC_POLAND_JADWIGA_MOD_TEASER">
 			<Text>Yeni medeniyet ve lider: Polonya'nın Jadwiga'sı</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_POLAND_JADWIGA_MOD_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_POLAND_JADWIGA_MOD_DESCRIPTION">
 			<Text>Yeni bir medeniyet ve lider içerir.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MOD_POLAND_SCENARIO_TITLE">
+		<Replace Language="en_US" Tag="LOC_MOD_POLAND_SCENARIO_TITLE">
 			<Text>Senaryo: Jadwiga'nın Mirası</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MOD_POLAND_SCENARIO_TEASER">
+		<Replace Language="en_US" Tag="LOC_MOD_POLAND_SCENARIO_TEASER">
 			<Text>Polonya'yı dış tehditlere karşı savunmak için iki diğer oyuncuyla mücadele et.</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_MOD_POLAND_SCENARIO_DESCRIPTION">
+		<Replace Language="en_US" Tag="LOC_MOD_POLAND_SCENARIO_DESCRIPTION">
 			<Text>Bu 60 turluk senaryoda, Avrupa'nın kavşağında Polonya'nın verimli topraklarını dört bir yandan gelen istilacılara karşı savunuyorsun. Kanatlı hussarları yönlendirerek Alman Şövalyeleri ve Osmanlılarla karşılaşırken ulusunu geliştir.[NEWLINE][NEWLINE]Oyun sonunda en yüksek standart puanı toplayan oyuncu oyunu kazanır.</Text>
 		</Replace>
 	</LocalizedText>

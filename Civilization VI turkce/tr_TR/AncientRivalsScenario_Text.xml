@@ -2,37 +2,37 @@
 <GameData>
 	<LocalizedText>
 		<!-- Ruleset -->
-		<Replace Language="pl_PL" Tag="LOC_ANCIENT_RIVALS_RULESET_TITLE">
+		<Replace Language="en_US" Tag="LOC_ANCIENT_RIVALS_RULESET_TITLE">
 			<Text>Antik Rakipler</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ANCIENT_RIVALS_RULESET_TEASER">
+		<Replace Language="en_US" Tag="LOC_ANCIENT_RIVALS_RULESET_TEASER">
 			<Text>Bu keşif ve kültüre odaklanan antik çağ senaryosunda dünyayı genişletin ve medeniyet kurun, 50 tur sürer.[NEWLINE]Kazanma Koşulları[NEWLINE]Tur sınırında, zafer en fazla aşağıdaki koşulları yerine getiren oyuncuya verilir. Puanlara dayalı beraberlikler mümkündür.[NEWLINE][ICON_Bullet]Kültürel - en fazla normu geliştirin.[NEWLINE][ICON_Bullet]Dünyayı Keşfet - haritada en fazla kareyi açığa çıkarın.[NEWLINE][ICON_Bullet]Antik Yağmacı - en fazla kareyi yağmalayın.[NEWLINE][ICON_Bullet]Antik Çağ Harikası - en fazla harikaya sahip olun.</Text>
 		</Replace>
 		<!-- Victories  -->
-		<Replace Language="pl_PL" Tag="LOC_ANCIENT_RIVALS_VICTORY_TITLE">
+		<Replace Language="en_US" Tag="LOC_ANCIENT_RIVALS_VICTORY_TITLE">
 			<Text>Antik Rakipler</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ANCIENT_RIVALS_VICTORY_DESC">
+		<Replace Language="en_US" Tag="LOC_ANCIENT_RIVALS_VICTORY_DESC">
 			<Text>Tur sınırında, zafer en fazla aşağıdaki koşulları yerine getiren oyuncuya verilir. Puanlara dayalı beraberlikler mümkündür.[NEWLINE][ICON_Bullet]Kültürel - en fazla normu geliştirin.[NEWLINE][ICON_Bullet]Dünyayı Keşfet - haritada en fazla kareyi açığa çıkarın.[NEWLINE][ICON_Bullet]Antik Yağmacı - en fazla kareyi yağmalayın.[NEWLINE][ICON_Bullet]Antik Çağ Harikası - en fazla harikaya sahip olun.[NEWLINE]</Text>
 		</Replace>
 		<!-- Victories -->
-		<Replace Language="pl_PL" Tag="LOC_ANCIENT_RIVALS_VICTORY_WIN_BLURB">
+		<Replace Language="en_US" Tag="LOC_ANCIENT_RIVALS_VICTORY_WIN_BLURB">
 			<Text>Bana yeterince uzun bir kaldıraç ve onu dayayacak bir yer verin, dünyayı yerinden oynatırım. -Arkhimedes</Text>
 		</Replace>
 		<!-- Scenario Package -->
-		<Replace Language="pl_PL" Tag="LOC_ANCIENT_RIVALS_MOD_TITLE">
+		<Replace Language="en_US" Tag="LOC_ANCIENT_RIVALS_MOD_TITLE">
 			<Text>Çok Oyunculu Senaryo: Antik Rakipler</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_ANCIENT_RIVALS_MOD_TEASER">
+		<Replace Language="en_US" Tag="LOC_ANCIENT_RIVALS_MOD_TEASER">
 			<Text>Bu keşif ve kültüre odaklanan antik çağ senaryosunda dünyayı genişletin ve medeniyet kurun, 50 tur sürer.</Text>
-		</Replace>	
-		<Replace Language="pl_PL" Tag="LOC_ANCIENT_RIVALS_MOD_DESCRIPTION">
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ANCIENT_RIVALS_MOD_DESCRIPTION">
 			<Text>Tur sınırında, zafer en fazla aşağıdaki koşulları yerine getiren oyuncuya verilir. Puanlara dayalı beraberlikler mümkündür.[NEWLINE][ICON_Bullet]Kültürel - en fazla normu geliştirin.[NEWLINE][ICON_Bullet]Dünyayı Keşfet - haritada en fazla kareyi açığa çıkarın.[NEWLINE][ICON_Bullet]Antik Yağmacı - en fazla kareyi yağmalayın.[NEWLINE][ICON_Bullet]Antik Çağ Harikası - en fazla harikaya sahip olun.[NEWLINE]</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_AR_GAME_TURN_LIMIT_REACHED_PROGRESS">
+		<Replace Language="en_US" Tag="LOC_AR_GAME_TURN_LIMIT_REACHED_PROGRESS">
 			<Text>Tur Sınırı {ElapsedTurns}/{MinGameTurn} {StatusIcon}</Text>
 		</Replace>
-		<Replace Language="pl_PL" Tag="LOC_VICTORY_ANCIENT_RIVALS_PLAYER_HAS_MOST_ANCIENT_RIVALS_POINTS_PROGRESS">
+		<Replace Language="en_US" Tag="LOC_VICTORY_ANCIENT_RIVALS_PLAYER_HAS_MOST_ANCIENT_RIVALS_POINTS_PROGRESS">
 			<Text>Zafer Puanları {VictoryPoints} {VictoryStatusIcon}[NEWLINE]Haritalanan Kareler {HexesExplored} {ExploredStatusIcon}[NEWLINE]Yağmalanan Kareler {TilesPillaged} {PillagedStatusIcon}[NEWLINE]Normlar {CivicsCompleted} {CivicsStatusIcon}[NEWLINE]Harikalar {WondersPossessed} {WondersStatusIcon}</Text>
 		</Replace>
 	</LocalizedText>
