@@ -1,265 +1,265 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameData>
 	<LocalizedText>
-		<Replace Language="en_US" Tag="LOC_NOTIFICATION_GAIN_DIPLO_POINTS_MESSAGE">
-			<Text>Diplomaattivoiton pisteet</Text>
+		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_GAIN_DIPLO_POINTS_MESSAGE">
+			<Text>Diplomatik zafer puanları</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_NOTIFICATION_GAIN_DIPLO_POINTS_SUMMARY">
-			<Text>Maailmankongressi on antanut meille {1_Value: plural 1?yhden diplomaattivoiton pisteen; other?{1_Value} diplomaattivoiton pistettä;}.</Text>
+		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_GAIN_DIPLO_POINTS_SUMMARY">
+			<Text>Dünya Kongresi bize {1_Value: plural 1?bir diplomatik zafer puanı; other?{1_Value} diplomatik zafer puanı;} verdi.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_NOTIFICATION_VOLCANO_ACTIVE_MESSAGE">
-			<Text>Tulivuori herää</Text>
+		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_VOLCANO_ACTIVE_MESSAGE">
+			<Text>Yanardağ aktif</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_NOTIFICATION_VOLCANO_ACTIVE_SUMMARY">
-			<Text>{1_VolcanoName} on herännyt ja voi purkautua milloin hyvänsä.</Text>
+		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_VOLCANO_ACTIVE_SUMMARY">
+			<Text>{1_VolcanoName} aktif hale geldi ve her an patlayabilir.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_NOTIFICATION_VOLCANO_INACTIVE_MESSAGE">
-			<Text>Tulivuori hiljenee</Text>
+		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_VOLCANO_INACTIVE_MESSAGE">
+			<Text>Yanardağ pasif</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_NOTIFICATION_VOLCANO_INACTIVE_SUMMARY">
-			<Text>{1_VolcanoName} on hiljennyt eikä enää ole vaaraa sen purkautumisesta.</Text>
+		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_VOLCANO_INACTIVE_SUMMARY">
+			<Text>{1_VolcanoName} pasif hale geldi ve artık patlama riski yok.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_NOTIFICATION_VOLCANO_ERUPTS_SEV0_MESSAGE">
-			<Text>Maltillinen purkaus</Text>
+		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_VOLCANO_ERUPTS_SEV0_MESSAGE">
+			<Text>Hafif patlama</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_NOTIFICATION_VOLCANO_ERUPTS_SEV0_SUMMARY">
-			<Text>{1_VolcanoName} on purkautunut. Kaikeksi onneksi vahingot ovat vähäisiä ({2_Tiles} {2_Tiles: plural 1?ruutu; other?ruutua;} vahingoittui, {3_Pop} [ICON_CITIZEN] {3_Pop: plural 1?asukas; other?asukasta;} menetettiin, {4_Units} {4_Units: plural 1?yksikkö; other?yksikköä;} tuhoutui, {5_Yields} {5_Yields: plural 1?ruutu; other?ruutua;} parani tuotoiltaan).</Text>
+		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_VOLCANO_ERUPTS_SEV0_SUMMARY">
+			<Text>{1_VolcanoName} patladı. Neyse ki hasar az ({2_Tiles} {2_Tiles: plural 1?kare; other?kare;} hasar gördü, {3_Pop} [ICON_CITIZEN] {3_Pop: plural 1?vatandaş; other?vatandaş;} kaybedildi, {4_Units} {4_Units: plural 1?birim; other?birim;} yok oldu, {5_Yields} {5_Yields: plural 1?kare; other?kare;} verimliliği arttı).</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_NOTIFICATION_VOLCANO_ERUPTS_SEV1_MESSAGE">
-			<Text>Katastrofaalinen purkaus</Text>
+		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_VOLCANO_ERUPTS_SEV1_MESSAGE">
+			<Text>Felaket patlaması</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_NOTIFICATION_VOLCANO_ERUPTS_SEV1_SUMMARY">
-			<Text>{1_VolcanoName} on purkautunut. Vahingot ovat merkittäviä ({2_Tiles} {2_Tiles: plural 1?ruutu; other?ruutua;} vahingoittui, {3_Pop} [ICON_CITIZEN] {3_Pop: plural 1?asukas; other?asukasta;} menetettiin, {4_Units} {4_Units: plural 1?yksikkö; other?yksikköä;} tuhoutui, {5_Yields} {5_Yields: plural 1?ruutu; other?ruutua;} parani tuotoiltaan).</Text>
+		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_VOLCANO_ERUPTS_SEV1_SUMMARY">
+			<Text>{1_VolcanoName} patladı. Hasar önemli ({2_Tiles} {2_Tiles: plural 1?kare; other?kare;} hasar gördü, {3_Pop} [ICON_CITIZEN] {3_Pop: plural 1?vatandaş; other?vatandaş;} kaybedildi, {4_Units} {4_Units: plural 1?birim; other?birim;} yok oldu, {5_Yields} {5_Yields: plural 1?kare; other?kare;} verimliliği arttı).</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_NOTIFICATION_VOLCANO_ERUPTS_SEV2_MESSAGE">
-			<Text>Äärimmäinen purkaus!</Text>
+		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_VOLCANO_ERUPTS_SEV2_MESSAGE">
+			<Text>Şiddetli patlama!</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_NOTIFICATION_VOLCANO_ERUPTS_SEV2_SUMMARY">
-			<Text>{1_VolcanoName} on purkautunut räjähtäen kuolettavammin kuin kuunaan ihmiskunnan historiassa ({2_Tiles} {2_Tiles: plural 1?ruutu; other?ruutua;} vahingoittui, {3_Pop} [ICON_CITIZEN] {3_Pop: plural 1?asukas; other?asukasta;} menetettiin, {4_Units} {4_Units: plural 1?yksikkö; other?yksikköä;} tuhoutui, {5_Yields} {5_Yields: plural 1?ruutu; other?ruutua;} parani tuotoiltaan).</Text>
+		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_VOLCANO_ERUPTS_SEV2_SUMMARY">
+			<Text>{1_VolcanoName} patladı ve insanlık tarihinde görülmemiş bir şiddetle patladı ({2_Tiles} {2_Tiles: plural 1?kare; other?kare;} hasar gördü, {3_Pop} [ICON_CITIZEN] {3_Pop: plural 1?vatandaş; other?vatandaş;} kaybedildi, {4_Units} {4_Units: plural 1?birim; other?birim;} yok oldu, {5_Yields} {5_Yields: plural 1?kare; other?kare;} verimliliği arttı).</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_NOTIFICATION_RIVER_FLOODS_SEV0_MESSAGE">
-			<Text>Joki tulvii</Text>
+		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_RIVER_FLOODS_SEV0_MESSAGE">
+			<Text>Nehir taşkını</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_NOTIFICATION_RIVER_FLOODS_SEV0_SUMMARY">
-			<Text>{1_RiverName} on tulvinut. Kaikeksi onneksi vahingot ovat vähäisiä ({2_Tiles} {2_Tiles: plural 1?ruutu; other?ruutua;} vahingoittui, {3_Pop} [ICON_CITIZEN] {3_Pop: plural 1?asukas; other?asukasta;} menetettiin, {4_Units} {4_Units: plural 1?yksikkö; other?yksikköä;} tuhoutui, {5_Yields} {5_Yields: plural 1?ruutu; other?ruutua;} parani tuotoiltaan).</Text>
+		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_RIVER_FLOODS_SEV0_SUMMARY">
+			<Text>{1_RiverName} taştı. Neyse ki hasar az ({2_Tiles} {2_Tiles: plural 1?kare; other?kare;} hasar gördü, {3_Pop} [ICON_CITIZEN] {3_Pop: plural 1?vatandaş; other?vatandaş;} kaybedildi, {4_Units} {4_Units: plural 1?birim; other?birim;} yok oldu, {5_Yields} {5_Yields: plural 1?kare; other?kare;} verimliliği arttı).</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_NOTIFICATION_RIVER_FLOODS_SEV1_MESSAGE">
-			<Text>Huomattava tulva</Text>
+		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_RIVER_FLOODS_SEV1_MESSAGE">
+			<Text>Önemli taşkın</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_NOTIFICATION_RIVER_FLOODS_SEV1_SUMMARY">
-			<Text>{1_RiverName} on tulvinut. Vahingot ovat merkittäviä ({2_Tiles} {2_Tiles: plural 1?ruutu; other?ruutua;} vahingoittui, {3_Pop} [ICON_CITIZEN] {3_Pop: plural 1?asukas; other?asukasta;} menetettiin, {4_Units} {4_Units: plural 1?yksikkö; other?yksikköä;} tuhoutui, {5_Yields} {5_Yields: plural 1?ruutu; other?ruutua;} parani tuotoiltaan).</Text>
+		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_RIVER_FLOODS_SEV1_SUMMARY">
+			<Text>{1_RiverName} taştı. Hasar önemli ({2_Tiles} {2_Tiles: plural 1?kare; other?kare;} hasar gördü, {3_Pop} [ICON_CITIZEN] {3_Pop: plural 1?vatandaş; other?vatandaş;} kaybedildi, {4_Units} {4_Units: plural 1?birim; other?birim;} yok oldu, {5_Yields} {5_Yields: plural 1?kare; other?kare;} verimliliği arttı).</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_NOTIFICATION_RIVER_FLOODS_SEV2_MESSAGE">
-			<Text>Äärimmäinen tulva</Text>
+		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_RIVER_FLOODS_SEV2_MESSAGE">
+			<Text>Şiddetli taşkın</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_NOTIFICATION_RIVER_FLOODS_SEV2_SUMMARY">
-			<Text>{1_RiverName} on tulvinut ja tehnyt vahinkoa pahemmin kuin koskaan aiemmin ({2_Tiles} {2_Tiles: plural 1?ruutu; other?ruutua;} vahingoittui, {3_Pop} [ICON_CITIZEN] {3_Pop: plural 1?asukas; other?asukasta;} menetettiin, {4_Units} {4_Units: plural 1?yksikkö; other?yksikköä;} tuhoutui, {5_Yields} {5_Yields: plural 1?ruutu; other?ruutua;} parani tuotoiltaan).</Text>
+		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_RIVER_FLOODS_SEV2_SUMMARY">
+			<Text>{1_RiverName} taştı ve daha önce hiç görülmemiş bir hasara yol açtı ({2_Tiles} {2_Tiles: plural 1?kare; other?kare;} hasar gördü, {3_Pop} [ICON_CITIZEN] {3_Pop: plural 1?vatandaş; other?vatandaş;} kaybedildi, {4_Units} {4_Units: plural 1?birim; other?birim;} yok oldu, {5_Yields} {5_Yields: plural 1?kare; other?kare;} verimliliği arttı).</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_NOTIFICATION_RIVER_FLOOD_MITIGATED_MESSAGE">
-			<Text>Joen tulviminen torjuttu</Text>
+		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_RIVER_FLOOD_MITIGATED_MESSAGE">
+			<Text>Nehir taşkını önlendi</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_NOTIFICATION_RIVER_FLOOD_MITIGATED_SUMMARY">
-			<Text>Rankkasateet joen {1_RiverName} lähellä olisivat voineet olla suuri ongelma. {2_BuildingOrDistrict} kuitenkin hoiti tehtävänsä ja piti nousevan veden kurissa. ({3_Yields} {3_Yields: plural 1?ruutu; other?ruutua;} parati tuotoiltaan)</Text>
+		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_RIVER_FLOOD_MITIGATED_SUMMARY">
+			<Text>{1_RiverName} nehrinin yakınındaki şiddetli yağmurlar büyük bir sorun olabilirdi. Ancak {2_BuildingOrDistrict} görevini yaptı ve yükselen suyu kontrol altında tuttu. ({3_Yields} {3_Yields: plural 1?kare; other?kare;} verimliliği arttı)</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_NOTIFICATION_STORM_ARRIVED_MESSAGE">
-			<Text>Hirveä myrsky!</Text>
+		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_STORM_ARRIVED_MESSAGE">
+			<Text>Şiddetli fırtına!</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_NOTIFICATION_STORM_ARRIVED_SUMMARY">
-			<Text>{1_StormType} "{2_StormName}" on kehittynyt ja se todennäköisimmin suuntaa {3_Direction[2]}. Myrsky aiheuttaa tuhoa seuraavan kahden vuoron aikana. (Muodostumisensa myötä {4_Tiles} {4_Tiles: plural 1?ruutu; other?ruutua;} vahingoittui, {5_Pop} [ICON_CITIZEN] {5_Pop: plural 1?asukas; other?asukasta;} menetettiin, {6_Units} {6_Units: plural 1?yksikkö; other?yksikköä;} tuhoutui, {7_Yields} {7_Yields: plural 1?ruutu; other?ruutua;} parani tuotoiltaan)</Text>
+		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_STORM_ARRIVED_SUMMARY">
+			<Text>{1_StormType} "{2_StormName}" oluştu ve muhtemelen {3_Direction[2]} yönüne doğru ilerliyor. Fırtına önümüzdeki iki tur boyunca hasar verecek. (Oluşumu sırasında {4_Tiles} {4_Tiles: plural 1?kare; other?kare;} hasar gördü, {5_Pop} [ICON_CITIZEN] {5_Pop: plural 1?vatandaş; other?vatandaş;} kaybedildi, {6_Units} {6_Units: plural 1?birim; other?birim;} yok oldu, {7_Yields} {7_Yields: plural 1?kare; other?kare;} verimliliği arttı)</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_NOTIFICATION_STORM_ARRIVED_LOSSES_SUMMARY">
-			<Text>{1_StormType} "{2_StormName}" on kehittynyt ja se todennäköisimmin suuntaa {3_Direction[2]}. Myrsky aiheuttaa tuhoa seuraavan kahden vuoron aikana. (Muodostumisensa myötä {4_Tiles} {4_Tiles: plural 1?ruutu; other?ruutua;} vahingoittui, {5_Pop} [ICON_CITIZEN] {5_Pop: plural 1?asukas; other?asukasta;} menetettiin, {6_Units} {6_Units: plural 1?yksikkö; other?yksikköä;} tuhoutui, {7_Yields} {7_Yields: plural 1?ruutu; other?ruutua;} heikkeni tuotoiltaan)</Text>
+		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_STORM_ARRIVED_LOSSES_SUMMARY">
+			<Text>{1_StormType} "{2_StormName}" oluştu ve muhtemelen {3_Direction[2]} yönüne doğru ilerliyor. Fırtına önümüzdeki iki tur boyunca hasar verecek. (Oluşumu sırasında {4_Tiles} {4_Tiles: plural 1?kare; other?kare;} hasar gördü, {5_Pop} [ICON_CITIZEN] {5_Pop: plural 1?vatandaş; other?vatandaş;} kaybedildi, {6_Units} {6_Units: plural 1?birim; other?birim;} yok oldu, {7_Yields} {7_Yields: plural 1?kare; other?kare;} verimliliği azaldı)</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_NOTIFICATION_STORM_MOVED_MESSAGE">
-			<Text>Myrsky jatkuu</Text>
+		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_STORM_MOVED_MESSAGE">
+			<Text>Fırtına devam ediyor</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_NOTIFICATION_STORM_MOVED_SUMMARY">
-			<Text>{1_StormType} "{2_StormName}" jatkaa etenemistään ja se jatkanee seuraavaksi {3_Direction[2]}. (Tällä vuorolla {4_Tiles} {4_Tiles: plural 1?ruutu; other?ruutua;} vahingoittui, {5_Pop} [ICON_CITIZEN] {5_Pop: plural 1?asukas; other?asukasta;} menetettiin, {6_Units} {6_Units: plural 1?yksikkö; other?yksikköä;} tuhoutui, {7_Yields} {7_Yields: plural 1?ruutu; other?ruutua;} parani tuotoiltaan)</Text>
+		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_STORM_MOVED_SUMMARY">
+			<Text>{1_StormType} "{2_StormName}" ilerlemeye devam ediyor ve muhtemelen {3_Direction[2]} yönüne doğru ilerleyecek. (Bu turda {4_Tiles} {4_Tiles: plural 1?kare; other?kare;} hasar gördü, {5_Pop} [ICON_CITIZEN] {5_Pop: plural 1?vatandaş; other?vatandaş;} kaybedildi, {6_Units} {6_Units: plural 1?birim; other?birim;} yok oldu, {7_Yields} {7_Yields: plural 1?kare; other?kare;} verimliliği arttı)</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_NOTIFICATION_STORM_MOVED_LOSSES_SUMMARY">
-			<Text>{1_StormType} "{2_StormName}" jatkaa etenemistään ja se jatkanee seuraavaksi {3_Direction[2]}. (Tällä vuorolla {4_Tiles} {4_Tiles: plural 1?ruutu; other?ruutua;} vahingoittui, {5_Pop} [ICON_CITIZEN] {5_Pop: plural 1?asukas; other?asukasta;} menetettiin, {6_Units} {6_Units: plural 1?yksikkö; other?yksikköä;} tuhoutui, {7_Yields} {7_Yields: plural 1?ruutu; other?ruutua;} heikkeni tuotoiltaan)</Text>
+		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_STORM_MOVED_LOSSES_SUMMARY">
+			<Text>{1_StormType} "{2_StormName}" ilerlemeye devam ediyor ve muhtemelen {3_Direction[2]} yönüne doğru ilerleyecek. (Bu turda {4_Tiles} {4_Tiles: plural 1?kare; other?kare;} hasar gördü, {5_Pop} [ICON_CITIZEN] {5_Pop: plural 1?vatandaş; other?vatandaş;} kaybedildi, {6_Units} {6_Units: plural 1?birim; other?birim;} yok oldu, {7_Yields} {7_Yields: plural 1?kare; other?kare;} verimliliği azaldı)</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_NOTIFICATION_STORM_DISSIPATED_MESSAGE">
-			<Text>Myrsky laantuu</Text>
+		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_STORM_DISSIPATED_MESSAGE">
+			<Text>Fırtına dindi</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_NOTIFICATION_STORM_DISSIPATED_SUMMARY">
-			<Text>{1_StormType} "{2_StormName}" on heikentynyt ja vetää viime henkäyksensä tällä vuorolla. (Tällä vuorolla {3_Tiles} {3_Tiles: plural 1?tile; other?tiles;} damaged, {4_Pop} [ICON_CITIZEN] population lost, {5_Units} {5_Units: plural 1?unit; other?units;} killed, {6_Yields} {6_Yields: plural 1?tile; other?tiles;} parani tuotoiltaan)</Text>
+		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_STORM_DISSIPATED_SUMMARY">
+			<Text>{1_StormType} "{2_StormName}" zayıfladı ve bu turda son nefesini veriyor. (Bu turda {3_Tiles} {3_Tiles: plural 1?kare; other?kare;} hasar gördü, {4_Pop} [ICON_CITIZEN] nüfus kaybedildi, {5_Units} {5_Units: plural 1?birim; other?birim;} öldü, {6_Yields} {6_Yields: plural 1?kare; other?kare;} verimliliği arttı)</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_NOTIFICATION_STORM_DISSIPATED_LOSSES_SUMMARY">
-			<Text>{1_StormType} "{2_StormName}" on heikentynyt ja vetää viime henkäyksensä tällä vuorolla. (Tällä vuorolla {3_Tiles} {3_Tiles: plural 1?tile; other?tiles;} damaged, {4_Pop} [ICON_CITIZEN] population lost, {5_Units} {5_Units: plural 1?unit; other?units;} killed, {6_Yields} {6_Yields: plural 1?tile; other?tiles;} heikkeni tuotoiltaan)</Text>
+		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_STORM_DISSIPATED_LOSSES_SUMMARY">
+			<Text>{1_StormType} "{2_StormName}" zayıfladı ve bu turda son nefesini veriyor. (Bu turda {3_Tiles} {3_Tiles: plural 1?kare; other?kare;} hasar gördü, {4_Pop} [ICON_CITIZEN] nüfus kaybedildi, {5_Units} {5_Units: plural 1?birim; other?birim;} öldü, {6_Yields} {6_Yields: plural 1?kare; other?kare;} verimliliği azaldı)</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_NOTIFICATION_DROUGHT_ARRIVED_MESSAGE">
-			<Text>Kuivuus!</Text>
+		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_DROUGHT_ARRIVED_MESSAGE">
+			<Text>Kuraklık!</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_NOTIFICATION_DROUGHT_ARRIVED_SUMMARY">
-			<Text>{1_DroughtType} on iskenyt ja saanut nimekseen "{2_DroughtName}". Tämän kuivuuden aikana sateen puute voi vahingoittaa rakenteita ja vähentää [ICON_Food] ruuan tuottoja seuraavan {3_Duration} vuoron ajan. ({4_Tiles} {4_Tiles: plural 1?ruutu; other?ruutua;} vahingoittui)</Text>
+		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_DROUGHT_ARRIVED_SUMMARY">
+			<Text>{1_DroughtType} başladı ve "{2_DroughtName}" adını aldı. Bu kuraklık sırasında yağmur eksikliği yapıları zarar verebilir ve önümüzdeki {3_Duration} tur boyunca [ICON_Food] gıda üretimini azaltabilir. ({4_Tiles} {4_Tiles: plural 1?kare; other?kare;} hasar gördü)</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_NOTIFICATION_DROUGHT_ARRIVED_LOSSES_SUMMARY">
-			<Text>{1_DroughtType} on iskenyt ja saanut nimekseen "{2_DroughtName}". Tämän kuivuuden aikana sateen puute voi vahingoittaa rakenteita ja vähentää [ICON_Food] ruuan tuottoja seuraavan {3_Duration} vuoron ajan. ({4_Tiles} {4_Tiles: plural 1?ruutu; other?ruutua;} vahingoittui, {5_Yields} {5_Yields: plural 1?ruutu; other?ruutua;} heikkeni tuotoiltaan)</Text>
+		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_DROUGHT_ARRIVED_LOSSES_SUMMARY">
+			<Text>{1_DroughtType} başladı ve "{2_DroughtName}" adını aldı. Bu kuraklık sırasında yağmur eksikliği yapıları zarar verebilir ve önümüzdeki {3_Duration} tur boyunca [ICON_Food] gıda üretimini azaltabilir. ({4_Tiles} {4_Tiles: plural 1?kare; other?kare;} hasar gördü, {5_Yields} {5_Yields: plural 1?kare; other?kare;} verimliliği azaldı)</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_NOTIFICATION_DROUGHT_CLEARED_MESSAGE">
-			<Text>Tervetullut sade</Text>
+		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_DROUGHT_CLEARED_MESSAGE">
+			<Text>Beklenen yağmur</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_NOTIFICATION_DROUGHT_CLEARED_SUMMARY">
-			<Text>{1_DroughtType} väistyy sateen viimein poistaessa kuivuuden tuoman kurjuuden. "{2_DroughtName}" on kohenevien satojen myötä historiaa.</Text>
+		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_DROUGHT_CLEARED_SUMMARY">
+			<Text>{1_DroughtType} yağmurun sonunda kuraklığı sona erdirmesiyle sona erdi. "{2_DroughtName}" tarih oldu ve mahsuller iyileşiyor.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_NOTIFICATION_EVENT_AVOIDED_MESSAGE">
-			<Text>Kriisi estetty</Text>
+		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_EVENT_AVOIDED_MESSAGE">
+			<Text>Kriz önlendi</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_NOTIFICATION_EVENT_AVOIDED_SUMMARY">
-			<Text>{1_RandomEvent} on vältetty {2_civName[2]} toimesta, joten he eivät ole kärsineet vahinkoja.</Text>
+		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_EVENT_AVOIDED_SUMMARY">
+			<Text>{1_RandomEvent} {2_civName[2]} tarafından önlendi, bu yüzden zarar görmediler.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_NOTIFICATION_RISING_SEA_LEVEL_FLOODED_MESSAGE">
-			<Text>Rannikko tulvii pysyvästi</Text>
+		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_RISING_SEA_LEVEL_FLOODED_MESSAGE">
+			<Text>Kıyı kalıcı olarak su altında</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_NOTIFICATION_RISING_SEA_LEVEL_FLOODED_SUMMARY">
-			<Text>Merenpinta on noussut. Kaikki matalat ruudut merkinnällä '{1_Name}' tulvivat pysyvästi.</Text>
+		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_RISING_SEA_LEVEL_FLOODED_SUMMARY">
+			<Text>Deniz seviyesi yükseldi. '{1_Name}' işaretli tüm düşük kareler kalıcı olarak su altında kaldı.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_NOTIFICATION_RISING_SEA_LEVEL_SUBMERGED_MESSAGE">
-			<Text>Rannikon ruutuja menetettiin</Text>
+		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_RISING_SEA_LEVEL_SUBMERGED_MESSAGE">
+			<Text>Kıyı kareleri kaybedildi</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_NOTIFICATION_RISING_SEA_LEVEL_SUBMERGED_SUMMARY">
-			<Text>Merenpinta on noussut edelleen. Kaikki matalat ruudut merkinnällä '{1_Name}' ovat päätyneet meren valtaamiksi.</Text>
+		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_RISING_SEA_LEVEL_SUBMERGED_SUMMARY">
+			<Text>Deniz seviyesi daha da yükseldi. '{1_Name}' işaretli tüm düşük kareler su altında kaldı.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_NOTIFICATION_RISING_SEA_LEVEL_SUMMARY_TEMPLATE">
+		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_RISING_SEA_LEVEL_SUMMARY_TEMPLATE">
 			<Text>{1_Summary}[NEWLINE][NEWLINE]{2_LongDescription}</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_NOTIFICATION_CITY_UNPOWERED_MESSAGE">
-			<Text>Sähkötön kaupunki</Text>
+		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_CITY_UNPOWERED_MESSAGE">
+			<Text>Elektriksiz şehir</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_NOTIFICATION_CITY_UNPOWERED_SUMMARY">
-			<Text>{1_CityName} voisi saada rakennuksilleen tai projekteilleen vauhtia lisäämällä {2_PowerRequired} [ICON_Power] sähköä, mutta kaupungilla on vain {3_PowerAvailable}. Tehokkuus kärsii kunnes [ICON_Power] sähkö on palautettu.</Text>
+		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_CITY_UNPOWERED_SUMMARY">
+			<Text>{1_CityName} binalarına veya projelerine hız kazandırmak için {2_PowerRequired} [ICON_Power] elektriğe ihtiyaç duyuyor, ancak şehirde sadece {3_PowerAvailable} var. Verimlilik, [ICON_Power] elektrik geri gelene kadar düşecek.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_NOTIFICATION_PLAYER_WMD_DISARMAMENT_MESSAGE">
-			<Text>Ydinaseiden riisunta</Text>
+		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_PLAYER_WMD_DISARMAMENT_MESSAGE">
+			<Text>Nükleer silahsızlanma</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_NOTIFICATION_PLAYER_WMD_DISARMAMENT_SUMMARY">
-			<Text>Maailmankongressin toimien vuoksi olemme pakotettuja poistamaan ydinaseemme käytöstä.</Text>
+		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_PLAYER_WMD_DISARMAMENT_SUMMARY">
+			<Text>Dünya Kongresi'nin eylemleri nedeniyle nükleer silahlarımızı devre dışı bırakmak zorundayız.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_NOTIFICATION_PLAYER_WMD_POSITIVE_ADJUSTMENT_MESSAGE">
-			<Text>Ydinaseiden tasaistus</Text>
+		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_PLAYER_WMD_POSITIVE_ADJUSTMENT_MESSAGE">
+			<Text>Nükleer silahların dengelemesi</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_NOTIFICATION_PLAYER_WMD_POSITIVE_ADJUSTMENT_SUMMARY">
-			<Text>Maailmankongressin toimien vuoksi ydinaseiden määrämme on kasvatettu vastaamaan muiden kansakuntien tasoa.</Text>
+		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_PLAYER_WMD_POSITIVE_ADJUSTMENT_SUMMARY">
+			<Text>Dünya Kongresi'nin eylemleri nedeniyle nükleer silahlarımızın sayısı diğer ulusların seviyesine çıkarıldı.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_NOTIFICATION_PLAYER_WMD_NEGATIVE_ADJUSTMENT_MESSAGE">
-			<Text>Ydinaseiden vähennys</Text>
+		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_PLAYER_WMD_NEGATIVE_ADJUSTMENT_MESSAGE">
+			<Text>Nükleer silahların azaltılması</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_NOTIFICATION_PLAYER_WMD_NEGATIVE_ADJUSTMENT_SUMMARY">
-			<Text>Maailmankongressin toimien vuoksi joudumme laskemaan ydinaseistuksemme määriä vastaamaan muiden kansakuntien tasoa.</Text>
+		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_PLAYER_WMD_NEGATIVE_ADJUSTMENT_SUMMARY">
+			<Text>Dünya Kongresi'nin eylemleri nedeniyle nükleer silahlarımızın sayısını diğer ulusların seviyesine indirmek zorundayız.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_NOTIFICATION_SPY_BREACH_DAM_MESSAGE">
-			<Text>Padon murtaminen onnistui</Text>
+		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_SPY_BREACH_DAM_MESSAGE">
+			<Text>Barajı yıkma başarılı</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_NOTIFICATION_SPY_BREACH_DAM_SUMMARY">
-			<Text>{1_unitName} onnistui murtamaan padon kaupungissa {2_cityName}.</Text>
+		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_SPY_BREACH_DAM_SUMMARY">
+			<Text>{1_unitName} {2_cityName} şehrindeki barajı yıkmayı başardı.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_NOTIFICATION_SPY_ENEMY_BREACH_DAM_MESSAGE">
-			<Text>Vihollisvakoilija mursi patomme</Text>
+		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_SPY_ENEMY_BREACH_DAM_MESSAGE">
+			<Text>Düşman casusu barajımızı yıktı</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_NOTIFICATION_SPY_ENEMY_BREACH_DAM_SUMMARY">
-			<Text>Vihollisen vakoilija on onnistunut murtamaan patomme kaupungissa {1_cityName}.</Text>
+		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_SPY_ENEMY_BREACH_DAM_SUMMARY">
+			<Text>Düşman casusu {1_cityName} şehrimizdeki barajımızı yıkmayı başardı.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_NOTIFICATION_NUCLEAR_ACCIDENT_SEV0_MESSAGE">
-			<Text>Radioaktiivisia höyryjä!</Text>
+		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_NUCLEAR_ACCIDENT_SEV0_MESSAGE">
+			<Text>Radyoaktif buharlar!</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_NOTIFICATION_NUCLEAR_ACCIDENT_SEV0_SUMMARY">
-			<Text>Kaupungin {1_CityName} ydinvoimala on kärsinyt toimintahäiriöstä ja joutui päästämään ulos radioaktiivista höyryä välttääkseen suuremman katastrofin. (Tällä vuorolla {2_Tiles} {2_Tiles: plural 1?ruutu; other?ruutua;} kärsi, {3_Pop} [ICON_CITIZEN] {3_Pop: plural 1?asukas; other?asukasta;} menetettiin ja {4_Units} {4_Units: plural 1?yksikkö; other?yksikköä;} tuhoutui)</Text>
+		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_NUCLEAR_ACCIDENT_SEV0_SUMMARY">
+			<Text>{1_CityName} şehrindeki nükleer santral arızalandı ve daha büyük bir felaketi önlemek için radyoaktif buhar salmak zorunda kaldı. (Bu turda {2_Tiles} {2_Tiles: plural 1?kare; other?kare;} zarar gördü, {3_Pop} [ICON_CITIZEN] {3_Pop: plural 1?vatandaş; other?vatandaş;} kaybedildi ve {4_Units} {4_Units: plural 1?birim; other?birim;} yok oldu)</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_NOTIFICATION_NUCLEAR_ACCIDENT_SEV1_MESSAGE">
-			<Text>Säteilyvuoto!</Text>
+		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_NUCLEAR_ACCIDENT_SEV1_MESSAGE">
+			<Text>Radyasyon sızıntısı!</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_NOTIFICATION_NUCLEAR_ACCIDENT_SEV1_SUMMARY">
-			<Text>Kaupungin {1_CityName} ydinvoimala on kärsinyt vakavasta toimintahäiriöstä, joka on aiheuttanut särön reaktorissa. Suuria määriä radioaktiivisuutta on vapautunut ympäröiville alueille. (Tällä vuorolla {2_Tiles} {2_Tiles: plural 1?ruutu; other?ruutua;} kärsi, {3_Pop} [ICON_CITIZEN] {3_Pop: plural 1?asukas; other?asukasta;} menetettiin ja {4_Units} {4_Units: plural 1?yksikkö; other?yksikköä;} tuhoutui)</Text>
+		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_NUCLEAR_ACCIDENT_SEV1_SUMMARY">
+			<Text>{1_CityName} şehrindeki nükleer santral ciddi bir arıza yaşadı ve reaktörde çatlak oluştu. Büyük miktarda radyoaktif madde çevreye yayıldı. (Bu turda {2_Tiles} {2_Tiles: plural 1?kare; other?kare;} zarar gördü, {3_Pop} [ICON_CITIZEN] {3_Pop: plural 1?vatandaş; other?vatandaş;} kaybedildi ve {4_Units} {4_Units: plural 1?birim; other?birim;} yok oldu)</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_NOTIFICATION_NUCLEAR_ACCIDENT_SEV2_MESSAGE">
-			<Text>Ytimen sulaminen!</Text>
+		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_NUCLEAR_ACCIDENT_SEV2_MESSAGE">
+			<Text>Reaktör erimesi!</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_NOTIFICATION_NUCLEAR_ACCIDENT_SEV2_SUMMARY">
-			<Text>Kaupungin {1_CityName} ydinvoimala on kärsinyt katastrofaalisesta toimintahäiriöstä, jonka vuoksi reaktoriydin on sulanut. Kuolettavia määriä radioaktiivisuutta on levinnyt ympäröiville alueille. (Tällä vuorolla {2_Tiles} {2_Tiles: plural 1?ruutu; other?ruutua;} kärsi, {3_Pop} [ICON_CITIZEN] {3_Pop: plural 1?asukas; other?asukasta;} menetettiin ja {4_Units} {4_Units: plural 1?yksikkö; other?yksikköä;} tuhoutui)</Text>
+		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_NUCLEAR_ACCIDENT_SEV2_SUMMARY">
+			<Text>{1_CityName} şehrindeki nükleer santral felaket bir arıza yaşadı ve reaktör çekirdeği eridi. Ölümcül miktarda radyoaktif madde çevreye yayıldı. (Bu turda {2_Tiles} {2_Tiles: plural 1?kare; other?kare;} zarar gördü, {3_Pop} [ICON_CITIZEN] {3_Pop: plural 1?vatandaş; other?vatandaş;} kaybedildi ve {4_Units} {4_Units: plural 1?birim; other?birim;} yok oldu)</Text>
 		</Replace>
 		<!--DIPLOMACY-->
-		<Replace Language="en_US" Tag="LOC_NOTIFICATION_DIPLO_PROMISE_FROM_BROKEN_SUMMARY">
-			<Text>{1_CivName} on rikkonut lupauksensa meille: {2_PromiseType} (100 pistettä [ICON_STAT_GRIEVANCE] kaunoja).</Text>
+		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_DIPLO_PROMISE_FROM_BROKEN_SUMMARY">
+			<Text>{1_CivName} bize verdiği sözü bozdu: {2_PromiseType} (100 puan [ICON_STAT_GRIEVANCE] kin).</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_NOTIFICATION_DIPLO_PROMISE_TO_BROKEN_SUMMARY">
-			<Text>{1_CivName} katsoo meidän rikkoneen lupauksemme: {2_PromiseType} (100 pistettä [ICON_STAT_GRIEVANCE] kaunoja).</Text>
+		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_DIPLO_PROMISE_TO_BROKEN_SUMMARY">
+			<Text>{1_CivName} bizim verdiğimiz sözü bozduğumuzu düşünüyor: {2_PromiseType} (100 puan [ICON_STAT_GRIEVANCE] kin).</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_NOTIFICATION_DIPLO_NO_PROMISE_FROM_BUT_REPEATED_MESSAGE">
-			<Text>Lisää kaunoja vastustajaan</Text>
+		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_DIPLO_NO_PROMISE_FROM_BUT_REPEATED_MESSAGE">
+			<Text>Rakibe karşı daha fazla kin</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_NOTIFICATION_DIPLO_NO_PROMISE_FROM_BUT_REPEATED_SUMMARY">
-			<Text>{1_CivName} ei antanut lupausta: {2_PromiseType}. Sen sijaan he ovat edelleen jatkaneet toimiaan lisäten 25 pistettä [ICON_STAT_GRIEVANCE] kaunoja heitä vastaan.</Text>
+		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_DIPLO_NO_PROMISE_FROM_BUT_REPEATED_SUMMARY">
+			<Text>{1_CivName} söz vermedi: {2_PromiseType}. Bunun yerine, eylemlerine devam ederek onlara karşı 25 puan [ICON_STAT_GRIEVANCE] kin eklediler.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_NOTIFICATION_DIPLO_NO_PROMISE_TO_BUT_REPEATED_MESSAGE">
-			<Text>Lisää kaunoja meitä vastaan</Text>
+		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_DIPLO_NO_PROMISE_TO_BUT_REPEATED_MESSAGE">
+			<Text>Bize karşı daha fazla kin</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_NOTIFICATION_DIPLO_NO_PROMISE_TO_BUT_REPEATED_SUMMARY">
-			<Text>{1_CivName} halusi meidän antavan lupauksen: {2_PromiseType}. Emme suostuneet ja olemme jatkaneet tätä toimintaa lisäten 25 pistettä [ICON_STAT_GRIEVANCE] kaunoja meitä vastaan.</Text>
+		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_DIPLO_NO_PROMISE_TO_BUT_REPEATED_SUMMARY">
+			<Text>{1_CivName} bizden söz vermemizi istedi: {2_PromiseType}. Kabul etmedik ve bu eyleme devam ederek bize karşı 25 puan [ICON_STAT_GRIEVANCE] kin ekledik.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_NOTIFICATION_WORLD_CONGRESS_SPECIAL_SESSION_BLOCKING_MESSAGE">
-			<Text>Maailmankongressi kokoontuu</Text>
+		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_WORLD_CONGRESS_SPECIAL_SESSION_BLOCKING_MESSAGE">
+			<Text>Dünya Kongresi toplanıyor</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_NOTIFICATION_WORLD_CONGRESS_SPECIAL_SESSION_BLOCKING_SUMMARY">
-			<Text>Maailmankongressin erityisistunto on kutsuttu koolle jonkun toimesta. Valitse mistä haluamme keskustella (jos mistään) tässä istunnossa. Se alkaa tämän vuoron lopuksi.</Text>
+		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_WORLD_CONGRESS_SPECIAL_SESSION_BLOCKING_SUMMARY">
+			<Text>Dünya Kongresi'nin özel oturumu birisi tarafından toplandı. Bu oturumda ne hakkında konuşmak istediğimizi (eğer bir şey varsa) seçin. Oturum bu turun sonunda başlayacak.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_NOTIFICATION_WORLD_CONGRESS_SPECIAL_SESSION_NON_BLOCKING_MESSAGE">
-			<Text>Maailmankongressi kokoontuu</Text>
+		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_WORLD_CONGRESS_SPECIAL_SESSION_NON_BLOCKING_MESSAGE">
+			<Text>Dünya Kongresi toplanıyor</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_NOTIFICATION_WORLD_CONGRESS_SPECIAL_SESSION_NON_BLOCKING_SUMMARY">
-			<Text>Maailmankongressin erityisistunto on kutsuttu koolle jonkun toimesta. Se alkaa tämän vuoron lopuksi.</Text>
+		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_WORLD_CONGRESS_SPECIAL_SESSION_NON_BLOCKING_SUMMARY">
+			<Text>Dünya Kongresi'nin özel oturumu birisi tarafından toplandı. Oturum bu turun sonunda başlayacak.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_NOTIFICATION_WORLD_CONGRESS_SPECIAL_SESSION_CAN_BE_CALLED_MESSAGE">
-			<Text>Aiheita valittavissa ehdotuksiksi</Text>
+		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_WORLD_CONGRESS_SPECIAL_SESSION_CAN_BE_CALLED_MESSAGE">
+			<Text>Öneri için konular seçilebilir</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_NOTIFICATION_WORLD_CONGRESS_SPECIAL_SESSION_CAN_BE_CALLED_SUMMARY">
-			<Text>Voimme halutessamme kutsua koolle erityisistunnon maailmankongressissa.</Text>
+		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_WORLD_CONGRESS_SPECIAL_SESSION_CAN_BE_CALLED_SUMMARY">
+			<Text>Dünya Kongresi'nde özel bir oturum çağırmak istiyorsak, konuları seçebiliriz.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_NOTIFICATION_WORLD_CONGRESS_EMERGENCY_CAN_BE_CALLED_MESSAGE">
-			<Text>Uusi aihe valittavissa ehdotukseksi</Text>
+		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_WORLD_CONGRESS_EMERGENCY_CAN_BE_CALLED_MESSAGE">
+			<Text>Öneri için yeni konu seçilebilir</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_NOTIFICATION_WORLD_CONGRESS_EMERGENCY_CAN_BE_CALLED_SUMMARY">
-			<Text>Lähiaikojen tapahtumien vuoksi meidän on nyt mahdollista tuoda uusia huolia maailmankongressin tietoon erityisistunnon muodossa.</Text>
+		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_WORLD_CONGRESS_EMERGENCY_CAN_BE_CALLED_SUMMARY">
+			<Text>Son olaylar nedeniyle, Dünya Kongresi'ne özel bir oturum şeklinde yeni endişelerimizi bildirme imkanımız var.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_NOTIFICATION_GRIEVANCES_AGAINST_YOU_MESSAGE">
-			<Text>Kaunoja meitä vastaan</Text>
+		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_GRIEVANCES_AGAINST_YOU_MESSAGE">
+			<Text>Bize karşı kin</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_NOTIFICATION_GRIEVANCES_AGAINST_YOU_SUMMARY">
-			<Text>{1_DeclaringCivName} on julistanut sodan liittolaiselle tahi ystävällemme {2_TargetCivName}. Olemme saaneet {3_NumGrievances} pistettä uusia [ICON_STAT_GRIEVANCE] kaunoja heitä vastaan.</Text>
+		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_GRIEVANCES_AGAINST_YOU_SUMMARY">
+			<Text>{1_DeclaringCivName} müttefikimize veya dostumuza {2_TargetCivName} savaş ilan etti. Onlara karşı {3_NumGrievances} puan yeni [ICON_STAT_GRIEVANCE] kin aldık.</Text>
 		</Replace>
 		<!--SPECULATIVE NOTIFICATION TEXT (ADDED AT TEXT-LOCK, MOVE UP IF ACTUALLY MAKE IT INTO GAME)-->
-		<Replace Language="en_US" Tag="LOC_NOTIFICATION_CITY_LIBERATED_TO_YOU_MESSAGE">
-			<Text>Kaupunkimme vapautettiin</Text>
+		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_CITY_LIBERATED_TO_YOU_MESSAGE">
+			<Text>Şehrimiz kurtarıldı</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_NOTIFICATION_CITY_LIBERATED_TO_YOU_SUMMARY">
-			<Text>Kaupungissa {1_CityName} olevat kansalaiset ovat iloissaan vapauttamisestaan takaisin valtakuntaamme sen jälkeen, kun {2_LiberatingLeader} päätti tehdä tämän ylevän palveluksen meille.</Text>
+		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_CITY_LIBERATED_TO_YOU_SUMMARY">
+			<Text>{1_CityName} şehrindeki vatandaşlar, {2_LiberatingLeader}'in bize bu yüce hizmeti yapmaya karar vermesinin ardından krallığımıza geri dönmekten mutlular.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_NOTIFICATION_SCORED_COMPETITION_BEGUN_MESSAGE">
-			<Text>Pistekilpa alkaa</Text>
+		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_SCORED_COMPETITION_BEGUN_MESSAGE">
+			<Text>Puan yarışması başlıyor</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_NOTIFICATION_SCORED_COMPETITION_BEGUN_SUMMARY">
-			<Text>Maailmankongressin päätöksen myötä pistekilpailu "{1_CompetitionName}" on alkanut.</Text>
+		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_SCORED_COMPETITION_BEGUN_SUMMARY">
+			<Text>Dünya Kongresi'nin kararıyla "{1_CompetitionName}" puan yarışması başladı.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_NOTIFICATION_REQUEST_FOR_AID_BEGUN_SUMMARY">
-			<Text>Pistekilpailu avunannon muodossa on alkanut {1_CivName[2]} auttamiseksi heidän hädässään.</Text>
+		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_REQUEST_FOR_AID_BEGUN_SUMMARY">
+			<Text>{1_CivName[2]} yardım etmek için yardım talebi puan yarışması başladı.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_NOTIFICATION_SCORED_COMPETITION_OVER_MESSAGE">
-			<Text>Pistekilpa päättyy</Text>
+		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_SCORED_COMPETITION_OVER_MESSAGE">
+			<Text>Puan yarışması sona eriyor</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_NOTIFICATION_SCORED_COMPETITION_OVER_SUMMARY">
-			<Text>Pistekilpailu "{1_CompetitionName}" on päättynyt. Palkinnot on myönnetty osallistuneille.</Text>
+		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_SCORED_COMPETITION_OVER_SUMMARY">
+			<Text>"{1_CompetitionName}" puan yarışması sona erdi. Ödüller katılımcılara verildi.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_NOTIFICATION_RECEIVED_AID_MESSAGE">
-			<Text>Apua annettiin</Text>
+		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_RECEIVED_AID_MESSAGE">
+			<Text>Yardım gönderildi</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_NOTIFICATION_RECEIVED_AID_SUMMARY">
-			<Text>{1_PlayerName} on lähettänyt meille {2_Amount} [ICON_Gold] kultaa.</Text>
+		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_RECEIVED_AID_SUMMARY">
+			<Text>{1_PlayerName} bize {2_Amount} [ICON_Gold] altın gönderdi.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_NOTIFICATION_ROCK_BANDS_PROHIBITED_MESSAGE">
-			<Text>{1_leader} sensuroi rokin</Text>
+		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_ROCK_BANDS_PROHIBITED_MESSAGE">
+			<Text>{1_leader} rock müziği yasakladı</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_NOTIFICATION_ROCK_BANDS_PROHIBITED_SUMMARY">
-			<Text>{1_leader} {1_leader: plural 1?on kieltänyt; other?ovat kieltäneet;} rokkikonsertit. Rokkibändimme on poistettu heidän alueidensa rajojen ulkopuolelle.</Text>
+		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_ROCK_BANDS_PROHIBITED_SUMMARY">
+			<Text>{1_leader} {1_leader: plural 1?rock konserlerini yasakladı; other?rock konserlerini yasakladılar;}. Rock gruplarımız onların sınırlarının dışına çıkarıldı.</Text>
 		</Replace>
 	</LocalizedText>
 </GameData>

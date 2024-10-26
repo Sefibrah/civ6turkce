@@ -1,969 +1,970 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameData>
 	<LocalizedText>
-		<Replace Language="en_US" Tag="LOC_BANDNAME_BASE_TEMPLATE">
+		<Replace Language="pl_PL" Tag="LOC_BANDNAME_BASE_TEMPLATE">
 			<Text>{1_Prefix}{2_Suffix}</Text>
 		</Replace>
 		<!-- Prefix -->
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_AIR">
-			<Text>Taivaan </Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_AIR">
+			<Text>Hava</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_ALIEN">
-			<Text>Muukalais</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_ALIEN">
+			<Text>Uzaylı</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_ANCIENT">
-			<Text>Muinais</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_ANCIENT">
+			<Text>Antik</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_ANGRY">
-			<Text>Vihaiset </Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_ANGRY">
+			<Text>Kızgın</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_ANIMAL">
-			<Text>Eläimelliset </Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_ANIMAL">
+			<Text>Hayvansal</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_APPEALING">
-			<Text>Houkuttelevat </Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_APPEALING">
+			<Text>Cazip</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_ARCTIC">
-			<Text>Arktiset </Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_ARCTIC">
+			<Text>Arktik</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_ASYLUM">
-			<Text>Turhat </Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_ASYLUM">
+			<Text>Boş</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_ATOMIC">
-			<Text>Atomi</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_ATOMIC">
+			<Text>Atom</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_AUDIO">
-			<Text>Ääni</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_AUDIO">
+			<Text>Ses</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_BAD">
-			<Text>Pahat </Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_BAD">
+			<Text>Kötü</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_BIG">
-			<Text>Isot </Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_BIG">
+			<Text>Büyük</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_BLACK">
-			<Text>Mustat </Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_BLACK">
+			<Text>Siyah</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_BLIND">
-			<Text>Sokeat </Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_BLIND">
+			<Text>Kör</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_BLONDE">
-			<Text>Vaaleat </Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_BLONDE">
+			<Text>Sarışın</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_BLUE">
-			<Text>Sini</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_BLUE">
+			<Text>Mavi</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_BROKEN">
-			<Text>Rikkinäiset </Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_BROKEN">
+			<Text>Kırık</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_BROWN">
-			<Text>Ruskeat </Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_BROWN">
+			<Text>Kahverengi</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_BUFFALO">
-			<Text>Sataman </Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_BUFFALO">
+			<Text>Liman</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_CHEAP">
-			<Text>Halvat </Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_CHEAP">
+			<Text>Ucuz</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_CLASSICAL">
-			<Text>Klassiset </Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_CLASSICAL">
+			<Text>Klasik</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_COLD">
-			<Text>Kylmät </Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_COLD">
+			<Text>Soğuk</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_COLLECTIVE">
-			<Text>Yhteis</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_COLLECTIVE">
+			<Text>Toplu</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_COOL">
-			<Text>Siistit </Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_COOL">
+			<Text>Havalı</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_DARK">
-			<Text>Synkät </Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_DARK">
+			<Text>Karanlık</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_DAY">
-			<Text>Päivä</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_DAY">
+			<Text>Gün</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_DEEP">
-			<Text>Syvä</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_DEEP">
+			<Text>Derin</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_DIRE">
-			<Text>Julmat </Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_DIRE">
+			<Text>Acımasız</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_ELECTRIC">
-			<Text>Sähkö</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_ELECTRIC">
+			<Text>Elektrik</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_ENLIGHTENED">
-			<Text>Valistuneet </Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_ENLIGHTENED">
+			<Text>Aydınlanmış</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_EPIC">
-			<Text>Eeppiset </Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_EPIC">
+			<Text>Epik</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_EXTREME">
-			<Text>Ääri</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_EXTREME">
+			<Text>Aşırı</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_FAKE">
-			<Text>Valheelliset </Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_FAKE">
+			<Text>Sahte</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_FLAMING">
-			<Text>Palavat </Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_FLAMING">
+			<Text>Alevli</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_FLYING">
-			<Text>Lentävät </Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_FLYING">
+			<Text>Uçan</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_FOREST">
-			<Text>Metsä</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_FOREST">
+			<Text>Orman</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_FREE">
-			<Text>Vapaat </Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_FREE">
+			<Text>Özgür</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_FRIENDLY">
-			<Text>Ystävälliset </Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_FRIENDLY">
+			<Text>Dostça</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_FRIGHTENED">
-			<Text>Pelästyneet </Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_FRIGHTENED">
+			<Text>Korkmuş</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_FURRY">
-			<Text>Karvaat </Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_FURRY">
+			<Text>Tüylü</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_FURY">
-			<Text>Raivoisat </Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_FURY">
+			<Text>Öfkeli</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_GIANT">
-			<Text>Jätti</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_GIANT">
+			<Text>Dev</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_GOLD">
-			<Text>Kultaiset </Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_GOLD">
+			<Text>Altın</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_GRATEFUL">
-			<Text>Kiitolliset </Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_GRATEFUL">
+			<Text>Müteşekkir</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_GREEN">
-			<Text>Vihreät </Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_GREEN">
+			<Text>Yeşil</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_HILARIOUS">
-			<Text>Hilpeät </Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_HILARIOUS">
+			<Text>Neşeli</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_HOLY">
-			<Text>Pyhät </Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_HOLY">
+			<Text>Kutsal</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_HOT">
-			<Text>Kuumat </Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_HOT">
+			<Text>Sıcak</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_HUMAN">
-			<Text>Ihmis</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_HUMAN">
+			<Text>İnsan</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_HUNGRY">
-			<Text>Nälkäiset </Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_HUNGRY">
+			<Text>Aç</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_INDIGO">
-			<Text>Luonnottomat </Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_INDIGO">
+			<Text>Doğal Olmayan</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_INDUSTRIAL">
-			<Text>Teolliset </Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_INDUSTRIAL">
+			<Text>Endüstriyel</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_IRON">
-			<Text>Rauta</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_IRON">
+			<Text>Demir</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_JOYOUS">
-			<Text>Riemukkaat </Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_JOYOUS">
+			<Text>Neşeli</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_KIND">
-			<Text>Kiltit </Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_KIND">
+			<Text>İyi</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_LIGHT">
-			<Text>Kevyet </Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_LIGHT">
+			<Text>Hafif</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_LITTLE">
-			<Text>Pienet </Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_LITTLE">
+			<Text>Küçük</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_LONELY">
-			<Text>Yksinäiset </Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_LONELY">
+			<Text>Yalnız</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_LOST">
-			<Text>Kadonneet </Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_LOST">
+			<Text>Kayıp</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_LOUD">
-			<Text>Äänekkäät </Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_LOUD">
+			<Text>Gürültülü</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_LOW">
-			<Text>Matalat </Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_LOW">
+			<Text>Alçak</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_LOYAL">
-			<Text>Uskolliset </Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_LOYAL">
+			<Text>Sadık</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_MAGIC">
-			<Text>Taiotut </Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_MAGIC">
+			<Text>Büyülü</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_MAJOR">
-			<Text>Suur</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_MAJOR">
+			<Text>Büyük</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_MAXIMUM">
-			<Text>Suuret </Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_MAXIMUM">
+			<Text>En Büyük</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_MEDIEVAL">
-			<Text>Keskiaikais</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_MEDIEVAL">
+			<Text>Ortaçağ</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_MEGA">
-			<Text>Mahti</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_MEGA">
+			<Text>Devasa</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_MENACING">
-			<Text>Uhkaavat </Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_MENACING">
+			<Text>Tehditkar</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_MIDDLE">
-			<Text>Keski</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_MIDDLE">
+			<Text>Orta</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_MIDNIGHT">
-			<Text>Keskiyön </Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_MIDNIGHT">
+			<Text>Geceyarısı</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_MIND">
-			<Text>Mieli</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_MIND">
+			<Text>Zihin</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_MINI">
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_MINI">
 			<Text>Mini</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_MINOR">
-			<Text>Vähä</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_MINOR">
+			<Text>Küçük</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_MODERN">
-			<Text>Modernit </Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_MODERN">
+			<Text>Modern</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_MODEST">
-			<Text>Vaatimattomat </Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_MODEST">
+			<Text>Mütevazı</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_MOUNTAIN">
-			<Text>Vuoren </Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_MOUNTAIN">
+			<Text>Dağ</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_MUTE">
-			<Text>Mykät </Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_MUTE">
+			<Text>Dilsiz</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_MYSTERY">
-			<Text>Mystiset </Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_MYSTERY">
+			<Text>Gizemli</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_NATURAL">
-			<Text>Luonto</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_NATURAL">
+			<Text>Doğa</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_NEW">
-			<Text>Uudet </Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_NEW">
+			<Text>Yeni</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_NIGHT">
-			<Text>Yö</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_NIGHT">
+			<Text>Gece</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_NUCLEAR">
-			<Text>Ydin</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_NUCLEAR">
+			<Text>Nükleer</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_OLD">
-			<Text>Vanhat </Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_OLD">
+			<Text>Eski</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_ORANGE">
-			<Text>Oranssit </Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_ORANGE">
+			<Text>Turuncu</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_OVERPOWERED">
-			<Text>Ylivoimaiset </Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_OVERPOWERED">
+			<Text>Ezici</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_PALE">
-			<Text>Kalpeat </Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_PALE">
+			<Text>Solgun</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_PEOPLE">
-			<Text>Kansan </Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_PEOPLE">
+			<Text>Halk</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_PERFECT">
-			<Text>Täydelliset </Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_PERFECT">
+			<Text>Mükemmel</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_PERFUME">
-			<Text>Tuoksu</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_PERFUME">
+			<Text>Parfüm</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_PETIT">
-			<Text>Verotetut </Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_PETIT">
+			<Text>Vergili</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_PINK">
-			<Text>Vero</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_PINK">
+			<Text>Pembe</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_POLITICAL">
-			<Text>Poliittiset </Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_POLITICAL">
+			<Text>Politik</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_PSYCHEDELIC">
-			<Text>Psykedeeliset </Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_PSYCHEDELIC">
+			<Text>Psikedelik</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_PURPLE">
-			<Text>Violetit </Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_PURPLE">
+			<Text>Mor</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_QUIET">
-			<Text>Hiljaiset </Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_QUIET">
+			<Text>Sessiz</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_RADICAL">
-			<Text>Radikaalit </Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_RADICAL">
+			<Text>Radikal</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_RAINBOW">
-			<Text>Sateenkaari</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_RAINBOW">
+			<Text>Gökkuşağı</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_RANDOM">
-			<Text>Satunnais</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_RANDOM">
+			<Text>Rastgele</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_REAL">
-			<Text>Oikeat </Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_REAL">
+			<Text>Gerçek</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_RED">
-			<Text>Punaiset </Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_RED">
+			<Text>Kırmızı</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_RELIGIOUS">
-			<Text>Uskovat </Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_RELIGIOUS">
+			<Text>Dindar</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_RENAISSANCE">
-			<Text>Renessanssin </Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_RENAISSANCE">
+			<Text>Rönesans</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_RIVAL">
-			<Text>Vastustavat </Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_RIVAL">
+			<Text>Rakip</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_SICK">
-			<Text>Sairaat </Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_SICK">
+			<Text>Hasta</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_SILENT">
-			<Text>Äänettömät </Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_SILENT">
+			<Text>Sesiz</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_SILVER">
-			<Text>Hopea</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_SILVER">
+			<Text>Gümüş</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_SMASHING">
-			<Text>Jysäyttävät </Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_SMASHING">
+			<Text>Yıkıcı</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_SOCIAL">
-			<Text>Sosiaaliset </Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_SOCIAL">
+			<Text>Sosyal</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_SPACE">
-			<Text>Avaruus</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_SPACE">
+			<Text>Uzay</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_SPEEDY">
-			<Text>Vikkelät </Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_SPEEDY">
+			<Text>Hızlı</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_STOLEN">
-			<Text>Varastetut </Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_STOLEN">
+			<Text>Çalıntı</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_SUPER">
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_SUPER">
 			<Text>Super</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_TALKING">
-			<Text>Puhuvat </Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_TALKING">
+			<Text>Konuşan</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_TAME">
-			<Text>Kesyt </Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_TAME">
+			<Text>Evcil</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_TOXIC">
-			<Text>Saaste</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_TOXIC">
+			<Text>Zehirli</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_TRADITIONAL">
-			<Text>Kadonneet </Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_TRADITIONAL">
+			<Text>Geleneksel</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_UNIQUE">
-			<Text>Omat </Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_UNIQUE">
+			<Text>Eşsiz</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_UNDERGROUND">
-			<Text>Alamaailman </Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_UNDERGROUND">
+			<Text>Yeraltı</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_UNKNOWN">
-			<Text>Tuntemattomat </Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_UNKNOWN">
+			<Text>Bilinmeyen</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_VEGAN">
-			<Text>Vegaanit </Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_VEGAN">
+			<Text>Vegan</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_WAR">
-			<Text>Sota</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_WAR">
+			<Text>Savaş</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_WATER">
-			<Text>Vesi</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_WATER">
+			<Text>Su</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_WHITE">
-			<Text>Valkoiset </Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_WHITE">
+			<Text>Beyaz</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_WILD">
-			<Text>Villit </Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_WILD">
+			<Text>Vahşi</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_XERIC">
-			<Text>Helppohoitoiset </Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_XERIC">
+			<Text>Kurak</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_YELLOW">
-			<Text>Verkkokaupan </Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_YELLOW">
+			<Text>Sarı</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_YOUNG">
-			<Text>Nuoret </Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_YOUNG">
+			<Text>Genç</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_ZEALOUS">
-			<Text>Hartaat </Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_ZEALOUS">
+			<Text>Gayretli</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_GDR_PREFIX_TITANIUM">
-			<Text>Titaani</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_GDR_PREFIX_TITANIUM">
+			<Text>Titanyum</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_GDR_PREFIX_DEATH">
-			<Text>Kuolon</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_GDR_PREFIX_DEATH">
+			<Text>Ölüm</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_GDR_PREFIX_HELL">
-			<Text>Helvetin </Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_GDR_PREFIX_HELL">
+			<Text>Cehennem</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_GDR_PREFIX_DIABOLICAL">
-			<Text>Pirullinen </Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_GDR_PREFIX_DIABOLICAL">
+			<Text>Şeytani</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_GDR_PREFIX_LAND">
-			<Text>Maa</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_GDR_PREFIX_LAND">
+			<Text>Toprak</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_GDR_PREFIX_GARGANTUAN">
-			<Text>Järkälemäinen </Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_GDR_PREFIX_GARGANTUAN">
+			<Text>Devasa</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_GDR_PREFIX_MAMMOTH">
-			<Text>Mammuttimainen </Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_GDR_PREFIX_MAMMOTH">
+			<Text>Mamut</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_GDR_PREFIX_MONSTROUS">
-			<Text>Hirveä </Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_GDR_PREFIX_MONSTROUS">
+			<Text>Canavar</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_GDR_PREFIX_ARMORED">
-			<Text>Panssaroitu </Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_GDR_PREFIX_ARMORED">
+			<Text>Zırhlı</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_GDR_PREFIX_CYBERNETIC">
-			<Text>Jytky</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_GDR_PREFIX_CYBERNETIC">
+			<Text>Sibernetik</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_GDR_PREFIX_TERRIBLE">
-			<Text>Karmea </Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_GDR_PREFIX_TERRIBLE">
+			<Text>Korkunç</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_GDR_PREFIX_ABOMINABLE">
-			<Text>Kammottava </Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_GDR_PREFIX_ABOMINABLE">
+			<Text>İğrenç</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_GDR_PREFIX_INFERNAL">
-			<Text>Helvetillinen </Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_GDR_PREFIX_INFERNAL">
+			<Text>Cehennem</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_GDR_PREFIX_DREAD">
-			<Text>Pelko</Text>
-		</Replace>		<!-- Suffix-->
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_ANIMALS">
-			<Text>eläimet</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_GDR_PREFIX_DREAD">
+			<Text>Dehşet</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_ANT">
-			<Text>muurahaiset</Text>
+		<!-- Suffix-->
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_ANIMALS">
+			<Text>Hayvanlar</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_ATLAS">
-			<Text>velhot</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_ANT">
+			<Text>Karıncalar</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_AUTHORS">
-			<Text>tekijät</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_ATLAS">
+			<Text>Atlaslar</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_BAND">
-			<Text>soittajat</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_AUTHORS">
+			<Text>Yazarlar</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_BARBARIANS">
-			<Text>barbaarit</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_BAND">
+			<Text>Grup</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_BEACH">
-			<Text>rannat</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_BARBARIANS">
+			<Text>Barbarlar</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_BEARS">
-			<Text>karhut</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_BEACH">
+			<Text>Plajlar</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_BEATS">
-			<Text>biitit</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_BEARS">
+			<Text>Ayılar</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_BELLS">
-			<Text>kellot</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_BEATS">
+			<Text>Ritimler</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_BOOKS">
-			<Text>kirjat</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_BELLS">
+			<Text>Ziller</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_BREAKFAST">
-			<Text>palat</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_BOOKS">
+			<Text>Kitaplar</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_BUCKET">
-			<Text>ämpärit</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_BREAKFAST">
+			<Text>Kahvaltılar</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_BUFFALO">
-			<Text>satamat</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_BUCKET">
+			<Text>Kovalar</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_BUGS">
-			<Text>ötökät</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_BUFFALO">
+			<Text>Bufalolar</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_BUILDERS">
-			<Text>rakentajat</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_BUGS">
+			<Text>Böcekler</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_CANAL">
-			<Text>kanaalit</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_BUILDERS">
+			<Text>İnşaatçılar</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_CARD">
-			<Text>kortit</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_CANAL">
+			<Text>Kanallar</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_CARROTS">
-			<Text>porkkanat</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_CARD">
+			<Text>Kartlar</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_CARS">
-			<Text>pyörät</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_CARROTS">
+			<Text>Havuçlar</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_CASTLES">
-			<Text>linnat</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_CARS">
+			<Text>Arabalar</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_CATS">
-			<Text>kissat</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_CASTLES">
+			<Text>Kaleler</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_CAVE">
-			<Text>luolat</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_CATS">
+			<Text>Kediler</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_CELL">
-			<Text>solut</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_CAVE">
+			<Text>Mağaralar</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_CHAIR">
-			<Text>tuolit</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_CELL">
+			<Text>Hücreler</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_CHINCHILLA">
-			<Text>kuvat</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_CHAIR">
+			<Text>Sandalyeler</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_CITIES">
-			<Text>kaupungit</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_CHINCHILLA">
+			<Text>Şinşillalar</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_CIVICS">
-			<Text>normit</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_CITIES">
+			<Text>Şehirler</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_CIVILIZATION">
-			<Text>sivilisaatiot</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_CIVICS">
+			<Text>Vatandaşlıklar</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_CLUB">
-			<Text>klubit</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_CIVILIZATION">
+			<Text>Medeniyetler</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_COAST">
-			<Text>rannat</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_CLUB">
+			<Text>Kulüpler</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_COFFEE">
-			<Text>kahvit</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_COAST">
+			<Text>Kıyılar</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_CONTINENTS">
-			<Text>mantereet</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_COFFEE">
+			<Text>Kahveler</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_COOKIES">
-			<Text>keksit</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_CONTINENTS">
+			<Text>Kıtalar</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_COUNTRY">
-			<Text>maat</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_COOKIES">
+			<Text>Kurabiyeler</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_CREW">
-			<Text>vartijat</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_COUNTRY">
+			<Text>Ülkeler</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_CROWS">
-			<Text>varikset</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_CREW">
+			<Text>Mürettebat</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_CULTURE">
-			<Text>kulttuurit</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_CROWS">
+			<Text>Kargalar</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_DATES">
-			<Text>päivät</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_CULTURE">
+			<Text>Kültürler</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_DEATH">
-			<Text>kuolemat</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_DATES">
+			<Text>Tarihler</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_DEITY">
-			<Text>jumalat</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_DEATH">
+			<Text>Ölümler</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_DIAMONDS">
-			<Text>timantit</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_DEITY">
+			<Text>Tanrılar</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_DISTRICTS">
-			<Text>lähiöt</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_DIAMONDS">
+			<Text>Elmaslar</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_DOGS">
-			<Text>koirat</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_DISTRICTS">
+			<Text>Bölgeler</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_DRAGONS">
-			<Text>lohikäärmeet</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_DOGS">
+			<Text>Köpekler</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_EAGLE">
-			<Text>kotkat</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_DRAGONS">
+			<Text>Ejderhalar</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_ECHIDNA">
-			<Text>siilit</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_EAGLE">
+			<Text>Kartallar</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_EEL">
-			<Text>vaarat</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_ECHIDNA">
+			<Text>Kirpiler</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_ELEPHANT">
-			<Text>norsut</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_EEL">
+			<Text>Yılanlar</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_EMERGENCIES">
-			<Text>hätätilat</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_ELEPHANT">
+			<Text>Fillar</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_EMPEROR">
-			<Text>keisarit</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_EMERGENCIES">
+			<Text>Acil Durumlar</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_EMPIRE">
-			<Text>valtakunnat</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_EMPEROR">
+			<Text>İmparatorlar</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_EMPRESS">
-			<Text>keisarittaret</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_EMPIRE">
+			<Text>İmparatorluklar</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_EMU">
-			<Text>emut</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_EMPRESS">
+			<Text>İmparatoriçeler</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_ENEMY">
-			<Text>viholliset</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_EMU">
+			<Text>Emular</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_ENVOYS">
-			<Text>edustajat</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_ENEMY">
+			<Text>Düşmanlar</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_EVENT">
-			<Text>tapahtumat</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_ENVOYS">
+			<Text>Elçiler</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_EXPLOSIONS">
-			<Text>räjähdykset</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_EVENT">
+			<Text>Olaylar</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_EYES">
-			<Text>silmät</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_EXPLOSIONS">
+			<Text>Patlamalar</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_FAITH">
-			<Text>uskot</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_EYES">
+			<Text>Gözler</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_FARMS">
-			<Text>maatilat</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_FAITH">
+			<Text>İnançlar</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_FIGHTERS">
-			<Text>taistelijat</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_FARMS">
+			<Text>Çiftlikler</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_FIRE">
-			<Text>tulet</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_FIGHTERS">
+			<Text>Savaşçılar</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_FOOD">
-			<Text>ruuat</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_FIRE">
+			<Text>Ateşler</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_GENIUS">
-			<Text>älyköt</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_FOOD">
+			<Text>Yemekler</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_GHOST">
-			<Text>kummitukset</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_GENIUS">
+			<Text>dahiler</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_GIANTS">
-			<Text>jättiläiset</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_GHOST">
+			<Text>hayaletler</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_GOATS">
-			<Text>vuohet</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_GIANTS">
+			<Text>devler</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_GOLD">
-			<Text>kullat</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_GOATS">
+			<Text>keçiler</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_GOSSIP">
-			<Text>juorut</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_GOLD">
+			<Text>altınlar</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_GOVERNORS">
-			<Text>käskynhaltijat</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_GOSSIP">
+			<Text>dedikodular</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_GUITARS">
-			<Text>kitarat</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_GOVERNORS">
+			<Text>valiler</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_HATS">
-			<Text>hatut</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_GUITARS">
+			<Text>gitarlar</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_HEART">
-			<Text>sydämet</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_HATS">
+			<Text>şapkalar</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_HIGH">
-			<Text>korkeat</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_HEART">
+			<Text>kalpler</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_HIPPOS">
-			<Text>virtahevot</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_HIGH">
+			<Text>yüksekler</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_HISTORY">
-			<Text>historiat</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_HIPPOS">
+			<Text>su aygırları</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_HORSES">
-			<Text>hevoset</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_HISTORY">
+			<Text>tarihler</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_HOUSE">
-			<Text>talot</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_HORSES">
+			<Text>atlar</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_HUNTED">
-			<Text>saaliit</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_HOUSE">
+			<Text>evler</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_IMPROVEMENT">
-			<Text>rakenteet</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_HUNTED">
+			<Text>avlar</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_ISLANDS">
-			<Text>saaret</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_IMPROVEMENT">
+			<Text>iyileştirmeler</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_JACKET">
-			<Text>takit</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_ISLANDS">
+			<Text>adalar</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_JETS">
-			<Text>suihkarit</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_JACKET">
+			<Text>ceketler</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_KALE">
-			<Text>lehtikaalit</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_JETS">
+			<Text>jetler</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_KING">
-			<Text>kuninkaat</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_KALE">
+			<Text>lahana</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_KITTEN">
-			<Text>kissat</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_KING">
+			<Text>krallar</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_LASER">
-			<Text>laserit</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_KITTEN">
+			<Text>kediler</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_LEAGUE">
-			<Text>liitot</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_LASER">
+			<Text>lazerler</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_LETTERS">
-			<Text>kirjeet</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_LEAGUE">
+			<Text>ligler</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_LIZARD">
-			<Text>matelijat</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_LETTERS">
+			<Text>mektuplar</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_LOW">
-			<Text>matalat</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_LIZARD">
+			<Text>sürüngenler</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_LOYALISTS">
-			<Text>uskolliset</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_LOW">
+			<Text>alçaklar</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_MACHINE">
-			<Text>koneet</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_LOYALISTS">
+			<Text>sadıklar</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_MANIACS">
-			<Text>hullut</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_MACHINE">
+			<Text>makineler</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_MAP">
-			<Text>kartat</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_MANIACS">
+			<Text>deli</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_METAL">
-			<Text>metallit</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_MAP">
+			<Text>haritalar</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_MINDS">
-			<Text>mielet</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_METAL">
+			<Text>metaller</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_MINES">
-			<Text>kaivokset</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_MINDS">
+			<Text>zihinler</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_NATION">
-			<Text>kansat</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_MINES">
+			<Text>madenler</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_NOISE">
-			<Text>melut</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_NATION">
+			<Text>uluslar</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_OBSERVATIONS">
-			<Text>havainnot</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_NOISE">
+			<Text>gürültüler</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_ORCHESTRA">
-			<Text>orkesterit</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_OBSERVATIONS">
+			<Text>gözlemler</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_ORDER">
-			<Text>tilaukset</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_ORCHESTRA">
+			<Text>orkestralar</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_PANTHEON">
-			<Text>uskovat</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_ORDER">
+			<Text>emirler</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_PARTY">
-			<Text>juhlat</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_PANTHEON">
+			<Text>panteonlar</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_PEACOCK">
-			<Text>riikinkukot</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_PARTY">
+			<Text>partiler</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_PENGUIN">
-			<Text>pingviinit</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_PEACOCK">
+			<Text>tavus kuşları</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_PEOPLE">
-			<Text>kansalaiset</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_PENGUIN">
+			<Text>penguenler</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_PEPPERS">
-			<Text>pippurit</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_PEOPLE">
+			<Text>insanlar</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_POETS">
-			<Text>runoilijat</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_PEPPERS">
+			<Text>biberler</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_POND">
-			<Text>lammet</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_POETS">
+			<Text>şairler</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_POWER">
-			<Text>virrat</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_POND">
+			<Text>göller</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_PRINCE">
-			<Text>prinssit</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_POWER">
+			<Text>güçler</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_PRINCESS">
-			<Text>prinsessat</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_PRINCE">
+			<Text>prensler</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_PRODUCTION">
-			<Text>tuotannot</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_PRINCESS">
+			<Text>prensesler</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_PROPHETS">
-			<Text>profeetat</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_PRODUCTION">
+			<Text>üretimler</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_PUNK">
-			<Text>punkit</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_PROPHETS">
+			<Text>peygamberler</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_PUPPIES">
-			<Text>koirat</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_PUNK">
+			<Text>punklar</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_QUEEN">
-			<Text>valtiaat</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_PUPPIES">
+			<Text>yavrular</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_QUESTIONS">
-			<Text>kysymykset</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_QUEEN">
+			<Text>kraliçeler</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_RABBIT">
-			<Text>jänikset</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_QUESTIONS">
+			<Text>sorular</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_RANGER">
-			<Text>samoojat</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_RABBIT">
+			<Text>tavşanlar</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_REJECTS">
-			<Text>hylkiöt</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_RANGER">
+			<Text>korucular</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_REVOLUTION">
-			<Text>vallankumoukset</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_REJECTS">
+			<Text>reddedilenler</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_RHINO">
-			<Text>sarvikuonot</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_REVOLUTION">
+			<Text>devrimler</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_RIOT">
-			<Text>mellakat</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_RHINO">
+			<Text>gergedanlar</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_RIVERS">
-			<Text>joet</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_RIOT">
+			<Text>isyanlar</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_ROBOTS">
-			<Text>robotit</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_RIVERS">
+			<Text>nehirler</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_SABOTAGE">
-			<Text>päivitykset</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_ROBOTS">
+			<Text>robotlar</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_SCIENCE">
-			<Text>tieteet</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_SABOTAGE">
+			<Text>sabotajlar</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_SETTLERS">
-			<Text>uudisasuttajat</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_SCIENCE">
+			<Text>bilimler</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_SLANG">
-			<Text>slangit</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_SETTLERS">
+			<Text>yerleşimciler</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_SLOTH">
-			<Text>laiskiaiset</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_SLANG">
+			<Text>argo</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_SNAKE">
-			<Text>käärmeet</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_SLOTH">
+			<Text>tembeller</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_SOUL">
-			<Text>sielut</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_SNAKE">
+			<Text>yılanlar</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_SPADES">
-			<Text>lapiot</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_SOUL">
+			<Text>ruhlar</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_SPIDERS">
-			<Text>hämähäkit</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_SPADES">
+			<Text>maça</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_SPIES">
-			<Text>vakoojat</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_SPIDERS">
+			<Text>örümcekler</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_SQUIRRELS">
-			<Text>oravat</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_SPIES">
+			<Text>casuslar</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_STAR">
-			<Text>tähdet</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_SQUIRRELS">
+			<Text>sincaplar</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_STONES">
-			<Text>kivet</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_STAR">
+			<Text>yıldızlar</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_STOPLIGHT">
-			<Text>pysäytykset</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_STONES">
+			<Text>taşlar</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_SURPRISE">
-			<Text>yllätykset</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_STOPLIGHT">
+			<Text>trafik ışıkları</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_SUSHI">
-			<Text>sushit</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_SURPRISE">
+			<Text>sürprizler</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_SUZERAINS">
-			<Text>vallanpitäjät</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_SUSHI">
+			<Text>sushi</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_TECHNOLOGIES">
-			<Text>tekniikat</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_SUZERAINS">
+			<Text>hükümdarlar</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_TILES">
-			<Text>tiikerit</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_TECHNOLOGIES">
+			<Text>teknolojiler</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_TIGERS">
-			<Text>ruudut</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_TILES">
+			<Text>karolar</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_TOMATOES">
-			<Text>tomaatit</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_TIGERS">
+			<Text>kaplanlar</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_TRADERS">
-			<Text>kauppurit</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_TOMATOES">
+			<Text>domatesler</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_TRICK">
-			<Text>temput</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_TRADERS">
+			<Text>tüccarlar</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_TURNS">
-			<Text>vuorot</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_TRICK">
+			<Text>hileler</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_TURTLE">
-			<Text>kilpikonnat</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_TURNS">
+			<Text>dönüşler</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_VULTURES">
-			<Text>korppikotkat</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_TURTLE">
+			<Text>kaplumbağalar</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_WALLS">
-			<Text>muurit</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_VULTURES">
+			<Text>akbabalar</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_WOLF">
-			<Text>sudet</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_WALLS">
+			<Text>duvarlar</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_WOMBATS">
-			<Text>vompatit</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_WOLF">
+			<Text>kurtlar</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_WONDERS">
-			<Text>ihmeet</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_WOMBATS">
+			<Text>vombatlar</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_XYLOPHONES">
-			<Text>kellopelit</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_WONDERS">
+			<Text>harikalar</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_YAKS">
-			<Text>jakit</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_XYLOPHONES">
+			<Text>ksilofonlar</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_ZOMBIES">
-			<Text>hihhulit</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_YAKS">
+			<Text>yaklar</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_GDR_SUFFIX_MACHINE">
-			<Text>kone</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_ZOMBIES">
+			<Text>zombiler</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_GDR_SUFFIX_MECH">
-			<Text>mecha</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_GDR_SUFFIX_MACHINE">
+			<Text>makine</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_GDR_SUFFIX_GOLEM">
-			<Text>golemi</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_GDR_SUFFIX_MECH">
+			<Text>mech</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_GDR_SUFFIX_BEHEMOTH">
-			<Text>saurus</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_GDR_SUFFIX_GOLEM">
+			<Text>golem</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_GDR_SUFFIX_COLOSSUS">
-			<Text>kolossi</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_GDR_SUFFIX_BEHEMOTH">
+			<Text>behemoth</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_GDR_SUFFIX_HULK">
-			<Text>hulkki</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_GDR_SUFFIX_COLOSSUS">
+			<Text>kolossus</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_GDR_SUFFIX_BEAST">
-			<Text>peto</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_GDR_SUFFIX_HULK">
+			<Text>hulk</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_GDR_SUFFIX_OGRE">
-			<Text>örkki</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_GDR_SUFFIX_BEAST">
+			<Text>canavar</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_GDR_SUFFIX_MONSTROSITY">
-			<Text>peikko</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_GDR_SUFFIX_OGRE">
+			<Text>ogre</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_GDR_SUFFIX_ROBOT">
-			<Text>robotti</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_GDR_SUFFIX_MONSTROSITY">
+			<Text>canavarlık</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_GDR_SUFFIX_AUTOMATON">
-			<Text>automaatti</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_GDR_SUFFIX_ROBOT">
+			<Text>robot</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_GDR_SUFFIX_CYCLOPS">
-			<Text>kyklooppi</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_GDR_SUFFIX_AUTOMATON">
+			<Text>otomaton</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_GDR_SUFFIX_GIANT">
-			<Text>jätti</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_GDR_SUFFIX_CYCLOPS">
+			<Text>cyklops</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_GDR_SUFFIX_TITAN">
-			<Text>titaani</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_GDR_SUFFIX_GIANT">
+			<Text>dev</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_GDR_SUFFIX_WALKER">
-			<Text>kulkija</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_GDR_SUFFIX_TITAN">
+			<Text>titan</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITNAME_GDR_SUFFIX_DEVASTATOR">
-			<Text>tuhoaja</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_GDR_SUFFIX_WALKER">
+			<Text>yürüyen</Text>
+		</Replace>
+		<Replace Language="pl_PL" Tag="LOC_UNITNAME_GDR_SUFFIX_DEVASTATOR">
+			<Text>yıkıcı</Text>
 		</Replace>
 	</LocalizedText>
 </GameData>

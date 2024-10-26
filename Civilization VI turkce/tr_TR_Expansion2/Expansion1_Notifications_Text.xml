@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameData>
 	<LocalizedText>
-		<Replace Language="en_US" Tag="LOC_NOTIFICATION_CITY_BECAME_CIV_SUMMARY">
-			<Text>Uskollisuuden ehdyttyä {1_CityName} on kapinoinut ja on nyt osa {2_CivName[2]} valtakuntaa. Saadaksemme sen takaisin haltuumme meidän tulee vankentaa uskollisuuttamme tai käyttää armeijaamme.</Text>
+		<Replace Language="pl_PL" Tag="LOC_NOTIFICATION_CITY_BECAME_CIV_SUMMARY">
+			<Text>Sadakat tükendiğinde {1_CityName} isyan etti ve şimdi {2_CivName[2]} imparatorluğunun bir parçası. Onu geri almak için sadakatimizi güçlendirmeli veya ordumuzu kullanmalıyız.</Text>
 		</Replace>
 	</LocalizedText>
 </GameData>
