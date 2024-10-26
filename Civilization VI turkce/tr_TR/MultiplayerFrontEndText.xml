@@ -2,17 +2,17 @@
 <GameData>
 	<LocalizedText>
 		<!-- Multiplayer Lobby Screen -->
-		<Replace Language="en_US" Tag="LOC_LOBBY_GAME_STARTED_TOOLTIP">
-			<Text>Peli on käynnissä</Text>
+		<Replace Language="tr_TR" Tag="LOC_LOBBY_GAME_STARTED_TOOLTIP">
+			<Text>Oyun Başladı</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_LOBBY_GAME_LOADING_SAVE_TOOLTIP">
-			<Text>Ladataan tallennusta</Text>
+		<Replace Language="tr_TR" Tag="LOC_LOBBY_GAME_LOADING_SAVE_TOOLTIP">
+			<Text>Kayıt Yükleniyor</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_LOBBY_GAME_VERSION_MISMATCH_TOOLTIP">
-			<Text>Pelissä on käytössä eri versio.[NEWLINE]Pelissä: {1_GameVersion} Paikallisesti: {2_GameVersion}</Text>
+		<Replace Language="tr_TR" Tag="LOC_LOBBY_GAME_VERSION_MISMATCH_TOOLTIP">
+			<Text>Oyunun sürümü farklı.[NEWLINE]Oyunda: {1_GameVersion} Yerel: {2_GameVersion}</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_LOBBY_JOIN_DISABLED_VERSION_MISMATCH_TOOLTIP">
-			<Text>Eri version pelejä ei voi yhdistää.</Text>
+		<Replace Language="tr_TR" Tag="LOC_LOBBY_JOIN_DISABLED_VERSION_MISMATCH_TOOLTIP">
+			<Text>Farklı sürümlerdeki oyunlara katılınamaz.</Text>
 		</Replace>
 	</LocalizedText>
 </GameData>
