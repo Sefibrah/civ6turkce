@@ -58,3 +58,8 @@ Translate values from Text tags from finnish to turkish. those values that are i
 47. Translate `Vikings_PackageText.xml` from Finnish to Turkish
 48. Translate `Wars_Text.xml` from Finnish to Turkish
 49. Translate `WorldBuilder_Text.xml` from Finnish to Turkish
+50. Translate `Australia_ConfigText.xml` from Finnish to Turkish
+51. Translate `Australia_Text.xml` from Finnish to Turkish
+52. Translate `Babylon_PackageText.xml` from Finnish to Turkish
+53. Translate `Byzantium_Gaul_PackageText.xml` from Finnish to Turkish
+54. Translate `CatherineDeMedici_PackageText.xml` from Finnish to Turkish

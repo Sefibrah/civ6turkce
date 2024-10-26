@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameData>
 	<LocalizedText>
-		<Replace Language="en_US" Tag="LOC_GOLDEN_AGE_NAME">
-			<Text>Kultakauden sota</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOLDEN_AGE_NAME">
+			<Text>Altın Çağ Savaşı</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_EMERGENCY_WAR_NAME">
-			<Text>Hätätilasota</Text>
+		<Replace Language="pl_PL" Tag="LOC_EMERGENCY_WAR_NAME">
+			<Text>Acil Durum Savaşı</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_WAR_OF_RETRIBUTION_NAME">
-			<Text>Hyvityssota</Text>
+		<Replace Language="pl_PL" Tag="LOC_WAR_OF_RETRIBUTION_NAME">
+			<Text>Mukabele Savaşı</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_IDEOLOGICAL_WAR_NAME">
-			<Text>Ideologinen sota</Text>
+		<Replace Language="pl_PL" Tag="LOC_IDEOLOGICAL_WAR_NAME">
+			<Text>İdeolojik Savaş</Text>
 		</Replace>
 	</LocalizedText>
 </GameData>

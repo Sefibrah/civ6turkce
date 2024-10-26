@@ -1,56 +1,56 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameData>
     <LocalizedText>
-        <Replace Language="en_US" Tag="LOC_HUD_CITY_RELIGION_TT">
-            <Text>Valtauskonto: {1_ReligionName}</Text>
+        <Replace Language="pl_PL" Tag="LOC_HUD_CITY_RELIGION_TT">
+            <Text>Başlıca Din: {1_ReligionName}</Text>
         </Replace>
-        <Replace Language="en_US" Tag="LOC_CITY_BELONGS_TT">
-            <Text>Kaupunki on {1_CivName[2]} hallinnassa</Text>
+        <Replace Language="pl_PL" Tag="LOC_CITY_BELONGS_TT">
+            <Text>Şehir {1_CivName[2]} kontrolünde</Text>
         </Replace>
-        <Replace Language="en_US" Tag="LOC_CITY_BELONGS_FREECITY_TT">
-            <Text>Itsenäinen vapaa kaupunki</Text>
+        <Replace Language="pl_PL" Tag="LOC_CITY_BELONGS_FREECITY_TT">
+            <Text>Bağımsız serbest şehir</Text>
         </Replace>
-        <Replace Language="en_US" Tag="LOC_CITY_BANNER_TT">
+        <Replace Language="pl_PL" Tag="LOC_CITY_BANNER_TT">
             <Text>{1_CityName} ({2_CivName[2]})</Text>
         </Replace>
-        <Replace Language="en_US" Tag="LOC_HUD_CITY_GOVERNOR_NO_ID">
-            <Text>Tiedustelumme tietää [ICON_Governor] käskynhaltijan asettuneen tähän kaupunkiin, mutta meillä ei ole tietoa siitä kuka hän on tai suorittaako hän virkaansa</Text>
+        <Replace Language="pl_PL" Tag="LOC_HUD_CITY_GOVERNOR_NO_ID">
+            <Text>İstihbaratımız [ICON_Governor] valinin bu şehre yerleştiğini biliyor, ancak kim olduğunu veya görevini yerine getirip getirmediğini bilmiyoruz</Text>
         </Replace>
-        <Replace Language="en_US" Tag="LOC_HUD_CITY_GOVERNOR_NO_TURNS">
-            <Text>[ICON_Governor] {1_GovernorName} on tiedustelumme mukaan asettunut tähän kaupunkiin, mutta emme tiedä suorittaako hän virkaansa</Text>
+        <Replace Language="pl_PL" Tag="LOC_HUD_CITY_GOVERNOR_NO_TURNS">
+            <Text>[ICON_Governor] {1_GovernorName} istihbaratımıza göre bu şehre yerleşti, ancak görevini yerine getirip getirmediğini bilmiyoruz</Text>
         </Replace>
-        <Replace Language="en_US" Tag="LOC_CITY_BANNER_ACTIVE_TRADING">
-            <Text>Omistamme kauppapaikan täällä</Text>
+        <Replace Language="pl_PL" Tag="LOC_CITY_BANNER_ACTIVE_TRADING">
+            <Text>Burada bir ticaret merkezi sahibiz</Text>
         </Replace>
-        <Replace Language="en_US" Tag="LOC_CITY_BANNER_INACTIVE_TRADING">
-            <Text>Omistamme kauppapaikan täällä, mutta se on pois toiminnasta sodan vuoksi</Text>
+        <Replace Language="pl_PL" Tag="LOC_CITY_BANNER_INACTIVE_TRADING">
+            <Text>Burada bir ticaret merkezi sahibiz, ancak savaş nedeniyle faaliyette değil</Text>
         </Replace>
-        <Replace Language="en_US" Tag="LOC_CITY_BANNER_CAN_STRIKE">
-            <Text>Kaupunki kykenee tulittamaan</Text>
+        <Replace Language="pl_PL" Tag="LOC_CITY_BANNER_CAN_STRIKE">
+            <Text>Şehir ateş edebilir</Text>
         </Replace>
-        <Replace Language="en_US" Tag="LOC_CITY_BANNER_FORTIFICATION_TT">
-            <Text>Kaupungilla on heikko puolustus</Text>
+        <Replace Language="pl_PL" Tag="LOC_CITY_BANNER_FORTIFICATION_TT">
+            <Text>Şehir zayıf savunmaya sahip</Text>
         </Replace>
-        <Replace Language="en_US" Tag="LOC_CITY_BANNER_WALLED_FORTIFICATION_TT">
-            <Text>Muuri suojelee kaupunkia</Text>
+        <Replace Language="pl_PL" Tag="LOC_CITY_BANNER_WALLED_FORTIFICATION_TT">
+            <Text>Şehri bir duvar koruyor</Text>
         </Replace>
-        <Replace Language="en_US" Tag="LOC_CITY_BANNER_ORIGINAL_CAPITAL_TT">
-            <Text>Tämä on {1_Owner[2]} alkuperäinen pääkaupunki</Text>
+        <Replace Language="pl_PL" Tag="LOC_CITY_BANNER_ORIGINAL_CAPITAL_TT">
+            <Text>Bu, {1_Owner[2]} orijinal başkenti</Text>
         </Replace>
-        <Replace Language="en_US" Tag="LOC_CITY_BANNER_NEW_CAPITAL_TT">
-            <Text>Tämä on {1_Owner[2]} uusi pääkaupunki</Text>
+        <Replace Language="pl_PL" Tag="LOC_CITY_BANNER_NEW_CAPITAL_TT">
+            <Text>Bu, {1_Owner[2]} yeni başkenti</Text>
         </Replace>
-        <Replace Language="en_US" Tag="LOC_CITY_BANNER_CAPTURED_CAPITAL_TT">
-            <Text>Tämä on {1_OriginalOwner[2]} alkuperäinen pääkaupunki (vallattu)</Text>
+        <Replace Language="pl_PL" Tag="LOC_CITY_BANNER_CAPTURED_CAPITAL_TT">
+            <Text>Bu, {1_OriginalOwner[2]} orijinal başkenti (ele geçirilmiş)</Text>
         </Replace>
-        <Replace Language="en_US" Tag="LOC_CITY_BANNER_OTHER_CITY_TT">
-            <Text>Tämä on {1_Owner[2]} kaupunki</Text>
+        <Replace Language="pl_PL" Tag="LOC_CITY_BANNER_OTHER_CITY_TT">
+            <Text>Bu, {1_Owner[2]} şehri</Text>
         </Replace>
-        <Replace Language="en_US" Tag="LOC_CITY_BANNER_CITY_STATE_TT">
-            <Text>Kaupunkivaltio</Text>
+        <Replace Language="pl_PL" Tag="LOC_CITY_BANNER_CITY_STATE_TT">
+            <Text>Şehir devleti</Text>
         </Replace>
-        <Replace Language="en_US" Tag="LOC_CITY_BANNER_FREE_CITY_TT">
-            <Text>Vapaa kaupunki</Text>
+        <Replace Language="pl_PL" Tag="LOC_CITY_BANNER_FREE_CITY_TT">
+            <Text>Serbest şehir</Text>
         </Replace>
     </LocalizedText>
 </GameData>

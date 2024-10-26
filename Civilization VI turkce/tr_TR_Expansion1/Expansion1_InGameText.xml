@@ -2,1917 +2,1917 @@
 <GameData>
 	<LocalizedText>
 		<!-- Combat Modifiers -->
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_DESCRIPTOR_PREVIEW_TEXT">
-			<Text>(käskynhaltija)</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_DESCRIPTOR_PREVIEW_TEXT">
+			<Text>(vali)</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_ALLIANCE_DESCRIPTOR_PREVIEW_TEXT">
-			<Text>(liitto)</Text>
+		<Replace Language="pl_PL" Tag="LOC_ALLIANCE_DESCRIPTOR_PREVIEW_TEXT">
+			<Text>(ittifak)</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_COMBAT_PREVIEW_DIPLOMATIC_BONUS">
-			<Text>+{1_Value} lähiajan diplomaattinen muutos</Text>
+		<Replace Language="pl_PL" Tag="LOC_COMBAT_PREVIEW_DIPLOMATIC_BONUS">
+			<Text>+{1_Value} yakın zaman diplomatik değişiklik</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_COMBAT_PREVIEW_ESPIONAGE_BONUS">
-			<Text>+{1_Value} vastustajan liikkeiden tuntemisesta</Text>
+		<Replace Language="pl_PL" Tag="LOC_COMBAT_PREVIEW_ESPIONAGE_BONUS">
+			<Text>+{1_Value} rakibin hareketlerini bilmekten</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_COMBAT_PREVIEW_CITY_COMBAT_BONUS">
-			<Text>+{1_Value} varuskunnan komentajasta</Text>
+		<Replace Language="pl_PL" Tag="LOC_COMBAT_PREVIEW_CITY_COMBAT_BONUS">
+			<Text>+{1_Value} garnizon komutanından</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_COMBAT_PREVIEW_ALLIANCE_MILITARY_BUFF">
-			<Text>+{1_Value} sotilasliitosta</Text>
+		<Replace Language="pl_PL" Tag="LOC_COMBAT_PREVIEW_ALLIANCE_MILITARY_BUFF">
+			<Text>+{1_Value} askeri ittifaktan</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_COMBAT_PREVIEW_EMERGENCY_MILITARY_BUFF">
-			<Text>{1_Value: number +#;-#} hätätilasta</Text>
+		<Replace Language="pl_PL" Tag="LOC_COMBAT_PREVIEW_EMERGENCY_MILITARY_BUFF">
+			<Text>{1_Value: number +#;-#} acil durumdan</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_COMBAT_PREVIEW_ALLIANCE_RELIGIOUS_COMBAT_BUFF">
-			<Text>+{1_Value} uskonnollisesta liitosta</Text>
+		<Replace Language="pl_PL" Tag="LOC_COMBAT_PREVIEW_ALLIANCE_RELIGIOUS_COMBAT_BUFF">
+			<Text>+{1_Value} dini ittifaktan</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_COMBAT_PREVIEW_ANTI_AIR_DEFENSE_BONUS_DESC">
-			<Text>+{1_Value} vahvistetusta ilmatorjunnasta</Text>
+		<Replace Language="pl_PL" Tag="LOC_COMBAT_PREVIEW_ANTI_AIR_DEFENSE_BONUS_DESC">
+			<Text>+{1_Value} güçlendirilmiş hava savunmasından</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_COMBAT_PREVIEW_RELIGIOUS_CITY_BONUS">
-			<Text>+{1_Value} käskynhaltijan ylennyksestä "suurinkvisiittori"</Text>
+		<Replace Language="pl_PL" Tag="LOC_COMBAT_PREVIEW_RELIGIOUS_CITY_BONUS">
+			<Text>+{1_Value} "büyük engizisyoncu" terfisinden</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_COMBAT_PREVIEW_LESS_EFFECTIVE_VS_LAND_UNITS_DESC">
-			<Text>-{1_Value} heikommasta kyvystä maayksiköitä vastaan</Text>
+		<Replace Language="pl_PL" Tag="LOC_COMBAT_PREVIEW_LESS_EFFECTIVE_VS_LAND_UNITS_DESC">
+			<Text>-{1_Value} kara birimlerine karşı daha az etkili</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_COMBAT_PREVIEW_LESS_EFFECTIVE_VS_NAVAL_UNITS_DESC">
-			<Text>-{1_Value} heikommasta kyvystä meriyksiköitä vastaan</Text>
+		<Replace Language="pl_PL" Tag="LOC_COMBAT_PREVIEW_LESS_EFFECTIVE_VS_NAVAL_UNITS_DESC">
+			<Text>-{1_Value} deniz birimlerine karşı daha az etkili</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_HUD_CITY_GROWTH_OCCUPIED">
-			<Text>Miehitetty</Text>
+		<Replace Language="pl_PL" Tag="LOC_HUD_CITY_GROWTH_OCCUPIED">
+			<Text>İşgal Edilmiş</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_REPORTS_LOYALTY">
-			<Text>Uskollisuus</Text>
+		<Replace Language="pl_PL" Tag="LOC_REPORTS_LOYALTY">
+			<Text>Sadakat</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_REPORTS_GOVERNOR">
-			<Text>Käskynhaltija</Text>
+		<Replace Language="pl_PL" Tag="LOC_REPORTS_GOVERNOR">
+			<Text>Vali</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_POST_COMBAT_LOYALTY_PLUS">
-			<Text>[COLOR_LIGHTBLUE]+{1_Num} uskollisuutta[ENDCOLOR]</Text>
+		<Replace Language="pl_PL" Tag="LOC_POST_COMBAT_LOYALTY_PLUS">
+			<Text>[COLOR_LIGHTBLUE]+{1_Num} sadakat[ENDCOLOR]</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_POST_COMBAT_LOYALTY_MINUS">
-			<Text>[COLOR_RED]{1_Num} uskollisuus[ENDCOLOR]</Text>
+		<Replace Language="pl_PL" Tag="LOC_POST_COMBAT_LOYALTY_MINUS">
+			<Text>[COLOR_RED]{1_Num} sadakat[ENDCOLOR]</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_HUD_CITY_AMENITIES_LOST_FROM_GOVERNORS">
-			<Text>Elintaso käskynhaltijoilta:</Text>
+		<Replace Language="pl_PL" Tag="LOC_HUD_CITY_AMENITIES_LOST_FROM_GOVERNORS">
+			<Text>Valilerden yaşam standardı:</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_HUD_CITY_OCCUPIED_LOYALITY_STATUS">
-			<Text>Miehitetty: {1_LoyalityStatus}</Text>
+		<Replace Language="pl_PL" Tag="LOC_HUD_CITY_OCCUPIED_LOYALITY_STATUS">
+			<Text>İşgal Edilmiş: {1_LoyalityStatus}</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_NO_GOVERNORS_TITLE_AVAILABLE">
-			<Text>Ei käskynhaltijoiden virkoja</Text>
+		<Replace Language="pl_PL" Tag="LOC_NO_GOVERNORS_TITLE_AVAILABLE">
+			<Text>Vali unvanı yok</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNORS_TITLE">
-			<Text>KÄSKYNHALTIJAT</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNORS_TITLE">
+			<Text>VALİLER</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_LOYALTY_PANEL_UNMET_CIV">
-			<Text>Kohtaamaton kansa</Text>
+		<Replace Language="pl_PL" Tag="LOC_LOYALTY_PANEL_UNMET_CIV">
+			<Text>Karşılaşılmamış millet</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GREAT_PEOPLE_PATRONAGE_FAITH_OFF">
-			<Text>[COLOR_RED][ICON_Faith] Uskon käyttö värväykseen on jonkin nykyisen linjauksen estämä.[ENDCOLOR]</Text>
+		<Replace Language="pl_PL" Tag="LOC_GREAT_PEOPLE_PATRONAGE_FAITH_OFF">
+			<Text>[COLOR_RED][ICON_Faith] İnanç kullanımı mevcut politikalar nedeniyle engellenmiştir.[ENDCOLOR]</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GREAT_PEOPLE_PATRONAGE_GOLD_OFF">
-			<Text>[COLOR_RED][ICON_Gold] Kullan käyttö värväykseen on jonkin nykyisen linjauksen estämä.[ENDCOLOR]</Text>
+		<Replace Language="pl_PL" Tag="LOC_GREAT_PEOPLE_PATRONAGE_GOLD_OFF">
+			<Text>[COLOR_RED][ICON_Gold] Altın kullanımı mevcut politikalar nedeniyle engellenmiştir.[ENDCOLOR]</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITOPERATIONS_CANNOT_REPAIR_BLOCKED_BY_POLICY">
-			<Text>Hoivaaminen ei onnistu tällä alueella valitun linjauksen vuoksi</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITOPERATIONS_CANNOT_REPAIR_BLOCKED_BY_POLICY">
+			<Text>Seçilen politika nedeniyle bu bölgede onarım yapılamaz</Text>
 		</Replace>
 		<!-- Alliance Text -->
-		<Replace Language="en_US" Tag="LOC_DIPLOACTION_INVALID_REASON_YOU_HAVE_THIS_ALLIANCE">
-			<Text>Meillä on jo tämäntyyppinen liitto toisen kansakunnan kanssa.</Text>
+		<Replace Language="pl_PL" Tag="LOC_DIPLOACTION_INVALID_REASON_YOU_HAVE_THIS_ALLIANCE">
+			<Text>Bu tür bir ittifakımız zaten başka bir milletle var.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_DIPLOACTION_INVALID_REASON_THEY_HAVE_THIS_ALLIANCE">
-			<Text>{1_OtherCiv} on jo liitossa tällä tavalla toisen kansakunnan kanssa.</Text>
+		<Replace Language="pl_PL" Tag="LOC_DIPLOACTION_INVALID_REASON_THEY_HAVE_THIS_ALLIANCE">
+			<Text>{1_OtherCiv} zaten başka bir milletle bu tür bir ittifak içinde.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_DIPLOMACY_ALLIANCE_LEVEL_COLON_INPUT">
-			<Text>Liiton taso: {1_AllianceLevel}</Text>
+		<Replace Language="pl_PL" Tag="LOC_DIPLOMACY_ALLIANCE_LEVEL_COLON_INPUT">
+			<Text>İttifak seviyesi: {1_AllianceLevel}</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_DIPLOMACY_ALLIANCE_LEVEL_COLON">
-			<Text>Liiton taso:</Text>
+		<Replace Language="pl_PL" Tag="LOC_DIPLOMACY_ALLIANCE_LEVEL_COLON">
+			<Text>İttifak seviyesi:</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_DIPLOMACY_ALLIANCE_LEVEL">
-			<Text>Liiton taso</Text>
+		<Replace Language="pl_PL" Tag="LOC_DIPLOMACY_ALLIANCE_LEVEL">
+			<Text>İttifak seviyesi</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_DIPLOMACY_ALLIANCE_POINTS_COLON">
-			<Text>Liittolaispisteet:</Text>
+		<Replace Language="pl_PL" Tag="LOC_DIPLOMACY_ALLIANCE_POINTS_COLON">
+			<Text>İttifak puanları:</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_DIPLOMACY_ALLIANCE_POINTS_PER_TURN">
+		<Replace Language="pl_PL" Tag="LOC_DIPLOMACY_ALLIANCE_POINTS_PER_TURN">
 			<Text>+{1_PointsPerTurn}</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_DIPLOMACY_ALLIANCE_POINTS_NEEDED">
+		<Replace Language="pl_PL" Tag="LOC_DIPLOMACY_ALLIANCE_POINTS_NEEDED">
 			<Text>/ {1_PointsNeeded}</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_DIPLOMACY_ALLIANCE_CURRENT">
-			<Text>Nykyinen liitto: {1_AllianceTypeName}</Text>
+		<Replace Language="pl_PL" Tag="LOC_DIPLOMACY_ALLIANCE_CURRENT">
+			<Text>Mevcut ittifak: {1_AllianceTypeName}</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_DIPLOMACY_ALLIANCE_LEVEL_BUTTON_TOOLTIP">
-			<Text>Tarkastele tärkeitä tietoja liittomme tasosta tähän hallitsijaan, esimerkiksi millaisiin etuihin meillä on pääsy.</Text>
+		<Replace Language="pl_PL" Tag="LOC_DIPLOMACY_ALLIANCE_LEVEL_BUTTON_TOOLTIP">
+			<Text>Bu hükümdarla olan ittifak seviyemiz hakkında önemli bilgileri inceleyin, örneğin hangi avantajlara erişimimiz var.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_DIPLOMACY_ALLIANCE_SCIENCE_NAME_LEVEL">
-			<Text>Tutkimusliiton taso {1_AllianceLevel}</Text>
+		<Replace Language="pl_PL" Tag="LOC_DIPLOMACY_ALLIANCE_SCIENCE_NAME_LEVEL">
+			<Text>Bilim İttifakı seviyesi {1_AllianceLevel}</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_DIPLOMACY_ALLIANCE_CULTURAL_NAME_LEVEL">
-			<Text>Kulttuuriliiton taso {1_AllianceLevel}</Text>
+		<Replace Language="pl_PL" Tag="LOC_DIPLOMACY_ALLIANCE_CULTURAL_NAME_LEVEL">
+			<Text>Kültürel İttifak seviyesi {1_AllianceLevel}</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_DIPLOMACY_ALLIANCE_ECONOMIC_NAME_LEVEL">
-			<Text>Talousliiton taso {1_AllianceLevel}</Text>
+		<Replace Language="pl_PL" Tag="LOC_DIPLOMACY_ALLIANCE_ECONOMIC_NAME_LEVEL">
+			<Text>Ekonomik İttifak seviyesi {1_AllianceLevel}</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_DIPLOMACY_ALLIANCE_MILITARY_NAME_LEVEL">
-			<Text>Sotilasliiton taso {1_AllianceLevel}</Text>
+		<Replace Language="pl_PL" Tag="LOC_DIPLOMACY_ALLIANCE_MILITARY_NAME_LEVEL">
+			<Text>Askeri İttifak seviyesi {1_AllianceLevel}</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_DIPLOMACY_ALLIANCE_RELIGIOUS_NAME_LEVEL">
-			<Text>Uskonnollisen liiton taso {1_AllianceLevel}</Text>
+		<Replace Language="pl_PL" Tag="LOC_DIPLOMACY_ALLIANCE_RELIGIOUS_NAME_LEVEL">
+			<Text>Dini İttifak seviyesi {1_AllianceLevel}</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_ALLIANCE_RESEARCH">
-			<Text>Tutkimusliitto</Text>
+		<Replace Language="pl_PL" Tag="LOC_ALLIANCE_RESEARCH">
+			<Text>Bilim İttifakı</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_ALLIANCE_CULTURAL">
-			<Text>Kulttuuriliitto</Text>
+		<Replace Language="pl_PL" Tag="LOC_ALLIANCE_CULTURAL">
+			<Text>Kültürel İttifak</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_ALLIANCE_MILITARY">
-			<Text>Sotilasliitto</Text>
+		<Replace Language="pl_PL" Tag="LOC_ALLIANCE_MILITARY">
+			<Text>Askeri İttifak</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_ALLIANCE_ECONOMIC">
-			<Text>Talousliitto</Text>
+		<Replace Language="pl_PL" Tag="LOC_ALLIANCE_ECONOMIC">
+			<Text>Ekonomik İttifak</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_ALLIANCE_RELIGIOUS">
-			<Text>Uskonnollinen liitto</Text>
+		<Replace Language="pl_PL" Tag="LOC_ALLIANCE_RELIGIOUS">
+			<Text>Dini İttifak</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_DIPLO_CHOICE_ALLIANCE_RESEARCH">
-			<Text>Muodosta tutkimusliitto</Text>
+		<Replace Language="pl_PL" Tag="LOC_DIPLO_CHOICE_ALLIANCE_RESEARCH">
+			<Text>Bilim İttifakı Kur</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_DIPLO_CHOICE_ALLIANCE_CULTURAL">
-			<Text>Muodosta kulttuuriliitto</Text>
+		<Replace Language="pl_PL" Tag="LOC_DIPLO_CHOICE_ALLIANCE_CULTURAL">
+			<Text>Kültürel İttifak Kur</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_DIPLO_CHOICE_ALLIANCE_MILITARY">
-			<Text>Muodosta sotilasliitto</Text>
+		<Replace Language="pl_PL" Tag="LOC_DIPLO_CHOICE_ALLIANCE_MILITARY">
+			<Text>Askeri İttifak Kur</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_DIPLO_CHOICE_ALLIANCE_ECONOMIC">
-			<Text>Muodosta talousliitto</Text>
+		<Replace Language="pl_PL" Tag="LOC_DIPLO_CHOICE_ALLIANCE_ECONOMIC">
+			<Text>Ekonomik İttifak Kur</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_DIPLO_CHOICE_ALLIANCE_RELIGIOUS">
-			<Text>Muodosta uskonnollinen liitto</Text>
+		<Replace Language="pl_PL" Tag="LOC_DIPLO_CHOICE_ALLIANCE_RELIGIOUS">
+			<Text>Dini İttifak Kur</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_DIPLO_CHOICE_RENEW_ALLIANCE">
-			<Text>Uusi liitto</Text>
+		<Replace Language="pl_PL" Tag="LOC_DIPLO_CHOICE_RENEW_ALLIANCE">
+			<Text>İttifakı Yenile</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_DIPLOMACY_ALLIANCES">
-			<Text>Liitot</Text>
+		<Replace Language="pl_PL" Tag="LOC_DIPLOMACY_ALLIANCES">
+			<Text>İttifaklar</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_DIPLOMACY_ALLIANCES_TT">
-			<Text>Ehdota liittoa tämän valtakunnan kanssa</Text>
+		<Replace Language="pl_PL" Tag="LOC_DIPLOMACY_ALLIANCES_TT">
+			<Text>Bu krallıkla ittifak öner</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_DIPLOMACY_RENEW_ALLIANCE_TT">
-			<Text>Ehdota nykyisen liiton pidennystä tämän valtakunnan kanssa</Text>
+		<Replace Language="pl_PL" Tag="LOC_DIPLOMACY_RENEW_ALLIANCE_TT">
+			<Text>Bu krallıkla mevcut ittifakı uzatmayı öner</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_DIPLOMACY_ALLIANCES_CURRENT_BENEFITS_HEADER">
-			<Text>Nykyinen liitto tarjoaa nämä edut:</Text>
+		<Replace Language="pl_PL" Tag="LOC_DIPLOMACY_ALLIANCES_CURRENT_BENEFITS_HEADER">
+			<Text>Mevcut ittifak bu avantajları sağlar:</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_DIPLOMACY_ALLIANCES_LEVEL_UP_BENEFITS_HEADER">
-			<Text>Seuraavalla liittotasolla liittomme saa nämä lisäedut:</Text>
+		<Replace Language="pl_PL" Tag="LOC_DIPLOMACY_ALLIANCES_LEVEL_UP_BENEFITS_HEADER">
+			<Text>Bir sonraki ittifak seviyesinde ittifakımız bu ek avantajları elde eder:</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_WORLD_RANKINGS_CULTURE_TOURIST_TOOLTIP_ALLIANCES">
-			<Text>{1_Tooltip}[NEWLINE]Yleinen [ICON_Tourism] turismi kasvanut +{2_Percent} liitoista</Text>
+		<Replace Language="pl_PL" Tag="LOC_WORLD_RANKINGS_CULTURE_TOURIST_TOOLTIP_ALLIANCES">
+			<Text>{1_Tooltip}[NEWLINE]Genel [ICON_Tourism] turizm +{2_Percent} ittifaklardan</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_PLAYER_YIELD_SCIENCE_MODIFIER_FROM_ALLIANCES">
-			<Text>{Value : number +#;-#}% ({ActualValue : number +#.#;-#.#}) liitoista</Text>
+		<Replace Language="pl_PL" Tag="LOC_PLAYER_YIELD_SCIENCE_MODIFIER_FROM_ALLIANCES">
+			<Text>{Value : number +#;-#}% ({ActualValue : number +#.#;-#.#}) ittifaklardan</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_PLAYER_YIELD_CULTURE_FROM_ALLIANCES">
-			<Text>{Value : number +#.#;-#.#}% ({ActualValue : number +#.#;-#.#}) liitoista</Text>
+		<Replace Language="pl_PL" Tag="LOC_PLAYER_YIELD_CULTURE_FROM_ALLIANCES">
+			<Text>{Value : number +#.#;-#.#}% ({ActualValue : number +#.#;-#.#}) ittifaklardan</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_PLAYER_YIELD_FAITH_FROM_ALLIANCES">
-			<Text>{Value : number +#.#;-#.#} uskonnollisista liitoista</Text>
+		<Replace Language="pl_PL" Tag="LOC_PLAYER_YIELD_FAITH_FROM_ALLIANCES">
+			<Text>{Value : number +#.#;-#.#} dini ittifaklardan</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_ALLIANCE_SHARED_VIS_EFFECT">
-			<Text>Jaettu näkyvyys</Text>
+		<Replace Language="pl_PL" Tag="LOC_ALLIANCE_SHARED_VIS_EFFECT">
+			<Text>Paylaşılan Görünürlük</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_ALLIANCE_NO_CULTURE_PRESSURE_EFFECT">
-			<Text>Liittolaisemme kaupungit eivät aiheuta uskollisuuspainetta kaupunkeihimme, eivätkä meidän heihin</Text>
+		<Replace Language="pl_PL" Tag="LOC_ALLIANCE_NO_CULTURE_PRESSURE_EFFECT">
+			<Text>İttifakımızın şehirleri şehirlerimize sadakat baskısı yapmaz, bizimkiler de onlara yapmaz</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_ALLIANCE_NO_RELIGIOUS_PRESSURE_EFFECT">
-			<Text>Liittolaisemme uskonto ei aiheuta uskonpainetta uskomme hallitsemiin kaupunkeihin, eikä meidän uskomme heidän</Text>
+		<Replace Language="pl_PL" Tag="LOC_ALLIANCE_NO_RELIGIOUS_PRESSURE_EFFECT">
+			<Text>İttifakımızın dini, inancımızın hakim olduğu şehirlere dini baskı yapmaz, bizim inancımız da onlarınkine yapmaz</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_ALLIANCE_LV1_MILITARY_EFFECT_1">
-			<Text>+5 [ICON_Strength] taisteluvoimakkuutta meihin ja liittolaiseemme sodassa oleviin pelaajiin</Text>
+		<Replace Language="pl_PL" Tag="LOC_ALLIANCE_LV1_MILITARY_EFFECT_1">
+			<Text>+5 [ICON_Strength] savaşta olan oyunculara karşı bize ve müttefikimize savaş gücü</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_ALLIANCE_LV1_ECONOMIC_EFFECT_1">
-			<Text>+4 [ICON_GOLD] kultaa [ICON_TradeRoute] kauppareiteistä liittolaiseemme</Text>
+		<Replace Language="pl_PL" Tag="LOC_ALLIANCE_LV1_ECONOMIC_EFFECT_1">
+			<Text>+4 [ICON_GOLD] müttefikimize olan [ICON_TradeRoute] ticaret yollarından altın</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_ALLIANCE_LV1_ECONOMIC_EFFECT_2">
-			<Text>+2 [ICON_GOLD] kultaa liittolaisemme [ICON_TradeRoute] kauppareiteistä</Text>
+		<Replace Language="pl_PL" Tag="LOC_ALLIANCE_LV1_ECONOMIC_EFFECT_2">
+			<Text>+2 [ICON_GOLD] müttefikimizin [ICON_TradeRoute] ticaret yollarından altın</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_ALLIANCE_LV1_RELIGIOUS_EFFECT_1">
-			<Text>+2 [ICON_FAITH] uskoa [ICON_TradeRoute] kauppareiteistä liittolaiseemme</Text>
+		<Replace Language="pl_PL" Tag="LOC_ALLIANCE_LV1_RELIGIOUS_EFFECT_1">
+			<Text>+2 [ICON_FAITH] inanç [ICON_TradeRoute] ticaret yollarından müttefikimize</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_ALLIANCE_LV1_RELIGIOUS_EFFECT_2">
-			<Text>+1 [ICON_FAITH] uskoa liittolaisemme [ICON_TradeRoute] kauppareiteistä</Text>
+		<Replace Language="pl_PL" Tag="LOC_ALLIANCE_LV1_RELIGIOUS_EFFECT_2">
+			<Text>+1 [ICON_FAITH] inanç müttefikimizin [ICON_TradeRoute] ticaret yollarından</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_ALLIANCE_LV1_CULTURAL_EFFECT_1">
-			<Text>+2 [ICON_Culture] kulttuuria [ICON_TradeRoute] kauppareiteistä liittolaiseemme</Text>
+		<Replace Language="pl_PL" Tag="LOC_ALLIANCE_LV1_CULTURAL_EFFECT_1">
+			<Text>+2 [ICON_Culture] kültür [ICON_TradeRoute] ticaret yollarından müttefikimize</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_ALLIANCE_LV1_CULTURAL_EFFECT_2">
-			<Text>+1 [ICON_Culture] kulttuuria liittolaisemme [ICON_TradeRoute] kauppareiteistä</Text>
+		<Replace Language="pl_PL" Tag="LOC_ALLIANCE_LV1_CULTURAL_EFFECT_2">
+			<Text>+1 [ICON_Culture] kültür müttefikimizin [ICON_TradeRoute] ticaret yollarından</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_ALLIANCE_LV1_RESEARCH_EFFECT_1">
-			<Text>+2 [ICON_SCIENCE] tiedettä [ICON_TradeRoute] kauppareiteistä liittolaiseemme</Text>
+		<Replace Language="pl_PL" Tag="LOC_ALLIANCE_LV1_RESEARCH_EFFECT_1">
+			<Text>+2 [ICON_SCIENCE] bilim [ICON_TradeRoute] ticaret yollarından müttefikimize</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_ALLIANCE_LV1_RESEARCH_EFFECT_2">
-			<Text>+1 [ICON_SCIENCE] tiedettä liittolaisemme [ICON_TradeRoute] kauppareiteistä</Text>
+		<Replace Language="pl_PL" Tag="LOC_ALLIANCE_LV1_RESEARCH_EFFECT_2">
+			<Text>+1 [ICON_SCIENCE] bilim müttefikimizin [ICON_TradeRoute] ticaret yollarından</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_ALLIANCE_LV2_ECONOMIC_EFFECT_1">
-			<Text>Ylimääräisiä [ICON_Envoy] edustajapisteistä jokaisesta kaupunkivaltiosta, joka on liittolaisemme alainen</Text>
+		<Replace Language="pl_PL" Tag="LOC_ALLIANCE_LV2_ECONOMIC_EFFECT_1">
+			<Text>Ylimääräisiä [ICON_Envoy] elçi puanları her şehir devleti için, müttefikimizin altında olan</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_ALLIANCE_LV2_MILITARY_EFFECT_1">
-			<Text>+15% [ICON_PRODUCTION] tuottavuutta sotilasyksiköiden koulutukseen kun me tai liittolaisemme on sodassa</Text>
+		<Replace Language="pl_PL" Tag="LOC_ALLIANCE_LV2_MILITARY_EFFECT_1">
+			<Text>+15% [ICON_PRODUCTION] üretim askeri birimlerin eğitimi için biz veya müttefikimiz savaşta olduğunda</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_ALLIANCE_LV2_RELIGIOUS_EFFECT_1">
-			<Text>+10 uskonnollista taisteluvoimakkuutta muita kuin liittolaisuskontoja vastaan</Text>
+		<Replace Language="pl_PL" Tag="LOC_ALLIANCE_LV2_RELIGIOUS_EFFECT_1">
+			<Text>+10 dini savaş gücü diğer dinlere karşı müttefikimizin dini olmayan</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_ALLIANCE_LV2_RESEARCH_EFFECT_1">
-			<Text>Joka 30. vuoro (normaalinopeudella) vapautamme [ICON_TechBoosted] heurekan tekniikalle, jonka liittolaisemme on kehittänyt tai vauhdittanut, mutta me emme</Text>
+		<Replace Language="pl_PL" Tag="LOC_ALLIANCE_LV2_RESEARCH_EFFECT_1">
+			<Text>Her 30 turda (normal hızda) [ICON_TechBoosted] bir teknoloji için bir buluş serbest bırakırız, müttefikimizin geliştirdiği veya hızlandırdığı, ama bizim yapmadığımız</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_ALLIANCE_LV2_CULTURAL_EFFECT_1">
-			<Text>Kukin [ICON_District] kaupunkialueemme tarjoaa ylimääräisen [ICON_GreatPerson] merkittävän henkilön pisteen vuorossa, mikäli kaupungista on [ICON_TradeRoute] kauppareitti liittolaiseemme</Text>
+		<Replace Language="pl_PL" Tag="LOC_ALLIANCE_LV2_CULTURAL_EFFECT_1">
+			<Text>Her [ICON_District] şehir bölgesi için bir ek [ICON_GreatPerson] büyük insan puanı sağlar, eğer şehirden müttefikimize bir [ICON_TradeRoute] ticaret yolu varsa</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_ALLIANCE_LV3_MILITARY_EFFECT_1">
-			<Text>Yksiköt aloittavat ilmaisella ylennyksellä</Text>
+		<Replace Language="pl_PL" Tag="LOC_ALLIANCE_LV3_MILITARY_EFFECT_1">
+			<Text>Birimler ücretsiz bir terfi ile başlar</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_ALLIANCE_LV3_RELIGIOUS_EFFECT_1">
-			<Text>+1 [ICON_FAITH] uskoa jokaisesta liittolaisemme uskoa noudattavasta [ICON_Citizen] asukkaasta</Text>
+		<Replace Language="pl_PL" Tag="LOC_ALLIANCE_LV3_RELIGIOUS_EFFECT_1">
+			<Text>+1 [ICON_FAITH] inanç her müttefikimizin dinine inanan [ICON_Citizen] vatandaştan</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_ALLIANCE_LV3_RELIGIOUS_EFFECT_2">
-			<Text>Ylimääräistä uskonnollista painetta kaupungeissa, joissa ei ole liittolaisemme uskoon käännytettyjä</Text>
+		<Replace Language="pl_PL" Tag="LOC_ALLIANCE_LV3_RELIGIOUS_EFFECT_2">
+			<Text>Ek dini baskı müttefikimizin dinine dönmemiş şehirlerde</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_ALLIANCE_LV3_RESEARCH_EFFECT_1">
-			<Text>+10% [ICON_SCIENCE] tiedettä kun me tai liittolaisemme kehittää tekniikkaa, jonka toinen on kehittänyt tai on juuri kehittämässä</Text>
+		<Replace Language="pl_PL" Tag="LOC_ALLIANCE_LV3_RESEARCH_EFFECT_1">
+			<Text>+10% [ICON_SCIENCE] bilim biz veya müttefikimiz bir teknolojiyi geliştirirken, diğerinin geliştirdiği veya geliştirmekte olduğu</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_ALLIANCE_LV3_CULTURAL_EFFECT_1">
-			<Text>Saamme +20% liittolaisemme kaupunkien [ICON_Tourism] turismista</Text>
+		<Replace Language="pl_PL" Tag="LOC_ALLIANCE_LV3_CULTURAL_EFFECT_1">
+			<Text>Müttefikimizin şehirlerinden +20% [ICON_Tourism] turizm alırız</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_ALLIANCE_LV3_CULTURAL_EFFECT_2">
-			<Text>Saamme +10% liittolaisemme kaupunkien [ICON_Culture] kulttuurista</Text>
+		<Replace Language="pl_PL" Tag="LOC_ALLIANCE_LV3_CULTURAL_EFFECT_2">
+			<Text>Müttefikimizin şehirlerinden +10% [ICON_Culture] kültür alırız</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_ALLIANCE_LV3_ECONOMIC_EFFECT">
-			<Text>Jaamme valta-asemien edut liittolaisemme kanssa</Text>
+		<Replace Language="pl_PL" Tag="LOC_ALLIANCE_LV3_ECONOMIC_EFFECT">
+			<Text>Güç pozisyonlarının avantajlarını müttefikimizle paylaşırız</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_ALLIANCE_POINTS_FROM_DEFAULT">
-			<Text>{1_Amount} pistettä liittolaisuudesta</Text>
+		<Replace Language="pl_PL" Tag="LOC_ALLIANCE_POINTS_FROM_DEFAULT">
+			<Text>{1_Amount} puan müttefiklikten</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_ALLIANCE_POINTS_FROM_TRADE_ROUTES_TO_THEM">
-			<Text>[NEWLINE]{1_Amount} pistettä muodostetusta [ICON_TradeRoute] kauppareitistä liittolaiseemme</Text>
+		<Replace Language="pl_PL" Tag="LOC_ALLIANCE_POINTS_FROM_TRADE_ROUTES_TO_THEM">
+			<Text>[NEWLINE]{1_Amount} puan oluşturulan [ICON_TradeRoute] ticaret yolundan müttefikimize</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_ALLIANCE_POINTS_FROM_TRADE_ROUTES_FROM_THEM">
-			<Text>[NEWLINE]{1_Amount} pistettä liittolaisen meihin muodostamasta [ICON_TradeRoute] kauppareitistä</Text>
+		<Replace Language="pl_PL" Tag="LOC_ALLIANCE_POINTS_FROM_TRADE_ROUTES_FROM_THEM">
+			<Text>[NEWLINE]{1_Amount} puan müttefikimizin bize oluşturduğu [ICON_TradeRoute] ticaret yolundan</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_ALLIANCE_POINTS_FROM_COMMON_ENEMY">
-			<Text>[NEWLINE]{1_Amount} pistettä sodanjulistuksesta yhteistä vihollista vastaan</Text>
+		<Replace Language="pl_PL" Tag="LOC_ALLIANCE_POINTS_FROM_COMMON_ENEMY">
+			<Text>[NEWLINE]{1_Amount} puan ortak bir düşmana savaş ilanından</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_ALLIANCE_POINTS_FROM_YOUR_MODIFIER">
-			<Text>[NEWLINE]{1_Amount} pistettä muista lähteistämme</Text>
+		<Replace Language="pl_PL" Tag="LOC_ALLIANCE_POINTS_FROM_YOUR_MODIFIER">
+			<Text>[NEWLINE]{1_Amount} puan diğer kaynaklarımızdan</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_ALLIANCE_POINTS_FROM_THEIR_MODIFIER">
-			<Text>[NEWLINE]{1_Amount} pistettä liittolaisemme muista lähteistä</Text>
+		<Replace Language="pl_PL" Tag="LOC_ALLIANCE_POINTS_FROM_THEIR_MODIFIER">
+			<Text>[NEWLINE]{1_Amount} puan müttefikimizin diğer kaynaklarından</Text>
 		</Replace>
 		<!-- New Government Text -->
-		<Replace Language="en_US" Tag="LOC_GOVT_POLICY_TYPE_DARKAGE">
-			<Text>Synkän kauden linjaukset</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVT_POLICY_TYPE_DARKAGE">
+			<Text>Karanlık çağ politikaları</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVT_INHERENT_BONUS_AUTOCRACY_XP1">
-			<Text>+1 kaikille tuotoille kaupungin jokaisesta hallintorakennuksesta ja palatsista.</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVT_INHERENT_BONUS_AUTOCRACY_XP1">
+			<Text>+1 tüm getiriler için her şehir yönetim binasından ve saraydan.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVT_INHERENT_BONUS_OLIGARCHY_XP1">
-			<Text>Kaikki melee-, ratsutorjunta- ja meriyksiköt saavat +4 [ICON_Strength] taisteluvoimakkuutta.</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVT_INHERENT_BONUS_OLIGARCHY_XP1">
+			<Text>Tüm yakın dövüş, süvari ve deniz birimleri +4 [ICON_Strength] savaş gücü alır.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVT_INHERENT_BONUS_CLASSREP_XP1">
-			<Text>Kaikki kaupunkialueelliset kaupungit saavat +1 [ICON_Housing] asumusta ja +1 [ICON_Amenities] elintasoa.</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVT_INHERENT_BONUS_CLASSREP_XP1">
+			<Text>Tüm şehir bölgesi şehirleri +1 [ICON_Housing] konut ve +1 [ICON_Amenities] yaşam standardı alır.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVT_INHERENT_BONUS_MONARCHY_XP1">
-			<Text>+1 [ICON_Housing] asumusta per muurien taso.</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVT_INHERENT_BONUS_MONARCHY_XP1">
+			<Text>+1 [ICON_Housing] konut her duvar seviyesi başına.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVT_INHERENT_BONUS_THEOCRACY_XP1">
-			<Text>+5 [ICON_Religion] uskonnollista voimakkuutta uskontaistoihin.[NEWLINE]+.5 [ICON_Faith] uskoa jokaisesta [ICON_Citizen] asukkaasta [ICON_Governor] käskynhaltijoiden kaupungeista.</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVT_INHERENT_BONUS_THEOCRACY_XP1">
+			<Text>+5 [ICON_Religion] dini savaş gücü dini savaşlar için.[NEWLINE]+.5 [ICON_Faith] inanç her [ICON_Citizen] vatandaştan [ICON_Governor] valilerin şehirlerinde.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVT_INHERENT_BONUS_MERCHREP_XP1">
-			<Text>+10% [ICON_GOLD] kultaa kaikissa kaupungeissa, joissa on virkaansa suorittava [ICON_Governor] käskynhaltija.</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVT_INHERENT_BONUS_MERCHREP_XP1">
+			<Text>+10% [ICON_GOLD] altın tüm şehirlerde, aktif bir [ICON_Governor] vali olan.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVT_INHERENT_BONUS_FASCISM_XP1">
-			<Text>Kaikki yksiköt saavat +5 [ICON_Strength] taisteluvoimakkuutta. 15% vähemmän sotaväsymystä.</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVT_INHERENT_BONUS_FASCISM_XP1">
+			<Text>Tüm birimler +5 [ICON_Strength] savaş gücü alır. %15 daha az savaş yorgunluğu.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVT_INHERENT_BONUS_COMMUNISM_XP1">
-			<Text>+0.6 [ICON_Production] tuottavuutta jokaisesta [ICON_Citizen] asukkaasta [ICON_Governor] käskynhaltijoiden kaupungeissa.</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVT_INHERENT_BONUS_COMMUNISM_XP1">
+			<Text>+0.6 [ICON_Production] üretim her [ICON_Citizen] vatandaştan [ICON_Governor] valilerin şehirlerinde.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVT_INHERENT_BONUS_DEMOCRACY_XP1">
-			<Text>+1 [ICON_Production] tuottavuutta, +1 [ICON_Housing] asumusta kustakin kaupunkialueesta</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVT_INHERENT_BONUS_DEMOCRACY_XP1">
+			<Text>+1 [ICON_Production] üretim, +1 [ICON_Housing] konut her şehir bölgesinden</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_AUTOCRACY_XP1">
-			<Text>+10% tuottavuutta kohden ihmeitä.</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_AUTOCRACY_XP1">
+			<Text>+10% üretim harikalar için.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_OLIGARCHY_XP1">
-			<Text>+20% kokemusta yksiköille.</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_OLIGARCHY_XP1">
+			<Text>+20% deneyim birimler için.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_CLASSREP_XP1">
-			<Text>+15% merkittävien henkilöiden pisteitä.</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_CLASSREP_XP1">
+			<Text>+15% büyük insan puanları.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_MONARCHY_XP1">
-			<Text>+50% vaikutusvallan pisteitä.</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_MONARCHY_XP1">
+			<Text>+50% etki puanları.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_THEOCRACY_XP1">
-			<Text>15% alennus ostamiseen [ICON_Faith] uskolla.</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_THEOCRACY_XP1">
+			<Text>%15 indirim [ICON_Faith] inançla satın alımlarda.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_MERCHREP_XP1">
-			<Text>+15% tuottavuutta kaupunkialueiden valmistumiseen.</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_MERCHREP_XP1">
+			<Text>+15% üretim şehir bölgelerinin tamamlanması için.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_FASCISM_XP1">
-			<Text>+50% tuottavuutta yksiköitä kohden.</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_FASCISM_XP1">
+			<Text>+50% üretim birimler için.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_COMMUNISM_XP1">
-			<Text>+15% tuottavuutta.</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_COMMUNISM_XP1">
+			<Text>+15% üretim.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_DEMOCRACY_XP1">
-			<Text>25% alennus ostoihin [ICON_Gold] kullalla.</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_DEMOCRACY_XP1">
+			<Text>%25 indirim [ICON_Gold] altınla satın alımlarda.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_TOOLTIP_UNLOCKS_POLICY_CARD">
-			<Text>Vapauttaa linjauskortin: {1_PolicyName}.</Text>
+		<Replace Language="pl_PL" Tag="LOC_TOOLTIP_UNLOCKS_POLICY_CARD">
+			<Text>Politika kartını açar: {1_PolicyName}.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_ABILITY_OLIGARCHY_LEGACY_MELEE_BUFF_MODIFIER_DESCRIPTION">
-			<Text>+4 oligarkkien perinnöstä</Text>
+		<Replace Language="pl_PL" Tag="LOC_ABILITY_OLIGARCHY_LEGACY_MELEE_BUFF_MODIFIER_DESCRIPTION">
+			<Text>+4 oligarşi mirasından</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_ABILITY_THEOCRACY_LEGACY_RELIGIOUS_BUFF_MODIFIER_DESCRIPTION">
-			<Text>+5 teokraattien perinnöstä</Text>
+		<Replace Language="pl_PL" Tag="LOC_ABILITY_THEOCRACY_LEGACY_RELIGIOUS_BUFF_MODIFIER_DESCRIPTION">
+			<Text>+5 teokrasi mirasından</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_ABILITY_FASCISM_LEGACY_ATTACK_BUFF_MODIFIER_DESCRIPTION">
-			<Text>+4 fasistien perinnöstä</Text>
+		<Replace Language="pl_PL" Tag="LOC_ABILITY_FASCISM_LEGACY_ATTACK_BUFF_MODIFIER_DESCRIPTION">
+			<Text>+4 faşizm mirasından</Text>
 		</Replace>
 		<!-- Governors UI -->
-		<Replace Language="en_US" Tag="LOC_GOVERNORS_SCREEN_TAB_OWNED_GOVERNORS">
-			<Text>Nykyiset käskynhaltijat</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNORS_SCREEN_TAB_OWNED_GOVERNORS">
+			<Text>Mevcut valiler</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNORS_SCREEN_TAB_GOVERNOR_CANDIDATES">
-			<Text>Ehdokkaat</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNORS_SCREEN_TAB_GOVERNOR_CANDIDATES">
+			<Text>Adaylar</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNORS_SCREEN_BUTTON_APPOINT_GOVERNOR">
-			<Text>Nimitä</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNORS_SCREEN_BUTTON_APPOINT_GOVERNOR">
+			<Text>Atama</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNORS_SCREEN_DETAILS">
-			<Text>Tiedot</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNORS_SCREEN_DETAILS">
+			<Text>Detaylar</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNORS_SCREEN_PROMOTE">
-			<Text>Ylennä</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNORS_SCREEN_PROMOTE">
+			<Text>Terfi</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNORS_SCREEN_VIEW_PROMOTIONS">
-			<Text>Näytä ylennykset</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNORS_SCREEN_VIEW_PROMOTIONS">
+			<Text>Terfileri Görüntüle</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNORS_SCREEN_GOVERNOR_ESTABLISHED_IN">
-			<Text>Virkapaikka:</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNORS_SCREEN_GOVERNOR_ESTABLISHED_IN">
+			<Text>Görev yeri:</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNORS_SCREEN_GOVERNOR_TRANSITIONING_TO">
-			<Text>Poliittisen vallan saavuttamiseen:</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNORS_SCREEN_GOVERNOR_TRANSITIONING_TO">
+			<Text>Politik güç kazanma:</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNORS_SCREEN_GOVERNOR_NEEDS_ASSIGNMENT">
-			<Text>Vaatii viran</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNORS_SCREEN_GOVERNOR_NEEDS_ASSIGNMENT">
+			<Text>Görev gerektirir</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_ASSIGNMENT_REPLACES">
-			<Text>Korvaa:</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_ASSIGNMENT_REPLACES">
+			<Text>Yer değiştirir:</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_ASSIGNMENT_CONFIRM_REPLACEMENT">
-			<Text>KORVAA KÄSKYNHALTIJA? Henkilön sijoittaminen tänne syrjäyttää edellisen käskynhaltijan pois kaupungista.</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_ASSIGNMENT_CONFIRM_REPLACEMENT">
+			<Text>VALİYİ DEĞİŞTİR? Bu kişiyi buraya atamak önceki valiyi şehirden çıkarır.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_ASSIGNMENT_PLUS_PRESSURE">
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_ASSIGNMENT_PLUS_PRESSURE">
 			<Text>{1_Pressure: number +#;-#}</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_ASSIGNMENT_IS_ESTABLISHED">
-			<Text>{1_Name} ({2_Type}) suorittaa virkaansa tässä kaupungissa</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_ASSIGNMENT_IS_ESTABLISHED">
+			<Text>{1_Name} ({2_Type}) bu şehirde görev yapıyor</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_ASSIGNMENT_IS_ESTABLISHING">
-			<Text>{1_Name} ({2_Type}) on aloittamassa virkaansa tässä kaupungissa</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_ASSIGNMENT_IS_ESTABLISHING">
+			<Text>{1_Name} ({2_Type}) bu şehirde görevine başlıyor</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_ASSIGNMENT_NO_GOVERNOR">
-			<Text>Ei käskynhaltijaa</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_ASSIGNMENT_NO_GOVERNOR">
+			<Text>Vali yok</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_ASSIGNMENT_CURRENT_IDENTITY_PRESSURE_TOOLTIP">
-			<Text>Nykyinen uskollisuus per vuoro</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_ASSIGNMENT_CURRENT_IDENTITY_PRESSURE_TOOLTIP">
+			<Text>Mevcut sadakat her tur</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_ASSIGNMENT_FUTURE_IDENTITY_PRESSURE_TOOLTIP">
-			<Text>Uskollisuus kun tämä käskynhaltija on asettunut virkaansa</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_ASSIGNMENT_FUTURE_IDENTITY_PRESSURE_TOOLTIP">
+			<Text>Bu vali görevine başladığında sadakat</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNORS_SCREEN_GOVERNOR_TRANSITION_TURNS">
-			<Text>{1_NumTurns} vuoroa</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNORS_SCREEN_GOVERNOR_TRANSITION_TURNS">
+			<Text>{1_NumTurns} tur</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNORS_SCREEN_GOVERNOR_TURNS_UNTIL_ESTABLISHED">
-			<Text>{1_NumTurns} vuoroa kunnes suorittaa virkaansa</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNORS_SCREEN_GOVERNOR_TURNS_UNTIL_ESTABLISHED">
+			<Text>{1_NumTurns} tur görevine başlayana kadar</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNORS_SCREEN_GOVERNOR_NAME_WITH_TURNS">
-			<Text>{1_GovernorName} ({2_Turns} {2_Turns : plural 1?vuoro; other?vuoroa;})</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNORS_SCREEN_GOVERNOR_NAME_WITH_TURNS">
+			<Text>{1_GovernorName} ({2_Turns} {2_Turns : plural 1?tur; other?tur;})</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNORS_SCREEN_NEUTRALIZED">
-			<Text>Sysätty vallasta:</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNORS_SCREEN_NEUTRALIZED">
+			<Text>Görevden alındı:</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNORS_SCREEN_NEUTRALIZED_TURNS_REMAINING">
-			<Text>(vielä {1_Turns} {1_Turns : plural 1?vuoro; other?vuoroa;})</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNORS_SCREEN_NEUTRALIZED_TURNS_REMAINING">
+			<Text>(kalan {1_Turns} {1_Turns : plural 1?tur; other?tur;})</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNORS_SCREEN_GOVERNOR_CANDIDATE">
-			<Text>Käskynhaltijaehdokas</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNORS_SCREEN_GOVERNOR_CANDIDATE">
+			<Text>Vali adayı</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNORS_SCREEN_GOVERNOR_ASSIGN_TO">
-			<Text>Sijoita {1_GovernorName} kaupunkiin:</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNORS_SCREEN_GOVERNOR_ASSIGN_TO">
+			<Text>{1_GovernorName} şehrine atayın:</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNORS_BASE_ABILITY_HEADER_TEXT">
-			<Text>Peruskyky:</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNORS_BASE_ABILITY_HEADER_TEXT">
+			<Text>Temel yetenek:</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNORS_PROMOTIONS_HEADER_TEXT">
-			<Text>Ylennykset:</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNORS_PROMOTIONS_HEADER_TEXT">
+			<Text>Terfiler:</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNORS_SCREEN_CHANGE_ASSIGNMENT">
-			<Text>Vaihda kaupunkia</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNORS_SCREEN_CHANGE_ASSIGNMENT">
+			<Text>Şehri değiştir</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNORS_GRANT_PROMOTION">
-			<Text>Myönnä ylennys</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNORS_GRANT_PROMOTION">
+			<Text>Terfi ver</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNORS_GOVERNOR_NEUTRALIZED">
-			<Text>Sysätty vallasta</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNORS_GOVERNOR_NEUTRALIZED">
+			<Text>Görevden alındı</Text>
 		</Replace>
 		<!-- Governors -->
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_THE_DEFENDER_NAME">
-			<Text>Viktor|Viktorin</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_THE_DEFENDER_NAME">
+			<Text>Viktor|Viktor'un</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_THE_AMBASSADOR_NAME">
-			<Text>Amani|Amanin</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_THE_AMBASSADOR_NAME">
+			<Text>Amani|Amani'nin</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_THE_CARDINAL_NAME">
-			<Text>Moksha|Mokshan</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_THE_CARDINAL_NAME">
+			<Text>Moksha|Moksha'nın</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_THE_RESOURCE_MANAGER_NAME">
-			<Text>Magnus|Magnusin</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_THE_RESOURCE_MANAGER_NAME">
+			<Text>Magnus|Magnus'un</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_THE_BUILDER_NAME">
-			<Text>Liang|Liangin</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_THE_BUILDER_NAME">
+			<Text>Liang|Liang'ın</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_THE_EDUCATOR_NAME">
-			<Text>Pingala|Pingalan</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_THE_EDUCATOR_NAME">
+			<Text>Pingala|Pingala'nın</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_THE_MERCHANT_NAME">
-			<Text>Reina|Reinan</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_THE_MERCHANT_NAME">
+			<Text>Reina|Reina'nın</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_THE_DEFENDER_TITLE">
-			<Text>Kastiliaani</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_THE_DEFENDER_TITLE">
+			<Text>Kastilyan</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_THE_AMBASSADOR_TITLE">
-			<Text>Diplomaatti</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_THE_AMBASSADOR_TITLE">
+			<Text>Diplomat</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_THE_CARDINAL_TITLE">
-			<Text>Kardinaali</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_THE_CARDINAL_TITLE">
+			<Text>Kardinal</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_THE_RESOURCE_MANAGER_TITLE">
-			<Text>Pehtori</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_THE_RESOURCE_MANAGER_TITLE">
+			<Text>Kaynak Yöneticisi</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_THE_BUILDER_TITLE">
-			<Text>Maanmittaaja</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_THE_BUILDER_TITLE">
+			<Text>İnşaatçı</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_THE_EDUCATOR_TITLE">
-			<Text>Kouluttaja</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_THE_EDUCATOR_TITLE">
+			<Text>Eğitmen</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_THE_MERCHANT_TITLE">
-			<Text>Rahoittaja</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_THE_MERCHANT_TITLE">
+			<Text>Tüccar</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_THE_DEFENDER_SHORT_TITLE">
-			<Text>Kastiliaani</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_THE_DEFENDER_SHORT_TITLE">
+			<Text>Kastilyan</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_THE_AMBASSADOR_SHORT_TITLE">
-			<Text>Diplomaatti</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_THE_AMBASSADOR_SHORT_TITLE">
+			<Text>Diplomat</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_THE_CARDINAL_SHORT_TITLE">
-			<Text>Kardinaali</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_THE_CARDINAL_SHORT_TITLE">
+			<Text>Kardinal</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_THE_RESOURCE_MANAGER_SHORT_TITLE">
-			<Text>Pehtori</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_THE_RESOURCE_MANAGER_SHORT_TITLE">
+			<Text>Kaynak Yöneticisi</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_THE_BUILDER_SHORT_TITLE">
-			<Text>Maanmittaaja</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_THE_BUILDER_SHORT_TITLE">
+			<Text>İnşaatçı</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_THE_EDUCATOR_SHORT_TITLE">
-			<Text>Kouluttaja</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_THE_EDUCATOR_SHORT_TITLE">
+			<Text>Eğitmen</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_THE_MERCHANT_SHORT_TITLE">
-			<Text>Rahoittaja</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_THE_MERCHANT_SHORT_TITLE">
+			<Text>Tüccar</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_THE_DEFENDER_DESCRIPTION">
-			<Text>Armeijakeskeisenä {LOC_GOVERNOR_THE_DEFENDER_NAME} on kaupunkiin asetuttuaan olennainen voimaannuttava ja puolustava tekijä ulkovaltojen luomia uhkia vastaan.</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_THE_DEFENDER_DESCRIPTION">
+			<Text>Askeri odaklı {LOC_GOVERNOR_THE_DEFENDER_NAME}, şehre yerleştikten sonra dış tehditlere karşı önemli bir güçlendirici ve savunma unsurudur.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_THE_AMBASSADOR_DESCRIPTION">
-			<Text>Kyvykäs tukemaan kansakuntaamme ja levittämään sen vaikutusta ympäröiviin kaupunkeihin. {LOC_GOVERNOR_THE_AMBASSADOR_NAME} on ainut käskynhaltija, joka voi asettua ulkomaille kaupunkivaltioon.</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_THE_AMBASSADOR_DESCRIPTION">
+			<Text>Ulusumuzu destekleme ve çevredeki şehirlere etkisini yayma yeteneğine sahip. {LOC_GOVERNOR_THE_AMBASSADOR_NAME}, yabancı bir şehir devletine yerleşebilen tek validir.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_THE_CARDINAL_DESCRIPTION">
-			<Text>Henkinen ja uskonnollinen johtaja kykenee kasvattamaan kaupungin ja sinne asettuneiden uskon yksiköiden [ICON_Religion] uskonnollista voimaa. {LOC_GOVERNOR_THE_CARDINAL_NAME} on valtakuntamme [ICON_FAITH] uskon pilari.</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_THE_CARDINAL_DESCRIPTION">
+			<Text>Ruhani ve dini lider, şehrin ve oraya yerleşmiş dini birimlerin [ICON_Religion] dini gücünü artırabilir. {LOC_GOVERNOR_THE_CARDINAL_NAME}, ulusumuzun [ICON_FAITH] inanç direğidir.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_THE_RESOURCE_MANAGER_DESCRIPTION">
-			<Text>Viihdyttävänä että kyvykkäänä {LOC_GOVERNOR_THE_RESOURCE_MANAGER_NAME} osaa loihtia arvokkaita resursseja aina tarvittaessa. Hän on myös oikein taitava optimoimaan kaupunkinsa [ICON_PRODUCTION] kokonaistuotantoa.</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_THE_RESOURCE_MANAGER_DESCRIPTION">
+			<Text>Eğlenceli ve yetenekli {LOC_GOVERNOR_THE_RESOURCE_MANAGER_NAME}, gerektiğinde değerli kaynaklar yaratma yeteneğine sahiptir. Ayrıca şehrinin [ICON_PRODUCTION] toplam üretimini optimize etmede oldukça ustadır.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_THE_EDUCATOR_DESCRIPTION">
-			<Text>{LOC_GOVERNOR_THE_EDUCATOR_NAME} keskittyy kaupunkinsa [ICON_SCIENCE] tieteellisen ja [ICON_Culture] kulttuurisen elämän rikastamiseen. Hän on myös erinomainen houkuttamaan [ICON_GreatPerson] merkittäviä henkilöitä kaupunkiinsa.</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_THE_EDUCATOR_DESCRIPTION">
+			<Text>{LOC_GOVERNOR_THE_EDUCATOR_NAME}, şehrinin [ICON_SCIENCE] bilimsel ve [ICON_Culture] kültürel yaşamını zenginleştirmeye odaklanır. Ayrıca [ICON_GreatPerson] büyük kişileri şehrine çekmede mükemmeldir.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_THE_MERCHANT_DESCRIPTION">
-			<Text>Viekkaana ja rahavirroistaan tarkkana {LOC_GOVERNOR_THE_MERCHANT_NAME} on pätevä voimistamaan kaupunkinsa taloudellista voimaa; hän nyhtää rahaa irti sieltä, mistä muut eivät sitä osaa edes etsiä.</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_THE_MERCHANT_DESCRIPTION">
+			<Text>Kurnaz ve mali akışlarına dikkat eden {LOC_GOVERNOR_THE_MERCHANT_NAME}, şehrinin ekonomik gücünü artırmada yetkindir; diğerlerinin bulamadığı yerlerden para çıkarır.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_THE_BUILDER_DESCRIPTION">
-			<Text>Tehokkuudestaan tunnettuna asiantuntijana {LOC_GOVERNOR_THE_BUILDER_NAME} on erinomainen rakentamiseen liittyvissä asioissa. Taidokkaana suunnittelijana hän voi myös valvoa kaupunkinsa rakenteiden kehitystä.</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_THE_BUILDER_DESCRIPTION">
+			<Text>Verimliliğiyle tanınan uzman {LOC_GOVERNOR_THE_BUILDER_NAME}, inşaatla ilgili konularda mükemmeldir. Yetenekli bir planlamacı olarak, şehrinin yapılarını denetleyebilir.</Text>
 		</Replace>
 		<!-- Governor Promotions -->
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_REDOUBT_NAME">
-			<Text>Turvapaikka</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_PROMOTION_REDOUBT_NAME">
+			<Text>Sığınak</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_REDOUBT_DESCRIPTION">
-			<Text>Kasvattaa kaupungin puolustuksen [ICON_Strength] taisteluvoimakkuutta (+5).</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_PROMOTION_REDOUBT_DESCRIPTION">
+			<Text>Şehrin savunma [ICON_Strength] savaş gücünü artırır (+5).</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_GARRISON_COMMANDER_NAME">
-			<Text>Varuskunnan komentaja</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_PROMOTION_GARRISON_COMMANDER_NAME">
+			<Text>Garnizon Komutanı</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_GARRISON_COMMANDER_DESCRIPTION">
-			<Text>Kaupungin alueita puolustavat yksiköt saavat +5 [ICON_Strength] taisteluvoimakkuutta.</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_PROMOTION_GARRISON_COMMANDER_DESCRIPTION">
+			<Text>Şehir bölgelerini savunan birimler +5 [ICON_Strength] savaş gücü kazanır.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_EMBRASURE_NAME">
-			<Text>Puolustusaukot</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_PROMOTION_EMBRASURE_NAME">
+			<Text>Savunma Açıkları</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_EMBRASURE_DESCRIPTION">
-			<Text>Kaupunki kykenee [ICON_Ranged] tulittamaan toistamiseen vuoron aikana.</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_PROMOTION_EMBRASURE_DESCRIPTION">
+			<Text>Şehir, tur başına ikinci kez [ICON_Ranged] ateş edebilir.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_DEFENSE_LOGISTICS_NAME">
-			<Text>Puolustuksen logistiikka</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_PROMOTION_DEFENSE_LOGISTICS_NAME">
+			<Text>Savunma Lojistiği</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_SECURITY_EXPERT_NAME">
-			<Text>Turvallisuuden asiantuntija</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_PROMOTION_SECURITY_EXPERT_NAME">
+			<Text>Güvenlik Uzmanı</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_SECURITY_EXPERT_DESCRIPTION">
-			<Text>Vihollisvakoilijat toimivat 2 tasoa heikommin tässä kaupungissa.</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_PROMOTION_SECURITY_EXPERT_DESCRIPTION">
+			<Text>Düşman casusları bu şehirde 2 seviye daha düşük çalışır.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_DEFENSE_LOGISTICS_DESCRIPTION">
-			<Text>Kaupunkia ei voida piirittää.</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_PROMOTION_DEFENSE_LOGISTICS_DESCRIPTION">
+			<Text>Şehir kuşatılamaz.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_AIR_DEFENSE_INITIATIVE_NAME">
-			<Text>Ilmatorjunnan herra</Text>
-		</sinne
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_AIR_DEFENSE_INITIATIVE_DESCRIPTION">
-			<Text>+25 [ICON_Strength] taisteluvoimakkuutta ilmatorjunnan tukiyksiköille puolustettaessa lentokoneita ja ydinaseita vastaan kaupungin alueella.</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_PROMOTION_AIR_DEFENSE_INITIATIVE_NAME">
+			<Text>Hava Savunma İnisiyatifi</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_AMBASSADOR_MESSENGER_NAME">
-			<Text>Viestinviejä</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_PROMOTION_AIR_DEFENSE_INITIATIVE_DESCRIPTION">
+			<Text>Şehir bölgesinde uçaklara ve nükleer silahlara karşı savunma yapan hava savunma destek birimlerine +25 [ICON_Strength] savaş gücü verir.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_AMBASSADOR_MESSENGER_DESCRIPTION">
-			<Text>Kyvykäs asettumaan kaupunkivaltioon, jossa hän toimii kahden [ICON_Envoy] edustajan veroisesti.</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_PROMOTION_AMBASSADOR_MESSENGER_NAME">
+			<Text>Elçi</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_SETTLER_LOYALTY_WARNING_TOOLTIP">
-			<Text>Läheisten kaupunkien vaikutus aiheuttaa {1_LoyaltyPerTurnAmount} uskollisuutta tänne perustettuun uuteen kaupunkiin. Harkitse [ICON_Governor] käskynhaltijan asettamista sinne tai perustamaan kaupunki muualle.</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_PROMOTION_AMBASSADOR_MESSENGER_DESCRIPTION">
+			<Text>Şehir devletine yerleşebilir ve iki [ICON_Envoy] elçi değerinde çalışır.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_AMBASSADOR_EMISSARY_NAME">
-			<Text>Lähettiläs</Text>
+		<Replace Language="pl_PL" Tag="LOC_SETTLER_LOYALTY_WARNING_TOOLTIP">
+			<Text>Yakındaki şehirlerin etkisi, buraya kurulan yeni şehre {1_LoyaltyPerTurnAmount} sadakat sağlar. [ICON_Governor] bir vali atamayı veya şehri başka bir yere kurmayı düşünün.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_AMBASSADOR_EMISSARY_DESCRIPTION">
-			<Text>Muiden hallitsemat kaupungit 9 ruudun sisällä saavat +2 uskollisuutta kansakuntaamme kohtaan.</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_PROMOTION_AMBASSADOR_EMISSARY_NAME">
+			<Text>Temsilci</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_AMBASSADOR_PRESTIGE_NAME">
-			<Text>Arvovalta</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_PROMOTION_AMBASSADOR_EMISSARY_DESCRIPTION">
+			<Text>9 kare içindeki diğer şehirler ulusumuza +2 sadakat kazanır.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_AMBASSADOR_PRESTIGE_DESCRIPTION">
-			<Text>Toiset omistamamme kaupungit 9 ruudun sisällä saavat +2 uskollisuutta kansakuntaamme kohtaan.</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_PROMOTION_AMBASSADOR_PRESTIGE_NAME">
+			<Text>Prestij</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_AMBASSADOR_AFFLUENCE_NAME">
-			<Text>Runsaus</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_PROMOTION_AMBASSADOR_PRESTIGE_DESCRIPTION">
+			<Text>9 kare içindeki diğer sahip olduğumuz şehirler ulusumuza +2 sadakat kazanır.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_AMBASSADOR_AFFLUENCE_DESCRIPTION">
-			<Text>Kaupunkivaltion ylelliset luonnonvarat tulevat myös meidän käyttöömme.</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_PROMOTION_AMBASSADOR_AFFLUENCE_NAME">
+			<Text>Refah</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_AMBASSADOR_PROMOTER_NAME">
-			<Text>Edistäjä</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_PROMOTION_AMBASSADOR_AFFLUENCE_DESCRIPTION">
+			<Text>Şehir devletinin lüks kaynakları bizim kullanımımıza da sunulur.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_AMBASSADOR_PROMOTER_DESCRIPTION">
-			<Text>+4 [ICON_Amenities] elintasoa kaupungille.</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_PROMOTION_AMBASSADOR_PROMOTER_NAME">
+			<Text>Destekçi</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_AMBASSADOR_PUPPETEER_NAME">
-			<Text>Manipuloija</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_PROMOTION_AMBASSADOR_PROMOTER_DESCRIPTION">
+			<Text>Şehre +4 [ICON_Amenities] yaşam standardı sağlar.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_AMBASSADOR_PUPPETEER_DESCRIPTION">
-			<Text>Ollessaan kaupunkivaltiossa tuplaa sikäläisten [ICON_Envoy] edustajiemme määrän.</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_PROMOTION_AMBASSADOR_PUPPETEER_NAME">
+			<Text>Manipülatör</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_CARDINAL_BISHOP_NAME">
-			<Text>Piispa</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_PROMOTION_AMBASSADOR_PUPPETEER_DESCRIPTION">
+			<Text>Şehir devletinde bulunduğunda, oradaki [ICON_Envoy] elçilerimizin sayısını iki katına çıkarır.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_CARDINAL_GRAND_INQUISITOR_NAME">
-			<Text>Suurinkvisiittori</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_PROMOTION_CARDINAL_BISHOP_NAME">
+			<Text>Piskopos</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_CARDINAL_DIVINE_ARCHITECT_NAME">
-			<Text>Jumalallinen arkkitehti</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_PROMOTION_CARDINAL_GRAND_INQUISITOR_NAME">
+			<Text>Büyük Engizisyoncu</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_CARDINAL_LAYING_ON_OF_HANDS_NAME">
-			<Text>Kheirotesia</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_PROMOTION_CARDINAL_DIVINE_ARCHITECT_NAME">
+			<Text>İlahi Mimar</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_CARDINAL_CITADEL_OF_GOD_NAME">
-			<Text>Jumalan turvapaikka</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_PROMOTION_CARDINAL_LAYING_ON_OF_HANDS_NAME">
+			<Text>El Koyma</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_CARDINAL_PATRON_SAINT_NAME">
-			<Text>Suojeluspyhimys</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_PROMOTION_CARDINAL_CITADEL_OF_GOD_NAME">
+			<Text>Tanrı'nın Kalesi</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_CARDINAL_BISHOP_DESCRIPTION">
-			<Text>Tämän kaupungin uskonnollinen paine läheisiin kaupunkeihin on 100% voimakkaampi.</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_PROMOTION_CARDINAL_PATRON_SAINT_NAME">
+			<Text>Koruyucu Aziz</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_CARDINAL_GRAND_INQUISITOR_DESCRIPTION">
-			<Text>+10 [ICON_Religion] uskonnollista voimakkuutta uskontaistoihin tämän kaupungin alueella.</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_PROMOTION_CARDINAL_BISHOP_DESCRIPTION">
+			<Text>Bu şehrin yakınındaki şehirlere dini baskısı %100 daha güçlüdür.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_CARDINAL_DIVINE_ARCHITECT_DESCRIPTION">
-			<Text>+20% [ICON_Production] tuottavuutta pyhän paikan rakennusten valmistamiseen.</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_PROMOTION_CARDINAL_GRAND_INQUISITOR_DESCRIPTION">
+			<Text>Bu şehrin sınırları içinde dini savaşlarda +10 [ICON_Religion] dini güç.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_CARDINAL_LAYING_ON_OF_HANDS_DESCRIPTION">
-			<Text>[ICON_Governor] Käskynhaltijan uskonnolliset yksiköt hoivaantuvat yhdessä vuorossa kokonaan tämän kaupungin alueella.</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_PROMOTION_CARDINAL_DIVINE_ARCHITECT_DESCRIPTION">
+			<Text>Kutsal alan binalarının inşasında +%20 [ICON_Production] üretim.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_CARDINAL_CITADEL_OF_GOD_DESCRIPTION">
-			<Text>Kaupunki ei huomioi painetta ja uskontaistelujen vaikutuksia uskonnoista, jotka eivät ole tämän [ICON_Governor] käskynhaltijan pelaajan perustamia.</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_PROMOTION_CARDINAL_LAYING_ON_OF_HANDS_DESCRIPTION">
+			<Text>[ICON_Governor] Valinin dini birimleri bu şehrin sınırları içinde bir turda tamamen iyileşir.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_CARDINAL_PATRON_SAINT_DESCRIPTION">
-			<Text>Tässä kaupungissa koulutetut apostolit ja soturimunkit saavat yhden ylimääräisen ylennyksen saadessaan ensimmäisen ylennyksensä.</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_PROMOTION_CARDINAL_CITADEL_OF_GOD_DESCRIPTION">
+			<Text>Şehir, bu [ICON_Governor] valinin oyuncusu tarafından kurulmayan dinlerin baskısını ve dini savaşların etkilerini görmezden gelir.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_RESOURCE_MANAGER_GROUNDBREAKER_NAME">
-			<Text>Maanmullistaja</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_PROMOTION_CARDINAL_PATRON_SAINT_DESCRIPTION">
+			<Text>Bu şehirde eğitilen havariler ve savaşçı keşişler ilk terfilerini aldıklarında bir ekstra terfi alırlar.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_RESOURCE_MANAGER_GROUNDBREAKER_DESCRIPTION">
-			<Text>+50% tuottoa kaupungin alueen luonnonvaran korjuista ja piirteiden poistoista.</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_PROMOTION_RESOURCE_MANAGER_GROUNDBREAKER_NAME">
+			<Text>Yeraltı Kazıcısı</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_RESOURCE_MANAGER_SURPLUS_LOGISTICS_NAME">
-			<Text>Ylijäämälogistiikka</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_PROMOTION_RESOURCE_MANAGER_GROUNDBREAKER_DESCRIPTION">
+			<Text>Şehrin bölgesindeki kaynakların hasadından ve özelliklerin kaldırılmasından %50 daha fazla verim.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_RESOURCE_MANAGER_SURPLUS_LOGISTICS_DESCRIPTION">
-			<Text>+20% [ICON_Food] kasvua kaupungille. Tänne päättyvät [ICON_TradeRoute] kauppareittimme tarjoavat +2 [ICON_Food] ruokaa kotikaupungeilleen.</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_PROMOTION_RESOURCE_MANAGER_SURPLUS_LOGISTICS_NAME">
+			<Text>Fazla Lojistik</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_RESOURCE_MANAGER_EXPEDITION_NAME">
-			<Text>Hankinnat</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_PROMOTION_RESOURCE_MANAGER_SURPLUS_LOGISTICS_DESCRIPTION">
+			<Text>Şehir için %20 [ICON_Food] büyüme. Bu şehre gelen [ICON_TradeRoute] ticaret yolları, ana şehirlerine +2 [ICON_Food] gıda sağlar.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_RESOURCE_MANAGER_EXPEDITION_DESCRIPTION">
-			<Text>+20% [ICON_Production] tuottavuutta kaupungin teollisuusalueen rakennuksille. Kaupungissa koulutetut uudisasukkaat eivät vähennä [ICON_Citizen] asukaslukua.</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_PROMOTION_RESOURCE_MANAGER_EXPEDITION_NAME">
+			<Text>Sefer</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_RESOURCE_MANAGER_INDUSTRIALIST_NAME">
-			<Text>Teollistaja</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_PROMOTION_RESOURCE_MANAGER_EXPEDITION_DESCRIPTION">
+			<Text>Şehrin endüstri bölgesi binalarında %20 [ICON_Production] üretim. Bu şehirde eğitilen yerleşimciler [ICON_Citizen] nüfusu azaltmaz.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_RESOURCE_MANAGER_INDUSTRIALIST_DESCRIPTION">
-			<Text>+1 [ICON_Production] tuottavuutta jokaisesta kaupungin strategisesta luonnonvarasta.</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_PROMOTION_RESOURCE_MANAGER_INDUSTRIALIST_NAME">
+			<Text>Sanayici</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_RESOURCE_MANAGER_BLACK_MARKETEER_NAME">
-			<Text>Musta pörssi</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_PROMOTION_RESOURCE_MANAGER_INDUSTRIALIST_DESCRIPTION">
+			<Text>Şehrin her stratejik kaynağından +1 [ICON_Production] üretim.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_RESOURCE_MANAGER_BLACK_MARKETEER_DESCRIPTION">
-			<Text>Kaupunki kykenee kouluttamaan luonnonvaroista riippuvia yksiköitä, vaikkei kaupungilla itsellään olisi vaadittua strategista luonnonvaraa.</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_PROMOTION_RESOURCE_MANAGER_BLACK_MARKETEER_NAME">
+			<Text>Karaborsacı</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_RESOURCE_MANAGER_VERTICAL_INTEGRATION_NAME">
-			<Text>Kattava tuotantoketju</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_PROMOTION_RESOURCE_MANAGER_BLACK_MARKETEER_DESCRIPTION">
+			<Text>Şehir, gerekli stratejik kaynağa sahip olmasa bile kaynak gerektiren birimleri eğitebilir.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_RESOURCE_MANAGER_VERTICAL_INTEGRATION_DESCRIPTION">
-			<Text>Ainokaisen sijaan tämä kaupunki saa [ICON_Production] tuotannon kaikista läheisistä teollisuusalueista.</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_PROMOTION_RESOURCE_MANAGER_VERTICAL_INTEGRATION_NAME">
+			<Text>Dikey Entegrasyon</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_BUILDER_GUILDMASTER_NAME">
-			<Text>Kiltamestari</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_PROMOTION_RESOURCE_MANAGER_VERTICAL_INTEGRATION_DESCRIPTION">
+			<Text>Bu şehir, yakındaki tüm endüstri bölgelerinden [ICON_Production] üretim alır.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_BUILDER_GUILDMASTER_DESCRIPTION">
-			<Text>Kaikki kaupungissa koulutetut rakentajat saavat +1 työstöä.</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_PROMOTION_BUILDER_GUILDMASTER_NAME">
+			<Text>Lonca Ustası</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_INFRASTRUCTURE_NAME">
-			<Text>Infrastruktuuri</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_PROMOTION_BUILDER_GUILDMASTER_DESCRIPTION">
+			<Text>Bu şehirde eğitilen tüm inşaatçılar +1 iş alır.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_INFRASTRUCTURE_DESCRIPTION">
-			<Text>+30% [ICON_Production] tuottavuutta kaupungin keskustan ja hallinnon edustuksen rakennuksiin.</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_PROMOTION_INFRASTRUCTURE_NAME">
+			<Text>Altyapı</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_AQUACULTURE_NAME">
-			<Text>Vesiviljely</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_PROMOTION_INFRASTRUCTURE_DESCRIPTION">
+			<Text>Şehir merkezindeki ve yönetim binalarındaki %30 [ICON_Production] üretim.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_AQUACULTURE_DESCRIPTION">
-			<Text>Erityisiä kalastamoja voidaan rakentaa kaupungin rannikolle. Tuottaa 1 [ICON_Food] ruokaa, +1 [ICON_Food] ruokaa läheisestä meriluonnonvarasta.</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_PROMOTION_AQUACULTURE_NAME">
+			<Text>Su Ürünleri Yetiştiriciliği</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_PARKS_RECREATION_NAME">
-			<Text>Puistot ja vapaa-aika</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_PROMOTION_AQUACULTURE_DESCRIPTION">
+			<Text>Şehrin kıyısına özel balıkçılık tesisleri inşa edilebilir. 1 [ICON_Food] gıda üretir, yakındaki deniz kaynağından +1 [ICON_Food] gıda.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_PARKS_RECREATION_DESCRIPTION">
-			<Text>Erityinen kaupunginpuisto voidaan rakentaa kaupunkiin. Tuottaa 2 houkuttelevuutta 1 [ICON_Culture] kulttuuria. +1 [ICON_Amenities] elintasoa jos veden äärellä.</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_PROMOTION_PARKS_RECREATION_NAME">
+			<Text>Parklar ve Rekreasyon</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_ZONING_COMMISSIONER_NAME">
-			<Text>Kaavoituskomissaari</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_PROMOTION_PARKS_RECREATION_DESCRIPTION">
+			<Text>Şehre özel bir şehir parkı inşa edilebilir. 2 cazibe ve 1 [ICON_Culture] kültür üretir. Su kenarında ise +1 [ICON_Amenities] yaşam standardı sağlar.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_ZONING_COMMISSIONER_DESCRIPTION">
-			<Text>+20% [ICON_Production] tuottavuutta tämän kaupungin kaupunkialueiden rakentamiseen.</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_PROMOTION_ZONING_COMMISSIONER_NAME">
+			<Text>İmar Komiseri</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_ARCHITECT_NAME">
-			<Text>Hupi</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_PROMOTION_ZONING_COMMISSIONER_DESCRIPTION">
+			<Text>Bu şehrin şehir bölgelerinin inşasında %20 [ICON_Production] üretim.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_ARCHITECT_DESCRIPTION">
-			<Text>+30% [ICON_Production] tuottavuutta kaupungin viihdekompleksin ja vesipuiston rakennusten valmistukseen.</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_PROMOTION_ARCHITECT_NAME">
+			<Text>Mimar</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_EDUCATOR_LIBRARIAN_NAME">
-			<Text>Kirjastonhoitaja</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_PROMOTION_ARCHITECT_DESCRIPTION">
+			<Text>Şehrin eğlence kompleksi ve su parkı binalarının inşasında %30 [ICON_Production] üretim.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_EDUCATOR_LIBRARIAN_DESCRIPTION">
-			<Text>15% kohennus kaupungin tuottamaan [ICON_Science] tieteeseen ja [ICON_Culture] kulttuuriin.</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_PROMOTION_EDUCATOR_LIBRARIAN_NAME">
+			<Text>Kütüphaneci</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_EDUCATOR_CONNOISSEUR_NAME">
-			<Text>Taiteentuntija</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_PROMOTION_EDUCATOR_LIBRARIAN_DESCRIPTION">
+			<Text>Şehrin ürettiği [ICON_Science] bilim ve [ICON_Culture] kültürde %15 artış.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_EDUCATOR_CONNOISSEUR_DESCRIPTION">
-			<Text>+20% [ICON_Production] tuottavuutta kaupungin teatteriaukion rakennusten valmistukseen.</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_PROMOTION_EDUCATOR_CONNOISSEUR_NAME">
+			<Text>Sanat Bilgini</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_EDUCATOR_RESEARCHER_NAME">
-			<Text>Tutkija</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_PROMOTION_EDUCATOR_CONNOISSEUR_DESCRIPTION">
+			<Text>Şehrin tiyatro meydanı binalarının inşasında %20 [ICON_Production] üretim.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_EDUCATOR_RESEARCHER_DESCRIPTION">
-			<Text>+20% [ICON_Production] tuottavuutta kaupungin kampuksen rakennusten valmistukseen.</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_PROMOTION_EDUCATOR_RESEARCHER_NAME">
+			<Text>Araştırmacı</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_EDUCATOR_GRANTS_NAME">
-			<Text>Apurahat</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_PROMOTION_EDUCATOR_RESEARCHER_DESCRIPTION">
+			<Text>Şehrin kampüs binalarının inşasında %20 [ICON_Production] üretim.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_EDUCATOR_GRANTS_DESCRIPTION">
-			<Text>+100% [ICON_GreatPerson] merkittävien henkilöiden pisteiden kertymiseen tässä kaupungissa.</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_PROMOTION_EDUCATOR_GRANTS_NAME">
+			<Text>Hibeler</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_EDUCATOR_ARMS_RACE_PROPONENT_NAME">
-			<Text>Kilpavarustelun kannattaja</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_PROMOTION_EDUCATOR_GRANTS_DESCRIPTION">
+			<Text>Bu şehirde [ICON_GreatPerson] büyük kişilerin puanlarının %100 artışı.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_EDUCATOR_ARMS_RACE_PROPONENT_DESCRIPTION">
-			<Text>30% [ICON_Production] tuottavuutta kaikkiin ydinaseprojekteihin tässä kaupungissa.</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_PROMOTION_EDUCATOR_ARMS_RACE_PROPONENT_NAME">
+			<Text>Silahlanma Yarışı Destekçisi</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_EDUCATOR_SPACE_INITIATIVE_NAME">
-			<Text>Avaruusaloite</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_PROMOTION_EDUCATOR_ARMS_RACE_PROPONENT_DESCRIPTION">
+			<Text>Bu şehirdeki tüm nükleer silah projelerinde %30 [ICON_Production] üretim.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_EDUCATOR_SPACE_INITIATIVE_DESCRIPTION">
-			<Text>30% [ICON_Production] tuottavuutta kaikkiin aravuusohjelman projekteihin tässä kaupungissa.</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_PROMOTION_EDUCATOR_SPACE_INITIATIVE_NAME">
+			<Text>Uzay Girişimi</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_LAND_ACQUISITION_NAME">
-			<Text>Maakauppuri</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_PROMOTION_EDUCATOR_SPACE_INITIATIVE_DESCRIPTION">
+			<Text>Bu şehirdeki tüm uzay programı projelerinde %30 [ICON_Production] üretim.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_LAND_ACQUISITION_DESCRIPTION">
-			<Text>Vauhdittaa kaupungin uusien ruutujen hankintaa.</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_LAND_ACQUISITION_NAME">
+			<Text>Arazi Edinimi</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_HARBORMASTER_NAME">
-			<Text>Satamamestari</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_LAND_ACQUISITION_DESCRIPTION">
+			<Text>Şehrin yeni kareler edinme hızını artırır.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_HARBORMASTER_DESCRIPTION">
-			<Text>Kaksinkertaistaa läheisyysedut kaupungin kaupallisista keskuksista ja satamista.</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_HARBORMASTER_NAME">
+			<Text>Liman Müdürü</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_FOREIGN_EXCHANGE_NAME">
-			<Text>Ulkomaankauppa</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_HARBORMASTER_DESCRIPTION">
+			<Text>Şehrin ticaret merkezlerinden ve limanlarından gelen yakınlık bonuslarını iki katına çıkarır.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_FOREIGN_EXCHANGE_DESCRIPTION">
-			<Text>+3 [ICON_Gold] kultaa vuorossa jokaisesta kaupungin kautta kulkevasta ulkomaisesta [ICON_TradeRoute] kauppareitistä.</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_FOREIGN_EXCHANGE_NAME">
+			<Text>Dış Ticaret</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_TARIFFS_NAME">
-			<Text>Tariffit</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_FOREIGN_EXCHANGE_DESCRIPTION">
+			<Text>Şehrin içinden geçen her yabancı [ICON_TradeRoute] ticaret yolundan tur başına +3 [ICON_Gold] altın.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_TARIFFS_DESCRIPTION">
-			<Text>+3 [ICON_Gold] kultaa kaikista kaupungista lähtevistä ja kaupunkiin tulevista [ICON_TradeRoute] kauppareiteistä.</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_TARIFFS_NAME">
+			<Text>Gümrük Tarifeleri</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_TAX_COLLECTOR_NAME">
-			<Text>Verokarhu</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_TARIFFS_DESCRIPTION">
+			<Text>Şehirden çıkan ve şehre gelen her [ICON_TradeRoute] ticaret yolundan +3 [ICON_Gold] altın.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_TAX_COLLECTOR_DESCRIPTION">
-			<Text>+2 [ICON_Gold] kultaa vuorossa jokaiselta kaupungin [ICON_Citizen] asukkaalta.</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_TAX_COLLECTOR_NAME">
+			<Text>Vergi Tahsildarı</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_CONTRACTOR_NAME">
-			<Text>Urakoitsija</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_TAX_COLLECTOR_DESCRIPTION">
+			<Text>Şehrin her [ICON_Citizen] vatandaşı başına tur başına +2 [ICON_Gold] altın.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_CONTRACTOR_DESCRIPTION">
-			<Text>Mahdollistaa kaupungin ostaa kaupunkialueita [ICON_Gold] kullalla.</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_CONTRACTOR_NAME">
+			<Text>Müteahhit</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_CURATOR_NAME">
-			<Text>Kuraattori</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_CONTRACTOR_DESCRIPTION">
+			<Text>Şehrin [ICON_Gold] altın ile şehir bölgeleri satın almasını sağlar.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_CURATOR_DESCRIPTION">
-			<Text>+100% [ICON_Tourism] turismia kaupungin merkittävistä taide- ja musiikkiteoksista, että kirjallisista teoksista.</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_CURATOR_NAME">
+			<Text>Küratör</Text>
+		</Replace>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_CURATOR_DESCRIPTION">
+			<Text>Şehrin sanat ve müzik eserlerinden ve edebi eserlerinden %100 [ICON_Tourism] turizm artışı.</Text>
 		</Replace>
 		<!-- Leader Agendas-->
-		<Replace Language="en_US" Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_HORN_CHEST_LOINS">
-			<Text>Pitää kansoista joilla on paljon armeijakuntia ja armeijoita</Text>
+		<Replace Language="pl_PL" Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_HORN_CHEST_LOINS">
+			<Text>Birçok ordu ve kolorduya sahip milletleri sever</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_HORSE_LORD">
-			<Text>Pitää kansoista jotka eivät kilpaile hänen kanssaan ratsujoukkojen vahvuudessa</Text>
+		<Replace Language="pl_PL" Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_HORSE_LORD">
+			<Text>Atlı birliklerin gücünde onunla rekabet etmeyen milletleri sever</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_CULTURAL_ID">
-			<Text>Pitää vahvan uskollisuuden, mutta ei pidä matalan uskollisuuden kansoista</Text>
+		<Replace Language="pl_PL" Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_CULTURAL_ID">
+			<Text>Güçlü sadakati olan milletleri sever, zayıf sadakati olanları sevmez</Text>
 		</Replace>
 		<!-- Unit Abilities-->
-		<Replace Language="en_US" Tag="LOC_ABILITY_ALPINE_TRAINING_NAME">
-			<Text>Alppitreeni</Text>
+		<Replace Language="pl_PL" Tag="LOC_ABILITY_ALPINE_TRAINING_NAME">
+			<Text>Alp Eğitimi</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_ABILITY_ALPINE_TRAINING__DESCRIPTION">
-			<Text>Alppitreeni: +3 [ICON_Strength] taisteluvoimakkuutta taisteluihin mäellä ja mäkinen maasto ei hidasta kulkemista (Matterhorn)</Text>
+		<Replace Language="pl_PL" Tag="LOC_ABILITY_ALPINE_TRAINING__DESCRIPTION">
+			<Text>Alp Eğitimi: Tepelerde savaşlarda +3 [ICON_Strength] savaş gücü ve engebeli arazi hareketi yavaşlatmaz (Matterhorn)</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_ABILITY_ALPINE_TRAINING_COMBAT_HILLS_MODIFIER_DESCRIPTION">
-			<Text>+3 [ICON_Strength] taisteluvoimakkuutta mäellä taistellessa</Text>
+		<Replace Language="pl_PL" Tag="LOC_ABILITY_ALPINE_TRAINING_COMBAT_HILLS_MODIFIER_DESCRIPTION">
+			<Text>Tepelerde savaşırken +3 [ICON_Strength] savaş gücü</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_ABILITY_RECEIVE_BOMBARD_STRENGTH_BUFF_DESCRIPTION">
-			<Text>+5 [ICON_Bombard] tulivoimaa tukevista yksiköistä</Text>
+		<Replace Language="pl_PL" Tag="LOC_ABILITY_RECEIVE_BOMBARD_STRENGTH_BUFF_DESCRIPTION">
+			<Text>Destek birimlerinden +5 [ICON_Bombard] bombardıman gücü</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_ABILITY_SCOTTISH_HIGHLANDER_DESCRIPTION">
-			<Text>+5 [ICON_Strength] taisteluvoimakkuusetua mäillä ja metsissä</Text>
+		<Replace Language="pl_PL" Tag="LOC_ABILITY_SCOTTISH_HIGHLANDER_DESCRIPTION">
+			<Text>Tepelerde ve ormanlarda +5 [ICON_Strength] savaş gücü</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_ABILITY_MONGOLIAN_KESHIG_DESCRIPTION">
-			<Text>Jakaa [ICON_Movement] liikkuvuutensa saattamilleen siviileille ja tukiyksiköille.</Text>
+		<Replace Language="pl_PL" Tag="LOC_ABILITY_MONGOLIAN_KESHIG_DESCRIPTION">
+			<Text>Refakat ettiği sivil ve destek birimlerine [ICON_Movement] hareketlilik sağlar.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_ABILITY_GEORGIAN_KHEVSURETI_DESCRIPTION">
-			<Text>+7 [ICON_Strength] taisteluvoimakkuusetua mäkisessä maastossa.[NEWLINE][ICON_Bullet]Ei haittaa [ICON_Movement] liikkuvuudelle maaston mäkisyydestä.</Text>
+		<Replace Language="pl_PL" Tag="LOC_ABILITY_GEORGIAN_KHEVSURETI_DESCRIPTION">
+			<Text>+7 [ICON_Strength] dağlık arazide savaş gücü.[NEWLINE][ICON_Bullet]Arazi engebesinden dolayı [ICON_Movement] hareketlilik kaybı yok.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_ABILITY_MAPUCHE_MALON_RAIDER_DESCRIPTION">
-			<Text>+5 [ICON_Strength] taisteluvoimakkuusetua ollessa korkeintaan neljän ruudun päässä ystävällisistä maista.[NEWLINE][ICON_Bullet]Ryöväily maksaa 1 [ICON_Movement] liikepisteen.</Text>
+		<Replace Language="pl_PL" Tag="LOC_ABILITY_MAPUCHE_MALON_RAIDER_DESCRIPTION">
+			<Text>+5 [ICON_Strength] dost topraklardan en fazla dört kare uzakta savaş gücü.[NEWLINE][ICON_Bullet]Yağmalama 1 [ICON_Movement] hareket puanı gerektirir.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_ABILITY_PREVIEW_ZEVEN_PROVINCIEN_DESCRIPTION">
-			<Text>+7 [ICON_Strength] taisteluvoimakkuutta puolustavia kaupunkialueita vastaan</Text>
+		<Replace Language="pl_PL" Tag="LOC_ABILITY_PREVIEW_ZEVEN_PROVINCIEN_DESCRIPTION">
+			<Text>+7 [ICON_Strength] savunma şehir bölgelerine karşı savaş gücü</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_ABILITY_DUTCH_ZEVEN_PROVINCIEN_DESCRIPTION">
-			<Text>+7 [ICON_Strength] taisteluvoimakkuutta hyökätessä puolustavia kaupunkialueita vastaan</Text>
+		<Replace Language="pl_PL" Tag="LOC_ABILITY_DUTCH_ZEVEN_PROVINCIEN_DESCRIPTION">
+			<Text>+7 [ICON_Strength] savunma şehir bölgelerine saldırırken savaş gücü</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_ABILITY_CREE_OKIHTCITAW_DESCRIPTION">
-			<Text>Aloittaa yhdellä ilmaisella ylennyksellä</Text>
+		<Replace Language="pl_PL" Tag="LOC_ABILITY_CREE_OKIHTCITAW_DESCRIPTION">
+			<Text>Bir ücretsiz terfi ile başlar</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_ABILITY_ZULU_IMPI_DESCRIPTION">
-			<Text>+100% sivustaetu.[NEWLINE][ICON_Bullet]Kokemus karttuu 25% nopeammin</Text>
+		<Replace Language="pl_PL" Tag="LOC_ABILITY_ZULU_IMPI_DESCRIPTION">
+			<Text>+100% yan saldırı bonusu.[NEWLINE][ICON_Bullet]Deneyim %25 daha hızlı kazanılır</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_ABILITY_ORDU_INCREASED_MOVEMENT_NAME">
+		<Replace Language="pl_PL" Tag="LOC_ABILITY_ORDU_INCREASED_MOVEMENT_NAME">
 			<Text>Mongoliaro</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_ABILITY_ORDU_INCREASED_MOVEMENT_DESCRIPTION">
-			<Text>+1 [ICON_Movement] liikkuvuutta</Text>
+		<Replace Language="pl_PL" Tag="LOC_ABILITY_ORDU_INCREASED_MOVEMENT_DESCRIPTION">
+			<Text>+1 [ICON_Movement] hareketlilik</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_ABILITY_ORDU_TRAINED_UNIT_XP_DESCRIPTION">
-			<Text>+25% taistelukokemusta (Ordu)</Text>
+		<Replace Language="pl_PL" Tag="LOC_ABILITY_ORDU_TRAINED_UNIT_XP_DESCRIPTION">
+			<Text>+25% savaş deneyimi (Ordu)</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_ABILITY_ECONOMIC_GOLDEN_AGE_PLUNDER_IMMUNITY_NAME">
-			<Text>Taloudellinen kultakausi</Text>
+		<Replace Language="pl_PL" Tag="LOC_ABILITY_ECONOMIC_GOLDEN_AGE_PLUNDER_IMMUNITY_NAME">
+			<Text>Ekonomik Altın Çağı</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_ABILITY_ECONOMIC_GOLDEN_AGE_PLUNDER_IMMUNITY_DESCRIPTION">
-			<Text>Tämän yksikön [ICON_TradeRoute] kauppareittiä ei voida ryövätä vihollisyksiköiden toimesta. Kyky tulee taloudellisesta kultakaudesta.</Text>
+		<Replace Language="pl_PL" Tag="LOC_ABILITY_ECONOMIC_GOLDEN_AGE_PLUNDER_IMMUNITY_DESCRIPTION">
+			<Text>Bu birimin [ICON_TradeRoute] ticaret yolu düşman birimler tarafından yağmalanamaz. Yetenek ekonomik altın çağdan gelir.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_ABILITY_INQUISITION_FRIENDLY_TERRITORY_BONUS_NAME">
-			<Text>Inkvisitio</Text>
+		<Replace Language="pl_PL" Tag="LOC_ABILITY_INQUISITION_FRIENDLY_TERRITORY_BONUS_NAME">
+			<Text>Engizisyon</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_ABILITY_INQUISITION_FRIENDLY_TERRITORY_BONUS_DESCRIPTION">
-			<Text>+15 uskonnollista taisteluvoimakkuutta ystävällisillä mailla.</Text>
+		<Replace Language="pl_PL" Tag="LOC_ABILITY_INQUISITION_FRIENDLY_TERRITORY_BONUS_DESCRIPTION">
+			<Text>Dost topraklarda +15 dini savaş gücü.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_ABILITY_TWILIGHT_VALOR_ATTACK_BONUS_NAME">
-			<Text>Hämärän ajan urhoollisuus</Text>
+		<Replace Language="pl_PL" Tag="LOC_ABILITY_TWILIGHT_VALOR_ATTACK_BONUS_NAME">
+			<Text>Alacakaranlık Cesareti</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_ABILITY_TWILIGHT_VALOR_ATTACK_BONUS_DESCRIPTION">
-			<Text>+5 [ICON_Strength] taisteluvoimakkuutta kaikille hyökkääville meleeyksiköille.</Text>
+		<Replace Language="pl_PL" Tag="LOC_ABILITY_TWILIGHT_VALOR_ATTACK_BONUS_DESCRIPTION">
+			<Text>Tüm saldıran yakın dövüş birimleri için +5 [ICON_Strength] savaş gücü.</Text>
 		</Replace>
-		<Replace Language="en_US"  Tag="LOC_ABILITY_GRANT_MOVEMENT_BONUS_DESCRIPTION">
-			<Text>Tarjoaa +1 [ICON_Movement] liikkuvuutta yksiköille, jotka aloittavat liikkumisensa korkeintaan yhden ruudun päästä.</Text>
+		<Replace Language="pl_PL" Tag="LOC_ABILITY_GRANT_MOVEMENT_BONUS_DESCRIPTION">
+			<Text>Bir kare uzakta hareket etmeye başlayan birimlere +1 [ICON_Movement] hareketlilik sağlar.</Text>
 		</Replace>
-		<Replace Language="en_US"  Tag="LOC_ABILITY_PARADROP_DESCRIPTION">
-			<Text>Voi hypätä ystävällisestä ruudusta 7 ruudun etäisyydelle (12 ruudun lähdettäessä lentoasemalta tai kiitoradalta).</Text>
+		<Replace Language="pl_PL" Tag="LOC_ABILITY_PARADROP_DESCRIPTION">
+			<Text>Dost bir kareden 7 kare uzağa paraşütle atlayabilir (havaalanı veya pistten 12 kare).</Text>
 		</Replace>
-		<Replace Language="en_US"  Tag="LOC_ABILITY_TOQUI_XP_FROM_GOVERNOR_DESCRIPTION">
-			<Text>Taistelemisesta +25% kokemuksen karttumiseen (Toqui)</Text>
+		<Replace Language="pl_PL" Tag="LOC_ABILITY_TOQUI_XP_FROM_GOVERNOR_DESCRIPTION">
+			<Text>Savaşta +25% deneyim kazanımı (Toqui)</Text>
 		</Replace>
-		<Replace Language="en_US"  Tag="LOC_ABILITY_TOQUI_COMBAT_BUFF_VS_GOLDEN_AGE_DESCRIPTION">
-			<Text>+10 [ICON_Strength] taisteluvoimakkuutta kultakaudella olevia kansakuntia vastaan.[NEWLINE] </Text>
+		<Replace Language="pl_PL" Tag="LOC_ABILITY_TOQUI_COMBAT_BUFF_VS_GOLDEN_AGE_DESCRIPTION">
+			<Text>Altın çağda olan uluslara karşı +10 [ICON_Strength] savaş gücü.[NEWLINE] </Text>
 		</Replace>
-		<Replace Language="en_US"  Tag="LOC_ABILITY_TIMUR_BONUS_EXPERIENCE_DESCRIPTION">
-			<Text>Taistelemisesta +25% kokemuksen karttumiseen (Timur)</Text>
+		<Replace Language="pl_PL" Tag="LOC_ABILITY_TIMUR_BONUS_EXPERIENCE_DESCRIPTION">
+			<Text>Savaşta +25% deneyim kazanımı (Timur)</Text>
 		</Replace>
-		<Replace Language="en_US"  Tag="LOC_ABILITY_DRONE_GRANT_SIEGE_BONUS_DESCRIPTION">
-			<Text>Tarjoaa +5 [ICON_Bombard] tulitusvoimaa piiritysluokan yksiköille yhden ruudun päähän.</Text>
+		<Replace Language="pl_PL" Tag="LOC_ABILITY_DRONE_GRANT_SIEGE_BONUS_DESCRIPTION">
+			<Text>Bir kare uzaktaki kuşatma sınıfı birimlere +5 [ICON_Bombard] bombardıman gücü sağlar.</Text>
 		</Replace>
-		<Replace Language="en_US"  Tag="LOC_ABILITY_GENGHIS_KHAN_CAVALRY_BONUS_DESCRIPTION">
-			<Text>+3 [ICON_Strength] taisteluvoimakkuutta (mongoliratsut).</Text>
+		<Replace Language="pl_PL" Tag="LOC_ABILITY_GENGHIS_KHAN_CAVALRY_BONUS_DESCRIPTION">
+			<Text>+3 [ICON_Strength] savaş gücü (Moğol süvarileri).</Text>
 		</Replace>
-		<Replace Language="en_US"  Tag="LOC_ABILITY_GENGHIS_KHAN_CAVALRY_CAPTURE_CAVALRY_DESCRIPTION">
-			<Text>Kyky kaapata voitetut ratsuyksiköt (mongoliratsut).</Text>
+		<Replace Language="pl_PL" Tag="LOC_ABILITY_GENGHIS_KHAN_CAVALRY_CAPTURE_CAVALRY_DESCRIPTION">
+			<Text>Yenilen süvari birimlerini ele geçirme yeteneği (Moğol süvarileri).</Text>
 		</Replace>
 		<!-- Feature -->
-		<Replace Language="en_US" Tag="LOC_FEATURE_REEF_NAME">
-			<Text>Riutta</Text>
+		<Replace Language="pl_PL" Tag="LOC_FEATURE_REEF_NAME">
+			<Text>Resif</Text>
 		</Replace>
 		<!-- Natural Wonders -->
-		<Replace Language="en_US" Tag="LOC_FEATURE_DELICATE_ARCH_NAME">
+		<Replace Language="pl_PL" Tag="LOC_FEATURE_DELICATE_ARCH_NAME">
 			<Text>Delicate Arch</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_FEATURE_DELICATE_ARCH_DESCRIPTION">
-			<Text>Yhden ruudun kulkukelvoton luonnonihme. Tarjoaa +2 [ICON_FAITH] uskoa ja +1 [ICON_GOLD] kultaa viereisille ruuduille.</Text>
+		<Replace Language="pl_PL" Tag="LOC_FEATURE_DELICATE_ARCH_DESCRIPTION">
+			<Text>Bir karelik geçilmez doğal harika. Komşu karelere +2 [ICON_FAITH] inanç ve +1 [ICON_GOLD] altın sağlar.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_FEATURE_DELICATE_ARCH_QUOTE">
-			<Text>"Jos Delicate Archilla on mitään merkittävyyttä, rohkenen sanoa, että se on oudossa ja odottamattomassa, joka yllättää aistit ja mielen tottumusten ikeestä."[NEWLINE]–Edward Abbey</Text>
+		<Replace Language="pl_PL" Tag="LOC_FEATURE_DELICATE_ARCH_QUOTE">
+			<Text>"Eğer Delicate Arch'ın bir anlamı varsa, cesaret ederim ki, bu duyuların ve zihnin alışkanlıkların boyunduruğundan kurtulmasına neden olan tuhaf ve beklenmedik bir şeydir."[NEWLINE]–Edward Abbey</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_FEATURE_EYE_OF_THE_SAHARA_NAME">
-			<Text>Saharan silmä</Text>
+		<Replace Language="pl_PL" Tag="LOC_FEATURE_EYE_OF_THE_SAHARA_NAME">
+			<Text>Sahara'nın Gözü</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_FEATURE_EYE_OF_THE_SAHARA_DESCRIPTION">
-			<Text>Kolmen ruudun luonnonihme. Tarjoaa +1 [ICON_PRODUCTION] tuottavuutta. Atomiajan saavuttamisen jälkeen tarjoaa lisäksi +1 [ICON_PRODUCTION] tuottavuutta ja +3 [ICON_SCIENCE] tiedettä.</Text>
+		<Replace Language="pl_PL" Tag="LOC_FEATURE_EYE_OF_THE_SAHARA_DESCRIPTION">
+			<Text>Üç karelik doğal harika. +1 [ICON_PRODUCTION] üretim sağlar. Atom çağına ulaşıldığında ek olarak +1 [ICON_PRODUCTION] üretim ve +3 [ICON_SCIENCE] bilim sağlar.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_FEATURE_EYE_OF_THE_SAHARA_QUOTE">
-			<Text>"Jotenkin kummalla tavalla se ei vaikuta olevan meteoriitin luoma arpi, vaan luonnon kuluttama kupu sateenkaaren innoittamalla värimaailmalla."[NEWLINE]–Chris Hadfield</Text>
+		<Replace Language="pl_PL" Tag="LOC_FEATURE_EYE_OF_THE_SAHARA_QUOTE">
+			<Text>"Bir şekilde, bu bir meteor çarpmasının yarası gibi görünmüyor, daha çok doğanın aşındırdığı bir kubbe, gökkuşağının ilham verdiği bir renk paletiyle."[NEWLINE]–Chris Hadfield</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_FEATURE_MATTERHORN_NAME">
+		<Replace Language="pl_PL" Tag="LOC_FEATURE_MATTERHORN_NAME">
 			<Text>Matterhorn</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_FEATURE_MATTERHORN_DESCRIPTION">
-			<Text>Yhden ruudun kulkukelvoton luonnonihme. Vuori, joka tarjoaa +1 [ICON_CULTURE] kulttuuria viereisille ruuduille. Matterhornin vieressä käyneet maataisteluyksiköt eivät enää huomioi mäkiä loppupelin aikana ja saavat +3 [ICON_Strength] taisteluvoimakkuutta taistellessaan mäellä.</Text>
+		<Replace Language="pl_PL" Tag="LOC_FEATURE_MATTERHORN_DESCRIPTION">
+			<Text>Bir karelik geçilmez doğal harika. Komşu karelere +1 [ICON_CULTURE] kültür sağlar. Matterhorn'un yanında bulunan kara savaş birimleri, oyun boyunca tepeleri dikkate almaz ve tepelerde savaşırken +3 [ICON_Strength] savaş gücü kazanır.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_FEATURE_MATTERHORN_QUOTE">
-			<Text>"Sallisitteko minun mennä ja käydä arvostamassa ja ihailemassa aikoinaan niin haluttua Matterhornia ennen kuin sen huippu on menettänyt auringon viimeiset säteet, jotka ovat menossa kultaamaan etäisempiä vuorijonoja."[NEWLINE]–F. Crauford Grove</Text>
+		<Replace Language="pl_PL" Tag="LOC_FEATURE_MATTERHORN_QUOTE">
+			<Text>"İzin verir misiniz, bir zamanlar çok arzulanan Matterhorn'u son güneş ışınlarını kaybetmeden önce gidip takdir edeyim ve hayran kalayım, bu ışınlar daha uzak dağ sıralarını altınla kaplamaya gidiyor."[NEWLINE]–F. Crauford Grove</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_FEATURE_RORAIMA_NAME">
+		<Replace Language="pl_PL" Tag="LOC_FEATURE_RORAIMA_NAME">
 			<Text>Monte Roraima</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_FEATURE_RORAIMA_DESCRIPTION">
-			<Text>Neljän ruudun kulkukelvoton luonnonihme. Vuori, joka tarjoaa +1 [ICON_FAITH] uskoa ja +1 [ICON_SCIENCE] tiedettä viereisille ruuduille.</Text>
+		<Replace Language="pl_PL" Tag="LOC_FEATURE_RORAIMA_DESCRIPTION">
+			<Text>Dört karelik geçilmez doğal harika. Komşu karelere +1 [ICON_FAITH] inanç ve +1 [ICON_SCIENCE] bilim sağlar.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_FEATURE_RORAIMA_QUOTE">
-			<Text>"Se oli loistava maisema, sillä kaikkialla oli mitä ihmeellisemmin muotoutuneita kiviä mitä mahdottomimman oloisissa asennoissa, jotka vaikuttivat kumoavan jokaisen painovoiman lain seisoessaan toistensa päällä tai vieressä."[NEWLINE]–Goldthwaite’s Geographical -lehti</Text>
+		<Replace Language="pl_PL" Tag="LOC_FEATURE_RORAIMA_QUOTE">
+			<Text>"Bu harika bir manzaraydı, çünkü her yerde en tuhaf şekillerde ve en imkansız görünen pozisyonlarda duran, her yerçekimi yasasını çiğneyen taşlar vardı."[NEWLINE]–Goldthwaite’s Geographical Magazine</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_FEATURE_UBSUNUR_HOLLOW_NAME">
-			<Text>Ubsunurin allas</Text>
+		<Replace Language="pl_PL" Tag="LOC_FEATURE_UBSUNUR_HOLLOW_NAME">
+			<Text>Ubsunur Havzası</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_FEATURE_UBSUNUR_HOLLOW_DESCRIPTION">
-			<Text>Neljän ruudun luonnonihme. Suo, joka tarjoaa +2 [ICON_FAITH] uskoa, +1 [ICON_FOOD] ruokaa ja +1 [ICON_PRODUCTION] tuottavuutta.</Text>
+		<Replace Language="pl_PL" Tag="LOC_FEATURE_UBSUNUR_HOLLOW_DESCRIPTION">
+			<Text>Dört karelik doğal harika. Bataklık, +2 [ICON_FAITH] inanç, +1 [ICON_FOOD] gıda ve +1 [ICON_PRODUCTION] üretim sağlar.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_FEATURE_UBSUNUR_HOLLOW_QUOTE">
-			<Text>"Synkkien ja syvien vesien nouseva maailma, joka on tyhjästä ja muodottomasta loputtomuudesta voitettu."[NEWLINE]–John Milton</Text>
+		<Replace Language="pl_PL" Tag="LOC_FEATURE_UBSUNUR_HOLLOW_QUOTE">
+			<Text>"Karanlık ve derin suların yükselen dünyası, boş ve şekilsiz sonsuzluktan kazanılmıştır."[NEWLINE]–John Milton</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_FEATURE_ZHANGYE_DANXIA_NAME">
+		<Replace Language="pl_PL" Tag="LOC_FEATURE_ZHANGYE_DANXIA_NAME">
 			<Text>Zhangye Danxia</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_FEATURE_ZHANGYE_DANXIA_DESCRIPTION">
-			<Text>Kolmen ruudun kulkukelvoton luonnonihme. Vuori, joka tarjoaa 2 [ICON_GREATGENERAL] merkittävien kenraalien pistettä ja 2 [ICON_GREATMERCHANT] merkittävien kauppiaiden pistettä, mikäli hallussamme on edes yksi näistä ruuduista.</Text>
+		<Replace Language="pl_PL" Tag="LOC_FEATURE_ZHANGYE_DANXIA_DESCRIPTION">
+			<Text>Üç karelik geçilmez doğal harika. Bir kareye sahip olduğumuzda, +2 [ICON_GREATGENERAL] büyük general puanı ve +2 [ICON_GREATMERCHANT] büyük tüccar puanı sağlar.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_FEATURE_ZHANGYE_DANXIA_QUOTE">
-			<Text>"Auringon loistaessa kirkkaasti, sitten iltahämärän udun laskeutuessa&hellip; siellä maisema muuttuu taianomaisesti hetkestä riippumatta."[NEWLINE]–Fan Zhongyan</Text>
+		<Replace Language="pl_PL" Tag="LOC_FEATURE_ZHANGYE_DANXIA_QUOTE">
+			<Text>"Güneş parlarken, sonra akşam sisi çökerken&hellip; orada manzara her an büyülü bir şekilde değişir."[NEWLINE]–Fan Zhongyan</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_FEATURE_LAKE_RETBA_NAME">
-			<Text>Retba-järvi</Text>
+		<Replace Language="pl_PL" Tag="LOC_FEATURE_LAKE_RETBA_NAME">
+			<Text>Retba Gölü</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_FEATURE_LAKE_RETBA_DESCRIPTION">
-			<Text>Kahden ruudun luonnonihme. Järvi, joka tarjoaa +2 [ICON_CULTURE] kulttuuria, +2 [ICON_GOLD] kultaa ja +1 [ICON_PRODUCTION] tuottavuutta, sekä makeaa vettä.</Text>
+		<Replace Language="pl_PL" Tag="LOC_FEATURE_LAKE_RETBA_DESCRIPTION">
+			<Text>İki karelik doğal harika. Göl, +2 [ICON_CULTURE] kültür, +2 [ICON_GOLD] altın ve +1 [ICON_PRODUCTION] üretim sağlar, ayrıca tatlı su sağlar.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_FEATURE_LAKE_RETBA_QUOTE">
-			<Text>"Vettä, vettä määrätt’ on, ja kaikki janoaa, vettä silmänkantamat: et vettä juoda saa."[NEWLINE]–Samuel Taylor Coleridge, Vanhan merimiehen tarina (suom. Yrjö Jylhä)</Text>
+		<Replace Language="pl_PL" Tag="LOC_FEATURE_LAKE_RETBA_QUOTE">
+			<Text>"Su, su her yerde, ve her damla içilmez."[NEWLINE]–Samuel Taylor Coleridge, The Rime of the Ancient Mariner</Text>
 		</Replace>
 		<!-- Cultural Identity UI-->
-		<Replace Language="en_US" Tag="LOC_CULTURAL_IDENTITY_LOYALTY_SUBSECTION">
-			<Text>Uskollisuus</Text>
+		<Replace Language="pl_PL" Tag="LOC_CULTURAL_IDENTITY_LOYALTY_SUBSECTION">
+			<Text>Sadakat</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CULTURAL_IDENTITY_ACCUMULATED_IDENTITY_SUBSECTION">
-			<Text>Kertynyt uskollisuus</Text>
+		<Replace Language="pl_PL" Tag="LOC_CULTURAL_IDENTITY_ACCUMULATED_IDENTITY_SUBSECTION">
+			<Text>Biriken Sadakat</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CULTURAL_IDENTITY_SOURCE_DISTANCE_FROM_CAPITAL">
-			<Text>Läheisyys [ICON_Capital] pääkaupunkiimme</Text>
+		<Replace Language="pl_PL" Tag="LOC_CULTURAL_IDENTITY_SOURCE_DISTANCE_FROM_CAPITAL">
+			<Text>[ICON_Capital] Başkentimize Yakınlık</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CULTURAL_IDENTITY_LOYALTY">
-			<Text>[SIZE:16]{1_Loyalty} [SIZE:12]uskollisuutta</Text>
+		<Replace Language="pl_PL" Tag="LOC_CULTURAL_IDENTITY_LOYALTY">
+			<Text>[SIZE:16]{1_Loyalty} [SIZE:12]sadakat</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CULTURAL_IDENTITY_OF">
-			<Text>[SIZE:12]kun</Text>
+		<Replace Language="pl_PL" Tag="LOC_CULTURAL_IDENTITY_OF">
+			<Text>[SIZE:12]olarak</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CULTURAL_IDENTITY_TOTAL_LOYALTY">
-			<Text>[SIZE:16]{1_Loyalty} [SIZE:12]on maksimi</Text>
+		<Replace Language="pl_PL" Tag="LOC_CULTURAL_IDENTITY_TOTAL_LOYALTY">
+			<Text>[SIZE:16]{1_Loyalty} [SIZE:12]maksimum</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CULTURAL_IDENTITY_STATUS">
-			<Text>Tila:</Text>
+		<Replace Language="pl_PL" Tag="LOC_CULTURAL_IDENTITY_STATUS">
+			<Text>Durum:</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CULTURAL_IDENTITY_LOYALTY_LINE">
-			<Text>Uskollisuus vuorossa:</Text>
+		<Replace Language="pl_PL" Tag="LOC_CULTURAL_IDENTITY_LOYALTY_LINE">
+			<Text>Tur başına sadakat:</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CULTURAL_IDENTITY_PER_TURN_OWNERSHIP">
-			<Text>Kaupungin omistamisesta</Text>
+		<Replace Language="pl_PL" Tag="LOC_CULTURAL_IDENTITY_PER_TURN_OWNERSHIP">
+			<Text>Şehrin sahipliğinden</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CULTURAL_IDENTITY_PER_TURN_POPULATION">
-			<Text>Paikallisista [ICON_Citizen] asukkaista</Text>
+		<Replace Language="pl_PL" Tag="LOC_CULTURAL_IDENTITY_PER_TURN_POPULATION">
+			<Text>Yerel [ICON_Citizen] vatandaşlardan</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CULTURAL_IDENTITY_PER_TURN_MARTIAL_LAW">
-			<Text>Asettuneesta yksiköstä miehityksen aikana</Text>
+		<Replace Language="pl_PL" Tag="LOC_CULTURAL_IDENTITY_PER_TURN_MARTIAL_LAW">
+			<Text>İşgal sırasında yerleşik birimden</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CULTURAL_IDENTITY_PER_TURN_OCCUPATION">
-			<Text>Miehityksestä</Text>
+		<Replace Language="pl_PL" Tag="LOC_CULTURAL_IDENTITY_PER_TURN_OCCUPATION">
+			<Text>İşgalden</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CULTURAL_IDENTITY_PER_TURN_STARVATION">
-			<Text>Nälkiintymisestä</Text>
+		<Replace Language="pl_PL" Tag="LOC_CULTURAL_IDENTITY_PER_TURN_STARVATION">
+			<Text>Açlıktan</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CULTURAL_IDENTITY_PER_TURN_TRADE_ROUTES">
-			<Text>[ICON_TradeRoute] Kauppareiteistä</Text>
+		<Replace Language="pl_PL" Tag="LOC_CULTURAL_IDENTITY_PER_TURN_TRADE_ROUTES">
+			<Text>[ICON_TradeRoute] Ticaret yollarından</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CULTURAL_IDENTITY_PER_TURN_GOVERNOR">
-			<Text>[ICON_Governor] Käskynhaltijasta</Text>
+		<Replace Language="pl_PL" Tag="LOC_CULTURAL_IDENTITY_PER_TURN_GOVERNOR">
+			<Text>[ICON_Governor] Validan</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CULTURAL_IDENTITY_PER_TURN_HAPPINESS">
-			<Text>Onnellisuuden tasosta</Text>
+		<Replace Language="pl_PL" Tag="LOC_CULTURAL_IDENTITY_PER_TURN_HAPPINESS">
+			<Text>Mutluluk seviyesinden</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CULTURAL_IDENTITY_PER_TURN_RELIGION_MATCHING_FOUNDED">
-			<Text>Perustamamme [ICON_Religion] uskonnon noudattamisesta</Text>
+		<Replace Language="pl_PL" Tag="LOC_CULTURAL_IDENTITY_PER_TURN_RELIGION_MATCHING_FOUNDED">
+			<Text>Kurulan [ICON_Religion] dine uymaktan</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CULTURAL_IDENTITY_PER_TURN_RELIGION_MISMATCHING_FOUNDED">
-			<Text>Eivät noudata perustamaamme [ICON_Religion] uskontoa</Text>
+		<Replace Language="pl_PL" Tag="LOC_CULTURAL_IDENTITY_PER_TURN_RELIGION_MISMATCHING_FOUNDED">
+			<Text>Kurulan [ICON_Religion] dine uymamaktan</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CULTURAL_IDENTITY_PER_TURN_MODIFIERS">
-			<Text>Muut vaikutukset</Text>
+		<Replace Language="pl_PL" Tag="LOC_CULTURAL_IDENTITY_PER_TURN_MODIFIERS">
+			<Text>Diğer etkilerden</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CULTURAL_IDENTITY_PER_TURN_ORIGINAL_OWNERSHIP">
-			<Text>Kaupungin alkuperäisestä omistajuudesta</Text>
+		<Replace Language="pl_PL" Tag="LOC_CULTURAL_IDENTITY_PER_TURN_ORIGINAL_OWNERSHIP">
+			<Text>Şehrin orijinal sahipliğinden</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CULTURAL_IDENTITY_PER_TURN_OWNERSHIP_BEFORE_OCCUPATION">
-			<Text>Kaupungin omistajuudesta ennen miehitystä</Text>
+		<Replace Language="pl_PL" Tag="LOC_CULTURAL_IDENTITY_PER_TURN_OWNERSHIP_BEFORE_OCCUPATION">
+			<Text>İşgalden önceki şehrin sahipliğinden</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CULTURAL_IDENTITY_PER_TURN_FREE_CITIES">
-			<Text>Itsenäistymisen kaipuusta</Text>
+		<Replace Language="pl_PL" Tag="LOC_CULTURAL_IDENTITY_PER_TURN_FREE_CITIES">
+			<Text>Bağımsızlık arzusundan</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CULTURAL_IDENTITY_PER_TURN_ALWAYS_LOYAL">
-			<Text>Aina täysin uskollinen</Text>
+		<Replace Language="pl_PL" Tag="LOC_CULTURAL_IDENTITY_PER_TURN_ALWAYS_LOYAL">
+			<Text>Her zaman tamamen sadık</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CULTURAL_IDENTITY_PER_TURN_NEARBY_CITIZEN_PRESSURE">
-			<Text>Paine lähiseutujen [ICON_Citizen] asukkaista</Text>
+		<Replace Language="pl_PL" Tag="LOC_CULTURAL_IDENTITY_PER_TURN_NEARBY_CITIZEN_PRESSURE">
+			<Text>Yakındaki [ICON_Citizen] vatandaşlardan gelen baskı</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CULTURAL_IDENTITY_PER_TURN_NEARBY_OWNED_CITIES">
-			<Text>Lähiseutujen [ICON_Citizen] asukkaista</Text>
+		<Replace Language="pl_PL" Tag="LOC_CULTURAL_IDENTITY_PER_TURN_NEARBY_OWNED_CITIES">
+			<Text>Yakındaki [ICON_Citizen] vatandaşlardan</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CULTURAL_IDENTITY_PER_TURN_NEARBY_FOREIGN_CITIES">
-			<Text>Lähiseutujen kilpailevista [ICON_Citizen] asukkaista</Text>
+		<Replace Language="pl_PL" Tag="LOC_CULTURAL_IDENTITY_PER_TURN_NEARBY_FOREIGN_CITIES">
+			<Text>Yakındaki rakip [ICON_Citizen] vatandaşlardan</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CULTURAL_IDENTITY_PER_TURN_NEARBY_OWNED_GOVERNORS">
-			<Text>Lähiseutujen diplomaattisesta [ICON_Governor] käskynhaltijasta</Text>
+		<Replace Language="pl_PL" Tag="LOC_CULTURAL_IDENTITY_PER_TURN_NEARBY_OWNED_GOVERNORS">
+			<Text>Yakındaki diplomatik [ICON_Governor] validen</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CULTURAL_IDENTITY_PER_TURN_NEARBY_FOREIGN_GOVERNORS">
-			<Text>Lähiseutujen kilpailevista diplomaattisista [ICON_Governor] käskynhaltijoista</Text>
+		<Replace Language="pl_PL" Tag="LOC_CULTURAL_IDENTITY_PER_TURN_NEARBY_FOREIGN_GOVERNORS">
+			<Text>Yakındaki rakip diplomatik [ICON_Governor] validen</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CULTURAL_IDENTITY_PRESSURE_OWNERSHIP">
-			<Text>{1_IdentityPressureAmount} kaupungin omistamisesta</Text>
+		<Replace Language="pl_PL" Tag="LOC_CULTURAL_IDENTITY_PRESSURE_OWNERSHIP">
+			<Text>{1_IdentityPressureAmount} şehrin sahipliğinden</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CULTURAL_IDENTITY_PRESSURE_POPULATION">
-			<Text>{1_IdentityPressureAmount} kaupungin [ICON_Citizen] asukkaista</Text>
+		<Replace Language="pl_PL" Tag="LOC_CULTURAL_IDENTITY_PRESSURE_POPULATION">
+			<Text>{1_IdentityPressureAmount} şehrin [ICON_Citizen] vatandaşlarından</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CULTURAL_IDENTITY_PRESSURE_AGES">
-			<Text>{1_IdentityPressureAmount} synkästä tai kultakaudesta</Text>
+		<Replace Language="pl_PL" Tag="LOC_CULTURAL_IDENTITY_PRESSURE_AGES">
+			<Text>{1_IdentityPressureAmount} karanlık veya altın çağdan</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CULTURAL_IDENTITY_PRESSURE_GOVERNOR">
-			<Text>{1_IdentityPressureAmount} diplomaattisesta [ICON_Governor] käskynhaltijasta</Text>
+		<Replace Language="pl_PL" Tag="LOC_CULTURAL_IDENTITY_PRESSURE_GOVERNOR">
+			<Text>{1_IdentityPressureAmount} diplomatik [ICON_Governor] validen</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CULTURAL_IDENTITY_PRESSURE_MODIFIERS">
-			<Text>{1_IdentityPressureAmount} muista vaikutuksista</Text>
+		<Replace Language="pl_PL" Tag="LOC_CULTURAL_IDENTITY_PRESSURE_MODIFIERS">
+			<Text>{1_IdentityPressureAmount} diğer etkilerden</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CULTURAL_IDENTITY_SOURCE_OWN_CITIES">
-			<Text>[ICON_Citizen] Asukkaistamme 9 ruudun säteellä</Text>
+		<Replace Language="pl_PL" Tag="LOC_CULTURAL_IDENTITY_SOURCE_OWN_CITIES">
+			<Text>[ICON_Citizen] 9 kare içindeki vatandaşlarımızdan</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CULTURAL_IDENTITY_SOURCE_MARTIAL_LAW">
-			<Text>Poikkeustila</Text>
+		<Replace Language="pl_PL" Tag="LOC_CULTURAL_IDENTITY_SOURCE_MARTIAL_LAW">
+			<Text>Sıkıyönetim</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CULTURAL_IDENTITY_SOURCE_OCCUPATION">
-			<Text>[COLOR_RED]Miehitys</Text>
+		<Replace Language="pl_PL" Tag="LOC_CULTURAL_IDENTITY_SOURCE_OCCUPATION">
+			<Text>[COLOR_RED]İşgal</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CULTURAL_IDENTITY_SOURCE_TRADE_ROUTES">
-			<Text>[ICON_TradeRoute] Kauppareitit</Text>
+		<Replace Language="pl_PL" Tag="LOC_CULTURAL_IDENTITY_SOURCE_TRADE_ROUTES">
+			<Text>[ICON_TradeRoute] Ticaret yolları</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CULTURAL_IDENTITY_SOURCE_GOVERNOR">
-			<Text>[ICON_Governor] Vallan ottanut käskynhaltija</Text>
+		<Replace Language="pl_PL" Tag="LOC_CULTURAL_IDENTITY_SOURCE_GOVERNOR">
+			<Text>[ICON_Governor] Gücü elinde tutan vali</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CULTURAL_IDENTITY_SOURCE_BASE_DECAY">
-			<Text>Perusmenetys</Text>
+		<Replace Language="pl_PL" Tag="LOC_CULTURAL_IDENTITY_SOURCE_BASE_DECAY">
+			<Text>Temel kayıp</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CULTURAL_IDENTITY_SOURCE_HAPPINESS">
-			<Text>Asukkaiden onnelisuus</Text>
+		<Replace Language="pl_PL" Tag="LOC_CULTURAL_IDENTITY_SOURCE_HAPPINESS">
+			<Text>Vatandaşların mutluluğu</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CULTURAL_IDENTITY_SOURCE_UNHAPPINESS">
-			<Text>[COLOR_RED]Asukkaiden tyytymättömyys</Text>
+		<Replace Language="pl_PL" Tag="LOC_CULTURAL_IDENTITY_SOURCE_UNHAPPINESS">
+			<Text>[COLOR_RED]Vatandaşların memnuniyetsizliği</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CULTURAL_IDENTITY_SOURCE_GOLDEN_AND_DARK_AGES">
-			<Text>Synkät ja kultakaudet</Text>
+		<Replace Language="pl_PL" Tag="LOC_CULTURAL_IDENTITY_SOURCE_GOLDEN_AND_DARK_AGES">
+			<Text>Karanlık ve altın çağlar</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CULTURAL_IDENTITY_SOURCE_MISC">
-			<Text>Muut muuttujat</Text>
+		<Replace Language="pl_PL" Tag="LOC_CULTURAL_IDENTITY_SOURCE_MISC">
+			<Text>Diğer değişkenler</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CULTURAL_IDENTITY_SOURCE_INDEPENDENCE_DESIRE">
-			<Text>[COLOR_RED]Yleinen levottomuus</Text>
+		<Replace Language="pl_PL" Tag="LOC_CULTURAL_IDENTITY_SOURCE_INDEPENDENCE_DESIRE">
+			<Text>[COLOR_RED]Genel huzursuzluk</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CULTURAL_IDENTITY_SOURCE_FOREIGN_CITIES">
-			<Text>[COLOR_RED]Muide nkansojen [ICON_Citizen] asukkaista 9 ruudun sisällä</Text>
+		<Replace Language="pl_PL" Tag="LOC_CULTURAL_IDENTITY_SOURCE_FOREIGN_CITIES">
+			<Text>[COLOR_RED]9 kare içindeki diğer ulusların [ICON_Citizen] vatandaşlarından</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CULTURAL_IDENTITY_SOURCE_STARVATION">
-			<Text>[COLOR_RED]Kaupunki näkee nälkää</Text>
+		<Replace Language="pl_PL" Tag="LOC_CULTURAL_IDENTITY_SOURCE_STARVATION">
+			<Text>[COLOR_RED]Şehir açlık çekiyor</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CULTURAL_IDENTITY_SOURCE_ADDITIONAL">
-			<Text>Muut lähteet</Text>
+		<Replace Language="pl_PL" Tag="LOC_CULTURAL_IDENTITY_SOURCE_ADDITIONAL">
+			<Text>Diğer kaynaklar</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CULTURAL_IDENTITY_LOYALTY_NO_GROWTH_PENALTY">
-			<Text>EI HAITTAA</Text>
+		<Replace Language="pl_PL" Tag="LOC_CULTURAL_IDENTITY_LOYALTY_NO_GROWTH_PENALTY">
+			<Text>NO PENALTY</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_HUD_CULTURAL_IDENTITY_LENS">
-			<Text>Uskollisuus</Text>
+		<Replace Language="pl_PL" Tag="LOC_HUD_CULTURAL_IDENTITY_LENS">
+			<Text>Sadakat</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_HUD_CULTURAL_IDENTITY_LENS_TOOLTIP">
-			<Text>Näyttää kaupunkien uskollisuuden ja siihen vaikuttavat lähteet.</Text>
+		<Replace Language="pl_PL" Tag="LOC_HUD_CULTURAL_IDENTITY_LENS_TOOLTIP">
+			<Text>Şehirlerin sadakatini ve buna etki eden kaynakları gösterir.</Text>
 		</Replace>
 		<!-- Disloyal City UI -->
-		<Replace Language="en_US" Tag="LOC_RAZE_CITY_LIBERATE_EXPLANATION">
+		<Replace Language="pl_PL" Tag="LOC_RAZE_CITY_LIBERATE_EXPLANATION">
 			<!--New version of base game text used in conquer city UI popup, to describe Liberation effect on Loyalty-->
-			<Text>Kaupungin vapauttaminen palauttaa sen yhdelle edellisistä omistajista mahdollisesti tuoden kyseisen kansa takaisin peliin.[NEWLINE][NEWLINE]{1_WarmongerInfo}[NEWLINE][NEWLINE]Uskollisuuspaine kaupungeistamme ja käskynhaltijoiltamme ei tule enää vaikuttamaan tähän kaupunkiin.</Text>
+			<Text>Şehri serbest bırakmak, onu önceki sahiplerinden birine geri verir ve bu ulusu oyuna geri getirebilir.[NEWLINE][NEWLINE]{1_WarmongerInfo}[NEWLINE][NEWLINE]Şehirlerimizden ve valilerimizden gelen sadakat baskısı artık bu şehri etkilemeyecek.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_DISLOYAL_CITY_HEADER">
-			<Text>KAUPUNKI KAPINOI</Text>
+		<Replace Language="pl_PL" Tag="LOC_DISLOYAL_CITY_HEADER">
+			<Text>ŞEHİR İSYAN EDİYOR</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_DISLOYAL_CITY_NAME_LABEL">
-			<Text>Kaupungin nimi:</Text>
+		<Replace Language="pl_PL" Tag="LOC_DISLOYAL_CITY_NAME_LABEL">
+			<Text>Şehir adı:</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_DISLOYAL_CITY_POPULATION_LABEL">
-			<Text>Väestö:</Text>
+		<Replace Language="pl_PL" Tag="LOC_DISLOYAL_CITY_POPULATION_LABEL">
+			<Text>Nüfus:</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_DISLOYAL_CITY_DISTRICTS_LABEL">
-			<Text>Kaupunkialueiden määrä:</Text>
+		<Replace Language="pl_PL" Tag="LOC_DISLOYAL_CITY_DISTRICTS_LABEL">
+			<Text>Şehir bölgelerinin sayısı:</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_DISLOYAL_CITY_CHOOSER_KEEP_BUTTON_LABEL">
-			<Text>Pidä kaupunki</Text>
+		<Replace Language="pl_PL" Tag="LOC_DISLOYAL_CITY_CHOOSER_KEEP_BUTTON_LABEL">
+			<Text>Şehri tut</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_DISLOYAL_CITY_CHOOSER_KEEP_EXPLANATION">
-			<Text>Pidämme tämän kaupungin. Voi olla hyödyksi sijoittaa [ICON_Governor] käskynhaltija varmistamaan uusien asukkaiden uskollisuus valtakuntaamme kohtaan.</Text>
+		<Replace Language="pl_PL" Tag="LOC_DISLOYAL_CITY_CHOOSER_KEEP_EXPLANATION">
+			<Text>Bu şehri tutuyoruz. Yeni vatandaşların krallığımıza sadakatini sağlamak için bir [ICON_Governor] vali atamak faydalı olabilir.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_DISLOYAL_CITY_CHOOSER_REFUSE_BUTTON_LABEL">
-			<Text>Hylkää kaupunki</Text>
+		<Replace Language="pl_PL" Tag="LOC_DISLOYAL_CITY_CHOOSER_REFUSE_BUTTON_LABEL">
+			<Text>Şehri reddet</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_DISLOYAL_CITY_CHOOSER_REFUSE_EXPLANATION">
-			<Text>Hylkää kaupungin hakemus liittyä valtakuntaamme. Se säilyy vapaana kaupunkina.[NEWLINE][NEWLINE]Uskollisuuspaine kaupungeistamme ja käskynhaltijoiltamme ei tule enää vaikuttamaan tähän kaupunkiin, eivätkä he toiste pyri hakeutumaan osaksi valtakuntaamme. Muut kansakunnat saattavat silti voittaa kaupungin itselleen.</Text>
+		<Replace Language="pl_PL" Tag="LOC_DISLOYAL_CITY_CHOOSER_REFUSE_EXPLANATION">
+			<Text>Şehrin krallığımıza katılma talebini reddet. Bağımsız bir şehir olarak kalacak.[NEWLINE][NEWLINE]Şehirlerimizden ve valilerimizden gelen sadakat baskısı artık bu şehri etkilemeyecek ve bir daha krallığımıza katılmaya çalışmayacaklar. Diğer uluslar yine de şehri kazanabilir.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CITY_YIELD_FROM_LOYALTY_TOOLTIP">
+		<Replace Language="pl_PL" Tag="LOC_CITY_YIELD_FROM_LOYALTY_TOOLTIP">
 			<Text>{Value : number +#;-#}% ({ActualValue : number +#.#;-#.#}) {1_LoyaltyLevelName[2]}</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CITY_YIELD_MODIFIER_PER_GOVERNOR_TITLE_TOOLTIP">
-			<Text>{Value : number +#;-#}% ({ActualValue : number +#.#;-#.#}) Hwarangista ([ICON_Governor] käskynhaltijasta jolla {1} {1 : plural 1?ylennys; other?ylennystä;})</Text>
+		<Replace Language="pl_PL" Tag="LOC_CITY_YIELD_MODIFIER_PER_GOVERNOR_TITLE_TOOLTIP">
+			<Text>{Value : number +#;-#}% ({ActualValue : number +#.#;-#.#}) Hwarang'dan ([ICON_Governor] vali ile {1} {1 : plural 1?terfi; other?terfi;})</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_LOYALTY_LEVEL_3_NAME">
-			<Text>Uskollinen|uskollisuudesta</Text>
+		<Replace Language="pl_PL" Tag="LOC_LOYALTY_LEVEL_3_NAME">
+			<Text>Sadık|sadakatten</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_LOYALTY_LEVEL_2_NAME">
-			<Text>Epäröivä|epäröinnistä</Text>
+		<Replace Language="pl_PL" Tag="LOC_LOYALTY_LEVEL_2_NAME">
+			<Text>Kararsız|kararsızlıktan</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_LOYALTY_LEVEL_1_NAME">
-			<Text>Uskoton|uskottomuudesta</Text>
+		<Replace Language="pl_PL" Tag="LOC_LOYALTY_LEVEL_1_NAME">
+			<Text>Sadakatsiz|sadakatsizlikten</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_LOYALTY_LEVEL_0_NAME">
-			<Text>Levoton|levottomuudesta</Text>
+		<Replace Language="pl_PL" Tag="LOC_LOYALTY_LEVEL_0_NAME">
+			<Text>Huzursuz|huzursuzluktan</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_LOYALTY_LEVEL_3_DESCRIPTION">
-			<Text>Asukkaat ovat uskollisia kansakunnallemme</Text>
+		<Replace Language="pl_PL" Tag="LOC_LOYALTY_LEVEL_3_DESCRIPTION">
+			<Text>Vatandaşlar ulusumuza sadık</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_LOYALTY_LEVEL_2_DESCRIPTION">
-			<Text>Asukkaat epäröivät uskollisuuttaan kansakuntaamme kohtaan.</Text>
+		<Replace Language="pl_PL" Tag="LOC_LOYALTY_LEVEL_2_DESCRIPTION">
+			<Text>Vatandaşlar ulusumuza sadakatlerinden şüphe ediyorlar.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_LOYALTY_LEVEL_1_DESCRIPTION">
-			<Text>Asukkaat eivät ole uskollisia kansakuntaamme kohtaan.</Text>
+		<Replace Language="pl_PL" Tag="LOC_LOYALTY_LEVEL_1_DESCRIPTION">
+			<Text>Vatandaşlar ulusumuza sadık değiller.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_LOYALTY_LEVEL_0_DESCRIPTION">
-			<Text>Asukkaat ovat levottomia.</Text>
+		<Replace Language="pl_PL" Tag="LOC_LOYALTY_LEVEL_0_DESCRIPTION">
+			<Text>Vatandaşlar huzursuz.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GLORY_SCORE_BREAKDOWN">
+		<Replace Language="pl_PL" Tag="LOC_GLORY_SCORE_BREAKDOWN">
 			<Text>{1_Icon}({2_Score}/{3_threshold})</Text>
 		</Replace>
 		<!-- Resources -->
-		<Replace Language="en_US" Tag="LOC_RESOURCE_AMBER_NAME">
-			<Text>Meripihka|meripihka</Text>
+		<Replace Language="pl_PL" Tag="LOC_RESOURCE_AMBER_NAME">
+			<Text>Kehribar|kehribar</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_RESOURCE_OLIVES_NAME">
-			<Text>Oliivi|oliivi</Text>
+		<Replace Language="pl_PL" Tag="LOC_RESOURCE_OLIVES_NAME">
+			<Text>Zeytin|zeytin</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_RESOURCE_TURTLES_NAME">
-			<Text>Kilpikonna|kilpikonna</Text>
+		<Replace Language="pl_PL" Tag="LOC_RESOURCE_TURTLES_NAME">
+			<Text>Kaplumbağa|kaplumbağa</Text>
 		</Replace>
 		<!-- HUD -->
-		<Replace Language="en_US" Tag="LOC_HUD_CITY_POPULATION_GRAPH_TOOLTIP">
-			<Text>{1_Amount} {2_CivName} {1_Amount : plural 1?asukas; other?asukasta;}</Text>
+		<Replace Language="pl_PL" Tag="LOC_HUD_CITY_POPULATION_GRAPH_TOOLTIP">
+			<Text>{1_Amount} {2_CivName} {1_Amount : plural 1?vataandaş; other?vataandaş;}</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_HUD_CITY_LOYALTY">
-			<Text>{1_LoyaltyAmount} uskollisuus ({2_LoyaltyPerTurn : number +#.#;-#.#} vuorossa)</Text>
+		<Replace Language="pl_PL" Tag="LOC_HUD_CITY_LOYALTY">
+			<Text>{1_LoyaltyAmount} sadakat ({2_LoyaltyPerTurn : number +#.#;-#.#} tur başına)</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_HUD_CITY_FULL_LOYALTY">
-			<Text>Täysin uskollinen</Text>
+		<Replace Language="pl_PL" Tag="LOC_HUD_CITY_FULL_LOYALTY">
+			<Text>Tamamen sadık</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_HUD_CITY_GAINING_LOYALTY">
-			<Text>Täysin uskollinen {1_Turns : plural 1?seuraavalla vuorolla; other?{1_Turns} vuoron kuluttua;}</Text>
+		<Replace Language="pl_PL" Tag="LOC_HUD_CITY_GAINING_LOYALTY">
+			<Text>Tamamen sadık {1_Turns : plural 1?sonraki turda; other?{1_Turns} tur sonra;}</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_HUD_CITY_LOSING_LOYALTY">
-			<Text>Kapinoi {1_Turns : plural 1?seuraavalla vuorolla; other?{1_Turns} vuoron kuluttua;}</Text>
+		<Replace Language="pl_PL" Tag="LOC_HUD_CITY_LOSING_LOYALTY">
+			<Text>İsyan {1_Turns : plural 1?sonraki turda; other?{1_Turns} tur sonra;}</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CITY_GET_UNIT_PRODUCTION_MODIFIER">
-			<Text>{Value : number +#.#;-#.#}% kohden yksiköitä</Text>
+		<Replace Language="pl_PL" Tag="LOC_CITY_GET_UNIT_PRODUCTION_MODIFIER">
+			<Text>{Value : number +#.#;-#.#}% birimler için</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CITY_GET_BUILDING_PRODUCTION_MODIFIER">
-			<Text>{Value : number +#.#;-#.#}% kohden rakennuksia</Text>
+		<Replace Language="pl_PL" Tag="LOC_CITY_GET_BUILDING_PRODUCTION_MODIFIER">
+			<Text>{Value : number +#.#;-#.#}% binalar için</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_HUD_CITY_STABLE_LOYALTY">
-			<Text>Asukkaiden uskollisuus on vakaa</Text>
+		<Replace Language="pl_PL" Tag="LOC_HUD_CITY_STABLE_LOYALTY">
+			<Text>Vatandaşların sadakati sabit</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_HUD_CITY_CULTURAL_EFFECT">
-			<Text>Ei hyviä eikä huonoja vaikutuksia</Text>
+		<Replace Language="pl_PL" Tag="LOC_HUD_CITY_CULTURAL_EFFECT">
+			<Text>Ne iyi ne de kötü etkiler</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_HUD_CITY_GOVERNOR">
-			<Text>Käskynhaltija</Text>
+		<Replace Language="pl_PL" Tag="LOC_HUD_CITY_GOVERNOR">
+			<Text>Vali</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_HUD_CIVICS_TREE_AWARD_GOVERNOR">
-			<Text>Palkitsee yhdellä [Icon_Governor] käskynhaltijan viralla</Text>
+		<Replace Language="pl_PL" Tag="LOC_HUD_CIVICS_TREE_AWARD_GOVERNOR">
+			<Text>Bir [Icon_Governor] vali unvanı verir</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_HUD_LAUNCHBAR_GOVERNOR_BUTTON">
-			<Text>Käskynhaltijat[NEWLINE][NEWLINE]Tarkastele tai hallitse kansakuntamme [Icon_Governor] käskynhaltijoita.</Text>
+		<Replace Language="pl_PL" Tag="LOC_HUD_LAUNCHBAR_GOVERNOR_BUTTON">
+			<Text>Valiler[NEWLINE][NEWLINE]Ulusumuzun [Icon_Governor] valilerini inceleyin veya yönetin.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_HUD_LAUNCHBAR_HISTORIAN_BUTTON">
-			<Text>Historian aikajana[NEWLINE][NEWLINE]Tarkastele kansakuntamme historiallisia hetkiä aikajanalla.</Text>
+		<Replace Language="pl_PL" Tag="LOC_HUD_LAUNCHBAR_HISTORIAN_BUTTON">
+			<Text>Tarih Zaman Çizelgesi[NEWLINE][NEWLINE]Ulusumuzun tarihi anlarını zaman çizelgesinde inceleyin.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_HUD_CITY_CULTURE_TOOLTIP">
-			<Text>Uskollisuus ja käskynhaltijat</Text>
+		<Replace Language="pl_PL" Tag="LOC_HUD_CITY_CULTURE_TOOLTIP">
+			<Text>Sadakat ve valiler</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_HUD_CITY_GOVERNOR_ESTABLISHED">
-			<Text>Asettunut kaupunkiin</Text>
+		<Replace Language="pl_PL" Tag="LOC_HUD_CITY_GOVERNOR_ESTABLISHED">
+			<Text>Şehre yerleşti</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_HUD_CITY_GOVERNOR_ASSIGNED_SPECIFIC">
-			<Text>[ICON_Governor] {1_GovernorName} on asettumassa kaupunkiin</Text>
+		<Replace Language="pl_PL" Tag="LOC_HUD_CITY_GOVERNOR_ASSIGNED_SPECIFIC">
+			<Text>[ICON_Governor] {1_GovernorName} şehre yerleşiyor</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_HUD_CITY_GOVERNOR_ESTABLISHED_SPECIFIC">
-			<Text>[ICON_Governor] {1_GovernorName} on asettunut kaupunkiin</Text>
+		<Replace Language="pl_PL" Tag="LOC_HUD_CITY_GOVERNOR_ESTABLISHED_SPECIFIC">
+			<Text>[ICON_Governor] {1_GovernorName} şehre yerleşti</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_HUD_CITY_NO_GOVERNOR">
-			<Text>Ei osoitettua [ICON_Governor] käskynhaltijaa</Text>
+		<Replace Language="pl_PL" Tag="LOC_HUD_CITY_NO_GOVERNOR">
+			<Text>Atanmış [ICON_Governor] vali yok</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_HUD_CITY_NO_GOVERNOR_EFFECT">
-			<Text>Ei vaikutuksia käskynhaltijoista.</Text>
+		<Replace Language="pl_PL" Tag="LOC_HUD_CITY_NO_GOVERNOR_EFFECT">
+			<Text>Valilerden etkisi yok.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_HUD_CITY_GOVERNOR_TURNS">
-			<Text>{1_num} {1_Num : plural 1?vuoro; other?vuoroa;}.</Text>
+		<Replace Language="pl_PL" Tag="LOC_HUD_CITY_GOVERNOR_TURNS">
+			<Text>{1_num} {1_Num : plural 1?tur; other?tur;}</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CITY_GOLD_FROM_POPULATION">
-			<Text>{Value : number +#.#;-#.#} lisäverotuksesta</Text>
+		<Replace Language="pl_PL" Tag="LOC_CITY_GOLD_FROM_POPULATION">
+			<Text>{Value : number +#.#;-#.#} ek vergilerden</Text>
 		</Replace>
 		<!-- Loyalty and Identity -->
-		<Replace Language="en_US" Tag="LOC_LOYALTY_STATUS_LOYAL">
-			<Text>[COLOR_GREEN]Uskollinen</Text>
+		<Replace Language="pl_PL" Tag="LOC_LOYALTY_STATUS_LOYAL">
+			<Text>[COLOR_GREEN]Sadık</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_LOYALTY_STATUS_DISLOYAL">
-			<Text>[COLOR_RED]Uskoton</Text>
+		<Replace Language="pl_PL" Tag="LOC_LOYALTY_STATUS_DISLOYAL">
+			<Text>[COLOR_RED]Sadakatsiz</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_LOYALTY_PER_TURN_STATUS_GAINING">
-			<Text>[COLOR_GREEN][ICON_PressureUp] Kasvaa</Text>
+		<Replace Language="pl_PL" Tag="LOC_LOYALTY_PER_TURN_STATUS_GAINING">
+			<Text>[COLOR_GREEN][ICON_PressureUp] Artıyor</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_LOYALTY_PER_TURN_STATUS_STABLE">
-			<Text>Vakaa</Text>
+		<Replace Language="pl_PL" Tag="LOC_LOYALTY_PER_TURN_STATUS_STABLE">
+			<Text>Stabil</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_LOYALTY_PER_TURN_STATUS_LOSING">
-			<Text>[COLOR_RED][ICON_PressureDown] Laskee</Text>
+		<Replace Language="pl_PL" Tag="LOC_LOYALTY_PER_TURN_STATUS_LOSING">
+			<Text>[COLOR_RED][ICON_PressureDown] Azalıyor</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_LOYALTY_EFFECT_NONE">
-			<Text>Kaupunki on uskollinen ja ilman haittavaikutuksia.</Text>
+		<Replace Language="pl_PL" Tag="LOC_LOYALTY_EFFECT_NONE">
+			<Text>Şehir sadık ve olumsuz etkiler yok.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_LOYALTY_EFFECT_DANGER_OF_REBELLION_TO_PLAYER">
-			<Text>[COLOR_RED]Uskollisuuden saavuttaessa nollan kaupunki kapinoi ja liittyy pelaajan {1_PlayerName} alaisuuteen, jolla on eniten kertynyttä uskollisuutta.</Text>
+		<Replace Language="pl_PL" Tag="LOC_LOYALTY_EFFECT_DANGER_OF_REBELLION_TO_PLAYER">
+			<Text>[COLOR_RED]Sadakat sıfıra ulaştığında şehir isyan eder ve en fazla sadakat birikmiş olan oyuncu {1_PlayerName}'ya katılır.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_LOYALTY_EFFECT_DANGER_OF_REBELLION_TIED_PLAYERS">
-			<Text>[COLOR_RED]Uskollisuuden saavuttaessa nollan kaupunki kapinoi ja liittyy sen kansakunnan alaisuuteen, jolla on eniten kertynyttä uskollisuutta.</Text>
+		<Replace Language="pl_PL" Tag="LOC_LOYALTY_EFFECT_DANGER_OF_REBELLION_TIED_PLAYERS">
+			<Text>[COLOR_RED]Sadakat sıfıra ulaştığında şehir isyan eder ve en fazla sadakat birikmiş olan ulusa katılır.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_LOYALTY_GROWTH_AND_YIELD_EFFECTS_TEXT">
-			<Text>Kaupungin kasvu on nyt {1_GrowthReduction}%[NEWLINE]Kaupungin tuotot ovat vähenneet {2_YieldPercentage}%</Text>
+		<Replace Language="pl_PL" Tag="LOC_LOYALTY_GROWTH_AND_YIELD_EFFECTS_TEXT">
+			<Text>Şehrin büyümesi şimdi {1_GrowthReduction}%[NEWLINE]Şehrin getirileri {2_YieldPercentage}% azaldı</Text>
 		</Replace>
 		<!-- Emergency Text Blocks -->
-		<Replace Language="en_US" Tag="LOC_EMERGENCY_PARTICIPANTS">
-			<Text>OSALLISET:</Text>
+		<Replace Language="pl_PL" Tag="LOC_EMERGENCY_PARTICIPANTS">
+			<Text>KATILIMCILAR:</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_EMERGENCY_PENDING">
-			<Text>Odottava {1_TypeEmergency}</Text>
+		<Replace Language="pl_PL" Tag="LOC_EMERGENCY_PENDING">
+			<Text>Bekleyen {1_TypeEmergency}</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_EMERGENCY_ONGOING">
-			<Text>Keskeneräinen {1_TypeEmergency}</Text>
+		<Replace Language="pl_PL" Tag="LOC_EMERGENCY_ONGOING">
+			<Text>Devam eden {1_TypeEmergency}</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_EMERGENCY_COMPLETED">
-			<Text>Päättynyt {1_TypeEmergency}</Text>
+		<Replace Language="pl_PL" Tag="LOC_EMERGENCY_COMPLETED">
+			<Text>Tamamlanmış {1_TypeEmergency}</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_EMERGENCY_TARGET">
-			<Text>Kohde: {1_Target}</Text>
+		<Replace Language="pl_PL" Tag="LOC_EMERGENCY_TARGET">
+			<Text>Hedef: {1_Target}</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_EMERGENCY_YOU_ARE_TARGET">
-			<Text>Me</Text>
+		<Replace Language="pl_PL" Tag="LOC_EMERGENCY_YOU_ARE_TARGET">
+			<Text>Biz</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_EMERGENCY_JOIN">
-			<Text>Hyväksy</Text>
+		<Replace Language="pl_PL" Tag="LOC_EMERGENCY_JOIN">
+			<Text>Kabul et</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_EMERGENCY_REJECT">
-			<Text>Hylkää</Text>
+		<Replace Language="pl_PL" Tag="LOC_EMERGENCY_REJECT">
+			<Text>Reddet</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_EMERGENCY_TURNS_REMAINING">
-			<Text>[ICON_Turn] {1_Turns} vuoroa jäljellä</Text>
+		<Replace Language="pl_PL" Tag="LOC_EMERGENCY_TURNS_REMAINING">
+			<Text>[ICON_Turn] {1_Turns} tur kaldı</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_EMERGENCY_NO_TURNS_REMAINING">
-			<Text>Päättyy [ICON_Turn] tällä vuorolla</Text>
+		<Replace Language="pl_PL" Tag="LOC_EMERGENCY_NO_TURNS_REMAINING">
+			<Text>Bu tur [ICON_Turn] sona eriyor</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_EMERGENCY_TURNS_OVER">
-			<Text>Hätätila päättyi</Text>
+		<Replace Language="pl_PL" Tag="LOC_EMERGENCY_TURNS_OVER">
+			<Text>Acil durum sona erdi</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_EMERGENCY_BUFFS_EXPLANATION">
-			<Text>Hätätilan aikana:</Text>
+		<Replace Language="pl_PL" Tag="LOC_EMERGENCY_BUFFS_EXPLANATION">
+			<Text>Acil durum sırasında:</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_EMERGENCY_MEMBER_REWARDS_EXPLANATION">
-			<Text>Mikäli jäsenet onnistuvat:</Text>
+		<Replace Language="pl_PL" Tag="LOC_EMERGENCY_MEMBER_REWARDS_EXPLANATION">
+			<Text>Üyeler başarılı olursa:</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_EMERGENCY_TARGET_REWARDS_EXPLANATION">
-			<Text>Mikäli jäsenet eivät onnistu:</Text>
+		<Replace Language="pl_PL" Tag="LOC_EMERGENCY_TARGET_REWARDS_EXPLANATION">
+			<Text>Üyeler başarısız olursa:</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_EMERGENCY_MEMBERS_HAVE_WON_REWARDS">
-			<Text>Jäsenten voiton vuoksi:</Text>
+		<Replace Language="pl_PL" Tag="LOC_EMERGENCY_MEMBERS_HAVE_WON_REWARDS">
+			<Text>Üyelerin zaferi nedeniyle:</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_EMERGENCY_TARGET_HAS_WON_REWARDS">
-			<Text>Kohteen voiton vuoksi:</Text>
+		<Replace Language="pl_PL" Tag="LOC_EMERGENCY_TARGET_HAS_WON_REWARDS">
+			<Text>Hedefin zaferi nedeniyle:</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_EMERGENCY_COMPLETE_THESE_GOALS">
-			<Text>Saavutettavat päämäärät:</Text>
+		<Replace Language="pl_PL" Tag="LOC_EMERGENCY_COMPLETE_THESE_GOALS">
+			<Text>Bu hedeflere ulaşın:</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_EMERGENCY_PENDING_EXPLANATION">
-			<Text>Meillä on mahdollisuus liittyä tätä kohdetta vastaan suunnattuun hätätilaan.[NEWLINE]{1_GoalsExplanation}[NEWLINE]Onnistuessa meidät palkitaan, epäonnistuessa taas kohde vahvistuu. Hätätila on pakko hyväksyä tai hylätä.</Text>
+		<Replace Language="pl_PL" Tag="LOC_EMERGENCY_PENDING_EXPLANATION">
+			<Text>Bu hedefe karşı bir acil duruma katılma fırsatımız var.[NEWLINE]{1_GoalsExplanation}[NEWLINE]Başarılı olursak ödüllendirileceğiz, başarısız olursak hedef güçlenecek. Acil durumu kabul etmek veya reddetmek zorundayız.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_EMERGENCY_PENDING_EXPLANATION_DEFENDER">
-			<Text>Hätätila on julistettu meitä vastaan![NEWLINE]{1_GoalsExplanation}[NEWLINE]Estä jäseniä saavuttamasta seuraavia päämääriään ja meidät palkitaan. Epäonnistuessa jäsenet vahvistuvat.</Text>
+		<Replace Language="pl_PL" Tag="LOC_EMERGENCY_PENDING_EXPLANATION_DEFENDER">
+			<Text>Bize karşı bir acil durum ilan edildi![NEWLINE]{1_GoalsExplanation}[NEWLINE]Üyelerin hedeflerine ulaşmasını engelleyin ve ödüllendirileceğiz. Başarısız olursak üyeler güçlenecek.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_EMERGENCY_PENDING_SHORT_DESCRIPTION">
-			<Text>ODOTTAA: HYVÄKSY TAI HYLKÄÄ</Text>
+		<Replace Language="pl_PL" Tag="LOC_EMERGENCY_PENDING_SHORT_DESCRIPTION">
+			<Text>BEKLİYOR: KABUL ET VEYA REDDET</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_EMERGENCY_COMPLETE_MEMBERS_WIN">
-			<Text>Jäsenet ovat voitokkaita</Text>
+		<Replace Language="pl_PL" Tag="LOC_EMERGENCY_COMPLETE_MEMBERS_WIN">
+			<Text>Üyeler zafer kazandı</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_EMERGENCY_COMPLETE_TARGET_WIN">
-			<Text>Kohde on voitokas</Text>
+		<Replace Language="pl_PL" Tag="LOC_EMERGENCY_COMPLETE_TARGET_WIN">
+			<Text>Hedef zafer kazandı</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_EMERGENCY_MEMBER_GOLD_REWARD">
-			<Text>Jäsenkansat jakavat keskenään [ICON_Gold] {1_Amount} kultaa.</Text>
+		<Replace Language="pl_PL" Tag="LOC_EMERGENCY_MEMBER_GOLD_REWARD">
+			<Text>Üye uluslar arasında [ICON_Gold] {1_Amount} altın paylaşılır.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_EMERGENCY_TARGET_GOLD_REWARD">
-			<Text>Kohde saa [ICON_Gold] {1_Amount} kultaa jäsentä kohden</Text>
+		<Replace Language="pl_PL" Tag="LOC_EMERGENCY_TARGET_GOLD_REWARD">
+			<Text>Hedef, üye başına [ICON_Gold] {1_Amount} altın alır</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_EMERGENCY_TARGET_BUFF_DESCRIPTION_IDENTITY_IN_CITY">
-			<Text>Kohde saa +20 uskollisuutta vuorossa kohdekaupungissa.</Text>
+		<Replace Language="pl_PL" Tag="LOC_EMERGENCY_TARGET_BUFF_DESCRIPTION_IDENTITY_IN_CITY">
+			<Text>Hedef, hedef şehirde tur başına +20 sadakat alır.</Text>
 		</Replace>
 		<!-- |||||||||  Goal Specific                                                   ||||||||||||| -->
 		<!-- |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| -->
-		<Replace Language="en_US" Tag="LOC_EMERGENCY_GOAL_TENTATIVE_CAPTURE_CITIES">
-			<Text>Hätätilaan liittyvät ovat pakotettuja valtaamaan tiettyjä kaupunkeja pelaajalta {TargetName} seuraavan [ICON_Turn] {Turns} vuoron aikana.</Text>
+		<Replace Language="pl_PL" Tag="LOC_EMERGENCY_GOAL_TENTATIVE_CAPTURE_CITIES">
+			<Text>Acil duruma katılanlar, {TargetName} oyuncusundan belirli şehirleri ele geçirmek zorundadır, {Turns} tur içinde.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_EMERGENCY_GOAL_TENTATIVE_CAPTURE_SPECIFIC_CITY">
-			<Text>Hätätilaan liittyvien tulee vallata {CityName} pelaajalta {TargetName} seuraavan [ICON_Turn] {Turns} vuoron aikana.</Text>
+		<Replace Language="pl_PL" Tag="LOC_EMERGENCY_GOAL_TENTATIVE_CAPTURE_SPECIFIC_CITY">
+			<Text>Acil duruma katılanlar, {TargetName} oyuncusundan {CityName} şehrini ele geçirmek zorundadır, {Turns} tur içinde.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_EMERGENCY_GOAL_CAPTURE_CITIES">
-			<Text>Hätätilan jäsenien tulee vallata tietyt kaupungit pelaajalta {TargetName}.</Text>
+		<Replace Language="pl_PL" Tag="LOC_EMERGENCY_GOAL_CAPTURE_CITIES">
+			<Text>Acil durum üyeleri, {TargetName} oyuncusundan belirli şehirleri ele geçirmek zorundadır.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_EMERGENCY_GOAL_CAPTURE_SPECIFIC_CITY">
-			<Text>Hätätilan jäsenten tulee vallata {CityName} pelaajalta {TargetName}.</Text>
+		<Replace Language="pl_PL" Tag="LOC_EMERGENCY_GOAL_CAPTURE_SPECIFIC_CITY">
+			<Text>Acil durum üyeleri, {TargetName} oyuncusundan {CityName} şehrini ele geçirmek zorundadır.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_EMERGENCY_GOAL_SHORT_CAPTURE_CITIES">
-			<Text>Valtaa {1_CityName}</Text>
+		<Replace Language="pl_PL" Tag="LOC_EMERGENCY_GOAL_SHORT_CAPTURE_CITIES">
+			<Text>{1_CityName} ele geçir</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_EMERGENCY_GOAL_SHORT_CAPTURE_CITIES_DEFENSE">
-			<Text>Puolusta kaupunkia {1_CityName}</Text>
+		<Replace Language="pl_PL" Tag="LOC_EMERGENCY_GOAL_SHORT_CAPTURE_CITIES_DEFENSE">
+			<Text>{1_CityName} şehrini savun</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_EMERGENCY_GOAL_LIST_CAPTURE_CITY_DEFENSE">
-			<Text>Puolusta kaupunkia {1_CityName} kunnes hätätila päättyy</Text>
+		<Replace Language="pl_PL" Tag="LOC_EMERGENCY_GOAL_LIST_CAPTURE_CITY_DEFENSE">
+			<Text>Acil durum sona erene kadar {1_CityName} şehrini savun</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_EMERGENCY_GOAL_LIST_CAPTURE_CITIES">
-			<Text>Valtaa {1_CityName} ennen hätätilan päättymistä</Text>
-		</Replace>
-		<!-- |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| -->
-		<Replace Language="en_US" Tag="LOC_EMERGENCY_GOAL_TENTATIVE_UNCONVERT_CITY">
-			<Text>Hätätilaan liittyvien tulee estää kaupunkia {CityName} noudattamasta pelaajan {TargetName} uskontoa {HalfTurns} vuoron edestä seuraavien [ICON_Turn] {Turns} vuoron kuluessa.</Text>
-		</Replace>
-		<Replace Language="en_US" Tag="LOC_EMERGENCY_GOAL_UNCONVERT_CITY">
-			<Text>Hätätilan jäsenten tulee estää kaupunkia {CityName} noudattamasta pelaajan {TargetName} uskontoa [ICON_Turn] {HalfTurns} vuoron edestä.</Text>
-		</Replace>
-		<Replace Language="en_US" Tag="LOC_EMERGENCY_GOAL_SHORT_UNCONVERT_CITY">
-			<Text>{NewReligion[2]} kitkentä</Text>
-		</Replace>
-		<Replace Language="en_US" Tag="LOC_EMERGENCY_GOAL_SHORT_UNCONVERT_CITY_DEFENSE">
-			<Text>{NewReligion[2]} puolustus</Text>
-		</Replace>
-		<Replace Language="en_US" Tag="LOC_EMERGENCY_GOAL_LIST_UNCONVERT_CITY_DEFENSE">
-			<Text>{NewReligion[2]} tulee olla valtauskonto kaupungissa {1_CityName}</Text>
-		</Replace>
-		<Replace Language="en_US" Tag="LOC_EMERGENCY_GOAL_LIST_UNCONVERT_CITY">
-			<Text>{NewReligion} ei saa olla valtauskonto kaupungissa {1_CityName}</Text>
+		<Replace Language="pl_PL" Tag="LOC_EMERGENCY_GOAL_LIST_CAPTURE_CITIES">
+			<Text>Acil durum sona ermeden önce {1_CityName} şehrini ele geçir</Text>
 		</Replace>
 		<!-- |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| -->
-		<Replace Language="en_US" Tag="LOC_EMERGENCY_GOAL_TENTATIVE_LIBERATE_CITY">
-			<Text>Hätätilaan osallistuvien tulee vapauttaa {CityName} pelaajan {TargetName} hallusta [ICON_Turn] {Turns} vuoron sisällä.</Text>
+		<Replace Language="pl_PL" Tag="LOC_EMERGENCY_GOAL_TENTATIVE_UNCONVERT_CITY">
+			<Text>Acil duruma katılanlar, {CityName} şehrinin {TargetName} oyuncusunun {HalfTurns} tur boyunca dinini takip etmesini engellemelidir, {Turns} tur içinde.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_EMERGENCY_GOAL_LIBERATE_CITY">
-			<Text>Hätätilan jäsenten tulee vapauttaa {CityName} pelaajalta {TargetName}.</Text>
+		<Replace Language="pl_PL" Tag="LOC_EMERGENCY_GOAL_UNCONVERT_CITY">
+			<Text>Acil durum üyeleri, {CityName} şehrinin {TargetName} oyuncusunun dinini {HalfTurns} tur boyunca takip etmesini engellemelidir.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_EMERGENCY_GOAL_SHORT_LIBERATE_CITY">
-			<Text>Vapauta {1_CityName}</Text>
+		<Replace Language="pl_PL" Tag="LOC_EMERGENCY_GOAL_SHORT_UNCONVERT_CITY">
+			<Text>{NewReligion[2]} temizle</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_EMERGENCY_GOAL_SHORT_LIBERATE_CITY_DEFENSE">
-			<Text>Puolusta kaupunkia {1_CityName}</Text>
+		<Replace Language="pl_PL" Tag="LOC_EMERGENCY_GOAL_SHORT_UNCONVERT_CITY_DEFENSE">
+			<Text>{NewReligion[2]} savun</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_EMERGENCY_GOAL_LIST_LIBERATE_CITY_DEFENSE">
-			<Text>Puolusta kaupunkia {1_CityName} hätätilan päättymiseen asti</Text>
+		<Replace Language="pl_PL" Tag="LOC_EMERGENCY_GOAL_LIST_UNCONVERT_CITY_DEFENSE">
+			<Text>{NewReligion[2]} şehrin {1_CityName} ana dini olmalıdır</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_EMERGENCY_GOAL_LIST_LIBERATE_CITY">
-			<Text>Vapauta {1_CityName} ennen hätätilan päättymistä</Text>
+		<Replace Language="pl_PL" Tag="LOC_EMERGENCY_GOAL_LIST_UNCONVERT_CITY">
+			<Text>{NewReligion} şehrin {1_CityName} ana dini olmamalıdır</Text>
+		</Replace>
+		<!-- |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| -->
+		<Replace Language="pl_PL" Tag="LOC_EMERGENCY_GOAL_TENTATIVE_LIBERATE_CITY">
+			<Text>Acil duruma katılanlar, {CityName} şehrini {TargetName} oyuncusundan {Turns} tur içinde kurtarmalıdır.</Text>
+		</Replace>
+		<Replace Language="pl_PL" Tag="LOC_EMERGENCY_GOAL_LIBERATE_CITY">
+			<Text>Acil durum üyeleri, {CityName} şehrini {TargetName} oyuncusundan kurtarmalıdır.</Text>
+		</Replace>
+		<Replace Language="pl_PL" Tag="LOC_EMERGENCY_GOAL_SHORT_LIBERATE_CITY">
+			<Text>{1_CityName} kurtar</Text>
+		</Replace>
+		<Replace Language="pl_PL" Tag="LOC_EMERGENCY_GOAL_SHORT_LIBERATE_CITY_DEFENSE">
+			<Text>{1_CityName} şehrini savun</Text>
+		</Replace>
+		<Replace Language="pl_PL" Tag="LOC_EMERGENCY_GOAL_LIST_LIBERATE_CITY_DEFENSE">
+			<Text>Acil durum sona erene kadar {1_CityName} şehrini savun</Text>
+		</Replace>
+		<Replace Language="pl_PL" Tag="LOC_EMERGENCY_GOAL_LIST_LIBERATE_CITY">
+			<Text>Acil durum sona ermeden önce {1_CityName} şehrini kurtar</Text>
 		</Replace>
 		<!-- |||||||||  Emergency Specific                                              ||||||||||||| -->
 		<!-- |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| -->
-		<Replace Language="en_US" Tag="LOC_EMERGENCY_NAME_MILITARY">
-			<Text>Sotilaallinen hätätila</Text>
+		<Replace Language="pl_PL" Tag="LOC_EMERGENCY_NAME_MILITARY">
+			<Text>Askeri acil durum</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_EMERGENCY_FLAVOR_MILITARY">
-			<Text>"Ilman yhteistä rintamaa tämän yhden kaupungin kohtalo kertaantuu ajallaan meille kaikille."</Text>
+		<Replace Language="pl_PL" Tag="LOC_EMERGENCY_FLAVOR_MILITARY">
+			<Text>"Bu tek şehrin kaderi için ortak bir cephe olmadan, zamanla hepimiz için çoğalacak."</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_EMERGENCY_DESCRIPTION_MILITARY">
-			<Text>{TargetName}, vahvana maailman kansojen eturintamassa, on vallannut kaupungin {OldCityName}. Hänen toistuvat onnistumisensa ovat aihe suurelle huolelle.</Text>
+		<Replace Language="pl_PL" Tag="LOC_EMERGENCY_DESCRIPTION_MILITARY">
+			<Text>{TargetName}, dünyanın uluslarının ön saflarında güçlü bir şekilde, {OldCityName} şehrini ele geçirdi. Tekrarlanan başarıları büyük bir endişe kaynağıdır.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_EMERGENCY_EXTRA_EFFECTS_MILITARY">
-			<Text>Tämän lisäksi jäsenet jakavat rauhan, avoimet rajat ja jaetun näkyvyyden keskenään. Kaikki jäsenet julistavat sodan kohteelle.</Text>
+		<Replace Language="pl_PL" Tag="LOC_EMERGENCY_EXTRA_EFFECTS_MILITARY">
+			<Text>Buna ek olarak, üyeler barışı, açık sınırları ve paylaşılan görünürlüğü paylaşır. Tüm üyeler hedefe savaş ilan eder.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_EMERGENCY_MEMBER_BUFF_DESCRIPTION_MILITARY_MOVEMENT">
-			<Text>Jäsenten yksiköt saavat +1 [ICON_Movement] liikkuvutta kohteen alueilla.</Text>
+		<Replace Language="pl_PL" Tag="LOC_EMERGENCY_MEMBER_BUFF_DESCRIPTION_MILITARY_MOVEMENT">
+			<Text>Üyelerin birimleri, hedefin bölgelerinde +1 [ICON_Movement] hareketlilik kazanır.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_EMERGENCY_MEMBER_BUFF_DESCRIPTION_MILITARY_COMBAT_STRENGTH">
-			<Text>Kohteen yksiköt saavat -2 [ICON_Strength] taisteluvoimakkuutta jäsenten yksiköitä vastaan.</Text>
+		<Replace Language="pl_PL" Tag="LOC_EMERGENCY_MEMBER_BUFF_DESCRIPTION_MILITARY_COMBAT_STRENGTH">
+			<Text>Hedefin birimleri, üyelerin birimlerine karşı -2 [ICON_Strength] savaş gücü alır.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_EMERGENCY_MEMBER_REWARD_DESCRIPTION_MILITARY_INCREASED_HEALING">
-			<Text>Jäsenten yksiköt saavat +5 hoivausta kohteen alueilla.</Text>
+		<Replace Language="pl_PL" Tag="LOC_EMERGENCY_MEMBER_REWARD_DESCRIPTION_MILITARY_INCREASED_HEALING">
+			<Text>Üyelerin birimleri, hedefin bölgelerinde +5 iyileşme alır.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_EMERGENCY_TARGET_REWARD_DESCRIPTION_MILITARY_CITY_STRIKE">
-			<Text>Kohde saa +2 [ICON_Strength] taisteluvoimakkuutta hyökätessään jäsenyksikköä vastaan kaupungin tulituksella.</Text>
-		</Replace>
-		<!-- |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| -->
-		<Replace Language="en_US" Tag="LOC_EMERGENCY_MEMBER_BUFF_DESCRIPTION_SETTLEMENT_MOVEMENT">
-			<Text>Jäsenten yksiköt saavat +1 [ICON_Movement] liikkuvuutta.</Text>
-		</Replace>
-		<Replace Language="en_US" Tag="LOC_EMERGENCY_TARGET_BUFF_DESCRIPTION_SETTLEMENT_MOVEMENT">
-			<Text>Kohteen yksiköt saavat +1 [ICON_Movement] liikkuvuutta.</Text>
-		</Replace>
-		<Replace Language="en_US" Tag="LOC_EMERGENCY_MEMBER_REWARD_DESCRIPTION_SETTLEMENT_GOLD_PER_TURN">
-			<Text>Jäsenet saavat +1 kultaa vuorossa.</Text>
-		</Replace>
-		<Replace Language="en_US" Tag="LOC_EMERGENCY_TARGET_REWARD_DESCRIPTION_SETTLEMENT_GOLD_PER_TURN">
-			<Text>Kohde saa +1 kultaa vuorossa.</Text>
+		<Replace Language="pl_PL" Tag="LOC_EMERGENCY_TARGET_REWARD_DESCRIPTION_MILITARY_CITY_STRIKE">
+			<Text>Hedef, şehir saldırısında üye birimlerine karşı +2 [ICON_Strength] savaş gücü alır.</Text>
 		</Replace>
 		<!-- |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| -->
-		<Replace Language="en_US" Tag="LOC_EMERGENCY_NAME_CITY_STATE">
-			<Text>Kaupunkivaltion hätätila</Text>
+		<Replace Language="pl_PL" Tag="LOC_EMERGENCY_MEMBER_BUFF_DESCRIPTION_SETTLEMENT_MOVEMENT">
+			<Text>Üyelerin birimleri +1 [ICON_Movement] hareketlilik kazanır.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_EMERGENCY_FLAVOR_CITY_STATE">
+		<Replace Language="pl_PL" Tag="LOC_EMERGENCY_TARGET_BUFF_DESCRIPTION_SETTLEMENT_MOVEMENT">
+			<Text>Hedefin birimleri +1 [ICON_Movement] hareketlilik kazanır.</Text>
+		</Replace>
+		<Replace Language="pl_PL" Tag="LOC_EMERGENCY_MEMBER_REWARD_DESCRIPTION_SETTLEMENT_GOLD_PER_TURN">
+			<Text>Üyeler tur başına +1 altın kazanır.</Text>
+		</Replace>
+		<Replace Language="pl_PL" Tag="LOC_EMERGENCY_TARGET_REWARD_DESCRIPTION_SETTLEMENT_GOLD_PER_TURN">
+			<Text>Hedef tur başına +1 altın kazanır.</Text>
+		</Replace>
+		<!-- |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| -->
+		<Replace Language="pl_PL" Tag="LOC_EMERGENCY_NAME_CITY_STATE">
+			<Text>Şehir Devleti Acil Durumu</Text>
+		</Replace>
+		<Replace Language="pl_PL" Tag="LOC_EMERGENCY_FLAVOR_CITY_STATE">
 			<Text>"Me kunnioitamme kaupunkivaltioiden itsenäisyyttä, emmekä sulje silmiämme tältä valtausinnolta."</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_EMERGENCY_DESCRIPTION_CITY_STATE">
-			<Text>{TargetName} on vallannut kaupunkivaltion {OldCityName}. Kaupungin valtaus on merkittävä huolenaihe.</Text>
+		<Replace Language="pl_PL" Tag="LOC_EMERGENCY_DESCRIPTION_CITY_STATE">
+			<Text>{TargetName} şehir devleti {OldCityName}'i ele geçirdi. Bu durum ciddi bir endişe kaynağıdır.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_EMERGENCY_EXTRA_EFFECTS_CITY_STATE">
-			<Text>Jäsenet jakavat rauhan, avoimet rajat ja jaetun näkyvyyden keskenään. Kaikki jäsenet julistavat sodan kohteelle.</Text>
+		<Replace Language="pl_PL" Tag="LOC_EMERGENCY_EXTRA_EFFECTS_CITY_STATE">
+			<Text>Üyeler barışı, açık sınırları ve paylaşılan görüş alanını aralarında paylaşır. Tüm üyeler hedefe savaş ilan eder.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_EMERGENCY_MEMBER_REWARD_DESCRIPTION_CITY_STATE_GOLD_PER_ENVOY">
-			<Text>Jäsenet saavat +1 [ICON_Gold] kultaa vuorossa kultakin [ICON_Envoy] edustajaltaan.</Text>
+		<Replace Language="pl_PL" Tag="LOC_EMERGENCY_MEMBER_REWARD_DESCRIPTION_CITY_STATE_GOLD_PER_ENVOY">
+			<Text>Üyeler, her [ICON_Envoy] temsilcileri için tur başına +1 [ICON_Gold] altın kazanır.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_EMERGENCY_TARGET_REWARD_DESCRIPTION_CITY_STATE_GOLD_FOR_TRADE_ROUTES">
-			<Text>Kohteen [ICON_TradeRoute] kauppareitit kaupunkivaltioihin tuottavat +2 [ICON_Gold] kultaa vuorossa.</Text>
+		<Replace Language="pl_PL" Tag="LOC_EMERGENCY_TARGET_REWARD_DESCRIPTION_CITY_STATE_GOLD_FOR_TRADE_ROUTES">
+			<Text>Hedefin [ICON_TradeRoute] şehir devletlerine olan ticaret rotaları tur başına +2 [ICON_Gold] altın sağlar.</Text>
 		</Replace>
 		<!-- |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| -->
-		<Replace Language="en_US" Tag="LOC_EMERGENCY_NAME_RELIGIOUS">
-			<Text>Uskonnollinen hätätila</Text>
+		<Replace Language="pl_PL" Tag="LOC_EMERGENCY_NAME_RELIGIOUS">
+			<Text>Dini Acil Durum</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_EMERGENCY_FLAVOR_RELIGIOUS">
+		<Replace Language="pl_PL" Tag="LOC_EMERGENCY_FLAVOR_RELIGIOUS">
 			<Text>"Uskovien huudot kuuluvat taivaaseen ja me maan päällä nostatamme oikeutetun raivon."</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_EMERGENCY_DESCRIPTION_RELIGIOUS">
-			<Text>{OldReligion[2]} pyhä kaupunki, {OldCityName} on käännytetty {NewReligion[3]}. Vaikuttaa siltä, ettei {TargetName} ole halukas elämään rauhaisasti maailman muiden suurten uskontojen kanssa.</Text>
+		<Replace Language="pl_PL" Tag="LOC_EMERGENCY_DESCRIPTION_RELIGIOUS">
+			<Text>{OldReligion[2]} kutsal şehri {OldCityName}, {NewReligion[3]}'e dönüştürüldü. Görünüşe göre {TargetName}, dünyanın diğer büyük dinleriyle barış içinde yaşamaya istekli değil.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_EMERGENCY_MEMBER_REWARD_DESCRIPTION_RELIGIOUS_RELICS">
-			<Text>Kukin jäsen saa muinaisjäännöksen.</Text>
+		<Replace Language="pl_PL" Tag="LOC_EMERGENCY_MEMBER_REWARD_DESCRIPTION_RELIGIOUS_RELICS">
+			<Text>Her üye bir kalıntı alır.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_EMERGENCY_TARGET_REWARD_DESCRIPTION_RELIGIOUS_PRESSURE">
-			<Text>Kohteen uskonnon paine purskahtaa kertaalleen kaikissa läheisissä kaupungeissa.</Text>
-		</Replace>
-		<!-- |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| -->
-		<Replace Language="en_US" Tag="LOC_EMERGENCY_NAME_SPYING">
-			<Text>Vakoilun hätätila</Text>
-		</Replace>
-		<Replace Language="en_US" Tag="LOC_EMERGENCY_DESCRIPTION_SPYING">
-			<Text>Kaikki vakoilevat, mutta tää häiskä jäi kiinni! Eiköhän näytetä miten homma hoidetaan!</Text>
-		</Replace>
-		<Replace Language="en_US" Tag="LOC_EMERGENCY_GOAL_SPYING">
-			<Text>Kaappaa kohteen vakoilija käyttäen ansaa kaupungissa, jossa kohde suorittaa tehtävää.</Text>
-		</Replace>
-		<Replace Language="en_US" Tag="LOC_EMERGENCY_MEMBER_BUFF_DESCRIPTION_SPYING_ACTION">
-			<Text>Jäsenten vakoilijat saavat uuden toiminnon jäsenten kaupungeissa: järjestä ansa. Kohteen vakoilija jää kiinni ansaan yrittäessään suorittaa tehtävän kaupungissa.</Text>
-		</Replace>
-		<Replace Language="en_US" Tag="LOC_EMERGENCY_MEMBER_REWARD_DESCRIPTION_SPYING_SPY_KILLER">
-			<Text>Kaapattu vakoilija tapetaan.</Text>
-		</Replace>
-		<Replace Language="en_US" Tag="LOC_EMERGENCY_MEMBER_REWARD_DESCRIPTION_SPYING_FORTITUDE">
-			<Text>Kohteelle tulee vaikeammaksi suorittaa vakoilutoimia jäsenten kaupungeissa.</Text>
-		</Replace>
-		<Replace Language="en_US" Tag="LOC_EMERGENCY_TARGET_REWARD_DESCRIPTION_SPYING_FREE_SPY">
-			<Text>Kohde saa yhden vakoilijan lisää.</Text>
+		<Replace Language="pl_PL" Tag="LOC_EMERGENCY_TARGET_REWARD_DESCRIPTION_RELIGIOUS_PRESSURE">
+			<Text>Hedefin dini baskısı tüm yakın şehirlerde bir kez patlak verir.</Text>
 		</Replace>
 		<!-- |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| -->
-		<Replace Language="en_US" Tag="LOC_EMERGENCY_NAME_NUCLEAR">
-			<Text>Ydinaseiden hätätila</Text>
+		<Replace Language="pl_PL" Tag="LOC_EMERGENCY_NAME_SPYING">
+			<Text>Casusluk Acil Durumu</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_EMERGENCY_FLAVOR_NUCLEAR">
+		<Replace Language="pl_PL" Tag="LOC_EMERGENCY_DESCRIPTION_SPYING">
+			<Text>Herkes casusluk yapar, ama bu adam yakalandı! Hadi, onlara nasıl yapıldığını gösterelim!</Text>
+		</Replace>
+		<Replace Language="pl_PL" Tag="LOC_EMERGENCY_GOAL_SPYING">
+			<Text>Hedefin casusunu, görev yürüttüğü şehirde tuzak kullanarak yakalayın.</Text>
+		</Replace>
+		<Replace Language="pl_PL" Tag="LOC_EMERGENCY_MEMBER_BUFF_DESCRIPTION_SPYING_ACTION">
+			<Text>Üyelerin casusları, üyelerin şehirlerinde tuzak kurma yeteneği kazanır. Hedefin casusu, şehirde görev yaparken tuzağa düşer.</Text>
+		</Replace>
+		<Replace Language="pl_PL" Tag="LOC_EMERGENCY_MEMBER_REWARD_DESCRIPTION_SPYING_SPY_KILLER">
+			<Text>Yakaladığınız casus infaz edilir.</Text>
+		</Replace>
+		<Replace Language="pl_PL" Tag="LOC_EMERGENCY_MEMBER_REWARD_DESCRIPTION_SPYING_FORTITUDE">
+			<Text>Hedefin üyelerin şehirlerinde casusluk yapması zorlaşır.</Text>
+		</Replace>
+		<Replace Language="pl_PL" Tag="LOC_EMERGENCY_TARGET_REWARD_DESCRIPTION_SPYING_FREE_SPY">
+			<Text>Hedef bir ek casus kazanır.</Text>
+		</Replace>
+		<!-- |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| -->
+		<Replace Language="pl_PL" Tag="LOC_EMERGENCY_NAME_NUCLEAR">
+			<Text>Nükleer Acil Durum</Text>
+		</Replace>
+		<Replace Language="pl_PL" Tag="LOC_EMERGENCY_FLAVOR_NUCLEAR">
 			<Text>"Hirvittäviä voimia, hirveiden päämäärien värväämiä. Ei tätä enää koskaan!"</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_EMERGENCY_DESCRIPTION_NUCLEAR">
-			<Text>{TargetName} on käyttänyt maailman voimakkainta asetta ja ydinaseet on päästetty irti. Onko sukupuutto edessämme?</Text>
+		<Replace Language="pl_PL" Tag="LOC_EMERGENCY_DESCRIPTION_NUCLEAR">
+			<Text>{TargetName}, dünyanın en güçlü silahını kullandı ve nükleer silahlar serbest bırakıldı. Yok oluş kapıda mı?</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_EMERGENCY_EXTRA_EFFECTS_NUCLEAR">
-			<Text>Tämän lisäksi jäsenet jakavat rauhan, avoimet rajat ja jaetun näkyvyyden keskenään. Kaikki jäsenet julistavat sodan kohteelle.</Text>
+		<Replace Language="pl_PL" Tag="LOC_EMERGENCY_EXTRA_EFFECTS_NUCLEAR">
+			<Text>Ayrıca üyeler barışı, açık sınırları ve paylaşılan görüş alanını aralarında paylaşır. Tüm üyeler hedefe savaş ilan eder.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_EMERGENCY_MEMBER_BUFF_DESCRIPTION_NUCLEAR_MOVEMENT">
-			<Text>Jäsenten yksiköt saavat +1 [ICON_Movement] liikkuvuutta kohteen alueilla.</Text>
+		<Replace Language="pl_PL" Tag="LOC_EMERGENCY_MEMBER_BUFF_DESCRIPTION_NUCLEAR_MOVEMENT">
+			<Text>Üyelerin birimleri, hedefin topraklarında +1 [ICON_Movement] hareket kabiliyeti kazanır.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_EMERGENCY_MEMBER_BUFF_DESCRIPTION_NUCLEAR_COMBAT_STRENGTH">
-			<Text>Kohteen yksiköt saavat -2 [ICON_Strength] taisteluvoimakkuutta jäsenten yksiköitä vastaan</Text>
+		<Replace Language="pl_PL" Tag="LOC_EMERGENCY_MEMBER_BUFF_DESCRIPTION_NUCLEAR_COMBAT_STRENGTH">
+			<Text>Hedefin birimleri, üyelerin birimlerine karşı -2 [ICON_Strength] savaş gücü kazanır.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_EMERGENCY_MEMBER_REWARD_DESCRIPTION_NUCLEAR_COMBAT_STRENGTH">
-			<Text>Kohteen yksiköt saavat -3 [ICON_Strength] taisteluvoimakkuutta jäsenten yksiköitä vastaan</Text>
+		<Replace Language="pl_PL" Tag="LOC_EMERGENCY_MEMBER_REWARD_DESCRIPTION_NUCLEAR_COMBAT_STRENGTH">
+			<Text>Hedefin birimleri, üyelerin birimlerine karşı -3 [ICON_Strength] savaş gücü kazanır.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_EMERGENCY_TARGET_REWARD_DESCRIPTION_NUCLEAR_CULTURE_SCARE">
-			<Text>Jäsenten kaupunkien uskollisuuspaine laskee pisteellä.</Text>
+		<Replace Language="pl_PL" Tag="LOC_EMERGENCY_TARGET_REWARD_DESCRIPTION_NUCLEAR_CULTURE_SCARE">
+			<Text>Üyelerin şehirlerinin sadakat baskısı bir puan düşer.</Text>
 		</Replace>
 		<!-- |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| -->
-		<Replace Language="en_US" Tag="LOC_EMERGENCY_NAME_BACKSTAB">
-			<Text>Petoksen hätätila</Text>
+		<Replace Language="pl_PL" Tag="LOC_EMERGENCY_NAME_BACKSTAB">
+			<Text>İhanet Acil Durumu</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_EMERGENCY_FLAVOR_BACKSTAB">
+		<Replace Language="pl_PL" Tag="LOC_EMERGENCY_FLAVOR_BACKSTAB">
 			<Text>"Avoin, reilu sota on varmasti vähämmän vihamielistä kuin tämä petollinen diplomatia."</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_EMERGENCY_DESCRIPTION_BACKSTAB">
-			<Text>{TargetName} on toiminut äärimmäisen kavalasti julistamalla sodan pitkäaikaista ystäväänsä kohtaan! Jos edes {OldPlayerName} ei voi olla turvassa häneltä, niin onko kukaan?</Text>
+		<Replace Language="pl_PL" Tag="LOC_EMERGENCY_DESCRIPTION_BACKSTAB">
+			<Text>{TargetName}, uzun zamandır dostu olan {OldPlayerName}'e savaş ilan ederek büyük bir ihanet gerçekleştirdi! Eğer {OldPlayerName} bile ondan güvende değilse, kim olabilir?</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_EMERGENCY_EXTRA_EFFECTS_BACKSTAB">
-			<Text>Tämän lisäksi jäsenet jakavat rauhan, avoimet rajat ja jaetun näkyvyyden keskenään. Kaikki jäsenet julistavat sodan kohteelle.</Text>
+		<Replace Language="pl_PL" Tag="LOC_EMERGENCY_EXTRA_EFFECTS_BACKSTAB">
+			<Text>Ayrıca üyeler barışı, açık sınırları ve ortak görünürlüğü paylaşır. Tüm üyeler hedefe savaş ilan eder.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_EMERGENCY_MEMBER_BUFF_DESCRIPTION_BACKSTAB_MOVEMENT">
-			<Text>Jäsenten yksiköt saavat +1 [ICON_Movement] liikkuvuutta kohteen alueilla.</Text>
+		<Replace Language="pl_PL" Tag="LOC_EMERGENCY_MEMBER_BUFF_DESCRIPTION_BACKSTAB_MOVEMENT">
+			<Text>Üyelerin birimleri hedef bölgelerde +1 [ICON_Movement] hareket kazanır.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_EMERGENCY_MEMBER_BUFF_DESCRIPTION_BACKSTAB_COMBAT_STRENGTH">
-			<Text>Kohteen yksiköt saavat -3 [ICON_Strength] taisteluvoimakkuutta jäsenten yksiköitä vastaan</Text>
+		<Replace Language="pl_PL" Tag="LOC_EMERGENCY_MEMBER_BUFF_DESCRIPTION_BACKSTAB_COMBAT_STRENGTH">
+			<Text>Hedefin birimleri, üyelerin birimlerine karşı -3 [ICON_Strength] savaş gücü kazanır.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_EMERGENCY_MEMBER_BUFF_DESCRIPTION_BACKSTAB_CANCEL_TRADE_ROUTES">
-			<Text>Kaikki kauppareitit jäsenten ja kohteen välillä lakkautetaan.</Text>
+		<Replace Language="pl_PL" Tag="LOC_EMERGENCY_MEMBER_BUFF_DESCRIPTION_BACKSTAB_CANCEL_TRADE_ROUTES">
+			<Text>Üyeler ile hedef arasındaki tüm ticaret yolları kesilir.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_EMERGENCY_MEMBER_BUFF_DESCRIPTION_BACKSTAB_TRADING">
-			<Text>Kaikki jäsenten väliset kauppareitit antavat +2 [ICON_Production] tuottavuutta.</Text>
+		<Replace Language="pl_PL" Tag="LOC_EMERGENCY_MEMBER_BUFF_DESCRIPTION_BACKSTAB_TRADING">
+			<Text>Üyeler arasındaki ticaret yolları +2 [ICON_Production] üretim sağlar.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_EMERGENCY_MEMBER_REWARD_DESCRIPTION_MILITARY_COMBAT_STRENGTH">
-			<Text>Kohteen yksiköt saavat -3 [ICON_Strength] taisteluvoimakkuutta jäsenten yksiköitä vastaan</Text>
+		<Replace Language="pl_PL" Tag="LOC_EMERGENCY_MEMBER_REWARD_DESCRIPTION_MILITARY_COMBAT_STRENGTH">
+			<Text>Hedefin birimleri, üyelerin birimlerine karşı -3 [ICON_Strength] savaş gücü kazanır.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_EMERGENCY_TARGET_REWARD_DESCRIPTION_MILITARY_WAR_WEARINESS">
-			<Text>Kohde kärsii vähemmän sotaväsymystä ollessaan sodassa jäseniä vastaan.</Text>
+		<Replace Language="pl_PL" Tag="LOC_EMERGENCY_TARGET_REWARD_DESCRIPTION_MILITARY_WAR_WEARINESS">
+			<Text>Hedef, üyelerle savaşırken daha az savaş yorgunluğu yaşar.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_EMERGENCY_TAB_COMPLETED">
-			<Text>Päättynyt</Text>
+		<Replace Language="pl_PL" Tag="LOC_EMERGENCY_TAB_COMPLETED">
+			<Text>Tamamlandı</Text>
 		</Replace>
 		<!-- |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| -->
 		<!--Spy-->
-		<Replace Language="en_US" Tag="LOC_UNITOPERATION_SPY_FABRICATE_SCANDAL_DESCRIPTION">
-			<Text>Järjestä skandaali</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITOPERATION_SPY_FABRICATE_SCANDAL_DESCRIPTION">
+			<Text>Skandal Düzenle</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITOPERATION_SPY_FOMENT_UNREST_DESCRIPTION">
-			<Text>Synnytä levottomuutta</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITOPERATION_SPY_FOMENT_UNREST_DESCRIPTION">
+			<Text>Huzursuzluk Çıkar</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITOPERATION_SPY_NEUTRALIZE_GOVERNOR_DESCRIPTION">
-			<Text>Lamauta käskynhaltija</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITOPERATION_SPY_NEUTRALIZE_GOVERNOR_DESCRIPTION">
+			<Text>Valiyi Etkisizleştir</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_ESPIONAGE_FABRIRCATE_SCANDAL_REWARD">
-			<Text>poistaa vihollisten edustajia</Text>
+		<Replace Language="pl_PL" Tag="LOC_ESPIONAGE_FABRIRCATE_SCANDAL_REWARD">
+			<Text>Rakibin elçilerini ortadan kaldırır</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_ESPIONAGE_FOMENT_UNREST_REWARD">
-			<Text>vähentää uskollisuutta, mutta kasvattaa meidän</Text>
+		<Replace Language="pl_PL" Tag="LOC_ESPIONAGE_FOMENT_UNREST_REWARD">
+			<Text>Sadakati azaltır, bizimkini artırır</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_ESPIONAGE_NEUTRALIZE_GOVERNOR_REWARD">
-			<Text>pakottaen vihollisen [ICON_Governor] käskynhaltijan pakkolomalle</Text>
+		<Replace Language="pl_PL" Tag="LOC_ESPIONAGE_NEUTRALIZE_GOVERNOR_REWARD">
+			<Text>Rakibin [ICON_Governor] valisini zorunlu izne çıkarır</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_SPYMISSIONDETAILS_UNITOPERATION_SPY_FABRICATE_SCANDAL">
-			<Text>Pakottaa kilpailijat menettämään edustajia</Text>
+		<Replace Language="pl_PL" Tag="LOC_SPYMISSIONDETAILS_UNITOPERATION_SPY_FABRICATE_SCANDAL">
+			<Text>Rakipleri elçilerini kaybetmeye zorlar</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_SPYMISSIONDETAILS_UNITOPERATION_SPY_FOMENT_UNREST">
-			<Text>Heikentää vihollisen uskollisuutta</Text>
+		<Replace Language="pl_PL" Tag="LOC_SPYMISSIONDETAILS_UNITOPERATION_SPY_FOMENT_UNREST">
+			<Text>Rakibin sadakatini zayıflatır</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_SPYMISSIONDETAILS_UNITOPERATION_SPY_NEUTRALIZE_GOVERNOR">
-			<Text>Pakottaa vihollisen [ICON_Governor] käskynhaltijan pitämään virkavapaata</Text>
+		<Replace Language="pl_PL" Tag="LOC_SPYMISSIONDETAILS_UNITOPERATION_SPY_NEUTRALIZE_GOVERNOR">
+			<Text>Rakibin [ICON_Governor] valisini zorunlu izne gönderir</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_PROMOTION_SPY_SMEAR_CAMPAIGN_NAME">
-			<Text>Lokakampanja</Text>
+		<Replace Language="pl_PL" Tag="LOC_PROMOTION_SPY_SMEAR_CAMPAIGN_NAME">
+			<Text>Karalama Kampanyası</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_PROMOTION_SPY_COVERT_ACTION_NAME">
-			<Text>Peitetoiminta</Text>
+		<Replace Language="pl_PL" Tag="LOC_PROMOTION_SPY_COVERT_ACTION_NAME">
+			<Text>Gizli Operasyon</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_PROMOTION_SPY_LICENSE_TO_KILL_NAME">
-			<Text>Lupa tappaa</Text>
+		<Replace Language="pl_PL" Tag="LOC_PROMOTION_SPY_LICENSE_TO_KILL_NAME">
+			<Text>Öldürme Yetkisi</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_PROMOTION_SPY_SMEAR_CAMPAIGN_DESCRIPTION">
-			<Text>Järjestä skandaali kuin olisi 2 tasoa kokeneempi.</Text>
+		<Replace Language="pl_PL" Tag="LOC_PROMOTION_SPY_SMEAR_CAMPAIGN_DESCRIPTION">
+			<Text>Skandal düzenlemekte 2 seviye daha tecrübeli olur.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_PROMOTION_SPY_COVERT_ACTION_DESCRIPTION">
-			<Text>Synnytä levottomuutta kuin olisi 2 tasoa kokeneempi.</Text>
+		<Replace Language="pl_PL" Tag="LOC_PROMOTION_SPY_COVERT_ACTION_DESCRIPTION">
+			<Text>Huzursuzluk çıkarmakta 2 seviye daha tecrübeli olur.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_PROMOTION_SPY_LICENSE_TO_KILL_DESCRIPTION">
-			<Text>Lamauta käskynhaltija kuin olisi 2 tasoa kokeneempi.</Text>
+		<Replace Language="pl_PL" Tag="LOC_PROMOTION_SPY_LICENSE_TO_KILL_DESCRIPTION">
+			<Text>Valiyi etkisizleştirmekte 2 seviye daha tecrübeli olur.</Text>
 		</Replace>
 		<!--Diplomacy modifiers-->
-		<Replace Language="en_US" Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_BROKEN_PLEDGE">
-			<Text>Rikkoi lupauksen poistaa yksikkönsä rajojen tuntumasta</Text>
+		<Replace Language="pl_PL" Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_BROKEN_PLEDGE">
+			<Text>Sınırlarının yakınındaki birimleri kaldırma sözünü bozdu</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_KEPT_PLEDGE">
-			<Text>Piti lupauksen siirtää joukkonsa rajojen tuntumasta</Text>
+		<Replace Language="pl_PL" Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_KEPT_PLEDGE">
+			<Text>Birimlerini sınırlarının yakınından çekme sözünü tuttu</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_NO_PLEDGE">
-			<Text>Päätti olla tekemättä lupausta joukkojensa siirtämisestä</Text>
+		<Replace Language="pl_PL" Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_NO_PLEDGE">
+			<Text>Birimlerini sınırlarının yakınından çekme sözü vermemeyi seçti</Text>
 		</Replace>
 		<!--OPERATIONS AND COMMANDS TEXT-->
-		<Replace Language="en_US" Tag="LOC_UNITCOMMAND_PARADROP_DESCRIPTION">
-			<Text>Laskuvarjohyppy</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITCOMMAND_PARADROP_DESCRIPTION">
+			<Text>Paraşütle Atlayış</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITCOMMAND_PARADROP_FAILURE_IN_ZOC">
-			<Text>Alue on vihollisen valvonnassa</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITCOMMAND_PARADROP_FAILURE_IN_ZOC">
+			<Text>Bölge düşman kontrolünde</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITCOMMAND_PARADROP_FAILURE_FRIENDLY_TERRITORY">
-			<Text>Tulee olla ystävällisellä alueella tai lähellä kiitorataa tai lentoasemaa.</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITCOMMAND_PARADROP_FAILURE_FRIENDLY_TERRITORY">
+			<Text>Dost bölgesinde veya pist ya da havaalanı yakınında olmalıdır.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITCOMMAND_PARADROP_FAILURE_REQUIRES_FULL_MOVEMENT">
-			<Text>Vaatii kaiken liikkuvuuden</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITCOMMAND_PARADROP_FAILURE_REQUIRES_FULL_MOVEMENT">
+			<Text>Tüm hareket kabiliyetini gerektirir</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITCOMMAND_PROJECT_PRODUCTION_DESCRIPTION">
-			<Text>Lisää projektiin [ICON_Production] tuottavuutta. Vain kerran vuorossa kaupunkia kohden.</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITCOMMAND_PROJECT_PRODUCTION_DESCRIPTION">
+			<Text>Projeye [ICON_Production] üretim ekler. Her turda sadece bir kez şehir başına.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_UNITCOMMAND_PRIORITY_TARGET_DESCRIPTION">
-			<Text>Kohdistettu isku</Text>
+		<Replace Language="pl_PL" Tag="LOC_UNITCOMMAND_PRIORITY_TARGET_DESCRIPTION">
+			<Text>Hedefli Saldırı</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_IDENTITY_PRESSURE">
-			<Text>Uskollisuuslisä</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_IDENTITY_PRESSURE">
+			<Text>Sadakat Artışı</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_DETAILS_TURNS_TO_ESTABLISH">
-			<Text>Asettumisvauhti</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_DETAILS_TURNS_TO_ESTABLISH">
+			<Text>Kurulum Hızı</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_IDENTITY_PRESSURE_TOOLTIP">
-			<Text>Käskynhaltijan vuorossa aiheuttaman uskollisuuden määrä kansakuntaamme kohtaan tässä kaupungissa.</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_IDENTITY_PRESSURE_TOOLTIP">
+			<Text>Bu şehirde valinin ulusumuza sağladığı sadakat miktarı.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_TRANSITION_STRENGTH">
-			<Text>Siirtymävoimakkuus</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_TRANSITION_STRENGTH">
+			<Text>Geçiş Gücü</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_TRANSITION_STRENGTH_TOOLTIP">
-			<Text>Nopeus jolla tämä käskynhaltija asettuu kaupunkiin.</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_TRANSITION_STRENGTH_TOOLTIP">
+			<Text>Bu valinin şehre yerleşme hızı.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_ASSIGN_GOVERNOR_TO">
-			<Text>Osoita käskynhaltija...</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_ASSIGN_GOVERNOR_TO">
+			<Text>Vali Ata...</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_SELECT_A_CITY">
-			<Text>Valitse kaupunki...</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_SELECT_A_CITY">
+			<Text>Bir şehir seç...</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_NO_PREVIOUS_GOVERNOR">
-			<Text>Ei edeltävää käskynhaltijaa</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_NO_PREVIOUS_GOVERNOR">
+			<Text>Önceki vali yok</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_TURNS_TO_ESTABLISH">
-			<Text>Vuoroja käskynhaltijan asettumiseen.</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_TURNS_TO_ESTABLISH">
+			<Text>Valinin yerleşmesi için gereken turlar.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_SKILL_TREE">
-			<Text>Taitokartta</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_SKILL_TREE">
+			<Text>Beceri Ağacı</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_PROMOTE">
-			<Text>Ylennä</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_PROMOTE">
+			<Text>Terfi Et</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNORS_SCREEN_BUTTON_ASSIGN_GOVERNOR">
-			<Text>Osoita</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNORS_SCREEN_BUTTON_ASSIGN_GOVERNOR">
+			<Text>Ata</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNORS_SCREEN_BUTTON_REASSIGN_GOVERNOR">
-			<Text>Vaihda kaupunki</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNORS_SCREEN_BUTTON_REASSIGN_GOVERNOR">
+			<Text>Şehri Değiştir</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNORS_SCREEN_ABILITIES">
-			<Text>KYVYT</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNORS_SCREEN_ABILITIES">
+			<Text>YETENEKLER</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNORS_SCREEN_GOVERNOR_ABILITIES">
-			<Text>KÄSKYNHALTIJAN KYVYT</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNORS_SCREEN_GOVERNOR_ABILITIES">
+			<Text>VALİNİN YETENEKLERİ</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNORS_SCREEN_GOVERNOR_ABILITIES_SUBTEXT">
-			<Text>Käskynhaltijoiden virkoja voi käyttää ylennyksiin</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNORS_SCREEN_GOVERNOR_ABILITIES_SUBTEXT">
+			<Text>Vali unvanları terfiler için kullanılabilir</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_GOVERNOR_TITLES">
-			<Text>Käskynhaltijoiden virkoja: {1_PointsAvailable}</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_GOVERNOR_TITLES">
+			<Text>Vali Unvanları: {1_PointsAvailable}</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_GOVERNOR_TITLES_AVAILABLE">
-			<Text>KÄYTETTÄVIÄ KÄSKYNHALTIJOIDEN VIRKOJA: {1_PointsAvailable}</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_GOVERNOR_TITLES_AVAILABLE">
+			<Text>KULLANILABİLİR VALİ UNVANLARI: {1_PointsAvailable}</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNOR_GOVERNOR_TITLES_SPENT">
-			<Text>KÄYTETTY: {1_PointsSpent}</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNOR_GOVERNOR_TITLES_SPENT">
+			<Text>KULLANILDI: {1_PointsSpent}</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_HISTORY_TIMELINE_TITLE">
-			<Text>{1_PlayerCiv[2]} historia</Text>
+		<Replace Language="pl_PL" Tag="LOC_HISTORY_TIMELINE_TITLE">
+			<Text>{1_PlayerCiv[2]} tarihi</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_HISTORY_NEW_MOMENT">
-			<Text>{1_PlayerCiv} tekee historiaa</Text>
+		<Replace Language="pl_PL" Tag="LOC_HISTORY_NEW_MOMENT">
+			<Text>{1_PlayerCiv} tarih yazıyor</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_HISTORY_MOMENT_EFFECTS">
-			<Text>{1_MomentDate}    \|    Vuoro {2_MomentTurn}    \|    {3_MomentScore} kausien pistettä</Text>
+		<Replace Language="pl_PL" Tag="LOC_HISTORY_MOMENT_EFFECTS">
+			<Text>{1_MomentDate}    \|    Tur {2_MomentTurn}    \|    {3_MomentScore} dönem puanı</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_HISTORY_MOMENT_EFFECTS_NO_SCORE">
-			<Text>{1_MomentDate}    \|    Vuoro {2_MomentTurn}</Text>
+		<Replace Language="pl_PL" Tag="LOC_HISTORY_MOMENT_EFFECTS_NO_SCORE">
+			<Text>{1_MomentDate}    \|    Tur {2_MomentTurn}</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CULTURAL_IDENTITY_LOYALTY_PERCENTAGE">
-			<Text>Uskollisuus: {1_CurrentLoyalty}/{2_MaxLoyalty} ({3_LoyaltyIcon}{4_LoyaltyPerTurn})</Text>
+		<Replace Language="pl_PL" Tag="LOC_CULTURAL_IDENTITY_LOYALTY_PERCENTAGE">
+			<Text>Sadakat: {1_CurrentLoyalty}/{2_MaxLoyalty} ({3_LoyaltyIcon}{4_LoyaltyPerTurn})</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CULTURAL_IDENTITY_POSITIVE_PRESSURE">
+		<Replace Language="pl_PL" Tag="LOC_CULTURAL_IDENTITY_POSITIVE_PRESSURE">
 			<Text>+{1_Value}</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CULTURAL_IDENTITY_GOVERNORS_PRESSURE_TOOLTIP">
-			<Text>Täällä on [ICON_Governor] käskynhaltija</Text>
+		<Replace Language="pl_PL" Tag="LOC_CULTURAL_IDENTITY_GOVERNORS_PRESSURE_TOOLTIP">
+			<Text>Burada bir [ICON_Governor] vali var</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CULTURAL_IDENTITY_MY_CITIES_PRESSURE_TOOLTIP">
-			<Text>Omistajan [ICON_Citizen] asukkaita 9 ruudun säteellä</Text>
+		<Replace Language="pl_PL" Tag="LOC_CULTURAL_IDENTITY_MY_CITIES_PRESSURE_TOOLTIP">
+			<Text>9 kare içindeki kendi [ICON_Citizen] vatandaşlarımızdan gelen baskı</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CULTURAL_IDENTITY_THEIR_CITIES_PRESSURE_TOOLTIP">
-			<Text>Muiden kansojen [ICON_Citizen] asukkaita 9 ruudun säteellä</Text>
+		<Replace Language="pl_PL" Tag="LOC_CULTURAL_IDENTITY_THEIR_CITIES_PRESSURE_TOOLTIP">
+			<Text>9 kare içindeki diğer ulusların [ICON_Citizen] vatandaşlarından gelen baskı</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CULTURAL_IDENTITY_INDEPENDENCE_PRESSURE_TOOLTIP">
-			<Text>Itsenäistymisen kaipuu</Text>
+		<Replace Language="pl_PL" Tag="LOC_CULTURAL_IDENTITY_INDEPENDENCE_PRESSURE_TOOLTIP">
+			<Text>Bağımsızlık arzusu</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CULTURAL_IDENTITY_HAPPINESS_PRESSURE_TOOLTIP">
-			<Text>Onnellisuuden taso</Text>
+		<Replace Language="pl_PL" Tag="LOC_CULTURAL_IDENTITY_HAPPINESS_PRESSURE_TOOLTIP">
+			<Text>Mutluluk seviyesi</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CULTURAL_IDENTITY_OTHER_PRESSURE_TOOLTIP">
-			<Text>Ei vaikutuksia</Text>
+		<Replace Language="pl_PL" Tag="LOC_CULTURAL_IDENTITY_OTHER_PRESSURE_TOOLTIP">
+			<Text>Diğer etkiler yok</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CULTURAL_IDENTITY_CITY_STATES_PRESSURE_TOOLTIP">
-			<Text>Kaupunkivaltion perusvoimakkuus</Text>
+		<Replace Language="pl_PL" Tag="LOC_CULTURAL_IDENTITY_CITY_STATES_PRESSURE_TOOLTIP">
+			<Text>Şehir devletinin temel gücü</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CULTURAL_IDENTITY_FREE_CITIES_PRESSURE_TOOLTIP">
-			<Text>Perusvoimakkuus vapaana kaupunkina</Text>
+		<Replace Language="pl_PL" Tag="LOC_CULTURAL_IDENTITY_FREE_CITIES_PRESSURE_TOOLTIP">
+			<Text>Bağımsız şehir olarak temel güç</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CULTURAL_IDENTITY_POPULATION_PRESSURE_TOOLTIP">
-			<Text>Paine läheisistä [ICON_Citizen] asukkaista</Text>
+		<Replace Language="pl_PL" Tag="LOC_CULTURAL_IDENTITY_POPULATION_PRESSURE_TOOLTIP">
+			<Text>Yakındaki [ICON_Citizen] vatandaşlardan gelen baskı</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CULTURAL_IDENTITY_POPULATION_PRESSURE_TOOLTIP_MAJOR_CIVS">
-			<Text>Vaihtelee arvojen +20 ja -20 välillä perustuen lähialueiden eri kaupunkien asukkaista tulevan paineen vertailuun.[NEWLINE][ICON_Bullet]Tavallisesti 1 painetta [ICON_Citizen] asukkaasta[NEWLINE][ICON_BULLET]Korkeampi [ICON_Capital] pääkaupungissa[NEWLINE][ICON_BULLET]Voidaan vaikuttaa kultakaudella, synkällä kaudella sekä kaupunkiprojektilla "leipää ja sirkushuveja"[NEWLINE][ICON_BULLET]Vaikuttaa myös muihin kaupunkeihin 9 ruudun säteellä, mutta on 10% heikompi ruudun etäisyyttä kohden</Text>
+		<Replace Language="pl_PL" Tag="LOC_CULTURAL_IDENTITY_POPULATION_PRESSURE_TOOLTIP_MAJOR_CIVS">
+			<Text>Yakındaki farklı şehirlerin vatandaşlarından gelen baskının karşılaştırılmasına dayalı olarak +20 ile -20 arasında değişir.[NEWLINE][ICON_Bullet]Genellikle her [ICON_Citizen] vatandaştan 1 baskı[NEWLINE][ICON_BULLET]Başkentte daha yüksek[NEWLINE][ICON_BULLET]Altın çağ, karanlık çağ ve "ekmek ve sirkler" şehir projesi ile etkilenebilir[NEWLINE][ICON_BULLET]9 kare içindeki diğer şehirlere de etki eder, ancak her kare mesafesi için %10 daha zayıftır</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CULTURAL_IDENTITY_POPULATION_PRESSURE_TOOLTIP_MINOR_CIVS">
-			<Text>Vaihtelee arvojen +20 ja -20 välillä perustuen lähialueiden eri kaupunkien asukkaista tulevan paineen vertailuun.[NEWLINE][ICON_Bullet]Tavallisesti 1 painetta [ICON_Citizen] asukkaasta[NEWLINE][ICON_BULLET]Korkeampi [ICON_Capital] pääkaupungissa</Text>
+		<Replace Language="pl_PL" Tag="LOC_CULTURAL_IDENTITY_POPULATION_PRESSURE_TOOLTIP_MINOR_CIVS">
+			<Text>Yakındaki farklı şehirlerin vatandaşlarından gelen baskının karşılaştırılmasına dayalı olarak +20 ile -20 arasında değişir.[NEWLINE][ICON_Bullet]Genellikle her [ICON_Citizen] vatandaştan 1 baskı[NEWLINE][ICON_BULLET]Başkentte daha yüksek</Text>
 		</Replace>
 		<!-- Dedications-->
-		<Replace Language="en_US" Tag="LOC_TECH_BOOST_DEDICATION_NOTIFICATION">
-			<Text>Olemme aiheuttaneet [ICON_TechBoosted] heurekan.</Text>
+		<Replace Language="pl_PL" Tag="LOC_TECH_BOOST_DEDICATION_NOTIFICATION">
+			<Text>[ICON_TechBoosted] Eureka'yı tetikledik.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVIC_BOOST_DEDICATION_NOTIFICATION">
-			<Text>Olenne aiheuttaneet [ICON_CivicBoosted] inspiraation.</Text>
+		<Replace Language="pl_PL" Tag="LOC_CIVIC_BOOST_DEDICATION_NOTIFICATION">
+			<Text>[ICON_CivicBoosted] İlhamı tetikledik.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_RELIGIOUS_CONVERSION_DEDICATION_NOTIFICATION">
-			<Text>Olemme ensimmäisen kerran käännyttäneet kaupungin perustamaamme uskontoon.</Text>
+		<Replace Language="pl_PL" Tag="LOC_RELIGIOUS_CONVERSION_DEDICATION_NOTIFICATION">
+			<Text>İlk kez bir şehri kurduğumuz dine çevirdik.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_DISTRICT_COMPLETION_DEDICATION_NOTIFICATION">
-			<Text>Olemme rakentaneet uuden kaupunkialueen.</Text>
+		<Replace Language="pl_PL" Tag="LOC_DISTRICT_COMPLETION_DEDICATION_NOTIFICATION">
+			<Text>Yeni bir şehir bölgesi inşa ettik.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_TRADE_ROUTE_DEDICATION_NOTIFICATION">
-			<Text>Olemme saaneet [ICON_TradeRoute] kauppareitin päätökseensä.</Text>
+		<Replace Language="pl_PL" Tag="LOC_TRADE_ROUTE_DEDICATION_NOTIFICATION">
+			<Text>[ICON_TradeRoute] Ticaret yolunu tamamladık.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_MAP_DISCOVERY_DEDICATION_NOTIFICATION">
-			<Text>Olemme löytäneet uuden mantereen tai luonnonihmeen.</Text>
+		<Replace Language="pl_PL" Tag="LOC_MAP_DISCOVERY_DEDICATION_NOTIFICATION">
+			<Text>Yeni bir kıta veya doğal harika keşfettik.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CORPS_KILL_DEDICATION_NOTIFICATION">
-			<Text>Olemme tuhonnee armeijakunnan.</Text>
+		<Replace Language="pl_PL" Tag="LOC_CORPS_KILL_DEDICATION_NOTIFICATION">
+			<Text>Bir kolorduyu yok ettik.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_ARMY_KILL_DEDICATION_NOTIFICATION">
-			<Text>Olemme tuhonneet armeijan.</Text>
+		<Replace Language="pl_PL" Tag="LOC_ARMY_KILL_DEDICATION_NOTIFICATION">
+			<Text>Bir orduyu yok ettik.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_NAVAL_UNIT_KILL_DEDICATION_NOTIFICATION">
-			<Text>Olemme tuhonneet meriyksikön, joka ei ole barbaarien.</Text>
+		<Replace Language="pl_PL" Tag="LOC_NAVAL_UNIT_KILL_DEDICATION_NOTIFICATION">
+			<Text>Barbar olmayan bir deniz birimini yok ettik.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_SCIENCE_BUILDING_DEDICATION_NOTIFICATION">
-			<Text>Olemme valmistaneet rakennuksen, joka osaa tuottaa [ICON_Science] tiedettä.</Text>
+		<Replace Language="pl_PL" Tag="LOC_SCIENCE_BUILDING_DEDICATION_NOTIFICATION">
+			<Text>[ICON_Science] Bilim üreten bir bina inşa ettik.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CULTURE_BUILDING_DEDICATION_NOTIFICATION">
-			<Text>Olemme rakentaneet rakennuksen, jossa on paikka merkkiteokselle.</Text>
+		<Replace Language="pl_PL" Tag="LOC_CULTURE_BUILDING_DEDICATION_NOTIFICATION">
+			<Text>Bir büyük eser yuvası olan bir bina inşa ettik.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_INDUSTRIAL_BUILDING_DEDICATION_NOTIFICATION">
-			<Text>Olemme rakentaneet teollisen tai myöhemmän ajan rakennuksen.</Text>
+		<Replace Language="pl_PL" Tag="LOC_INDUSTRIAL_BUILDING_DEDICATION_NOTIFICATION">
+			<Text>Endüstriyel veya daha sonraki bir döneme ait bir bina inşa ettik.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_AERODROME_BUILDING_DEDICATION_NOTIFICATION">
-			<Text>Olemme valmistaneet rakennuksen lentoasemalle.</Text>
+		<Replace Language="pl_PL" Tag="LOC_AERODROME_BUILDING_DEDICATION_NOTIFICATION">
+			<Text>Bir havaalanı binası inşa ettik.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_SPY_MISSION_DEDICATION_NOTIFICATION">
-			<Text>Olemme onnistuneet hyökkäävässä vakoilutoimessa.</Text>
+		<Replace Language="pl_PL" Tag="LOC_SPY_MISSION_DEDICATION_NOTIFICATION">
+			<Text>Saldırgan bir casusluk görevinde başarılı olduk.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_ARTIFACT_EXTRACTION_DEDICATION_NOTIFICATION">
-			<Text>Olemme paljastaneet [ICON_GreatWork_Artifact] artefaktin.</Text>
+		<Replace Language="pl_PL" Tag="LOC_ARTIFACT_EXTRACTION_DEDICATION_NOTIFICATION">
+			<Text>[ICON_GreatWork_Artifact] Bir eser ortaya çıkardık.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GREATPERSON_EARNED_NOTIFICATION">
-			<Text>Olemme ansainneet [ICON_GreatPerson] merkittävän henkilön.</Text>
+		<Replace Language="pl_PL" Tag="LOC_GREATPERSON_EARNED_NOTIFICATION">
+			<Text>[ICON_GreatPerson] Büyük bir kişiyi kazandık.</Text>
 		</Replace>
 		<!-- Scoring -->
-		<Replace Language="en_US" Tag="LOC_CATEGORY_ERA_SCORE_NAME">
-			<Text>Aikakauden pisteet</Text>
+		<Replace Language="pl_PL" Tag="LOC_CATEGORY_ERA_SCORE_NAME">
+			<Text>Dönem Puanları</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CITY_STATE_PANEL_HAS_AMBASSADOR_TOOLTIP">
-			<Text>Diplomaattisen [ICON_Governor] käskynhaltijansa tähän kaupunkivaltioon osoittaneet kansakunnat:</Text>
+		<Replace Language="pl_PL" Tag="LOC_CITY_STATE_PANEL_HAS_AMBASSADOR_TOOLTIP">
+			<Text>Bu şehir devletine diplomatik [ICON_Governor] vali atayan milletler:</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CITY_STATE_PANEL_HAS_AMBASSADOR_TOOLTIP_ENTRY">
+		<Replace Language="pl_PL" Tag="LOC_CITY_STATE_PANEL_HAS_AMBASSADOR_TOOLTIP_ENTRY">
 			<Text>[NEWLINE][ICON_Bullet]{1_CivName} ({2_PlayerName})</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CITY_STATE_PANEL_CIV_AMBASSADOR_TOOLTIP">
-			<Text>{1_CivName} on osoittanut diplomaattinsa tähän kaupunkivaltioon.</Text>
+		<Replace Language="pl_PL" Tag="LOC_CITY_STATE_PANEL_CIV_AMBASSADOR_TOOLTIP">
+			<Text>{1_CivName} bu şehir devletine diplomatını atadı.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CITY_BANNER_HAS_AMBASSADOR_TOOLTIP_ENTRY_LIMITED">
+		<Replace Language="pl_PL" Tag="LOC_CITY_BANNER_HAS_AMBASSADOR_TOOLTIP_ENTRY_LIMITED">
 			<Text>[NEWLINE][ICON_Bullet]{1_CivName} ({2_PlayerName})</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CITY_BANNER_HAS_AMBASSADOR_TOOLTIP_ENTRY_FULL">
+		<Replace Language="pl_PL" Tag="LOC_CITY_BANNER_HAS_AMBASSADOR_TOOLTIP_ENTRY_FULL">
 			<Text>[NEWLINE][ICON_Bullet]{1_CivName} ({2_PlayerName}) - {3_EstablishInfo}</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNMENT_INHERENT_BONUS">
-			<Text>Merkittävä etu</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNMENT_INHERENT_BONUS">
+			<Text>Önemli Avantaj</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVERNMENT_ACCUMULATED_BONUS">
-			<Text>Pieni etu</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVERNMENT_ACCUMULATED_BONUS">
+			<Text>Küçük Avantaj</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_TECH_SCIENTIFIC_THEORY_DESCRIPTION">
-			<Text>+1 [ICON_Food] ruokaa plantaasista.</Text>
+		<Replace Language="pl_PL" Tag="LOC_TECH_SCIENTIFIC_THEORY_DESCRIPTION">
+			<Text>+1 [ICON_Food] plantasyondan gıda.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GAME_MENU_NEW_FEATURES">
-			<Text>Uudet piirteet</Text>
+		<Replace Language="pl_PL" Tag="LOC_GAME_MENU_NEW_FEATURES">
+			<Text>Yeni Özellikler</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GAME_MENU_NEW_FEATURES_TOOLTIP">
-			<Text>Tarkastele Nousun ja tuhon tuomia uusia ominaisuuksia sääntöihin.</Text>
+		<Replace Language="pl_PL" Tag="LOC_GAME_MENU_NEW_FEATURES_TOOLTIP">
+			<Text>Rise and Fall kurallarına eklenen yeni özellikleri inceleyin.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_XP1_INTRO_NEXT">
-			<Text>Seuraava</Text>
+		<Replace Language="pl_PL" Tag="LOC_XP1_INTRO_NEXT">
+			<Text>Sonraki</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_XP1_INTRO_PREVIOUS">
-			<Text>Edellinen</Text>
+		<Replace Language="pl_PL" Tag="LOC_XP1_INTRO_PREVIOUS">
+			<Text>Önceki</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_XP1_INTRO_CONTINUE">
-			<Text>Jatka</Text>
+		<Replace Language="pl_PL" Tag="LOC_XP1_INTRO_CONTINUE">
+			<Text>Devam Et</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_END_GAME_MENU_HISTORIAN_BUTTON">
-			<Text>Näytä aikajana</Text>
+		<Replace Language="pl_PL" Tag="LOC_END_GAME_MENU_HISTORIAN_BUTTON">
+			<Text>Zaman Çizelgesini Göster</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_END_GAME_MENU_EXPORT_HISTORIAN_BUTTON">
-			<Text>Vie aikajana</Text>
+		<Replace Language="pl_PL" Tag="LOC_END_GAME_MENU_EXPORT_HISTORIAN_BUTTON">
+			<Text>Zaman Çizelgesini Dışa Aktar</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_LOYALTY_CITY_IS_LOYAL_TO_TT">
-			<Text>Uskollinen kansalle {1_CivName}</Text>
+		<Replace Language="pl_PL" Tag="LOC_LOYALTY_CITY_IS_LOYAL_TO_TT">
+			<Text>{1_CivName} milletine sadık</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_LOYALTY_CITY_WILL_FALL_TO_TT">
-			<Text>{1_CivName} saa kaupungin kun uskollisuus saavuttaa nollan</Text>
+		<Replace Language="pl_PL" Tag="LOC_LOYALTY_CITY_WILL_FALL_TO_TT">
+			<Text>{1_CivName} sadakat sıfıra ulaştığında şehri alacak</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_LOYALTY_IS_RISING_BY_X_TT">
-			<Text>{1_CivName}: uskollisuus kasvaa {2_PointsPerTurn} {2_PointsPerTurn : plural 1?pisteen; other?pistettä;} vuorossa</Text>
+		<Replace Language="pl_PL" Tag="LOC_LOYALTY_IS_RISING_BY_X_TT">
+			<Text>{1_CivName}: sadakat {2_PointsPerTurn} {2_PointsPerTurn : plural 1?puan; other?puan;} artıyor</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_LOYALTY_IS_DROPPING_BY_X_TT">
-			<Text>{1_CivName}: uskollisuus laskee {2_PointsPerTurn} {2_PointsPerTurn : plural 1?pisteen; other?pistettä;} vuorossa</Text>
+		<Replace Language="pl_PL" Tag="LOC_LOYALTY_IS_DROPPING_BY_X_TT">
+			<Text>{1_CivName}: sadakat {2_PointsPerTurn} {2_PointsPerTurn : plural 1?puan; other?puan;} azalıyor</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_LOYALTY_IS_NOT_CHANGING_TT">
-			<Text>{1_CivName}: uskollisuus ei muutu seuraavalla vuorolla</Text>
+		<Replace Language="pl_PL" Tag="LOC_LOYALTY_IS_NOT_CHANGING_TT">
+			<Text>{1_CivName}: sadakat bir sonraki turda değişmeyecek</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_LOYALTY_STATUS_TT">
-			<Text>{1_LoyaltyIcon} USKOLLISUUS {2_CurrentLoyalty}/{3_MaxLoyalty}[NEWLINE]Tila: {4_LoyaltyStatus}</Text>
+		<Replace Language="pl_PL" Tag="LOC_LOYALTY_STATUS_TT">
+			<Text>{1_LoyaltyIcon} SADAKAT {2_CurrentLoyalty}/{3_MaxLoyalty}[NEWLINE]Durum: {4_LoyaltyStatus}</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_TECH_TREE_ALLIANCE_TT">
-			<Text>Tutki samaa tekniikkaa kuin tutkimusliittolainen ylläpitääksesi jokavuoroista tiede-etua.</Text>
+		<Replace Language="pl_PL" Tag="LOC_TECH_TREE_ALLIANCE_TT">
+			<Text>Her tur bilim avantajını korumak için araştırma müttefiki ile aynı teknolojiyi araştırın.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_TECH_TREE_ALLIANCE_BONUS_TT">
-			<Text>Meillä on tason 3 tutkimusliiton tiede-etu.[NEWLINE]Saman tekniikan tutkiminen kuin tutkimusliittolainen ylläpitää jokavuoroista tiede-etua.</Text>
+		<Replace Language="pl_PL" Tag="LOC_TECH_TREE_ALLIANCE_BONUS_TT">
+			<Text>Seviye 3 araştırma ittifakı bilim avantajına sahibiz.[NEWLINE]Her tur bilim avantajını korumak için araştırma müttefiki ile aynı teknolojiyi araştırın.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_LOYALTY_MAX_LOYALTY_TT">
-			<Text>Kaupunki on uskollinen ja kerää uskollisuutta joka vuoro</Text>
+		<Replace Language="pl_PL" Tag="LOC_LOYALTY_MAX_LOYALTY_TT">
+			<Text>Şehir sadık ve her tur sadakat kazanıyor</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_LOYALTY_NO_CHANGE_TT">
-			<Text>Ei muutosta</Text>
+		<Replace Language="pl_PL" Tag="LOC_LOYALTY_NO_CHANGE_TT">
+			<Text>Değişiklik yok</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_LOYALTY_RISING_LOYALTY_TT">
-			<Text>Kasvaa {1_LoyaltyPerTurn}</Text>
+		<Replace Language="pl_PL" Tag="LOC_LOYALTY_RISING_LOYALTY_TT">
+			<Text>{1_LoyaltyPerTurn} artıyor</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_LOYALTY_FALLING_LOYALTY_TT">
-			<Text>Laskee {1_LoyaltyPerTurn}</Text>
+		<Replace Language="pl_PL" Tag="LOC_LOYALTY_FALLING_LOYALTY_TT">
+			<Text>{1_LoyaltyPerTurn} azalıyor</Text>
 		</Replace>
 		<!-- Replay DataSets -->
-		<Replace Language="en_US" Tag="LOC_REPLAYDATASET_ERASCORE_NAME">
-			<Text>Kausien pisteitä vuorossa</Text>
+		<Replace Language="pl_PL" Tag="LOC_REPLAYDATASET_ERASCORE_NAME">
+			<Text>Tur başına dönem puanları</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_REPLAYDATASET_GOVERNORS_NAME">
-			<Text>Käskynhaltijoita</Text>
+		<Replace Language="pl_PL" Tag="LOC_REPLAYDATASET_GOVERNORS_NAME">
+			<Text>Valiler</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_REPLAYDATASET_GOVERNORTITLES_NAME">
-			<Text>Käskynhaltijoiden virkoja</Text>
+		<Replace Language="pl_PL" Tag="LOC_REPLAYDATASET_GOVERNORTITLES_NAME">
+			<Text>Vali Unvanları</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_GOVT_FILTER_DARK">
-			<Text>Synkät</Text>
+		<Replace Language="pl_PL" Tag="LOC_GOVT_FILTER_DARK">
+			<Text>Karanlık</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_FISHERY_NAME">
-			<Text>Kalastamo|kalastamo|kalastamon</Text>
+		<Replace Language="pl_PL" Tag="LOC_IMPROVEMENT_FISHERY_NAME">
+			<Text>Balıkçılık|balıkçılık|balıkçılığın</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_FISHERY_DESCRIPTION">
-			<Text>[ICON_Governor] Käskynhaltijan oma rakenne, joka voidaan rakentaa kun kaupungissa on käskynhaltija, jolla on vesiviljelyn ylennys. +1 [ICON_Food] ruokaa ja +1 [ICON_Food] ruokaa lisää viereisestä meriluonnonvarasta. Tulee rakentaa rannikkoruutuun.</Text>
+		<Replace Language="pl_PL" Tag="LOC_IMPROVEMENT_FISHERY_DESCRIPTION">
+			<Text>[ICON_Governor] Valiye özel bir yapı, şehirde su ürünleri yetiştiriciliği terfisi olan bir vali olduğunda inşa edilebilir. +1 [ICON_Food] gıda ve bitişik deniz kaynağından +1 [ICON_Food] gıda. Kıyı karesine inşa edilmelidir.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_CITY_PARK_NAME">
-			<Text>Kaupunkipuisto|kaupunkipuisto|kaupunkipuiston</Text>
+		<Replace Language="pl_PL" Tag="LOC_IMPROVEMENT_CITY_PARK_NAME">
+			<Text>Şehir Parkı|şehir parkı|şehir parkının</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_CITY_PARK_DESCRIPTION">
-			<Text>[ICON_Governor] Käskynhaltijan oma rakenne, joka voidaan rakentaa kun kaupungissa on käskynhaltija, jolla on puistojen ja vapaa-ajan ylennys. +1 [ICON_Culture] kulttuuria ja +2 houkuttelevuutta. +1 [ICON_Amenities] elintasoa mikäli veden vieressä. Ei voi rakentaa toisen kaupunginpuiston viereen.</Text>
+		<Replace Language="pl_PL" Tag="LOC_IMPROVEMENT_CITY_PARK_DESCRIPTION">
+			<Text>[ICON_Governor] Valiye özel bir yapı, şehirde parklar ve rekreasyon terfisi olan bir vali olduğunda inşa edilebilir. +1 [ICON_Culture] kültür ve +2 cazibe. Su kenarında ise +1 [ICON_Amenities] yaşam standardı sağlar. Başka bir şehir parkının yanına inşa edilemez.</Text>
 		</Replace>
 		<!-- MISC -->
-		<Replace Language="en_US" Tag="LOC_CIVILIZATION_NOT_ABLE_TO_DECLARE_SURPRISE_WAR">
-			<Text>Emme voi julistaa yllätyssotia; tähän sisältyy sodanjulistus kaupunkivaltiolle.</Text>
+		<Replace Language="pl_PL" Tag="LOC_CIVILIZATION_NOT_ABLE_TO_DECLARE_SURPRISE_WAR">
+			<Text>Sürpriz savaş ilan edemeyiz; buna şehir devletine savaş ilanı da dahildir.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_JERUSALEM_DESCRIPTION_EXPANSION">
-			<Text>Pyhän paikan omaavat kaupunkimme puskevat painetta kuten pyhät kaupungit (nelinkertainen uskonnon paine kaikkiin kymmenen ruudun sisällä oleviin kaupunkeihin).</Text>
+		<Replace Language="pl_PL" Tag="LOC_LEADER_TRAIT_JERUSALEM_DESCRIPTION_EXPANSION">
+			<Text>Kutsal alanı olan şehirlerimiz, kutsal şehirler gibi baskı uygular (on kare içindeki tüm şehirlere dört kat dini baskı).</Text>
 		</Replace>
 		<!-- Type Traits-->
-		<Replace Language="en_US" Tag="LOC_TYPE_TRAIT_GOVERNOR_POINTS">
-			<Text>{1_Amount: number +#,###.#;-#,###.#} [ICON_STAT_GOVERNOR] käskynhaltijapistettä</Text>
+		<Replace Language="pl_PL" Tag="LOC_TYPE_TRAIT_GOVERNOR_POINTS">
+			<Text>{1_Amount: number +#,###.#;-#,###.#} [ICON_STAT_GOVERNOR] vali puanı</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_TYPE_TRAIT_GOVERNOR_POINTS_WITH_REQUIREMENT">
-			<Text>{1_Amount: number +#,###.#;-#,###.#} [ICON_STAT_GOVERNOR] käskynhaltijapistettä (vaatii: {2_TechOrCivicName})</Text>
+		<Replace Language="pl_PL" Tag="LOC_TYPE_TRAIT_GOVERNOR_POINTS_WITH_REQUIREMENT">
+			<Text>{1_Amount: number +#,###.#;-#,###.#} [ICON_STAT_GOVERNOR] vali puanı (gerektirir: {2_TechOrCivicName})</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_TYPE_TRAIT_REQUIRES_GOVERNMENT_TIER">
-			<Text>Vaadittu käskynhaltijan taso: {1_GovernmentTier}</Text>
+		<Replace Language="pl_PL" Tag="LOC_TYPE_TRAIT_REQUIRES_GOVERNMENT_TIER">
+			<Text>Gerekli vali seviyesi: {1_GovernmentTier}</Text>
 		</Replace>
 	</LocalizedText>
 </GameData>

@@ -2,181 +2,181 @@
 <GameData>
 	<LocalizedText>
 		<!-- Policy Names -->
-		<Replace Language="en_US" Tag="LOC_POLICY_AUTOCRACY_NAME">
-			<Text>Itsevaltiaan perintö</Text>
+		<Replace Language="pl_PL" Tag="LOC_POLICY_AUTOCRACY_NAME">
+			<Text>Otokratinin Mirası</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_POLICY_OLIGARCHY_NAME">
-			<Text>Oligarkin perintö</Text>
+		<Replace Language="pl_PL" Tag="LOC_POLICY_OLIGARCHY_NAME">
+			<Text>Oligarkinin Mirası</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_POLICY_CLASSICAL_REPUBLIC_NAME">
-			<Text>Tasavaltalaisen perintö</Text>
+		<Replace Language="pl_PL" Tag="LOC_POLICY_CLASSICAL_REPUBLIC_NAME">
+			<Text>Klasik Cumhuriyetin Mirası</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_POLICY_MONARCHY_NAME">
-			<Text>Monarkin perintö</Text>
+		<Replace Language="pl_PL" Tag="LOC_POLICY_MONARCHY_NAME">
+			<Text>Monarşinin Mirası</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_POLICY_THEOCRACY_NAME">
-			<Text>Teokraatin perintö</Text>
+		<Replace Language="pl_PL" Tag="LOC_POLICY_THEOCRACY_NAME">
+			<Text>Teokrasinin Mirası</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_POLICY_MERCHANT_REPUBLIC_NAME">
-			<Text>Meritokraatin perintö</Text>
+		<Replace Language="pl_PL" Tag="LOC_POLICY_MERCHANT_REPUBLIC_NAME">
+			<Text>Tüccar Cumhuriyetinin Mirası</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_POLICY_FASCISM_NAME">
-			<Text>Fasistin perintö</Text>
+		<Replace Language="pl_PL" Tag="LOC_POLICY_FASCISM_NAME">
+			<Text>Faşizmin Mirası</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_POLICY_COMMUNISM_NAME">
-			<Text>Kommunistin perintö</Text>
+		<Replace Language="pl_PL" Tag="LOC_POLICY_COMMUNISM_NAME">
+			<Text>Komünizmin Mirası</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_POLICY_DEMOCRACY_NAME">
-			<Text>Demokraatin perintö</Text>
+		<Replace Language="pl_PL" Tag="LOC_POLICY_DEMOCRACY_NAME">
+			<Text>Demokrasinin Mirası</Text>
 		</Replace>
 		<!-- Policies -->
-		<Replace Language="en_US" Tag="LOC_POLICY_AFTER_ACTION_REPORTS_NAME">
-			<Text>Toimintaraportit</Text>
+		<Replace Language="pl_PL" Tag="LOC_POLICY_AFTER_ACTION_REPORTS_NAME">
+			<Text>Faaliyet Raporları</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_POLICY_AFTER_ACTION_REPORTS_DESCRIPTION">
-			<Text>Kaikki yksiköt saavat +25% taistelukokemusta.</Text>
+		<Replace Language="pl_PL" Tag="LOC_POLICY_AFTER_ACTION_REPORTS_DESCRIPTION">
+			<Text>Tüm birimler %25 daha fazla savaş deneyimi kazanır.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_POLICY_ARSENAL_OF_DEMOCRACY_DESCRIPTION">
-			<Text>Liittolaisten kaupunkeihin osoittamamme [ICON_TradeRoute] kauppareitit tarjoavat +4 [ICON_Food] ruokaa ja +4 [ICON_Production] tuotantoa molemmille kaupungeille. Liittolaispisteet kasvavat +0,25 pisteellä vuorossa.</Text>
+		<Replace Language="pl_PL" Tag="LOC_POLICY_ARSENAL_OF_DEMOCRACY_DESCRIPTION">
+			<Text>Müttefik şehirlerine gönderilen [ICON_TradeRoute] ticaret yolları her iki şehre de +4 [ICON_Food] gıda ve +4 [ICON_Production] üretim sağlar. Müttefik puanları tur başına +0,25 puan artar.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_POLICY_CIVIL_PRESTIGE_NAME">
-			<Text>Ylevä kansalaisuus</Text>
+		<Replace Language="pl_PL" Tag="LOC_POLICY_CIVIL_PRESTIGE_NAME">
+			<Text>Sivil Prestij</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_POLICY_CIVIL_PRESTIGE_DESCRIPTION">
-			<Text>Vähintään kaksi ylennystä omaavat asettuneet [ICON_GOVERNOR] käskynhaltijat tarjoavat +1 [ICON_Amenities] elintasoa ja +2 [ICON_Housing] asumusta.</Text>
+		<Replace Language="pl_PL" Tag="LOC_POLICY_CIVIL_PRESTIGE_DESCRIPTION">
+			<Text>En az iki terfiye sahip yerleşik [ICON_GOVERNOR] valiler +1 [ICON_Amenities] yaşam standardı ve +2 [ICON_Housing] konut sağlar.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_POLICY_COLONIAL_OFFICES_DESCRIPTION">
-			<Text>+15% nopeampi kasvu ja 3 uskollisuutta vuorossa kaupungeille, jotka eivät ole alkuperäisen [ICON_Capital] pääkaupungin mantereella.</Text>
+		<Replace Language="pl_PL" Tag="LOC_POLICY_COLONIAL_OFFICES_DESCRIPTION">
+			<Text>Orijinal [ICON_Capital] başkentin kıtasında olmayan şehirler için %15 daha hızlı büyüme ve tur başına 3 sadakat.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_POLICY_COLONIAL_TAXES_DESCRIPTION">
-			<Text>+25% [ICON_Gold] kultaa ja +10% [ICON_PRODUCTION] tuotantoa kaupungeille, jotka eivät ole alkuperäisen [ICON_Capital] pääkaupungin mantereella.</Text>
+		<Replace Language="pl_PL" Tag="LOC_POLICY_COLONIAL_TAXES_DESCRIPTION">
+			<Text>Orijinal [ICON_Capital] başkentin kıtasında olmayan şehirler için %25 [ICON_Gold] altın ve %10 [ICON_PRODUCTION] üretim.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_POLICY_COMMUNICATIONS_OFFICE_NAME">
-			<Text>Viestintätoimisto</Text>
+		<Replace Language="pl_PL" Tag="LOC_POLICY_COMMUNICATIONS_OFFICE_NAME">
+			<Text>İletişim Ofisi</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_POLICY_COMMUNICATIONS_OFFICE_DESCRIPTION">
-			<Text>+1 uskollisuutta vuorossa [ICON_Governor] käskynhaltijan omista ylennyksistä kaupungilleen.</Text>
+		<Replace Language="pl_PL" Tag="LOC_POLICY_COMMUNICATIONS_OFFICE_DESCRIPTION">
+			<Text>[ICON_Governor] Valinin kendi terfilerinden şehrine tur başına +1 sadakat.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_POLICY_FREE_MARKET_DESCRIPTION">
-			<Text>Lisää [ICON_Gold] kultaa kaupallisten keskusten rakennuksista: +50% jos kaupungin [ICON_CITIZEN] väestö on 10 tai enemmän, +50% jos kaupunkialueella on vähintään +4 läheisyyseduista.</Text>
+		<Replace Language="pl_PL" Tag="LOC_POLICY_FREE_MARKET_DESCRIPTION">
+			<Text>Ticaret merkezlerinin binalarından daha fazla [ICON_Gold] altın: Şehrin [ICON_CITIZEN] nüfusu 10 veya daha fazla ise %50, şehir bölgesinde en az +4 yakınlık avantajı varsa %50.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_POLICY_GRAND_OPERA_DESCRIPTION">
-			<Text>Lisää [ICON_Culture] kulttuuria teatteriaukioiden rakennuksista: +50% jos kaupungin [ICON_CITIZEN] väestö on 10 tai enemmän, +50% jos kaupunkialueella on vähintään +3 läheisyyseduista.</Text>
+		<Replace Language="pl_PL" Tag="LOC_POLICY_GRAND_OPERA_DESCRIPTION">
+			<Text>Tiyatro meydanlarının binalarından daha fazla [ICON_Culture] kültür: Şehrin [ICON_CITIZEN] nüfusu 10 veya daha fazla ise %50, şehir bölgesinde en az +3 yakınlık avantajı varsa %50.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_POLICY_LIMITANEI_NAME">
+		<Replace Language="pl_PL" Tag="LOC_POLICY_LIMITANEI_NAME">
 			<Text>Limitanei</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_POLICY_LIMITANEI_DESCRIPTION">
-			<Text>+2 uskollisuutta vuorossa yksiköiden vartioimille kaupungeille.</Text>
+		<Replace Language="pl_PL" Tag="LOC_POLICY_LIMITANEI_DESCRIPTION">
+			<Text>Birimlerin koruduğu şehirlere tur başına +2 sadakat.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_POLICY_MARTIAL_LAW_DESCRIPTION">
-			<Text>Sotaväsymystä kertyy 25% vähemmän. +2 uskollisuutta vuorossa yksiköiden vartioimille kaupungeille.</Text>
+		<Replace Language="pl_PL" Tag="LOC_POLICY_MARTIAL_LAW_DESCRIPTION">
+			<Text>Savaş yorgunluğu %25 daha az birikir. Birimlerin koruduğu şehirlere tur başına +2 sadakat.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_POLICY_POLICE_STATE_DESCRIPTION">
-			<Text>Vihollisvakoilijoiden taso on 2 alhaisempi maillamme. Kaikki kaupungit kuitenkin kärsivät -2 uskollisuutta vuorossa.</Text>
+		<Replace Language="pl_PL" Tag="LOC_POLICY_POLICE_STATE_DESCRIPTION">
+			<Text>Düşman casuslarının seviyesi topraklarımızda 2 daha düşük. Ancak tüm şehirler tur başına -2 sadakat kaybeder.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_POLICY_PRAETORIUM_NAME">
-			<Text>Pretorio</Text>
+		<Replace Language="pl_PL" Tag="LOC_POLICY_PRAETORIUM_NAME">
+			<Text>Pretoryum</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_POLICY_PRAETORIUM_DESCRIPTION">
-			<Text>[ICON_Governor] Käskynhaltijat tarjoavat +2 uskollisuutta kaupungeilleen.</Text>
+		<Replace Language="pl_PL" Tag="LOC_POLICY_PRAETORIUM_DESCRIPTION">
+			<Text>[ICON_Governor] Valiler şehirlerine +2 sadakat sağlar.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_POLICY_RATIONALISM_DESCRIPTION">
-			<Text>Lisää [ICON_Science] tiedettä kampusten rakennuksista: +50% jos kaupungin [ICON_CITIZEN] väestö on 10 tai enemmän, +50% jos kaupunkialueella on vähintään +3 läheisyyseduista.</Text>
+		<Replace Language="pl_PL" Tag="LOC_POLICY_RATIONALISM_DESCRIPTION">
+			<Text>Kampüs binalarından daha fazla [ICON_Science] bilim: Şehrin [ICON_CITIZEN] nüfusu 10 veya daha fazla ise %50, şehir bölgesinde en az +3 yakınlık avantajı varsa %50.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_POLICY_SECOND_STRIKE_CAPABILITY_NAME">
-			<Text>Kyky toiseen iskuun</Text>
+		<Replace Language="pl_PL" Tag="LOC_POLICY_SECOND_STRIKE_CAPABILITY_NAME">
+			<Text>İkinci Saldırı Yeteneği</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_POLICY_SECOND_STRIKE_CAPABILITY_DESCRIPTION">
-			<Text>Ydinaseiden ylläpito vaatii 50% vähemmän [ICON_Gold] kultaa vuorossa.</Text>
+		<Replace Language="pl_PL" Tag="LOC_POLICY_SECOND_STRIKE_CAPABILITY_DESCRIPTION">
+			<Text>Nükleer silahların bakımı tur başına %50 daha az [ICON_Gold] altın gerektirir.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_POLICY_SIMULTANEUM_DESCRIPTION">
-			<Text>Lisää [ICON_Faith] uskoa pyhien paikkojen rakennuksista: +50% jos kaupungin [ICON_CITIZEN] väestö on 10 tai enemmän, +50% jos kaupunkialueella on vähintään +3 läheisyyseduista.</Text>
+		<Replace Language="pl_PL" Tag="LOC_POLICY_SIMULTANEUM_DESCRIPTION">
+			<Text>Kutsal alan binalarından daha fazla [ICON_Faith] inanç: Şehrin [ICON_CITIZEN] nüfusu 10 veya daha fazla ise %50, şehir bölgesinde en az +3 yakınlık avantajı varsa %50.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_POLICY_WISSELBANKEN_NAME">
+		<Replace Language="pl_PL" Tag="LOC_POLICY_WISSELBANKEN_NAME">
 			<Text>Wisselbanken</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_POLICY_WISSELBANKEN_DESCRIPTION">
-			<Text>Liittolaisten kaupunkeihin osoittamamme [ICON_TradeRoute] kauppareitit tarjoavat +2 [ICON_Food] ruokaa ja +2 [ICON_Production] tuotantoa molemmille kaupungeille. Liittolaispisteet kasvavat +0,25 pisteellä vuorossa.</Text>
+		<Replace Language="pl_PL" Tag="LOC_POLICY_WISSELBANKEN_DESCRIPTION">
+			<Text>Müttefik şehirlerine gönderilen [ICON_TradeRoute] ticaret yolları her iki şehre de +2 [ICON_Food] gıda ve +2 [ICON_Production] üretim sağlar. Müttefik puanları tur başına +0,25 puan artar.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_POLICY_MONASTICISM_NAME">
-			<Text>Luostarilaitos</Text>
+		<Replace Language="pl_PL" Tag="LOC_POLICY_MONASTICISM_NAME">
+			<Text>Manastır Sistemi</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_POLICY_TWILIGHT_VALOR_NAME">
-			<Text>Viimehetken kunnia</Text>
+		<Replace Language="pl_PL" Tag="LOC_POLICY_TWILIGHT_VALOR_NAME">
+			<Text>Alacakaranlık Cesareti</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_POLICY_INQUISITION_NAME">
-			<Text>Inkvisitio</Text>
+		<Replace Language="pl_PL" Tag="LOC_POLICY_INQUISITION_NAME">
+			<Text>Engizisyon</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_POLICY_ISOLATIONISM_NAME">
-			<Text>Isolaatio</Text>
+		<Replace Language="pl_PL" Tag="LOC_POLICY_ISOLATIONISM_NAME">
+			<Text>İzolasyonizm</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_POLICY_LETTERS_OF_MARQUE_NAME">
-			<Text>Palautusluvat</Text>
+		<Replace Language="pl_PL" Tag="LOC_POLICY_LETTERS_OF_MARQUE_NAME">
+			<Text>Marka Mektupları</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_POLICY_ROBBER_BARONS_NAME">
-			<Text>Ryöväriparonit</Text>
+		<Replace Language="pl_PL" Tag="LOC_POLICY_ROBBER_BARONS_NAME">
+			<Text>Haydut Baronlar</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_POLICY_ELITE_FORCES_NAME">
-			<Text>Eliittijoukot</Text>
+		<Replace Language="pl_PL" Tag="LOC_POLICY_ELITE_FORCES_NAME">
+			<Text>Elit Kuvvetler</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_POLICY_COLLECTIVISM_NAME">
-			<Text>Kollektivismi</Text>
+		<Replace Language="pl_PL" Tag="LOC_POLICY_COLLECTIVISM_NAME">
+			<Text>Kolektivizm</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_POLICY_ROGUE_STATE_NAME">
-			<Text>Oman tien kulkija</Text>
+		<Replace Language="pl_PL" Tag="LOC_POLICY_ROGUE_STATE_NAME">
+			<Text>Haydut Devlet</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_POLICY_MONASTICISM_DESCRIPTION">
-			<Text>+75% [ICON_Science] tiedettä pyhän paikan sisältävissä kaupungeissa.[NEWLINE]MUTTA: -25% [ICON_Culture] kulttuuria kaikissa kaupungeissa.</Text>
+		<Replace Language="pl_PL" Tag="LOC_POLICY_MONASTICISM_DESCRIPTION">
+			<Text>Kutsal alan içeren şehirlerde +%75 [ICON_Science] bilim.[NEWLINE]ANCAK: Tüm şehirlerde -%25 [ICON_Culture] kültür.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_POLICY_TWILIGHT_VALOR_DESCRIPTION">
-			<Text>+5 [ICON_Strength] taisteluvoimakkuutta kaikille hyökkääville meleeyksiköille.[NEWLINE]MUTTA: ei voi hoivata omien maiden ulkopuolella.</Text>
+		<Replace Language="pl_PL" Tag="LOC_POLICY_TWILIGHT_VALOR_DESCRIPTION">
+			<Text>Tüm saldıran yakın dövüş birimlerine +5 [ICON_Strength] savaş gücü.[NEWLINE]ANCAK: Kendi toprakları dışında iyileşemezler.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_POLICY_INQUISITION_DESCRIPTION">
-			<Text>Inkvisiition aloitus vaatii 1 apostolin levityksen. Kaikki uskonnolliset yksiköt saavat +15 [ICON_Religion] uskonnollista taisteluvoimakkuutta ystävällisillä mailla.[NEWLINE]MUTTA: -25% [ICON_Science] tiedettä kaikissa kaupungeissa.</Text>
+		<Replace Language="pl_PL" Tag="LOC_POLICY_INQUISITION_DESCRIPTION">
+			<Text>Engizisyon başlatmak 1 havari yayılımı gerektirir. Tüm dini birimler dost topraklarda +15 [ICON_Religion] dini savaş gücü kazanır.[NEWLINE]ANCAK: Tüm şehirlerde -%25 [ICON_Science] bilim.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_POLICY_ISOLATIONISM_DESCRIPTION">
-			<Text>Kansalliset reitit tarjoavat +2 [ICON_Food] ruokaa, +2 [ICON_Production] tuotantoa.[NEWLINE]MUTTA: ei uudisasuttajia eikä mahdollisuutta perustaa kaupunkeja.</Text>
+		<Replace Language="pl_PL" Tag="LOC_POLICY_ISOLATIONISM_DESCRIPTION">
+			<Text>Ulusal yollar +2 [ICON_Food] gıda, +2 [ICON_Production] üretim sağlar.[NEWLINE]ANCAK: Yerleşimci üretilemez ve şehir kurulamaz.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_POLICY_LETTERS_OF_MARQUE_DESCRIPTION">
-			<Text>Meriryövärit: +100% [ICON_Production] tuotantoa, +2 [ICON_Movement] liikkuvuutta. Kauppareittien ryöväämisestä kaksinkertaiset tuotot.[NEWLINE]MUTTA: [ICON_TradeRoute] Kauppareittien tuotot -50%.</Text>
+		<Replace Language="pl_PL" Tag="LOC_POLICY_LETTERS_OF_MARQUE_DESCRIPTION">
+			<Text>Deniz haydutları: +%100 [ICON_Production] üretim, +2 [ICON_Movement] hareket. Ticaret yollarını yağmalamaktan iki katı kazanç.[NEWLINE]ANCAK: [ICON_TradeRoute] Ticaret yollarının kazançları -%50.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_POLICY_ROBBER_BARONS_DESCRIPTION">
-			<Text>+50% [ICON_Gold] kultaa pörssin sisältävissä kaupungeissa. +25% [ICON_Production] tuotantoa tehtaan sisältävissä kaupungeissa.[NEWLINE]MUTTA: -2 [ICON_Amenities] elintasoa kaikissa kaupungeissa.</Text>
+		<Replace Language="pl_PL" Tag="LOC_POLICY_ROBBER_BARONS_DESCRIPTION">
+			<Text>Borsası olan şehirlerde +%50 [ICON_Gold] altın. Fabrikası olan şehirlerde +%25 [ICON_Production] üretim.[NEWLINE]ANCAK: Tüm şehirlerde -2 [ICON_Amenities] yaşam standardı.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_POLICY_ELITE_FORCES_DESCRIPTION">
-			<Text>+100% taistelukokemusta kaikille yksiköille.[NEWLINE]MUTTA: +2 [ICON_Gold] kultaa kunkin taistelu- ja vakoilijayksikön ylläpitokuluihin.</Text>
+		<Replace Language="pl_PL" Tag="LOC_POLICY_ELITE_FORCES_DESCRIPTION">
+			<Text>Tüm birimlere +%100 savaş deneyimi.[NEWLINE]ANCAK: Her savaş ve casus birimi için bakım maliyetlerine +2 [ICON_Gold] altın.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_POLICY_COLLECTIVISM_DESCRIPTION">
-			<Text>Maatiloille +1 [ICON_Food] ruokaa. Kaikille kaupungeille +2 [ICON_Housing] asumusta. +100% teollisuusalueen läheisyyseduille.[NEWLINE]MUTTA: [ICON_GreatPerson] merkittävien henkilöiden pisteet karttuvat 50% hitaammin.</Text>
+		<Replace Language="pl_PL" Tag="LOC_POLICY_COLLECTIVISM_DESCRIPTION">
+			<Text>Çiftliklere +1 [ICON_Food] gıda. Tüm şehirlere +2 [ICON_Housing] konut. Endüstri bölgesi yakınlık avantajlarına +%100.[NEWLINE]ANCAK: [ICON_GreatPerson] Büyük Kişi puanları %50 daha yavaş birikir.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_POLICY_ROGUE_STATE_DESCRIPTION">
-			<Text>+50% [ICON_Production] tuotantoa ydinaseprojekteille ja ydinaseille.[NEWLINE]MUTTA: ei vaikutusvallan kertymää kohden [ICON_Envoy] edustajien saamista.</Text>
+		<Replace Language="pl_PL" Tag="LOC_POLICY_ROGUE_STATE_DESCRIPTION">
+			<Text>Nükleer silah projeleri ve nükleer silahlar için +%50 [ICON_Production] üretim.[NEWLINE]ANCAK: [ICON_Envoy] Elçi kazanımı için etki puanı birikmez.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_POLICY_RAID_EXPANSION1_DESCRIPTION">
-			<Text>Tuotot ryöväilystä ja rannikon ryöväilystä pvat +100%.</Text>
+		<Replace Language="pl_PL" Tag="LOC_POLICY_RAID_EXPANSION1_DESCRIPTION">
+			<Text>Yağmalama ve kıyı yağmalama kazançları +%100.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_POLICY_RAID_EXPANSION1_ALT_DESCRIPTION">
-			<Text>Tuotot ryöväilystä ja rannikon ryöväilystä ovat +50%.</Text>
+		<Replace Language="pl_PL" Tag="LOC_POLICY_RAID_EXPANSION1_ALT_DESCRIPTION">
+			<Text>Yağmalama ve kıyı yağmalama kazançları +%50.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_POLICY_MILITARY_RESEARCH_EXPANSION1_DESCRIPTION">
-			<Text>Sotilasakatemiat, meriportit ja renessanssin muurit tuottavat +2 [ICON_Science] tiedettä.</Text>
+		<Replace Language="pl_PL" Tag="LOC_POLICY_MILITARY_RESEARCH_EXPANSION1_DESCRIPTION">
+			<Text>Askeri akademiler, deniz kapıları ve rönesans duvarları +2 [ICON_Science] bilim üretir.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_POLICY_PUBLIC_TRANSPORT_EXPANSION1_DESCRIPTION">
-			<Text>Maatilan korvaaminen lähiöllä antaa 100 [ICON_Gold] kultaa per ruudun houkuttelevuuden taso.</Text>
+		<Replace Language="pl_PL" Tag="LOC_POLICY_PUBLIC_TRANSPORT_EXPANSION1_DESCRIPTION">
+			<Text>Bir çiftliği banliyö ile değiştirmek, her karenin çekicilik seviyesine göre 100 [ICON_Gold] altın sağlar.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_POLICY_ECOMMERCE_EXPANSION1_DESCRIPTION">
-			<Text>+2 [ICON_Production] tuotantoa ja +5 [ICON_Gold] kultaa kaikille [ICON_TradeRoute] kauppareiteille.</Text>
+		<Replace Language="pl_PL" Tag="LOC_POLICY_ECOMMERCE_EXPANSION1_DESCRIPTION">
+			<Text>Tüm [ICON_TradeRoute] ticaret yollarına +2 [ICON_Production] üretim ve +5 [ICON_Gold] altın.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_POLICY_TOTAL_WAR_EXPANSION1_DESCRIPTION">
-			<Text>Tuotot ryöväilystä ja rannikon ryöväilystä ovat +100%. +50% palkkio [ICON_TradeRoute] kauppareittien ryöväämisestä.</Text>
+		<Replace Language="pl_PL" Tag="LOC_POLICY_TOTAL_WAR_EXPANSION1_DESCRIPTION">
+			<Text>Yağmalama ve kıyı yağmalama kazançları +%100. [ICON_TradeRoute] Ticaret yollarını yağmalamaktan +%50 ödül.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_POLICY_TOTAL_WAR_EXPANSION1_ALT_DESCRIPTION">
-			<Text>Tuotot ryöväilystä, rannikon ryöväilystä ja [ICON_TradeRoute] kauppareittien ryöväilystä ovat +50%.</Text>
+		<Replace Language="pl_PL" Tag="LOC_POLICY_TOTAL_WAR_EXPANSION1_ALT_DESCRIPTION">
+			<Text>Yağmalama, kıyı yağmalama ve [ICON_TradeRoute] ticaret yollarını yağmalama kazançları +%50.</Text>
 		</Replace>
 		<!-- Updated from base game -->
-		<Replace Language="en_US" Tag="LOC_CIVIC_MOBILIZATION_DESCRIPTION">
-			<Text>Sallii kolmen samanlaisen yksikön yhdistämisen armeijaksi tai armadaksi. Mahdollistaa uuden sodan perusteen: aluelaajennossota.</Text>
+		<Replace Language="pl_PL" Tag="LOC_CIVIC_MOBILIZATION_DESCRIPTION">
+			<Text>Üç aynı tür birimin ordu veya armada olarak birleşmesine izin verir. Yeni bir savaş nedeni sağlar: genişleme savaşı.</Text>
 		</Replace>
 	</LocalizedText>
 </GameData>

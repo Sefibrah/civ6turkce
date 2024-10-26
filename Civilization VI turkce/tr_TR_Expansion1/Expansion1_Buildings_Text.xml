@@ -2,175 +2,175 @@
 <GameData>
 	<LocalizedText>
 		<!-- Government Buildings -->
-		<Replace Language="en_US" Tag="LOC_BUILDING_GOV_TALL_NAME">
-			<Text>Julkinen neuvosto|julkinen neuvosto|julkisen neuvoston</Text>
+		<Replace Language="pl_PL" Tag="LOC_BUILDING_GOV_TALL_NAME">
+			<Text>Halk Meclisi|halk meclisi|halk meclisinin</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BUILDING_GOV_WIDE_NAME">
-			<Text>Perinnetorppa|perinnetorppa|perinnetorpan</Text>
+		<Replace Language="pl_PL" Tag="LOC_BUILDING_GOV_WIDE_NAME">
+			<Text>Geleneksel Ev|geleneksel ev|geleneksel evin</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BUILDING_GOV_CONQUEST_NAME">
-			<Text>Sotaherran valtaistuin|sotaherran valtaistuin|sotaherran valtaistuimen</Text>
+		<Replace Language="pl_PL" Tag="LOC_BUILDING_GOV_CONQUEST_NAME">
+			<Text>Savaş Lordu'nun Tahtı|savaş lordu'nun tahtı|savaş lordu'nun tahtının</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BUILDING_GOV_FAITH_NAME">
-			<Text>Suurmestarin kappeli|suurmestarin kappeli|suurmestarin kappelin</Text>
+		<Replace Language="pl_PL" Tag="LOC_BUILDING_GOV_FAITH_NAME">
+			<Text>Büyük Üstat Şapeli|büyük üstat şapeli|büyük üstat şapelinin</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BUILDING_GOV_CITYSTATES_NAME">
-			<Text>Ulkoministeriö|ulkoministeriö|ulkoministeriön</Text>
+		<Replace Language="pl_PL" Tag="LOC_BUILDING_GOV_CITYSTATES_NAME">
+			<Text>Dışişleri Bakanlığı|dışişleri bakanlığı|dışişleri bakanlığının</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BUILDING_GOV_SPIES_NAME">
-			<Text>Tiedustelupalvelu|tiedustelupalvelu|tiedustelupalvelun</Text>
+		<Replace Language="pl_PL" Tag="LOC_BUILDING_GOV_SPIES_NAME">
+			<Text>İstihbarat Servisi|istihbarat servisi|istihbarat servisinin</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BUILDING_GOV_MILITARY_NAME">
-			<Text>Sotajaosto|sotajaosto|sotajaoston</Text>
+		<Replace Language="pl_PL" Tag="LOC_BUILDING_GOV_MILITARY_NAME">
+			<Text>Askeri Bölüm|askeri bölüm|askeri bölümün</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BUILDING_GOV_CULTURE_NAME">
-			<Text>Luonnonhistorian museo|luonnonhistorian museo|luonnonhistorian museon</Text>
+		<Replace Language="pl_PL" Tag="LOC_BUILDING_GOV_CULTURE_NAME">
+			<Text>Doğa Tarihi Müzesi|doğa tarihi müzesi|doğa tarihi müzesinin</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BUILDING_GOV_SCIENCE_NAME">
-			<Text>Kuninkaallinen yhteisö|kuninkaallinen yhteisö|kuninkaallisen yhteisön</Text>
+		<Replace Language="pl_PL" Tag="LOC_BUILDING_GOV_SCIENCE_NAME">
+			<Text>Kraliyet Cemiyeti|kraliyet cemiyeti|kraliyet cemiyetinin</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BUILDING_GOV_TALL_DESCRIPTION">
-			<Text>+1 [ICON_Amenities] elintasoa ja +3 [ICON_Housing] asumusta [ICON_Governor] käskynhaltijoiden kaupungeille[NEWLINE]-2 uskollisuutta [ICON_Governor] käskynhaltijattomissa kaupungeissa.[NEWLINE]Palkitsee yhdellä [Icon_Governor] käskynhaltijan viralla.</Text>
+		<Replace Language="pl_PL" Tag="LOC_BUILDING_GOV_TALL_DESCRIPTION">
+			<Text>+1 [ICON_Amenities] yaşam standardı ve +3 [ICON_Housing] konut [ICON_Governor] valilerin şehirlerine[NEWLINE]-2 sadakat [ICON_Governor] valisiz şehirlerde.[NEWLINE]Bir [Icon_Governor] vali pozisyonu ödüllendirir.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BUILDING_GOV_WIDE_DESCRIPTION">
-			<Text>+50% [ICON_Production] tuottavuutta uudisasuttajiin tässä kaupungissa.[NEWLINE]Uudet kaupungit saavat ilmaisen rakentajan.[NEWLINE]Palkitsee yhdellä [Icon_Governor] käskynhaltijan viralla.</Text>
+		<Replace Language="pl_PL" Tag="LOC_BUILDING_GOV_WIDE_DESCRIPTION">
+			<Text>Bu şehirde yerleşimcilere +%50 [ICON_Production] üretim.[NEWLINE]Yeni şehirler ücretsiz bir inşaatçı alır.[NEWLINE]Bir [Icon_Governor] vali pozisyonu ödüllendirir.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BUILDING_GOV_CONQUEST_DESCRIPTION">
-			<Text>Viholliskaupungin valtaaminen antaa 20% edun [ICON_Production] tuotantoon kaikissa kaupungeissa viiden vuoron ajaksi.[NEWLINE]Palkitsee yhdellä [Icon_Governor] käskynhaltijan viralla.</Text>
+		<Replace Language="pl_PL" Tag="LOC_BUILDING_GOV_CONQUEST_DESCRIPTION">
+			<Text>Düşman şehrini ele geçirmek, tüm şehirlerde beş tur boyunca %20 [ICON_Production] üretim bonusu sağlar.[NEWLINE]Bir [Icon_Governor] vali pozisyonu ödüllendirir.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BUILDING_GOV_CITYSTATES_DESCRIPTION">
-			<Text>Kaupunkivaltioiden joukkojen värväys vaatii vain puolet [ICON_Gold] kullastaan.[NEWLINE]Kaupunkivaltioiden yksiköt saavat +4 [ICON_Strength] taisteluvoimakkuutta ollessamme valta-asemassa kaupunkivaltioon (mukaanlukien värvätyt yksiköt).[NEWLINE]Palkitsee yhdellä [Icon_Governor] käskynhaltijan viralla.</Text>
+		<Replace Language="pl_PL" Tag="LOC_BUILDING_GOV_CITYSTATES_DESCRIPTION">
+			<Text>Şehir devletlerinin birliklerini kiralamak sadece yarı [ICON_Gold] altın gerektirir.[NEWLINE]Şehir devletlerinin birimleri, şehir devletine hakim olduğumuzda +4 [ICON_Strength] savaş gücü kazanır (kiralanan birimler dahil).[NEWLINE]Bir [Icon_Governor] vali pozisyonu ödüllendirir.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="GOV_CITYSTATES_LEVIED_COMBAT_STRENGTH_DESCRIPTION">
-			<Text>+4 ulkoministeriöstä</Text>
+		<Replace Language="pl_PL" Tag="GOV_CITYSTATES_LEVIED_COMBAT_STRENGTH_DESCRIPTION">
+			<Text>Dışişleri Bakanlığı'ndan +4</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="GOV_CITYSTATES_COMBAT_STRENGTH_DESCRIPTION">
-			<Text>+4 ulkoministeriöstä</Text>
+		<Replace Language="pl_PL" Tag="GOV_CITYSTATES_COMBAT_STRENGTH_DESCRIPTION">
+			<Text>Dışişleri Bakanlığı'ndan +4</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BUILDING_GOV_SPIES_DESCRIPTION">
-			<Text>+1 vakoilija ja vakoilijoiden kapasiteetti.[NEWLINE]Kaikki vakoilutoimet onnistuvat todennäköisemmin.[NEWLINE]Palkitsee yhdellä [Icon_Governor] käskynhaltijan viralla.</Text>
+		<Replace Language="pl_PL" Tag="LOC_BUILDING_GOV_SPIES_DESCRIPTION">
+			<Text>+1 casus ve casus kapasitesi.[NEWLINE]Tüm casusluk faaliyetleri daha başarılı olur.[NEWLINE]Bir [Icon_Governor] vali pozisyonu ödüllendirir.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BUILDING_GOV_FAITH_DESCRIPTION">
-			<Text>Mahdollistaa maayksiköiden ostamisen [ICON_Faith] uskolla.[NEWLINE]Rakenteiden ja kaupunkialueiden ryövääminen tuottaa enemmän [ICON_Faith] uskoa.[NEWLINE]Palkitsee yhdellä [Icon_Governor] käskynhaltijan viralla.</Text>
+		<Replace Language="pl_PL" Tag="LOC_BUILDING_GOV_FAITH_DESCRIPTION">
+			<Text>Kara birimlerinin [ICON_Faith] inançla satın alınmasını sağlar.[NEWLINE]Yapıların ve şehir bölgelerinin yağmalanması daha fazla [ICON_Faith] inanç üretir.[NEWLINE]Bir [Icon_Governor] vali pozisyonu ödüllendirir.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BUILDING_GOV_MILITARY_DESCRIPTION">
-			<Text>Kaikki yksiköt hoivaantuvat jopa 20 osumapisteellä päihittäessään yksikön.[NEWLINE]Palkitsee yhdellä [Icon_Governor] käskynhaltijan viralla.</Text>
+		<Replace Language="pl_PL" Tag="LOC_BUILDING_GOV_MILITARY_DESCRIPTION">
+			<Text>Tüm birimler, bir birimi yendiklerinde 20 sağlık puanına kadar iyileşir.[NEWLINE]Bir [Icon_Governor] vali pozisyonu ödüllendirir.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BUILDING_GOV_CULTURE_DESCRIPTION">
-			<Text>Tarjoaa 4 paikkaa kaikenlaisille merkkiteoksille.[NEWLINE]Palkitsee yhdellä [Icon_Governor] käskynhaltijan viralla.</Text>
+		<Replace Language="pl_PL" Tag="LOC_BUILDING_GOV_CULTURE_DESCRIPTION">
+			<Text>Her türlü büyük eser için 4 yer sağlar.[NEWLINE]Bir [Icon_Governor] vali pozisyonu ödüllendirir.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BUILDING_GOV_SCIENCE_DESCRIPTION">
-			<Text>Rakentajat saavat kyvyn käyttää kaikki työstönsä antaakseen [ICON_Production] tuotantoetua kaupunkialueen projektille kerran vuorossa kaupunkia kohden.[NEWLINE]Palkitsee yhdellä [Icon_Governor] käskynhaltijan viralla.</Text>
+		<Replace Language="pl_PL" Tag="LOC_BUILDING_GOV_SCIENCE_DESCRIPTION">
+			<Text>İnşaatçılar, tüm işçiliklerini kullanarak şehir bölgesi projesine bir üretim bonusu sağlama yeteneği kazanır, şehir başına turda bir kez.[NEWLINE]Bir [Icon_Governor] vali pozisyonu ödüllendirir.</Text>
 		</Replace>
 		<!-- Water Entertainment Complex Buildings -->
-		<Replace Language="en_US" Tag="LOC_BUILDING_FERRIS_WHEEL_NAME">
-			<Text>Maailmanpyörä|maailmanpyörä|maailmanpyörän</Text>
+		<Replace Language="pl_PL" Tag="LOC_BUILDING_FERRIS_WHEEL_NAME">
+			<Text>Dönme Dolap|dönme dolap|dönme dolabın</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BUILDING_FERRIS_WHEEL_DESCRIPTION">
-			<Text>+2 [ICON_Tourism] turismia.</Text>
+		<Replace Language="pl_PL" Tag="LOC_BUILDING_FERRIS_WHEEL_DESCRIPTION">
+			<Text>+2 [ICON_Tourism] turizm.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BUILDING_AQUARIUM_NAME">
-			<Text>Akvaario|akvaario|akvaarion</Text>
+		<Replace Language="pl_PL" Tag="LOC_BUILDING_AQUARIUM_NAME">
+			<Text>Akvaryum|akvaryum|akvaryumun</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BUILDING_AQUARIUM_DESCRIPTION">
-			<Text>Edut [ICON_Amenities] elintasoon yltävät jokaiseen 9 ruudun sisällä olevaan kaupungin keskustaan. Etu toimii vain kerran kaupunkia kohden, joten useampi rakennus 9 ruudun sisällä ei tuota kertaantuvia etuja. +1 [ICON_SCIENCE] tiedettä jokaiselle tämän kaupungin rannikon luonnonvaralle, hylylle ja riutalle.</Text>
+		<Replace Language="pl_PL" Tag="LOC_BUILDING_AQUARIUM_DESCRIPTION">
+			<Text>[ICON_Amenities] yaşam standardı avantajları, 9 kare içindeki her şehir merkezine ulaşır. Avantaj, şehir başına yalnızca bir kez çalışır, bu nedenle 9 kare içinde birden fazla bina ek avantaj sağlamaz. Bu şehrin her sahil kaynağı, enkazı ve resifi için +1 [ICON_SCIENCE] bilim.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BUILDING_AQUATICS_CENTER_NAME">
-			<Text>Akvaariokeskus|akvaariokeskus|akvaariokeskuksen</Text>
+		<Replace Language="pl_PL" Tag="LOC_BUILDING_AQUATICS_CENTER_NAME">
+			<Text>Akvaryum Merkezi|akvaryum merkezi|akvaryum merkezinin</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BUILDING_AQUATICS_CENTER_DESCRIPTION">
-			<Text>Edut [ICON_Amenities] elintasoon yltävät jokaiseen 9 ruudun sisällä olevaan kaupungin keskustaan. Etu toimii vain kerran kaupunkia kohden, joten useampi rakennus 9 ruudun sisällä ei tuota kertaantuvia etuja. +2 [ICON_Tourism] turismia jokaiselle kaupungin ihmeelle, joka on rannalla tai rannikolla.</Text>
+		<Replace Language="pl_PL" Tag="LOC_BUILDING_AQUATICS_CENTER_DESCRIPTION">
+			<Text>[ICON_Amenities] yaşam standardı avantajları, 9 kare içindeki her şehir merkezine ulaşır. Avantaj, şehir başına yalnızca bir kez çalışır, bu nedenle 9 kare içinde birden fazla bina ek avantaj sağlamaz. Şehrin sahilde veya kıyıda bulunan her harikası için +2 [ICON_Tourism] turizm.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BUILDING_ARENA_EXPANSION1_DESCRIPTION">
-			<Text>Tarjoaa 1 [ICON_TOURISM] turismia luonnonsuojelun kehittämisen myötä.</Text>
+		<Replace Language="pl_PL" Tag="LOC_BUILDING_ARENA_EXPANSION1_DESCRIPTION">
+			<Text>Doğa koruma geliştirmesi ile 1 [ICON_TOURISM] turizm sağlar.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BUILDING_TLACHTLI_EXPANSION1_DESCRIPTION">
-			<Text>Tarjoaa 1 [ICON_TOURISM] turismia luonnonsuojelun kehittämisen myötä.</Text>
+		<Replace Language="pl_PL" Tag="LOC_BUILDING_TLACHTLI_EXPANSION1_DESCRIPTION">
+			<Text>Doğa koruma geliştirmesi ile 1 [ICON_TOURISM] turizm sağlar.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BUILDING_ZOO_EXPANSION1_DESCRIPTION">
-			<Text>Edut [ICON_Amenities] elintasoon yltävät jokaiseen 6 ruudun sisällä olevaan kaupungin keskustaan. Etu toimii vain kerran kaupunkia kohden, joten useampi rakennus 6 ruudun sisällä ei tuota kertaantuvia etuja. +1 [ICON_SCIENCE] tiedettä kaupungin jokaiselle ruudulle, jolla on sademetsä tai suo.</Text>
+		<Replace Language="pl_PL" Tag="LOC_BUILDING_ZOO_EXPANSION1_DESCRIPTION">
+			<Text>[ICON_Amenities] yaşam standardı avantajları, 6 kare içindeki her şehir merkezine ulaşır. Avantaj, şehir başına yalnızca bir kez çalışır, bu nedenle 6 kare içinde birden fazla bina ek avantaj sağlamaz. Şehrin her yağmur ormanı veya bataklık karesi için +1 [ICON_SCIENCE] bilim.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BUILDING_STADIUM_EXPANSION1_DESCRIPTION">
-			<Text>Edut [ICON_Amenities] elintasoon yltävät jokaiseen 6 ruudun sisällä olevaan kaupungin keskustaan. Etu toimii vain kerran kaupunkia kohden, joten useampi rakennus 6 ruudun sisällä ei tuota kertaantuvia etuja. +2 [ICON_Tourism] turismia mikäli kaupungin [ICON_CITIZEN] väestö on 10 tai enemmän ja +5 [ICON_Tourism] turismia kaupungin [ICON_CITIZEN] väestön ollessa 20 tai enemmän.</Text>
+		<Replace Language="pl_PL" Tag="LOC_BUILDING_STADIUM_EXPANSION1_DESCRIPTION">
+			<Text>[ICON_Amenities] yaşam standardı avantajları, 6 kare içindeki her şehir merkezine ulaşır. Avantaj, şehir başına yalnızca bir kez çalışır, bu nedenle 6 kare içinde birden fazla bina ek avantaj sağlamaz. Şehrin [ICON_CITIZEN] nüfusu 10 veya daha fazla ise +2 [ICON_Tourism] turizm ve şehrin [ICON_CITIZEN] nüfusu 20 veya daha fazla ise +5 [ICON_Tourism] turizm.</Text>
 		</Replace>
 		<!-- Neighborhood Buildings -->
-		<Replace Language="en_US" Tag="LOC_BUILDING_FOOD_MARKET_NAME">
-			<Text>Ruokatori|ruokatori|ruokatorin</Text>
+		<Replace Language="pl_PL" Tag="LOC_BUILDING_FOOD_MARKET_NAME">
+			<Text>Gıda Pazarı|gıda pazarı|gıda pazarının</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BUILDING_FOOD_MARKET_DESCRIPTION">
-			<Text>Voidaan rakentaa vain kerran kaupunkia kohden, vaikka lähiöitä olisi useampi.</Text>
+		<Replace Language="pl_PL" Tag="LOC_BUILDING_FOOD_MARKET_DESCRIPTION">
+			<Text>Bir şehirde birden fazla mahalle olsa bile, şehir başına yalnızca bir kez inşa edilebilir.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BUILDING_SHOPPING_MALL_NAME">
-			<Text>Ostoskeskus|ostoskeskus|ostoskeskuksen</Text>
+		<Replace Language="pl_PL" Tag="LOC_BUILDING_SHOPPING_MALL_NAME">
+			<Text>Alışveriş Merkezi|alışveriş merkezi|alışveriş merkezinin</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BUILDING_SHOPPING_MALL_DESCRIPTION">
-			<Text>+4 [ICON_Tourism] turismia. Voidaan rakentaa vain kerran kaupunkia kohden, vaikka lähiöitä olisi useampi.</Text>
+		<Replace Language="pl_PL" Tag="LOC_BUILDING_SHOPPING_MALL_DESCRIPTION">
+			<Text>+4 [ICON_Tourism] turizm. Bir şehirde birden fazla mahalle olsa bile, şehir başına yalnızca bir kez inşa edilebilir.</Text>
 		</Replace>
 		<!-- Wonders -->
-		<Replace Language="en_US" Tag="LOC_BUILDING_AMUNDSEN_SCOTT_RESEARCH_STATION_NAME">
-			<Text>Amundsen-Scottin tutkimusasema|Amundsen-Scottin tutkimusasema|Amundsen-Scottin tutkimusaseman</Text>
+		<Replace Language="pl_PL" Tag="LOC_BUILDING_AMUNDSEN_SCOTT_RESEARCH_STATION_NAME">
+			<Text>Amundsen-Scott Araştırma İstasyonu|Amundsen-Scott Araştırma İstasyonu|Amundsen-Scott Araştırma İstasyonunun</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BUILDING_AMUNDSEN_SCOTT_RESEARCH_STATION_DESCRIPTION">
-			<Text>+20% [ICON_SCIENCE] tiedettä ja 10% [ICON_PRODUCTION] tuotantoa kaikissa kaupungeissa. Jos pelaajan omistaman kaupungin keskustasta 3 ruudun säteellä löytyy viisi lumi- tai lumimäkiruutua, niin nämä tuotot tuplataan. Tulee rakentaa tutkimuslaboratorion sisältävään kampukseen, joka on lumi- tai lumimäkiruudussa.</Text>
+		<Replace Language="pl_PL" Tag="LOC_BUILDING_AMUNDSEN_SCOTT_RESEARCH_STATION_DESCRIPTION">
+			<Text>+%20 [ICON_SCIENCE] bilim ve %10 [ICON_PRODUCTION] üretim tüm şehirlerde. Eğer oyuncunun sahip olduğu bir şehir merkezinden 3 kare içinde beş kar veya kar tepe karesi varsa, bu üretimler iki katına çıkar. Kar veya kar tepe karesinde bulunan bir kampüste araştırma laboratuvarı içermelidir.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BUILDING_CASA_DE_CONTRATACION_NAME">
-			<Text>Casa de Contratación|Casa de Contratación|Casa de Contrataciónin</Text>
+		<Replace Language="pl_PL" Tag="LOC_BUILDING_CASA_DE_CONTRATACION_NAME">
+			<Text>Casa de Contratación|Casa de Contratación|Casa de Contratación'ın</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BUILDING_CASA_DE_CONTRATACION_DESCRIPTION">
-			<Text>3 [ICON_Governor] käskynhaltijoiden ylennystä. [ICON_Governor] Käskynhaltijalliset kaupungit jotka eivät sijaitse alkuperäisen [ICON_Capital] pääkaupungin mantereella saavatua +15% [ICON_Production] tuotantoa, +15% [ICON_Faith] uskoa ja +15% [ICON_Gold] kultaa. Tulee rakentaa hallinnon edustuksen viereen.</Text>
+		<Replace Language="pl_PL" Tag="LOC_BUILDING_CASA_DE_CONTRATACION_DESCRIPTION">
+			<Text>3 [ICON_Governor] vali terfisi. [ICON_Governor] Valiliği olan şehirler, orijinal [ICON_Capital] başkentin kıtasında bulunmuyorsa, %15 [ICON_Production] üretim, %15 [ICON_Faith] inanç ve %15 [ICON_Gold] altın kazanır. Yönetim temsilciliğinin yanına inşa edilmelidir.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BUILDING_COLOSSEUM_DESCRIPTION">
-			<Text>Colosseum tuottaa 2 seuraavista: [ICON_Culture] kulttuuria, uskollisuutta vuorossa ja [ICON_Amenities] elintasoa kullekin kaupungin keskustalle 6 ruudun sisällä. Tulee rakentaa tasaiselle maalle lähelle viihdekompeksia, josta löytyy areena.</Text>
+		<Replace Language="pl_PL" Tag="LOC_BUILDING_COLOSSEUM_DESCRIPTION">
+			<Text>Colosseum, 6 kare içindeki her şehir merkezine 2 [ICON_Culture] kültür, sadakat ve [ICON_Amenities] yaşam standardı sağlar. Düz bir araziye, arena içeren bir eğlence kompleksinin yanına inşa edilmelidir.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BUILDING_GREAT_LIBRARY_DESCRIPTION">
-			<Text>Tehostus kaikille muinaisuuden ja antiikin ajan tekniikoille. Saamme satunnaisen tekniikan tehostuksen toisen pelaajan värvätessä [ICON_GreatScientist] merkittävän tieteentekijän. Tulee rakentaa tasaiselle maalle lähelle kampusta, josta löytyy kirjasto.</Text>
+		<Replace Language="pl_PL" Tag="LOC_BUILDING_GREAT_LIBRARY_DESCRIPTION">
+			<Text>Antik ve klasik dönem teknolojileri için destek sağlar. Bir başka oyuncu [ICON_GreatScientist] büyük bilim insanı işe aldığında rastgele bir teknoloji desteği alırız. Düz bir araziye, kütüphane içeren bir kampüsün yanına inşa edilmelidir.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BUILDING_KILWA_KISIWANI_NAME">
+		<Replace Language="pl_PL" Tag="LOC_BUILDING_KILWA_KISIWANI_NAME">
 			<Text>Kilwa Kisiwani|Kilwa Kisiwani|Kilwa Kisiwanin</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BUILDING_KILWA_KISIWANI_DESCRIPTION">
-			<Text>+3 [ICON_ENVOY] edustajaa valmistuessa. Ollessamme valta-asemassa kaupunkivaltioon tämä kaupunki saa +15% edun kaupunkivaltion tarjoamiin tyyppietuihin. Mikäli olemme valta-asemessa kahteen tai useampaan samantyyppiseen kaupunkivaltioon vielä +15% etu annetaan kaikille kaupungeillemme. Tulee rakentaa tasaiselle ruudulle rannalla.</Text>
+		<Replace Language="pl_PL" Tag="LOC_BUILDING_KILWA_KISIWANI_DESCRIPTION">
+			<Text>+3 [ICON_ENVOY] elçi verir. Bir şehir devletine hakim olduğumuzda, bu şehir şehir devletinin sağladığı bonus türüne %15 ek bonus alır. Aynı türden iki veya daha fazla şehir devletine hakimsek, tüm şehirlerimiz %15 ek bonus alır. Kıyıda düz bir araziye inşa edilmelidir.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BUILDING_KOTOKU_IN_NAME">
+		<Replace Language="pl_PL" Tag="LOC_BUILDING_KOTOKU_IN_NAME">
 			<Text>Kōtoku-in|Kōtoku-in|Kōtoku-inin</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BUILDING_KOTOKU_IN_DESCRIPTION">
-			<Text>+20% [ICON_Faith] uskoa kaupungille. Antaa 4 soturimunkkia.[NEWLINE][NEWLINE]Tulee rakentaa lähelle pyhää paikkaa, josta löytyy temppeli. Soturimunkit voi saada ainoastaan mikäli pelaaja on perustanut uskonnon tai mikäli pelaajalla tai kaupungilla on valtauskonto.</Text>
+		<Replace Language="pl_PL" Tag="LOC_BUILDING_KOTOKU_IN_DESCRIPTION">
+			<Text>Şehre +%20 [ICON_Faith] inanç verir. 4 savaşçı keşiş sağlar.[NEWLINE][NEWLINE]Tapınak içeren bir kutsal alanın yanına inşa edilmelidir. Savaşçı keşişler sadece oyuncu bir din kurmuşsa veya oyuncunun ya da şehrin hakim dini varsa alınabilir.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BUILDING_ST_BASILS_CATHEDRAL_NAME">
-			<Text>Pyhän Vasilin katedraali|Pyhän Vasilin katedraali|Pyhän Vasilin katedraalin</Text>
+		<Replace Language="pl_PL" Tag="LOC_BUILDING_ST_BASILS_CATHEDRAL_NAME">
+			<Text>Aziz Vasil Katedrali|Aziz Vasil Katedrali|Aziz Vasil Katedrali'nin</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BUILDING_ST_BASILS_CATHEDRAL_DESCRIPTION">
-			<Text>+100% [ICON_Tourism] uskonnollista turismia tässä kaupungissa. +1 [ICON_Food] ruokaa, +1 [ICON_Production] tuotantoa ja +1 [ICON_Culture] kulttuuria kaikille tämän kaupungin tundraruuduille. Tulee rakentaa kaupungin keskustan viereen.</Text>
+		<Replace Language="pl_PL" Tag="LOC_BUILDING_ST_BASILS_CATHEDRAL_DESCRIPTION">
+			<Text>Bu şehirde %100 [ICON_Tourism] dini turizm sağlar. Şehrin tüm tundra karelerine +1 [ICON_Food] gıda, +1 [ICON_Production] üretim ve +1 [ICON_Culture] kültür verir. Şehir merkezinin yanına inşa edilmelidir.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BUILDING_STATUE_LIBERTY_NAME">
-			<Text>Vapaudenpatsas|Vapaudenpatsas|Vapaudenpatsaan</Text>
+		<Replace Language="pl_PL" Tag="LOC_BUILDING_STATUE_LIBERTY_NAME">
+			<Text>Özgürlük Heykeli|Özgürlük Heykeli|Özgürlük Heykeli'nin</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BUILDING_STATUE_LIBERTY_DESCRIPTION">
-			<Text>Antaa 2 uudisasuttajaa. Kaikki kaupunkimme 6 ruudun sisällä ovat aina 100% uskollisia. Tulee rakentaa rannikolle maan ja sataman viereen.</Text>
+		<Replace Language="pl_PL" Tag="LOC_BUILDING_STATUE_LIBERTY_DESCRIPTION">
+			<Text>2 yerleşimci verir. 6 kare içindeki tüm şehirlerimiz her zaman %100 sadık olur. Kıyıda, kara ve limanın yanına inşa edilmelidir.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BUILDING_TAJ_MAHAL_NAME">
-			<Text>Taj Mahal|Taj Mahal|Taj Mahalin</Text>
+		<Replace Language="pl_PL" Tag="LOC_BUILDING_TAJ_MAHAL_NAME">
+			<Text>Tac Mahal|Tac Mahal|Tac Mahal'in</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BUILDING_TAJ_MAHAL_DESCRIPTION">
-			<Text>Ihmeen valmistumisen jälkeen +1 kausien pistettä historiallisesta hetkestä mikäli se antaisi vähintään 2 kausien pistettä ilman tätä ihmettä. Tulee rakentaa joen varrelle.</Text>
+		<Replace Language="pl_PL" Tag="LOC_BUILDING_TAJ_MAHAL_DESCRIPTION">
+			<Text>İnşa edildikten sonra, en az 2 dönem puanı veren tarihi bir an için +1 dönem puanı sağlar. Nehir kenarına inşa edilmelidir.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BUILDING_TEMPLE_ARTEMIS_NAME">
-			<Text>Artemiin temppeli|Artemiin temppeli|Artemiin temppelin</Text>
+		<Replace Language="pl_PL" Tag="LOC_BUILDING_TEMPLE_ARTEMIS_NAME">
+			<Text>Artemis Tapınağı|Artemis Tapınağı|Artemis Tapınağı'nın</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BUILDING_TEMPLE_ARTEMIS_DESCRIPTION">
-			<Text>Jokainen leiri, laidun ja plantaasi 4 ruudun sisällä tarjoaa +1 [ICON_AMENITIES] elintasoa. Tulee rakentaa leirin viereen.</Text>
+		<Replace Language="pl_PL" Tag="LOC_BUILDING_TEMPLE_ARTEMIS_DESCRIPTION">
+			<Text>4 kare içindeki her kamp, otlak ve plantasyon için +1 [ICON_AMENITIES] yaşam standardı sağlar. Bir kampın yanına inşa edilmelidir.</Text>
 		</Replace>
 		<!-- Trade balance changes -->
-		<Replace Language="en_US" Tag="LOC_BUILDING_MARKET_EXPANSION1_DESCRIPTION">
-			<Text>+1 [ICON_TradeRoute] kauppareittien kapasiteettiin, mikäli kaupungissa ei ole majakkaa.</Text>
+		<Replace Language="pl_PL" Tag="LOC_BUILDING_MARKET_EXPANSION1_DESCRIPTION">
+			<Text>+1 [ICON_TradeRoute] ticaret yolu kapasitesi, eğer şehirde deniz feneri yoksa.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BUILDING_LIGHTHOUSE_EXPANSION1_DESCRIPTION">
-			<Text>+25% taistelukokemusta jokaiselle kaupungissa valmistuvalle meriyksikölle. +1 [ICON_FOOD] ruokaa kaupungin jokaiselle rannikkoruudulle. +1 [ICON_TradeRoute] kauppareittien kapasiteettiin, mikäli kaupungissa ei ole toria.</Text>
+		<Replace Language="pl_PL" Tag="LOC_BUILDING_LIGHTHOUSE_EXPANSION1_DESCRIPTION">
+			<Text>Şehirde üretilen her deniz birimi için +%25 savaş deneyimi. Şehrin her kıyı karesi için +1 [ICON_FOOD] gıda. Eğer şehirde pazar yoksa +1 [ICON_TradeRoute] ticaret yolu kapasitesi.</Text>
 		</Replace>
 		<!-- Other balance changes -->
-		<Replace Language="en_US" Tag="LOC_BUILDING_MONUMENT_EXPANSION1_DESCRIPTION">
-			<Text>Tarjoaa +1 uskollisuutta vuorossa kaupungille. Tarjoaa myös +1 [ICON_Culture] jos kaupunki on täysin uskollinen.</Text>
+		<Replace Language="pl_PL" Tag="LOC_BUILDING_MONUMENT_EXPANSION1_DESCRIPTION">
+			<Text>Şehre tur başına +1 sadakat sağlar. Şehir tamamen sadık ise +1 [ICON_Culture] kültür sağlar.</Text>
 		</Replace>
 	</LocalizedText>
 </GameData>

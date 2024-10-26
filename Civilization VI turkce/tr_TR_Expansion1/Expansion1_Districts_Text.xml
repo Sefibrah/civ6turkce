@@ -1,88 +1,88 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameData>
 	<LocalizedText>
-		<Replace Language="en_US" Tag="LOC_DISTRICT_GOVERNMENT_NAME">
-			<Text>Hallinnon edustus|hallinnon edustus|hallinnon edustuksen</Text>
+		<Replace Language="pl_PL" Tag="LOC_DISTRICT_GOVERNMENT_NAME">
+			<Text>Hükümet Temsilciliği|hükümet temsilciliği|hükümet temsilciliğinin</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_DISTRICT_WATER_ENTERTAINMENT_COMPLEX_NAME">
-			<Text>Vesipuisto|vesipuisto|vesipuiston</Text>
+		<Replace Language="pl_PL" Tag="LOC_DISTRICT_WATER_ENTERTAINMENT_COMPLEX_NAME">
+			<Text>Su Parkı|su parkı|su parkının</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_DISTRICT_GOVERNMENT_DESCRIPTION">
-			<Text>Kerran valtakuntaamme sijoitettava kaupunkialue, joka juhlistaa hallinnollisia valintojamme. Tarjoaa +8 uskollisuutta tälle kaupungille sekä antaa +1 läheisyysetua kaikille viereisille kaupunkialueille. Tarjoaa +1 [Icon_Governor] käskynhaltijan toimen.</Text>
+		<Replace Language="pl_PL" Tag="LOC_DISTRICT_GOVERNMENT_DESCRIPTION">
+			<Text>Krallığımıza bir kez yerleştirilebilecek bir şehir bölgesi, yönetimsel seçimlerimizi kutlar. Bu şehre +8 sadakat sağlar ve tüm bitişik şehir bölgelerine +1 yakınlık avantajı verir. +1 [Icon_Governor] vali pozisyonu sağlar.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_DISTRICT_WATER_ENTERTAINMENT_COMPLEX_DESCRIPTION">
-			<Text>Rannikolle sijoitettava väen iloisena pitävä kaupunkialue, joka kasvattaa [ICON_Amenities] elintasoa. Ei voi rakentaa kaupunkiin, jossa on viihdekompleksi. Ei voi rakentaa riutalle.</Text>
+		<Replace Language="pl_PL" Tag="LOC_DISTRICT_WATER_ENTERTAINMENT_COMPLEX_DESCRIPTION">
+			<Text>Kıyıya yerleştirilebilecek, halkı mutlu eden bir şehir bölgesi, [ICON_Amenities] yaşam standartlarını artırır. Eğlence kompleksi olan bir şehre inşa edilemez. Resife inşa edilemez.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_DISTRICT_COMMERCIAL_HUB_EXPANSION1_DESCRIPTION">
-			<Text>Talouselämään ja kaupankäyntiin keskittyvä kaupunkialue.</Text>
+		<Replace Language="pl_PL" Tag="LOC_DISTRICT_COMMERCIAL_HUB_EXPANSION1_DESCRIPTION">
+			<Text>Ekonomi ve ticarete odaklanan bir şehir bölgesi.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_DISTRICT_HARBOR_EXPANSION1_DESCRIPTION">
-			<Text>Merellisen läsnäolon kaupunkialue. Lisäksi poistaa ruudussaan [ICON_Movement] liikkuvuuden haitan vesille siirtymisestä ja rantautumisesta. Tulee rakentaa rannikolle tai maan vierustamalle järviruudulle. Ei voi rakentaa riutalle.</Text>
+		<Replace Language="pl_PL" Tag="LOC_DISTRICT_HARBOR_EXPANSION1_DESCRIPTION">
+			<Text>Deniz varlığı olan bir şehir bölgesi. Ayrıca, bulunduğu karedeki [ICON_Movement] hareketlilik engelini denize çıkış ve karaya çıkış için kaldırır. Kıyıya veya kara bitişiğindeki göl karesine inşa edilmelidir. Resife inşa edilemez.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_DISTRICT_ENTERTAINMENT_COMPLEX_EXPANSION1_DESCRIPTION">
-			<Text>Väen iloisena pitävä kaupunkialue, joka kasvattaa [ICON_Amenities] elintasoa. Ei voi rakentaa kaupunkiin, jossa on vesipuisto.</Text>
+		<Replace Language="pl_PL" Tag="LOC_DISTRICT_ENTERTAINMENT_COMPLEX_EXPANSION1_DESCRIPTION">
+			<Text>Halkı mutlu eden bir şehir bölgesi, [ICON_Amenities] yaşam standartlarını artırır. Su parkı olan bir şehre inşa edilemez.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_DISTRICT_RIVER_CULTURE">
-			<Text>+{1_num} [ICON_Culture] kulttuuria joen läheisyydestä.</Text>
+		<Replace Language="pl_PL" Tag="LOC_DISTRICT_RIVER_CULTURE">
+			<Text>+{1_num} [ICON_Culture] nehir yakınlığından kültür.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_DISTRICT_RIVER_PRODUCTION">
-			<Text>+{1_num} [ICON_Production] tuotantoa joen läheisyydestä.</Text>
+		<Replace Language="pl_PL" Tag="LOC_DISTRICT_RIVER_PRODUCTION">
+			<Text>+{1_num} [ICON_Production] nehir yakınlığından üretim.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_DISTRICT_RIVER_SCIENCE">
-			<Text>+{1_num} [ICON_Science] tiedettä joen läheisyydestä.</Text>
+		<Replace Language="pl_PL" Tag="LOC_DISTRICT_RIVER_SCIENCE">
+			<Text>+{1_num} [ICON_Science] nehir yakınlığından bilim.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_DISTRICT_BASE_DISTRICT_SCIENCE">
-			<Text>+{1_num} [ICON_Science] tiedettä.</Text>
+		<Replace Language="pl_PL" Tag="LOC_DISTRICT_BASE_DISTRICT_SCIENCE">
+			<Text>+{1_num} [ICON_Science] bilim.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_DISTRICT_NEGATIVE_DISTRICT_SCIENCE">
-			<Text>{1_num: number +#,###;-#,###} [ICON_Science] tiedettä läheisistä kaupunkialueista.</Text>
+		<Replace Language="pl_PL" Tag="LOC_DISTRICT_NEGATIVE_DISTRICT_SCIENCE">
+			<Text>{1_num: number +#,###;-#,###} [ICON_Science] yakın şehir bölgelerinden bilim.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_DISTRICT_GOVERNMENT_CULTURE">
-			<Text>+{1_num} [ICON_Culture] kulttuuria läheisestä hallinnon edustuksesta.</Text>
+		<Replace Language="pl_PL" Tag="LOC_DISTRICT_GOVERNMENT_CULTURE">
+			<Text>+{1_num} [ICON_Culture] yakın hükümet temsilciliğinden kültür.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_DISTRICT_GOVERNMENT_FAITH">
-			<Text>+{1_num} [ICON_Faith] uskoa läheisestä hallinnon edustuksesta.</Text>
+		<Replace Language="pl_PL" Tag="LOC_DISTRICT_GOVERNMENT_FAITH">
+			<Text>+{1_num} [ICON_Faith] yakın hükümet temsilciliğinden inanç.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_DISTRICT_GOVERNMENT_GOLD">
-			<Text>+{1_num} [ICON_Gold] kultaa läheisestä hallinnon edustuksesta.</Text>
+		<Replace Language="pl_PL" Tag="LOC_DISTRICT_GOVERNMENT_GOLD">
+			<Text>+{1_num} [ICON_Gold] yakın hükümet temsilciliğinden altın.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_DISTRICT_GOVERNMENT_PRODUCTION">
-			<Text>+{1_num} [ICON_Production] tuotantoa läheisestä hallinnon edustuksesta.</Text>
+		<Replace Language="pl_PL" Tag="LOC_DISTRICT_GOVERNMENT_PRODUCTION">
+			<Text>+{1_num} [ICON_Production] yakın hükümet temsilciliğinden üretim.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_DISTRICT_GOVERNMENT_SCIENCE">
-			<Text>+{1_num} [ICON_Science] tiedettä läheisestä hallinnon edustuksesta.</Text>
+		<Replace Language="pl_PL" Tag="LOC_DISTRICT_GOVERNMENT_SCIENCE">
+			<Text>+{1_num} [ICON_Science] yakın hükümet temsilciliğinden bilim.</Text>
 		</Replace>
 		<!-- Projects -->
-		<Replace Language="en_US" Tag="LOC_PROJECT_WATER_CARNIVAL_NAME">
-			<Text>Karnivaali</Text>
+		<Replace Language="pl_PL" Tag="LOC_PROJECT_WATER_CARNIVAL_NAME">
+			<Text>Karnaval</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_PROJECT_WATER_CARNIVAL_SHORT_NAME">
-			<Text>Karnivaali (rannikon)</Text>
+		<Replace Language="pl_PL" Tag="LOC_PROJECT_WATER_CARNIVAL_SHORT_NAME">
+			<Text>Karnaval (kıyı)</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_PROJECT_WATER_CARNIVAL_DESCRIPTION">
-			<Text>Brasilian oma projekti, joka tarjoaa +1 [ICON_Amenities] elintasoa ollessaan käynnissä ja valmistuessaan [ICON_GreatPerson] merkittävien henkilöiden pisteitä kohden [ICON_GreatEngineer] insinöörejä, [ICON_GreatMerchant] kauppiaita, [ICON_GreatWriter] kirjoittajia, [ICON_GreatArtist] taiteilijoita ja [ICON_GreatMusician] muusikkoja.</Text>
+		<Replace Language="pl_PL" Tag="LOC_PROJECT_WATER_CARNIVAL_DESCRIPTION">
+			<Text>Brezilya'ya özgü bir proje, çalışırken +1 [ICON_Amenities] yaşam standartları sağlar ve tamamlandığında [ICON_GreatPerson] büyük kişilik puanları verir: [ICON_GreatEngineer] mühendisler, [ICON_GreatMerchant] tüccarlar, [ICON_GreatWriter] yazarlar, [ICON_GreatArtist] sanatçılar ve [ICON_GreatMusician] müzisyenler.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_PROJECT_BREAD_AND_CIRCUSES_NAME">
-			<Text>Leipää ja sirkushuveja</Text>
+		<Replace Language="pl_PL" Tag="LOC_PROJECT_BREAD_AND_CIRCUSES_NAME">
+			<Text>Ekmek ve Sirkler</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_PROJECT_BREAD_AND_CIRCUSES_SHORT_NAME">
-			<Text>Leipää ja sirkushuveja</Text>
+		<Replace Language="pl_PL" Tag="LOC_PROJECT_BREAD_AND_CIRCUSES_SHORT_NAME">
+			<Text>Ekmek ve Sirkler</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_PROJECT_WATER_BREAD_AND_CIRCUSES_SHORT_NAME">
-			<Text>Leipää ja sirkushuveja (rannikon)</Text>
+		<Replace Language="pl_PL" Tag="LOC_PROJECT_WATER_BREAD_AND_CIRCUSES_SHORT_NAME">
+			<Text>Ekmek ve Sirkler (kıyı)</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_PROJECT_BREAD_AND_CIRCUSES_DESCRIPTION">
-			<Text>Kaupungin projekti, joka kasvattaa uskollisuuden painetta tähän ja ympäröiviin kaupunkeihin.[NEWLINE][NEWLINE]Ollessaan käynnissä kukin [ICON_Citizen] asukkaamme aiheuttaa +0,5 uskollisuuspainetta tälle kaupungille. Tämä paine vaikuttaa myös muihin kaupunkeihin yhdeksän ruudun säteellä, mutta on vaikutukseltaan 10% heikompi per ruudun etäisyys. Valmistuessa saamme +20 uskollisuutta tähän kaupunkiin.[NEWLINE][NEWLINE]Vaatii viihdekompleksin tai vesipuiston.</Text>
+		<Replace Language="pl_PL" Tag="LOC_PROJECT_BREAD_AND_CIRCUSES_DESCRIPTION">
+			<Text>Şehir projesi, bu ve çevredeki şehirlere sadakat baskısını artırır.[NEWLINE][NEWLINE]Çalışırken her [ICON_Citizen] vatandaşımız bu şehre +0,5 sadakat baskısı yapar. Bu baskı, dokuz karelik bir yarıçap içinde diğer şehirlere de etki eder, ancak her kare mesafede %10 daha zayıf olur. Tamamlandığında bu şehre +20 sadakat sağlar.[NEWLINE][NEWLINE]Eğlence kompleksi veya su parkı gerektirir.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_PROJECT_BREAD_AND_CIRCUSES_DESCRIPTION_ALT">
-			<Text>Kaupungin projekti, joka kasvattaa uskollisuuden painetta tähän ja ympäröiviin kaupunkeihin.[NEWLINE][NEWLINE]Ollessaan käynnissä kukin [ICON_Citizen] asukkaamme aiheuttaa +1 uskollisuuspainetta tälle kaupungille. Tämä paine vaikuttaa myös muihin kaupunkeihin yhdeksän ruudun säteellä, mutta on vaikutukseltaan 10% heikompi per ruudun etäisyys. Valmistuessa saamme +20 uskollisuutta tähän kaupunkiin.[NEWLINE][NEWLINE]Vaatii viihdekompleksin tai vesipuiston.</Text>
+		<Replace Language="pl_PL" Tag="LOC_PROJECT_BREAD_AND_CIRCUSES_DESCRIPTION_ALT">
+			<Text>Şehir projesi, bu ve çevredeki şehirlere sadakat baskısını artırır.[NEWLINE][NEWLINE]Çalışırken her [ICON_Citizen] vatandaşımız bu şehre +1 sadakat baskısı yapar. Bu baskı, dokuz karelik bir yarıçap içinde diğer şehirlere de etki eder, ancak her kare mesafede %10 daha zayıf olur. Tamamlandığında bu şehre +20 sadakat sağlar.[NEWLINE][NEWLINE]Eğlence kompleksi veya su parkı gerektirir.</Text>
 		</Replace>
 		<!-- Updates to base game Districts -->
-		<Replace Language="en_US" Tag="LOC_DISTRICT_ENTERTAINMENT_COMPLEX_DESCRIPTION">
-			<Text>Väen iloisena pitävä kaupunkialue, joka kasvattaa [ICON_Amenities] elintasoa. Ei voi rakentaa kaupunkiin, jossa on vesipuisto.</Text>
+		<Replace Language="pl_PL" Tag="LOC_DISTRICT_ENTERTAINMENT_COMPLEX_DESCRIPTION">
+			<Text>Halkı mutlu eden bir şehir bölgesi, [ICON_Amenities] yaşam standartlarını artırır. Su parkı olan bir şehre inşa edilemez.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_DISTRICT_STREET_CARNIVAL_DESCRIPTION">
-			<Text>Brasilian oma kaupunkialue. Korvaa viihdekompleksin ja tarjoaa +2 [ICON_Amenities] elintasoa ollen myös edullisempi rakentaa. Ei voida rakentaa Copacabanan sisältävään kaupunkiin. Mahdollistaa myös karnevaaliprojektin, joka tarjoaa +1 [ICON_Amenities] elintasoa ollessaan käynnissä ja lukuisia erilaisia [ICON_GreatPerson] merkittävien henkilöiden pisteitä päättyessään.</Text>
+		<Replace Language="pl_PL" Tag="LOC_DISTRICT_STREET_CARNIVAL_DESCRIPTION">
+			<Text>Brezilya'ya özgü bir şehir bölgesi. Eğlence kompleksinin yerini alır ve +2 [ICON_Amenities] yaşam standartları sağlar, ayrıca inşa edilmesi daha ucuzdur. Copacabana içeren bir şehre inşa edilemez. Ayrıca, çalışırken +1 [ICON_Amenities] yaşam standartları sağlayan ve tamamlandığında çeşitli [ICON_GreatPerson] büyük kişilik puanları veren karnaval projesini de mümkün kılar.</Text>
 		</Replace>
 	</LocalizedText>
 </GameData>
